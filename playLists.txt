@@ -14,6 +14,7 @@
 {"url": "http://pastebin.com/raw.php?i=X62bLf4n", "name": "other SPORTS  "},
 {"url": "http://pastebin.com/raw.php?i=3ypU8xTq", "name": "Husham ArabicList  "}, 
 {"url": "http://pastebin.com/raw.php?i=Jm4LM9M0", "name": "Damir Krličević "},
+{"url": "http://pastebin.com/2p1GMkhU, "name": "Peter Forster "}
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]------------ The Robin Hood List -------------------------[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]We Share and Learn[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]Join the fastest growing community for IPTV List/COLOR]"},
