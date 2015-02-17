@@ -17,9 +17,10 @@
 {"url": "http://pastebin.com/2p1GMkhU", "name": "Peter Forster "},
 {"url": "http://bit.ly/NFSFanKodi", "name": " NFSFan List "},
 {"url": "http://file.xbmcmxtv.com/super.m3u", "name": " iptvxbmc.com List "},
+{"url": "http://bit.ly/cplombia-y-hd", "name": " colombia-y-hd "},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]------------ The Robin Hood List -------------------------[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]We Share and Learn[/COLOR]"},
-{"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]Join the fastest growing community for IPTV List/COLOR]"},
+{"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]Join the fastest growing community for IPTV List[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]Contact us on Facebook[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]Visit us on our facebook page[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]----------------------------------------------------------[/COLOR]"}
