@@ -16,7 +16,7 @@
 {"url": "http://pastebin.com/raw.php?i=Jm4LM9M0", "name": "Damir Krličević "},
 {"url": "http://pastebin.com/2p1GMkhU", "name": "Peter Forster "},
 {"url": "http://bit.ly/NFSFanKodi", "name": " NFSFan List "},
-{"url": "http://file.xbmcmxtv.com/super.m3u", "name": " iptvxbmc.com List "},
+{"url": "http://file.xbmcmxtv.com/super1.m3u", "name": " iptvxbmc.com List "},
 {"url": "http://bit.ly/cplombia-y-hd", "name": " colombia-y-hd "},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]------------ The Robin Hood List -------------------------[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]We Share and Learn[/COLOR]"},
