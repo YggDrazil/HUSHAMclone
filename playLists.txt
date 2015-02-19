@@ -8,7 +8,7 @@
 {"url": "http://bit.ly/listchannelstns", "name": "Thanasis Athanasopoulos"},
 {"url": "http://pastebin.com/raw.php?i=D3D7rJGt", "name": "Teddy Bad Boy List [COLOR yellow](World TV)[/COLOR]"},
 {"url": "http://xmltvguide.info/epg/iptv.m3u", "name": "Adam Mcdonald List [COLOR yellow](World TV)[/COLOR]"},
-{"url": "http://pastebin.com/raw.php?i=7T2qCAm8", "name": "Deon Wallace List"},
+{"url": "http://pastebin.com/raw.php?i=7T2qCAm8", "name": "Deon Wallace List [COLOR yellow](World TV)[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=0JzxyYW0", "name": "Husham UK List [COLOR yellow](UK)[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "Husham Sport [COLOR yellow](World Sports)[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=X62bLf4n", "name": "other SPORTS [COLOR yellow](World Sports)[/COLOR]"},
