@@ -17,7 +17,7 @@
 {"url": "http://pastebin.com/2p1GMkhU", "name": "Peter Forster "},
 {"url": "http://bit.ly/NFSFanKodi", "name": " NFSFan List "},
 {"url": "http://file.xbmcmxtv.com/super1.m3u", "name": " iptvxbmc.com List "},
-{"url": "http://bit.ly/uk_adult_chat_streams", "name": "  HEXiT [COLOR red] Strictly Adult Only[/COLOR]   "},
+{"url": "http://bit.ly/uk_adult_chat_streams", "name": " HEXiT [COLOR red] Strictly Adult Only[/COLOR] "},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]------------ The Robin Hood List -------------------------[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]We Share and Learn[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]Join the fastest growing community for IPTV List[/COLOR]"},
