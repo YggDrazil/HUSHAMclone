@@ -14,7 +14,7 @@
 {"url": "http://pastebin.com/raw.php?i=X62bLf4n", "name": "other SPORTS"},
 {"url": "http://pastebin.com/raw.php?i=3ypU8xTq", "name": "Husham Arabic List [COLOR yellow](Arabic)[/COLOR]"}, 
 {"url": "http://pastebin.com/raw.php?i=Jm4LM9M0", "name": "Damir Krličević"},
-{"url": "http://pastebin.com/2p1GMkhU", "name": "Peter Forster"},
+{"url": "http://pastebin.com/2p1GMkhU", "name": "Peter Forster [COLOR yellow](UK)[/COLOR]"},
 {"url": "http://bit.ly/NFSFanKodi", "name": "NFSFan List"},
 {"url": "http://blt.ly/kizzer312", "name": "Little Lisa List"},
 {"url": "http://file.xbmcmxtv.com/super1.m3u", "name": " iptvxbmc.com List"},
