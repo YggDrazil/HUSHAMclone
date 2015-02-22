@@ -16,6 +16,7 @@
 {"url": "http://pastebin.com/raw.php?i=Jm4LM9M0", "name": "Damir Krličević"},
 {"url": "http://pastebin.com/2p1GMkhU", "name": "Peter Forster [COLOR yellow](UK)[/COLOR]"},
 {"url": "http://bit.ly/NFSFanKodi", "name": "NFSFan List [COLOR yellow](World TV)[/COLOR]"},
+{"url": "http://pastebin.com/XSL4yA8m", "name": "Raul Delgado List [COLOR yellow](UK/Spanish)[/COLOR]"},
 {"url": "http://bit.ly/1A6ZPpD", "name": "Idriss Yepmou List [COLOR yellow](World TV)[/COLOR]"},
 {"url": "http://dl.dropboxusercontent.com/s/47slv27myfw7ooh/Little%20Lisa%20Films.m3u?dl=0", "name": "Little Lisa List[COLOR yellow](Film'S)[/COLOR] "},
 {"url": "http://file.xbmcmxtv.com/super1.m3u", "name": " iptvxbmcf.com List"},
