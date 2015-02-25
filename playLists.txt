@@ -4,7 +4,7 @@
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]Visit us on our Facebook page[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]IPTV M3U Lists and Sharing[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "[COLOR yellow]https://www.facebook.com/groups/Iptv.m3u.Sharing[/COLOR]"},
-{"url": "http://pastebin.com/raw.php?i=exUzLZzx", "name": "Kybo 1.0 List [COLOR yellow](UK)[/COLOR]"},
+{"url": "http://pastebin.com/raw.php?i=exUzLZzx", "name": "Kybo List [COLOR yellow](UK)[/COLOR]"},
 {"url": "http://is.gd/moneysportsaplus", "name": " Money Sports List [COLOR yellow](World Sports)[/COLOR]"},
 {"url": "http://is.gd/moneytest", "name": " Money Sports New [COLOR yellow](World Sports)[/COLOR]"},
 {"url": "http://bit.ly/listchannelstns", "name": "Thanasis Athanasopoulos"},
