@@ -13,7 +13,6 @@
 {"url": "http://pastebin.com/raw.php?i=0JzxyYW0", "name": "Husham UK List [COLOR yellow](UK)[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "Husham Sport [COLOR yellow](World Sports)[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=wFikw5Ez", "name": "Husham USA Live TV [COLOR yellow](USA Links)[/COLOR]"},
-{"url": "http://pastebin.com/raw.php?i=X62bLf4n", "name": "other SPORTS [COLOR yellow](World Sports)[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=3ypU8xTq", "name": "Husham Arabic List [COLOR yellow](Arabic)[/COLOR]"}, 
 {"url": "http://pastebin.com/raw.php?i=Jm4LM9M0", "name": "Damir Krličević"},
 {"url": "http://pastebin.com/2p1GMkhU", "name": "Pedroukukuk [COLOR yellow](UK)[/COLOR]"},
