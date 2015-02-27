@@ -16,7 +16,6 @@
 {"url": "http://pastebin.com/raw.php?i=wFikw5Ez", "name": "Husham USA Live TV [COLOR yellow](USA Links)[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=3ypU8xTq", "name": "Husham Arabic List [COLOR yellow](Arabic)[/COLOR]"}, 
 {"url": "http://pastebin.com/raw.php?i=Jm4LM9M0", "name": "Damir Krličević"},
-{"url": "http://pastebin.com/raw.php?i=EVnvkniP", "name": "AA somthing [COLOR yellow](99% Dead Links)[/COLOR]"},
 {"url": "http://pastebin.com/2p1GMkhU", "name": "Pedroukukuk [COLOR yellow](UK)[/COLOR]"},
 {"url": "http://bit.ly/NFSFanKodi", "name": "NFSFan List [COLOR yellow](World TV)[/COLOR]"},
 {"url": "http://pastebin.com/XSL4yA8m", "name": "Raul Delgado List [COLOR yellow](UK/Spanish)[/COLOR]"},
