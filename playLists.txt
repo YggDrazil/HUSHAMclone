@@ -12,7 +12,7 @@
 {"url": "http://xmltvguide.info/epg/iptv.m3u", "name": "Adam Mcdonald List [COLOR yellow](World TV)[/COLOR]"},
 {"url": "http://pastebin.com/7T2qCAm8", "name": "Deon Wallace List [COLOR yellow](World TV)[/COLOR]"},
 {"url": "https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/uk-english.txt", "name": "Husham UK List [COLOR yellow](UK)[/COLOR]"},
-{"url": "http://pastebin.com/raw.php?i=Am5y33WH", "name": "Husham Sport [COLOR yellow](World Sports)[/COLOR]"},
+{"url": "https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/allsports.txt", "name": "Husham Sport [COLOR yellow](World Sports)[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=wFikw5Ez", "name": "Husham USA Live TV [COLOR yellow](USA Links)[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=3ypU8xTq", "name": "Husham Arabic List [COLOR yellow](Arabic)[/COLOR]"}, 
 {"url": "https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/Bengali.txt", "name": "Husham Bengali Live TV[COLOR yellow](Bengali)[/COLOR]"},
