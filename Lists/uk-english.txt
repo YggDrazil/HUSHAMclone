@@ -1,0 +1,123 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]Updated 27/02/2015 @ 01:32 [/COLOR]  
+http://www.youtube.com/user/hmemar22
+
+#EXTINF:-1, [COLOR green] --Uk Live Tv--[/COLOR]  
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR green] --Free Collection of IPTV sports links--[/COLOR]  
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
+http://www.youtube.com/user/hmemar22
+
+#EXTINF:-1, Sky sports news 	
+http://198.27.94.105/hls/skysportsnews_1.m3u8
+#EXTINF:-1, Bt sports 1
+http://198.27.94.105/hls/bt1_1.m3u8
+#EXTINF:-1, Bt sports 2
+http://198.27.94.105/hls/bt2_1.m3u8
+#EXTINF:-1, Sky sports 1
+http://198.27.94.105/hls/skysports1_1.m3u8
+#EXTINF:-1, Sky sports 2
+http://198.27.94.105/hls/skysports2_1.m3u8
+#EXTINF:-1, Sky sports 3
+http://198.27.94.105/hls/skysports3_1.m3u8
+#EXTINF:-1, Sky sports 4
+http://198.27.94.105/hls/skysports4_1.m3u8
+#EXTINF:-1, Sky sports 5
+rtmpe://46.246.29.160:1935/l playpath=sskys5 swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1, Sky sports f1
+rtmpe://46.246.29.160:1935/l playpath=sskysf1 swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
+#EXTINF:-1, Sky 1 [COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, Sky 2[COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, Sky news
+http://37.48.118.32/live/skynews.stream/playlist.m3u8
+
+#EXTINF:-1, Sky movies action [COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, Sky movie premiere[COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, Sky comedy [COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, Sky Movies Drama[COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, Sky Movies Family
+http://stream:user@46.255.145.14:3333/udp/224.255.1.13:10000
+
+#EXTINF:-1, BBC news
+http://37.48.118.32/live/bbcnews.stream/playlist.m3u8
+#EXTINF:-1, CNN
+http://37.48.118.32/live/cnn.stream/playlist.m3u8
+
+#EXTINF:-1, BBC1
+http://37.48.118.32/live/bbc110.stream/playlist.m3u8
+#EXTINF:-1, BBC2
+http://37.48.118.32/live/bbc20.stream/playlist.m3u8
+#EXTINF:-1, BBC3
+http://198.179.30.109/live/113.low.stream/playlist.m3u8?id=0ad5aac39bb13fbecae3e5c631294eb40dca1512f05ffa6174cd69f48283fa9008aef4b44d151405a16d74340cbf0bcce94f3159d53bac2e2c3e344d5f132a46d5e26798c0ae31ad493007e48e295b68435a4287e0610da8f30e7bf747d11e7c7376e3538bb5cd74db5a39ff22371beea95db51e8e49e6ddcd8279c06fa6bf0c9a1dab09b13cf0b0698a4a3c81174d48ff981a06b9c5bdea
+#EXTINF:-1, BBC4
+http://198.179.30.109/live/103.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeae5a04e5452f502f3968eb9ad4c16055d9ab0cf5b9d719e5213359abf476677823eefc2454a1f2157f05aa86893904e6d68c432c6804c6bb9c11f90f7f550bb2a6612099aa0665eb2066df1ee553087d20ebc560882208d4df35572a39f8074e944236c8c5432bf713cda9ce24e4ac161465ad9f2b5f9935a25801ef857d4e736256f6f2f6839dc3537eb2aa579840be
+#EXTINF:-1, ITV1
+http://37.48.118.32/live/itv110.stream/playlist.m3u8
+#EXTINF:-1, ITV2
+http://198.179.30.108/live/67.low.stream/playlist.m3u8?id=0ad5aac39bb13fbed236a7a02232b573d5de6fa4de626771f6dd56c5107b9502ef1100fcf5546b8440d3644cc080dfd2b37d69849e6e34383f26549f13c90515fccb393e5164fef950f41e6ebf352b437988183d9690f368910656698fc25196ca2a591ecb02910f8180c98f372a283dcb1a044c50355abd5d322ba4c3029281ef972377c9bc9b1888af662a56a95f19f92aafed65bf43b5
+#EXTINF:-1, ITV2+1
+http://198.179.30.110/live/1820.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe84a0052c0d3802be52586c4c16259bd4671460519ba02b6bc32f655c72a98e51c8c5822c11210a557018df9704916e204c7c48792d3e6213d3cd7fcfb0e3dfcf52836e400bb2760aeea4cfd69314bb3572f85e948706ac02bca5cb71d07b28895954e81b8387d6aacc163aedcc64703f22fd30d1adf15264ce82c989121c6465c3dd41e41c9fed49bdb0a2218b2be241
+#EXTINF:-1, ITV3
+http://198.179.30.108/live/26.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeb1ee82d55d97692ddcd1a9f9e305cd507fcc4480454b1794b2b18f7d143c55b20388badfab4d07172ce93291c8addd034866146f67129486a4cbf2ddaad6652b70c6f6d22f592f3f30f6f3d63f862c993f08e25a511f9e10c0b670e7d007e4befb54311200f4cef3aed2767bc2beb7ebb4e1c389f92c0de20b57a0d5da6516b714badfd8007c0b593fe4f64ddd26b1ca
+#EXTINF:-1, ITV3+1
+http://198.179.30.110/live/1823.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe68bb66c3951a4f54abfb21b62d047c350a9c34fe1baad16723aae0b413b49435c46f64a06d9f0bc6dd875ff858ea1e01c3c8b04be48a732179de6adc4f8cf48ab0375290b9eb1d919dc303976c03ed5ab583579bbe696b41ea1b7b53f22e52be2665f387ed3f6345380eeb5afede1ca2790ceb26bb56dcc18610f7c4274ad7a6a000b6e7960fbf1d8b185d197848d0ae
+#EXTINF:-1, ITV4
+http://198.179.30.108/live/101.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe827dac587db54dec944890d334ed757951e8b61345e4ac55110b3ee87a053a7c2675797dac9ced341cbee74c5f6f5c3222f98cfcf48a67f451ed0744b163c056128e9b80e79bf66a93ecb0d3da0cdce7ffa87b1cd94f3d3e85e7a7fd29524e70b6b9d3bf962b09d26e0c1721b090094fce379ce1f49f4f6be340d4f479ef1b89080a6e6c70c376841ff6e25615a22116
+#EXTINF:-1, ITV4+1
+http://198.179.30.110/live/1826.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe1ca2c0c9a47547e2c14687836ef6ace1d7c2ae7ea8f75e6f387b28b3a14e44d87b3aacc0c6823e1b5a5377f64462e8096d04c2c4058eabe7d5f06ea96a67d460b67d3641e2f6cd1d2a4684e31a4a473091a64a8935a0a615c1ed3b1064f1ff96fcd2f64eab08c708ab1227f3819f3d70de3b8b0edcd0c6447db2b265cd63489cc880a054afd90ea5972bb3bdea99b4cd
+#EXTINF:-1, Channel 4
+http://198.179.30.108/live/2.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5c28bc3b8eca4a8a9891e34065c74ba20ee8332ce5c3f6fe6a53632f8b7e0c4e74fd9ba8810b7b23e7053a1421dd133b0ef7d702b700b9aa831af3e89dc0f729483b15bcc89b9b628b29c311d96d03136306f28b4763f4f6961f55127e2cd9ef014c1890854ac76edb2453100cad13a04df56d3703cf1dbb54350c018d900ee7c13d9fcf51b519711a08fc3cbaf51673
+#EXTINF:-1, E4
+http://live8.gv.edge.filmon.com/live/65.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe7b565322e60783f96ad85f18b634641fee3f08139030f14fcca1403a0b75feada12b07a3872de2efcb380b6ba7aee7ade8f0f89d00717c5c39475368f54c56aa69daa9929f856bae9a77a1b3ebf46d87687f2fb55a8c58581f4940b9ce3bb38c31864a9870838b7fe7bd87650a6d280bf77c053843fb75392aa77c3068b9172f06a8c7a7312bdb3422516d26c4c027e5
+#EXTINF:-1, Film 4
+http://37.48.118.32/live/film4.stream/playlist.m3u8
+#EXTINF:-1, Five
+http://198.179.30.108/live/22.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe5609b1c331051bc46aa019ba8fde29d805a42e3632449b16c00c3f9d26fadc1c744890050fa373a2084df3b38c2646ea4c6efe171b4ae4cb85489d81b01c5385e361d5adc725e0390032bbc52731697c3ed18742fcd102679fa41f4ed69310696fd893cb6339f582e9145e663d95d1fc4f8231d1eb26ce9ab7b2220a438edffbc0b007722c1f8a55c6ee164c608fc866
+#EXTINF:-1, 5 usa
+http://37.48.118.32/live/5usa.stream/playlist.m3u8
+#EXTINF:-1, Nickelodeon
+http://37.48.118.32/live/nick.stream/playlist.m3u8
+#EXTINF:-1, Cartoon network
+http://198.27.94.105/hls/cartoon_1.m3u8
+#EXTINF:-1, Sky boxnation
+rtmpe://46.246.29.160:1935/l swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/embedlive4.php?u=sskys3&vw=650&vh=470&domain=cricbox.tv/amine1313dz token=Fo5_n0w?U.rA6l3-70w47ch playpath=sboxn
+#EXTINF:-1, Disney channel
+http://213.250.19.50/disneychannel/disneychannel.isml/disneychannel-video=2500000-audio101=128000.m3u8
+#EXTINF:-1, DISNEY XD [COLOR red]link_down[/COLOR]
+http://213.250.19.50/disneyxd/disneyxd.isml/disneyxd-video=2500000-audio101=128000.m3u8
+#EXTINF:-1, Animal planet
+http://37.48.118.32/live/animal.stream/playlist.m3u8
+#EXTINF:-1, Sky arts 1
+http://37.48.118.32/live/skyarts1.stream/playlist.m3u8
+#EXTINF:-1, Sky arts 2
+http://37.48.118.32/live/skyarts2.stream/playlist.m3u8
+#EXTINF:-1, Sky scifi[COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, British eurosports 1
+http://37.48.118.32/live/eurosport110.stream/playlist.m3u8
+#EXTINF:-1, British eurosport 2
+http://37.48.118.32/live/eurosport22.stream/playlist.m3u8
+#EXTINF:-1, CNBC
+http://37.48.118.32/live/cnbc.stream/playlist.m3u8
+#EXTINF:-1, MTV ( Not English)
+http://live.oneplay.tv/reproducir/441.m3u8
+#EXTINF:-1, Quest
+http://37.48.118.32/live/quest.stream/playlist.m3u8
+#EXTINF:-1, Discovery History
+http://37.48.118.32/live/discoveryh.stream/playlist.m3u8
+#EXTINF:-1, Discovery Science[COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, National Geographic Channel[COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, Comedy central [COLOR red]link_down[/COLOR]
+#
