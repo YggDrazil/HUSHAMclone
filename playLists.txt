@@ -8,7 +8,7 @@
 {"url": "http://is.gd/moneysportsaplus", "name": " Money Sports List [COLOR yellow](World Sports)[/COLOR]"},
 {"url": "http://is.gd/footballreplaysmoneysports", "name": " Money Sports replays List [COLOR yellow](Replays)[/COLOR]"},
 {"url": "http://bit.ly/mattsradiolist", "name": "Matthew Shotton [COLOR yellow][/COLOR]"},
-{"url": "www.krazyanna.com/PL/polskie.m3u", "name": "Anna Wołodkowicz [COLOR yellow](Polish TV)[/COLOR]"},
+{"url": "http://www.krazyanna.com/PL/polskie.m3u", "name": "krazyanna [COLOR yellow](Polish TV)[/COLOR]"},
 {"url": "http://bit.ly/listchannelstns", "name": "Thanasis Athanasopoulos"},
 {"url": "http://pastebin.com/raw.php?i=D3D7rJGt", "name": "Teddy Bad Boy List [COLOR yellow](World TV)[/COLOR]"},
 {"url": "http://xmltvguide.info/epg/iptv.m3u", "name": "Adam Mcdonald List [COLOR yellow](World TV)[/COLOR]"},
