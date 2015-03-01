@@ -71,6 +71,9 @@ http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8
 #EXTINF:-1,ESPN Link 2
 http://37.48.118.32/live/esnp22.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8yNC8yMDE1IDI6MjY6MzQgQU0maGFzaF92YWx1ZT1KaVVUM1lhUXh4cE9VTlhRZXdma0pRPT0mdmFsaWRtaW51dGVzPTIw?husham.com
 
+#EXTINF:-1 , TSN
+http://198.27.94.105/hls/tsnn1_1.m3u8
+
 #EXTINF:-1 , At the races
 http://198.27.94.105/hls/atr.m3u8?husham.com
 
