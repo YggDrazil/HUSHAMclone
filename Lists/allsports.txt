@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 28/02/2015 @ 04:52 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 01/03/2015 @ 04:30 [/COLOR]  
 http://www.youtube.com/user/hmemar22
 
 #EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
@@ -17,19 +17,27 @@ http://www.youtube.com/user/hmemar22
 #EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
 http://www.youtube.com/user/hmemar22
 
-#EXTINF:-1, Sky sports news 	
+#EXTINF:-1, Sky sports news
 http://198.27.94.105/hls/skysportsnews_1.m3u8
 #EXTINF:-1, Bt sports 1
 http://198.27.94.105/hls/bt1_1.m3u8
 #EXTINF:-1, Bt sports 2
 http://198.27.94.105/hls/bt2_1.m3u8
-#EXTINF:-1, Sky sports 1
-http://78.129.179.33:1935/edge/342/playlist.m3u8?token&bid=12&pid=5&uid=250668&did=4f7b236fb7362bb13b91a099ba65374e&g=1&gm=1&platform=3
+#EXTINF:-1, Sky sports 1 ( Link 1 )
+http://167.114.41.200:8080/skysp11S/SKkyp1/index.m3u8
+#EXTINF:-1, Sky sports 1 (Link 2)
+http://198.27.94.105/hls/skysports1_1.m3u8
 #EXTINF:-1, Sky sports 2
+http://85.25.246.141:8081/SkySport2HD/playlist.m3u8
+#EXTINF:-1, Sky sports 2 ( Link 2 )
 http://198.27.94.105/hls/skysports2_1.m3u8
 #EXTINF:-1, Sky sports 3
-http://78.129.179.33:1935/edge/70/playlist.m3u8?token&bid=12&pid=5&uid=250668&did=4f7b236fb7362bb13b91a099ba65374e&g=1&gm=1&platform=3
+http://85.25.246.141:8081/Sports/SkySport3/playlist.m3u8
+#EXTINF:-1, Sky sports 3 ( Link 2 )
+http://198.27.94.105/hls/skysports3_1.m3u8
 #EXTINF:-1, Sky sports 4
+http://85.25.246.141:8081/Sports/SkySports4/playlist.m3u8
+#EXTINF:-1, Sky sports 4 ( Link 2 )
 http://198.27.94.105/hls/skysports4_1.m3u8
 #EXTINF:-1, Sky sports 5
 rtmpe://46.246.29.160:1935/l playpath=sskys5 swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
