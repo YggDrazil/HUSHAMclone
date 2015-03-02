@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 02/03/2015 @ 10:00 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 02/03/2015 @ 19:40 [/COLOR]  
 http://www.youtube.com/user/hmemar22
 
 #EXTINF:-1, [COLOR green] --Uk Live Tv--[/COLOR]  
@@ -12,14 +12,14 @@ http://www.youtube.com/user/hmemar22
 #EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
 http://www.youtube.com/user/hmemar22
 
-#EXTINF:-1, Sky sports news[COLOR red]link_down[/COLOR]
-http://198.27.94.105/hls/skysportsnews_1.m3u8
+#EXTINF:-1, Sky sports news
+rtmp://80.82.78.87:443/liverepeater playpath=35 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=35&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1, Bt sports 1[COLOR red]link_down[/COLOR]
-http://198.27.94.105/hls/bt1_1.m3u8
-#EXTINF:-1, Bt sports 2[COLOR red]link_down[/COLOR]
-#
-#EXTINF:-1, Sky sports 1[COLOR red]link_down[/COLOR]
-http://85.25.246.141:8081/Sports/SkySport1/playlist.m3u8
+rtmp://89.248.172.159:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=13&width=600&height=450 token=#atd%#$ZH
+#EXTINF:-1, Bt sports 2
+rtmp://80.82.65.59:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=600&height=450 token=#atd%#$ZH
+#EXTINF:-1, Sky sports 1
+rtmp://80.82.78.39:443/liverepeater playpath=40 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=40&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1, Sky sports 2
 http://85.25.246.141:8081/SkySport2HD/playlist.m3u8
 #EXTINF:-1, Sky sports 3
