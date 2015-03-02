@@ -16,7 +16,7 @@
 {"url": "http://pastebin.com/7T2qCAm8", "name": "Deon Wallace List [COLOR yellow](World TV)[/COLOR]"},
 {"url": "https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/uk-english.m3u", "name": "Husham UK List [COLOR yellow](UK)[/COLOR]"},
 {"url": "https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/allsports.m3u", "name": "Husham Sport [COLOR yellow](World Sports)[/COLOR]"},
-{"url": "http://pastebin.com/raw.php?i=wFikw5Ez", "name": "Husham USA Live TV [COLOR yellow](USA Links)[/COLOR]"},
+{"url": "https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/usalive.m3u", "name": "Husham USA Live TV [COLOR yellow](USA Links)[/COLOR]"},
 {"url": "http://pastebin.com/raw.php?i=3ypU8xTq", "name": "Husham Arabic List [COLOR yellow](Arabic)[/COLOR]"}, 
 {"url": "https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/Bengali.txt", "name": "Husham Bengali Live TV[COLOR yellow](Bengali)[/COLOR]"},
 {"url": "https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/hindi.m3u", "name": "Husham Hindi Live TV[COLOR yellow](Hindi)[/COLOR]"},
