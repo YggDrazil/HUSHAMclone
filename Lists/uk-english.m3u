@@ -30,30 +30,12 @@ http://198.27.94.105/hls/skysports4_1.m3u8
 #
 #EXTINF:-1, Sky sports f1
 rtmpe://46.246.29.160:1935/l playpath=sskysf1 swfUrl=http://hdcast.org/eplayer.swf live=1 pageUrl=http://www.hdcast.org/ token=Fo5_n0w?U.rA6l3-70w47ch
-#EXTINF:-1, Sky boxnation[COLOR red]link_down[/COLOR]
-#
-#EXTINF:-1, Sky 1 [COLOR red]link_down[/COLOR]
-#
-#EXTINF:-1, Sky 2[COLOR red]link_down[/COLOR]
-#
-#EXTINF:-1, Sky news[COLOR red]link_down[/COLOR]
-#
-#EXTINF:-1, Sky movies action [COLOR red]link_down[/COLOR]
-#
-#EXTINF:-1, Sky movie premiere[COLOR red]link_down[/COLOR]
-#
-#EXTINF:-1, Sky comedy [COLOR red]link_down[/COLOR]
-#
-#EXTINF:-1, Sky Movies Drama[COLOR red]link_down[/COLOR]
-#
-#EXTINF:-1, Sky Movies Family[COLOR red]link_down[/COLOR]
-#
 #EXTINF:-1, BBC news
 http://live304.edge.filmon.com/live/27.low.stream/playlist.m3u8?id=0ad5aac39bb13fbee136ef8aa0510d0d62e3cce2d9752194a33c6e2ed6e417ba387ba1b3702539f2f6e4dc338e8f31886f4557752b8e6070bd0ca52439cd58ee8ce03fe78a90d793a986300ad1e044bbf879298a1707e069093b21a3bd0575682e6ea894b4c8ac7822144036af337134bf734c0d41feb21cb2446f63199a97a7bf7db268d066988453059e5ef98a9a1f408c756c84979afd
+#EXTINF:-1, sky news
+http://ipm.iphone-tv.eu:1345/Live/Auth:8b5004949b925c239ba9b1e7c4c7a967462156cb6f7771e68f9a62d942e4b960/Channel:skynewsint/playlist.m3u8
 #EXTINF:-1, CNN
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
-
-
 #EXTINF:-1, BBC1
 http://198.179.30.109/live/14.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe22810ef03f4ffbbc0a02f8d2085729a2d812b1e4eb8ff42b893e19147f47e0836a0d0be0596a93eeaa8537d87aa411cc139fdade723ee12872afc2600a9b7aebb5c252a097c8455ed16e57990250ad6623cbf6c66538a6c4166cc435bcc913b98d99a5ec962b15f9a5decb98456426cd29815d61ba1b07c3bb9a5f62c696a483b6ce61335e1f97ce0a41d590f51181ac
 #EXTINF:-1, BBC2
@@ -88,12 +70,36 @@ http://198.179.30.108/live/13.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef3aebf
 http://198.179.30.108/live/22.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef0fa914740a04ba23dfaad8c3a4d51e7f831432c2926ba993b91ac6e6e28e9211a68ae38d45791c389eb4f114620500dc4d7850ab048e887622d70ff997c5b50d64890c94342a339bdd27899063607a4063dae83b8b68a1c7414f5bf0a9a5c34f0368a6d6201fe0e6308281a5a4e12ee6caf21bf765af2fb9f3de8202b134e13d009ef8d1f9d9cbd4639f9f0a5bee884
 #EXTINF:-1, 5 usa
 http://198.179.30.110/live/845.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2e75caa7a54568071544f49edcd660004c481c14d4283bae6f05f3d2a57d9e0a7e9b7a2c4daface22ee22a3edd9ce333696d0e3162119872d5167bb344870784882776138e6f0fb2dbdc07f95a0b511b16dcaac933772347783ab445cfe154a3c253c660657e900b0564f20a845db0d727ca56c94a6f71b5b86702ce1617c965deb64948a11177fd0ef893698b60ac54
-#EXTINF:-1, Nickelodeon[COLOR red]link_down[/COLOR]
-#
 #EXTINF:-1, Cartoon network
 http://198.27.94.105/hls/cartoon_1.m3u8
 #EXTINF:-1, Disney channel
 http://213.250.19.50/disneychannel/disneychannel.isml/disneychannel-video=2500000-audio101=128000.m3u8
+#EXTINF:-1, British eurosports 1
+http://213.250.19.50/eurosport/eurosport.isml/eurosport-video=2500000-audio101=128000.m3u8
+#EXTINF:-1, British eurosport 2
+http://213.250.19.50/eurosport2/eurosport2.isml/eurosport2-video=2500000-audio101=128000.m3u8
+#EXTINF:-1, CNBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1, Nickelodeon[COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, Sky boxnation[COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, Sky 1 [COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, Sky 2[COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, Sky news[COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, Sky movies action [COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, Sky movie premiere[COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, Sky comedy [COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, Sky Movies Drama[COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1, Sky Movies Family[COLOR red]link_down[/COLOR]
+#
 #EXTINF:-1, DISNEY XD [COLOR red]link_down[/COLOR]
 #
 #EXTINF:-1, Animal planet[COLOR red]link_down[/COLOR]
@@ -104,12 +110,6 @@ http://213.250.19.50/disneychannel/disneychannel.isml/disneychannel-video=250000
 #
 #EXTINF:-1, Sky scifi[COLOR red]link_down[/COLOR]
 #
-#EXTINF:-1, British eurosports 1
-http://213.250.19.50/eurosport/eurosport.isml/eurosport-video=2500000-audio101=128000.m3u8
-#EXTINF:-1, British eurosport 2
-http://213.250.19.50/eurosport2/eurosport2.isml/eurosport2-video=2500000-audio101=128000.m3u8
-#EXTINF:-1, CNBC
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
 #EXTINF:-1, MTV [COLOR red]link_down[/COLOR]
 #
 #EXTINF:-1, Quest[COLOR red]link_down[/COLOR]
