@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 02/03/2015 @ 18:45 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 02/03/2015 @ 21:51 [/COLOR]  
 http://www.youtube.com/user/hmemar22
 
 #EXTINF:-1, [COLOR green] --USA Live Tv--[/COLOR]  
@@ -41,39 +41,34 @@ http://198.179.31.196/live/1727.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef3ee
 #EXTINF:-1,Mission TV
 rtmp://streamer1.streamhost.org/salive/GMImissiontvh
 
-#EXTINF:-1,PAC National 1280*720
-http://xrxs.net/video/live-p12netw-2328.m3u8
-#EXTINF:-1,PAC National 640*360
-http://xrxs.net/video/live-p12netw-1164.m3u8
-#EXTINF:-1,PAC-12 Net. (Arizona) 1280*720
-http://xrxs.net/video/live-p12ariz-2328.m3u8
-#EXTINF:-1,PAC-12 Net. (Arizona) 640*360
-http://xrxs.net/video/live-p12ariz-1164.m3u8
-#EXTINF:-1,PAC-12 Net. (Bay Area) 1280*720
-http://xrxs.net/video/live-p12baya-2328.m3u8
-#EXTINF:-1,PAC-12 Net. (Los Angeles) 1280*720
-http://xrxs.net/video/live-p12losa-2328.m3u8
-#EXTINF:-1,PAC-12 Net. (Los Angeles) 640*360
-http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:-1,PAC-12 Net. (Oregon) 1280*720
-http://xrxs.net/video/live-p12oreg-2328.m3u8
-#EXTINF:-1,PAC-12 Net. (Oregon) 640*360
-http://xrxs.net/video/live-p12oreg-1164.m3u8
-#EXTINF:-1,PAC-12 Net. (Washington) 1280*720
-http://xrxs.net/video/live-p12wash-2328.m3u8
-#EXTINF:-1,PAC-12 Net. (Washington) 640*360
-http://xrxs.net/video/live-p12wash-1164.m3u8
+ 
+#EXTINF:-1,AXN HD
+http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
+ 
+#EXTINF:-1,Cinemax
+http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
+ 
+ 
+#EXTINF:-1,Disney
+http://142.4.216.60:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412&xs=_we_MnRhZzRkemd3b2Y1bWEyfDE0MjAyMDY0MTJ8NzIuMjcuMjE0LjMzfDU0YTYxNGFjYjQwN2V8ZWMzN2Y0ZTg3OGE2ZDhmMzgyY2Y0ODhjMTgzOTYzMTVjNDVhMWVjMg timeout=10
+ 
+#EXTINF:-1,Extreme Sports
+http://213.250.19.50/extreme/extreme.m3u8
+ 
+#EXTINF:-1,FOX SPORT
+http://113.160.49.34/lives/origin03/foxhd.isml/foxhd-2096k.m3u8
+ 
+#EXTINF:-1,HBO 
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+ 
+#EXTINF:-1,HBO COMEDY
+http://142.4.216.60:1935/edge/_definst_/a1wn1j3ra1w0cv0/playlist.m3u8?wowzasessionid=1419879335&xs=_we_YTF3bjFqM3JhMXcwY3YwfDE0MTk5MTUzMzV8NzIuMjcuMjE0LjMzfDU0YTFhM2E3OTJlOWZ8ODdjNjQyZWFjMWEzN2ZkYTA5MWZhYjc0Yjk4MDFiMWJiZTQ1MTViYQ timeout=10
 
-#EXTINF:-1,Pac Mountain 1920*1080
-http://xrxs.net/video/live-p12moun-4728.m3u8
-#EXTINF:-1,PAC-12 Net. (Arizona) 1920*1080
-http://xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:-1,PAC-12 Net. (Bay Area) 1920*1080
-http://xrxs.net/video/live-p12baya-4728.m3u8
-#EXTINF:-1,PAC-12 Net. (Oregon) 1920*1080
-http://xrxs.net/video/live-p12oreg-4728.m3u8
-#EXTINF:-1,PAC-12 Net. (Washington) 1920*1080
-http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1,FOX MOVIES
+http://213.250.19.50/foxmovies/foxmovies.m3u8
+
+#EXTINF:-1,FOX MOVIES HD
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=305&lan=2&rows=40&f=.m3u8
 
 
 #EXTINF:-1,Press TV 
@@ -113,9 +108,8 @@ http://odna.octoshape.net/f3f5m2v4/cds/ch1_480p/chunklist.m3u8?Vd?u#bt!25
 #EXTINF:-1 tvg-logo="RussiaToday.png" group-title="News",  Russia Today (720)
 http://odna.octoshape.net/f3f5m2v4/cds/ch1_720p/chunklist.m3u8?Vd?u#bt!25
 
-#EXTINF:-1 tvg-logo"AlJazeeraEnglish.png" tvg-name="Al Jazeera English", Al Jazeera (English).
+#EXTINF:-1, Al Jazeera (English).
 rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=/aljazeera_eng_high?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=.flv live=1
-
 
 #EXTINF:-1 , Stock News
 rtmp://b.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/stocks/?husham.com
@@ -172,6 +166,40 @@ rtmp://d.cdn.newschat.tv/edge playpath=cnbc_live swfUrl=http://msnbclive.eu/play
 #EXTINF:-1 , CBC news (canada)
 rtmp://b.cdn.newschat.tv/edge playpath=cbc_live swfUrl=http://msnbclive.eu/player.swf pageUrl=http://www.livenewschat.eu/canada/?husham.com
 
+
+#EXTINF:-1,PAC National 1280*720
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1,PAC National 640*360
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona) 1280*720
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona) 640*360
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1280*720
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Los Angeles) 1280*720
+http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Los Angeles) 640*360
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 1280*720
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 640*360
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington) 1280*720
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington) 640*360
+http://xrxs.net/video/live-p12wash-1164.m3u8
+
+#EXTINF:-1,Pac Mountain 1920*1080
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona) 1920*1080
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1920*1080
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 1920*1080
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington) 1920*1080
+http://xrxs.net/video/live-p12wash-4728.m3u8
 
 
 
