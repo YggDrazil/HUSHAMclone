@@ -1,0 +1,97 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]Updated 02/03/2015 @ 06:30 [/COLOR]  
+http://www.youtube.com/user/hmemar22
+
+#EXTINF:-1, [COLOR green] --HINDI Live Tv--[/COLOR]  
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
+http://www.youtube.com/user/hmemar22
+
+
+#EXTINF:-1, MBC Bolloy Wood
+http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+
+#EXTINF:-1, Care World
+http://live.careworldtv.com:80/live/careworld/playlist.m3u8
+
+#EXTINF:-1, P7 News
+http://edge-ap2.cloudfrontcdn.in:1935/vivo/1_channel0.stream_aac/playlist.m3u8
+
+#EXTINF:-1, India News
+http://indiatvnews-lh.akamaihd.net/i/ITV_1@199237//master.m3u8
+
+#EXTINF:-1, DDN News
+http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddnewslive/ddnewslive1.m3u8
+
+#EXTINF:-1, IBN LookMat
+http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
+
+
+
+#EXTINF:-1, Zee Cienma
+http://ukfeeds-lh.akamaihd.net/i/zeecinemauk_1@182166/master.m3u8?hdnea=st=1425274168~exp=1425275368~acl=/*~hmac=9768542952c12d27e8c00da5f44def96660f31cd5da44080a7f11a8c5ebb2e1a
+
+#EXTINF:-1, Zee TV
+http://ukfeeds-lh.akamaihd.net/i/zeetvuk_1@181866/master.m3u8?hdnea=st=1425274260~exp=1425275460~acl=/*~hmac=0a3212ab48406b0029f66f9833e34a3ed8f240320d674b6cdb78fbf189b28f25
+
+#EXTINF:-1, Zee news
+http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_news_1.smil/playlist.m3u8?e=1425278404&a=GB&h=528b4a0de8e46da475f48abbbdc2ca90
+
+#EXTINF:-1, Zee Aflam
+http://zee-lh.akamaihd.net/i/zeeaflam_1@125122/master.m3u8?hdnea=st=1425274333~exp=1425275533~acl=/*~hmac=4fa3fbee69ce2a192ab5e68871596479fb2a12cf163ae6c5ebaf8a3af01bb09f
+
+#EXTINF:-1, Zee Alwan
+http://zee-lh.akamaihd.net/i/zeealwan_1@125120/master.m3u8?hdnea=st=1425274414~exp=1425275614~acl=/*~hmac=4e78c7ad62191d872bb45a1660ddc4c3aae7916c340dfb009a1581d5f2cb80e2
+
+#EXTINF:-1, Zee Bussiness
+http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_business_1.smil/playlist.m3u8?e=1425279004&a=GB&h=aac28454aac26cb946af67aa35453b20
+
+#EXTINF:-1, Colors 
+http://ukfeeds-lh.akamaihd.net/i/colorsuk_1@182167/master.m3u8?hdnea=st=1425274615~exp=1425275815~acl=/*~hmac=8f9c9eee7e909fab947e0b53f3315318a16f116db1fadda903dfdd4ec9b5e39f
+
+#EXTINF:-1, AAJ Tak
+http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/aaj_tak_3G.smil/playlist.m3u8?e=1425278780&a=GB&h=729a501f5a7bdbd59fd90a3454521eed
+
+#EXTINF:-1, Zoom
+http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zoom_3G.smil/playlist.m3u8?e=1425278845&a=GB&h=e1407c35977bf112fa50666bb31f7ca0
+#EXTINF:-1, Zetc
+http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/etc_3G.smil/playlist.m3u8?e=1425278973&a=GB&h=f719d08c5a8d992c4ad5cfaf1e926ee4
+
+
+
+
+#EXTINF:-1, Channels below are now authorised to work in XBMC/kodi 
+#
+#EXTINF:-1, Trying to find more sources
+#
+#EXTINF:-1, ABP News
+http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
+
+
+
+#EXTINF:-1, Headlines Today
+http://hlsengnews-lh.akamaihd.net/i/hls20_headlinestoda3@4861/master.m3u8
+
+#EXTINF:-1, TEZ TV
+http://yupptvrtmp-lh.akamaihd.net/i/blore_3@35266/master.m3u8
+
+#EXTINF:-1, Times Now
+http://yupptvrtmp-lh.akamaihd.net/i/blore7_timesnow8@113076/master.m3u8
+
+#EXTINF:-1, UTV Movies
+http://yupptvrtmp-lh.akamaihd.net/i/nwk9_46@196625/master.m3u8
+
+#EXTINF:-1, Zee Action
+http://yupptvrtmp-lh.akamaihd.net/i/nwk5_zeeaction@180466/master.m3u8
+
+#EXTINF:-1, Zee Premier
+http://yupptvrtmp-lh.akamaihd.net/i/nwk5_zeepremier@180466/master.m3u8
+
+#EXTINF:-1, Zee Clasic
+http://yupptvrtmp-lh.akamaihd.net/i/nwk5_zeeclassic@180466/master.m3u8
+
+#EXTINF:-1, Zww Premier
+http://yupptvrtmp-lh.akamaihd.net/i/nwk5_zeepremier@180466/master.m3u8
