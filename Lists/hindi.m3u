@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 02/03/2015 @ 06:30 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 04/03/2015 @ 21:44 [/COLOR]  
 http://www.youtube.com/user/hmemar22
 
 #EXTINF:-1, [COLOR green] --HINDI Live Tv--[/COLOR]  
@@ -32,33 +32,36 @@ http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
 
 
 #EXTINF:-1, Zee Cienma
-http://ukfeeds-lh.akamaihd.net/i/zeecinemauk_1@182166/master.m3u8?hdnea=st=1425274168~exp=1425275368~acl=/*~hmac=9768542952c12d27e8c00da5f44def96660f31cd5da44080a7f11a8c5ebb2e1a
+http://ukfeeds-lh.akamaihd.net/i/zeecinemauk_1@182166/master.m3u8?hdnea=st=1425504121~exp=1425505321~acl=/*~hmac=1bfa3aabb27bb02a0a3b34dd4e6054998406216f1eecb48bcbe796893b1ed880
 
 #EXTINF:-1, Zee TV
-http://ukfeeds-lh.akamaihd.net/i/zeetvuk_1@181866/master.m3u8?hdnea=st=1425274260~exp=1425275460~acl=/*~hmac=0a3212ab48406b0029f66f9833e34a3ed8f240320d674b6cdb78fbf189b28f25
+http://ukfeeds-lh.akamaihd.net/i/zeetvuk_1@181866/master.m3u8?hdnea=st=1425504368~exp=1425505568~acl=/*~hmac=ccf551e69063cae12c0d8352e990b7fe31693da9bea0e792566f2d3d20a9e0fc
 
 #EXTINF:-1, Zee news
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_news_1.smil/playlist.m3u8?e=1425278404&a=GB&h=528b4a0de8e46da475f48abbbdc2ca90
+http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_news_1.smil/playlist.m3u8?e=1425508612&a=GB&h=84ce6c4687c6233887f11c7ad20fb48a
 
 #EXTINF:-1, Zee Aflam
-http://zee-lh.akamaihd.net/i/zeeaflam_1@125122/master.m3u8?hdnea=st=1425274333~exp=1425275533~acl=/*~hmac=4fa3fbee69ce2a192ab5e68871596479fb2a12cf163ae6c5ebaf8a3af01bb09f
+http://zee-lh.akamaihd.net/i/zeeaflam_1@125122/master.m3u8?hdnea=st=1425504350~exp=1425505550~acl=/*~hmac=5132cd24e45c1624f1f7d3db191bae7e225806e1f74bcdb7b53940d4c830bca6
 
 #EXTINF:-1, Zee Alwan
-http://zee-lh.akamaihd.net/i/zeealwan_1@125120/master.m3u8?hdnea=st=1425274414~exp=1425275614~acl=/*~hmac=4e78c7ad62191d872bb45a1660ddc4c3aae7916c340dfb009a1581d5f2cb80e2
+http://zee-lh.akamaihd.net/i/zeealwan_1@125120/master.m3u8?hdnea=st=1425504450~exp=1425505650~acl=/*~hmac=45a034d67997c3b1bece112503d9e7f48f98825aeca882f35e92776fdddc71b5
 
 #EXTINF:-1, Zee Bussiness
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_business_1.smil/playlist.m3u8?e=1425279004&a=GB&h=aac28454aac26cb946af67aa35453b20
+http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_business_1.smil/playlist.m3u8?e=1425508712&a=GB&h=d924b35461acfdf690d27b6c0aa8ba09
 
 #EXTINF:-1, Colors 
-http://ukfeeds-lh.akamaihd.net/i/colorsuk_1@182167/master.m3u8?hdnea=st=1425274615~exp=1425275815~acl=/*~hmac=8f9c9eee7e909fab947e0b53f3315318a16f116db1fadda903dfdd4ec9b5e39f
+http://ukfeeds-lh.akamaihd.net/i/colorsuk_1@182167/master.m3u8?hdnea=st=1425504594~exp=1425505794~acl=/*~hmac=5da5401064fa2fce96fc655078b9b2d1255c3914d3668601f88caf06a7faef01
 
 #EXTINF:-1, AAJ Tak
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/aaj_tak_3G.smil/playlist.m3u8?e=1425278780&a=GB&h=729a501f5a7bdbd59fd90a3454521eed
+http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/aaj_tak_3G.smil/playlist.m3u8?e=1425508827&a=GB&h=89218d63b29865ff1d1b50fceed8eb37
+
 
 #EXTINF:-1, Zoom
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zoom_3G.smil/playlist.m3u8?e=1425278845&a=GB&h=e1407c35977bf112fa50666bb31f7ca0
+http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zoom_3G.smil/playlist.m3u8?e=1425508863&a=GB&h=bafe79c44d94b1b72185402f5e661373
+
 #EXTINF:-1, Zetc
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/etc_3G.smil/playlist.m3u8?e=1425278973&a=GB&h=f719d08c5a8d992c4ad5cfaf1e926ee4
+http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/etc_3G.smil/playlist.m3u8?e=1425508940&a=GB&h=63e01a57750f10bb4faa7df565e49048
+
 
 
 
