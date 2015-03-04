@@ -64,11 +64,12 @@ http://live8.gv.edge.filmon.com/live/65.low.stream/playlist.m3u8?id=0ad5aac39bb1
 http://198.179.30.108/live/13.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe97f39026636b63fa7e40c6b4becf74d1f5fa1c0992a248f209476055c62f95856d93508e5417f5b590682094a0b82340356f46560c2fdd1e7d764d42f75c71baa2c9b990724e24c63893600069e85b5a46fd8b6ae8307665a4840f19670d70a56188e40d1e25f6d3caad7b4fd29d07a11b4772a059c0975ee67779d4a895c76c8e08fa7369754681a480370f091aebce
 #EXTINF:-1, Five
 http://198.179.30.108/live/22.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe38561c8c123d872c5849179a9a6f3786b2218b057a5c94838ed313d09baa91b0a3d859bf07c2feeb9df68e8b28ebbb795a238a777501f34059fb01d2dc83a6a34eeb0f4994881261a6197b7e6740b70b67e27a9ef32615066920e0a3791bfd4a62770e1ade8214046e2ca66ccdb6f5a67a7e89dec7d70d7e9447ddc9f6e44cf40a0f40aac830f2f6736a5e8ecda6d90b
-
 #EXTINF:-1, 5 usa
-http://198.179.30.110/live/845.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2e75caa7a54568071544f49edcd660004c481c14d4283bae6f05f3d2a57d9e0a7e9b7a2c4daface22ee22a3edd9ce333696d0e3162119872d5167bb344870784882776138e6f0fb2dbdc07f95a0b511b16dcaac933772347783ab445cfe154a3c253c660657e900b0564f20a845db0d727ca56c94a6f71b5b86702ce1617c965deb64948a11177fd0ef893698b60ac54
+http://198.179.30.110/live/845.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe9702648ebf8b7ea464d062f5fbf3d407476240db50171cda709eea4bae8ae5191bc746cbac1b976dc55ddf5d715187258d3f2409ae452f598cfd47cf96d04a6efa2ab7bd3b0e43f69584557457b442013c67b2edbc12c1e885d763311d4af59d4535bb355ddfa024063edbe29561a8c6f0b778a7aff713cc989e6edc62e270fd8892e8fd5cb380fee60bbb4e857fb54c
+
 #EXTINF:-1, Cartoon network
-http://198.27.94.105/hls/cartoon_1.m3u8
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chcartoonnetworkyes/2009/07/25/fae8e5c2-0854-4f80-988a-82b954d477a8 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?jsEnabled=false&height=450&time=&autoplay=true&width=600 pageUrl=http://cdn.livestream.com/embed/cartoonnetworkyes?layout=4&height=450&width=600&autoplay=true
+
 #EXTINF:-1, Disney channel
 http://213.250.19.50/disneychannel/disneychannel.isml/disneychannel-video=2500000-audio101=128000.m3u8
 #EXTINF:-1, CNBC
