@@ -29,8 +29,6 @@ http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddnewslive/ddnewslive1.m3u
 #EXTINF:-1, IBN LookMat
 http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
 
-
-
 #EXTINF:-1, Zee Cienma
 http://ukfeeds-lh.akamaihd.net/i/zeecinemauk_1@182166/master.m3u8?hdnea=st=1425504121~exp=1425505321~acl=/*~hmac=1bfa3aabb27bb02a0a3b34dd4e6054998406216f1eecb48bcbe796893b1ed880
 
@@ -61,3 +59,33 @@ http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zoom_
 
 #EXTINF:-1, Zetc
 http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/etc_3G.smil/playlist.m3u8?e=1425508940&a=GB&h=63e01a57750f10bb4faa7df565e49048
+
+#EXTINF:-1, [COLOR green] --HINDI Movies --[/COLOR]  
+http://www.youtube.com/user/hmemar22
+
+#EXTINF:-1,urban turban
+http://dittotv1-vh.akamaihd.net/i/draco/Movies/Urban-Turban/Video/Urban-Turban.smil/master.m3u8?hdnea=st=1425507456~exp=1425508956~acl=/*~hmac=4f1b8fea61932dfe55edbc6d72ad5f0cdb99ec74a202bcae367b4a8b98c17901
+
+#EXTINF:-1,mtv films - real fm
+http://dittotv-vh.akamaihd.net/i/ditto/movies/539ab3a569702d46633e0000_baseline.smil/master.m3u8?hdnea=st=1425507567~exp=1425509067~acl=/*~hmac=ac6f2ff08c10a30cd32c58370de281f10e3c7e0a1fbe7789ab2b30736944ae35
+
+#EXTINF:-1,ek baar aaona
+http://dittotv-vh.akamaihd.net/i/draco/Movies/Ek_Baar_Aaona/Video/Ek_Baar_Aaona.smil/master.m3u8?hdnea=st=1425507611~exp=1425509111~acl=/*~hmac=68b00f1408631cbddd65e4b7de507e8311a1b7d6e85b367a09b7fd1a3e340bee
+
+#EXTINF:-1,entertainment
+http://dittotv1-vh.akamaihd.net/i/ditto/movies/ENTERTAINMENT-2014/Video/ENTERTAINMENT-2014-baseline.smil/master.m3u8?hdnea=st=1425507649~exp=1425509149~acl=/*~hmac=3334e0fa4b6956867e313614943827db97a84a8bd405120316515b01cbb497d3
+
+#EXTINF:-1,raja natwarlal
+http://dittotv-vh.akamaihd.net/i/ditto/movies/549835265665722d008b0200_baseline.smil/master.m3u8?hdnea=st=1425507710~exp=1425509210~acl=/*~hmac=6019a742c86f23f493c6d520c2f04460584eed27afb610c3a19aa97742c19f8e
+
+#EXTINF:-1,chetna and her night
+http://dittotv-vh.akamaihd.net/i/draco/Movies/Chetna_and_Her_Night/Video/Chetna_and_Her_Night.smil/master.m3u8?hdnea=st=1425507792~exp=1425509292~acl=/*~hmac=e39918f9c6c3412701122e1e92cbdf608171f7f0bb2455e90dfcf2d4fbfa0e13
+
+#EXTINF:-1,emi
+http://dittotv-vh.akamaihd.net/i/ditto/movies/5439281356657221533b0000_baseline.smil/master.m3u8?hdnea=st=1425507885~exp=1425509385~acl=/*~hmac=77eed8822588d8fdd952545c406fa63862fea5cb12ccab70a3084dde1d593951
+
+#EXTINF:-1,tamanchey
+http://dittotv-vh.akamaihd.net/i/draco/Movies/Tamanchey/Video/Tamanchey.smil/master.m3u8?hdnea=st=1425507952~exp=1425509452~acl=/*~hmac=bbb6ee0966d9fbbf690f3312ac870d2c8509eb81bf4bcb40e3543e63b7917098
+
+#EXTINF:-1,holiday
+http://dittotv-vh.akamaihd.net/i/ditto/movies/5461a5055665722d000b0000_baseline.smil/master.m3u8?hdnea=st=1425508001~exp=1425509501~acl=/*~hmac=de6d9d1d2ab66dd49e6befb8c300703b88395f68bc85be77d9c651772a37eb67
