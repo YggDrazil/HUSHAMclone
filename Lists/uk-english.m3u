@@ -23,9 +23,9 @@ http://198.27.94.105/hls/skysports1__1.m3u8
 #EXTINF:-1, Sky sports 2
 http://198.27.94.105/hls/skysports2__1.m3u8
 #EXTINF:-1, Sky sports 3
-rtmp://80.82.78.15:443/liverepeater playpath=10 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=10&width=620&height=490
+rtmp://80.82.78.15:443/liverepeater playpath=10 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=10&width=620&height=490 token=#atd%#$ZH
 #EXTINF:-1, Sky sports 4
-rtmp://80.82.78.29:443/liverepeater playpath=16 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=16&width=620&height=490
+rtmp://80.82.78.29:443/liverepeater playpath=16 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=16&width=620&height=490 token=#atd%#$ZH
 #EXTINF:-1, Sky sports 5
 rtmp://89.248.172.159:443/liverepeater playpath=23 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=23&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1, Sky sports f1
