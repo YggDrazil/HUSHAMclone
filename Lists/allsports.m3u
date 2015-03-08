@@ -1,26 +1,17 @@
 #EXTM3U
 
 #EXTINF:-1, [COLOR yellow]Updated 08/03/2015 @ 10:49 [/COLOR]  
-http://www.youtube.com/user/hmemar22
-
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
-http://www.youtube.com/user/hmemar22
-
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --http://bit.ly/hushamallsports--[/COLOR]  
-http://www.youtube.com/user/hmemar22
-
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Free Collection of IPTV sports links--[/COLOR]  
-http://www.youtube.com/user/hmemar22
-
-
-#EXTINF:-1, [COLOR green] --Uk Live Tv--[/COLOR]  
-http://www.youtube.com/user/hmemar22
-#EXTINF:-1, [COLOR green] --Free Collection of IPTV sports links--[/COLOR]  
-http://www.youtube.com/user/hmemar22
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
-http://www.youtube.com/user/hmemar22
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
-http://www.youtube.com/user/hmemar22
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 
 #EXTINF:-1, Sky sports news
@@ -48,6 +39,8 @@ rtmp://80.82.78.26:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.e
 
 #EXTINF:-1 ,SKY POKER 
 rtmp://rtmp.playback.cdn1.showcaster.com/orcadigital-live06/_definst_/ playpath=stream1352471543352014903_hi swfUrl=https://c177371.ssl.cf3.rackcdn.com/jwplayer.commercial-5.9… live=1 pageUrl=https://play.showcaster.com/moduleVideoPlayer.jsp… SE
+#EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 #EXTINF:-1,Foxsport 1 ( English )
 http://78.129.179.33:1935/edge/584/playlist.m3u8?token&bid=12&pid=5&uid=250668&did=4f7b236fb7362bb13b91a099ba65374e&g=1&gm=1&platform=3
