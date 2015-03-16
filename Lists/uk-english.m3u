@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 08/03/2015 @ 10:49 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 16/03/2015 @ 00:01 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Uk Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -12,23 +12,23 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 #EXTINF:-1, Sky sports news
-http://198.27.94.105/hls/skysportsnews___1.m3u8
+http://198.27.94.105/hls/skysportsnews____0.m3u8
 #EXTINF:-1, Bt sports 1
 rtmp://89.248.172.159:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=13&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1, Bt sports 2
 rtmp://80.82.65.59:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1, Sky sports 1
-rtmp://80.82.70.106:443/liverepeater playpath=40 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=40&width=620&height=490 token=#atd%#$ZH
+http://192.99.24.176:8080/skKysp1001S/S001skKkyp1/index.m3u8
 #EXTINF:-1, Sky sports 2
-rtmp://80.82.64.140:443/liverepeater playpath=48 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=48&width=620&height=490 token=#atd%#$ZH
+http://198.27.94.105/hls/skysports2____0.m3u8
 #EXTINF:-1, Sky sports 3
-rtmp://80.82.78.15:443/liverepeater playpath=10 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=10&width=620&height=490 token=#atd%#$ZH
+http://198.27.94.105/hls/skysports3____0.m3u8
 #EXTINF:-1, Sky sports 4
-rtmp://80.82.78.29:443/liverepeater playpath=16 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=16&width=620&height=490 token=#atd%#$ZH
+http://198.27.94.105/hls/skysports4____0.m3u8
 #EXTINF:-1, Sky sports 5
-rtmp://89.248.172.159:443/liverepeater playpath=23 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=23&width=600&height=450 token=#atd%#$ZH
+rtmp://80.82.64.140:443/liverepeater playpath=23 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=23&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1, Sky sports f1
-rtmp://80.82.78.29:443/liverepeater playpath=22 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=22&width=600&height=450 token=#atd%#$ZH
+rtmp://80.82.64.140:443/liverepeater playpath=22 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=22&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1, British eurosports 1
 rtmp://80.82.70.106:443/liverepeater playpath=28 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=28&width=620&height=490 token=#atd%#$ZH
 #EXTINF:-1, British eurosport 2
@@ -36,46 +36,48 @@ rtmp://80.82.78.26:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.e
 
 
 #EXTINF:-1, BBC news
-http://live304.edge.filmon.com/live/27.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe3577b57e9e9c2453890f25ced8b798b4125648b28a7ba04853a171ede3a7d087292bef0650529ec6efb270020b9994c0cff5d20a98ab2ad9567a96adb73b428c0d09f738705b2a126b81d96534924702946f3513614b3e40ea5f2407aff52eeea9fcb3fa19d748e4d9e86a6a08f1eb0dbd57271c6a459af33d7a35d07978a2ade0642e8fad2f29f7873473c4160d05d7
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
 #EXTINF:-1, CNN
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
 #EXTINF:-1, BBC1
-http://198.179.30.100/live/14.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef878eafcd8bc192db8b37a22f05a035564ad899e3869ba2ee1f9864829f2cc9b24645fa80d0d4862ace455e341310d1a6fb4c72230879acf9afc25f3a53a630e20e991121ee7c52011e96ead4657caf8ec8e576ee00d75c24ccab8397a198f3bf0c7eaa8efc0730ff509cefff6562c007fa7e8867eabd2a64ba128df6be0ebe68f3642e36a3519e2267ca01c0e2cc92d
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
 #EXTINF:-1, BBC2
-http://198.179.30.109/live/25.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe70b4d2fb37595e92314e0faff593043e4529716ebdaf8820645aa42cb2554812e97651463876dd49fe146a66f36c0c56fc6c4c98f7eab88039011d73653d449bad6f9abc50d8f27963be7a7176ab53535c6198d88b65ee9b7919c05452e4fc9477b589dc89cfda9ccb8cceac88ae0e7f715c4737869731c8d88558b95a7c006e71320c759547d31659d38efbf3a13895
-#EXTINF:-1, BBC3
-http://198.179.30.109/live/113.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe402fe3597af4819afce3ae8d3535f15738543bd402e46a8f385cdb7d455c133b62ec4e554b54607c27e513b312a616e10eba566d542a4894def3f1fcca0346a903af85e1661a3a4a9ba5e8447c5ed6a3402578f0daa69492aa49e5afbf92754ede3594d57fe06e8979c05188a140f69f1b34eafe37cb5283f4608bc3c1953e7eb3b4062ec7278f8567399781a88a017b
-#EXTINF:-1, BBC4
-http://198.179.30.109/live/103.low.stream/playlist.m3u8?id=0ad5aac39bb13fbea7b7abc86226fd6b7d0e78d55981821f1db16af2c35feb7f594974c17d97856124ce515ad08e121a79cfb4c75aa76054dc3e77f6fa7980c43cfb127e761dfe81cfd72be9c24c070d219e8cf073ffdcdaa5425077cafcfef5df6520e900d667b8272e48a4b3fdc862b9b84b6fdc58f993b20ab689ebc7b8ae1a11a10744bdc9b2e4acb823ce769a8c6596dfabd73887df
-#EXTINF:-1, ITV1
-http://198.179.30.100/live/11.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe94d4a7c379de6b30ea6759a797b848c8469626259ade69268d6a0cac630ca1f9ecd63ff54f054707224af5f02e18a9fa2641791d52dc25a160c6b2ce060598c9abda8feae4f80f804bb39ff47eefdec612a6aa95db5b2f4e9d7fd43d95c7ff11a38d46caa249b0c0ccc99e379e85e30703ecef020cd06b1e08f36e2c15c60d78aa3fe2a2e6d507ab7ef41f0cf350ec54
+http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc2.m3u8
+#EXTINF:-1,ITV 1
+http://csm-e-usc1-9.cds1.yospace.com/csm/live/92981621.m3u8
 #EXTINF:-1, ITV2
-http://198.179.30.108/live/67.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe0009b8c6e1c2ffb5afad0796c6caa195cabafc6d9ade6dfac6d3b6eaf427e63b3c91ce2afd0886344f129041c11a99567a1262a2f84bd972d5bbaf9e7268af417e0e4478615c9068e9ca0f06e315e98a6c138b089d7964964b705b48a2565d0f48c34d23da0c5ed1b454a8035eaba9f6829ebf7e6e0dda91eaab9f2ee8c3479bdd0c262eb1bcdb312a0071f17425f25e
+http://198.179.30.108/live/67.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef79e6c8e21a30f0d85c0728cdbb59d98b3b8c900a6382bb39ee60939c7b5f1326b6c9815267ae82ca2007146739b591d5ac9e8de65d64df6f5c7ba940c2952ac5c39a15ec5ff6d78085b08758d5c7270b84bb6a4486fe387a3f35b87428e794697dc3411751eb2f3121641a206545bacc435a3fd8eb20eaee0778b48b309042f62475588feb392f36ef9357b1b851933
 #EXTINF:-1, ITV3
-http://198.179.30.108/live/26.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe0a9e3311a963d33e1c2817abf501fe8a63790660cc796b17e6321b97600416db70f4b7a8b8d39b26f36ef4ccec1f1f2d57c9da1ea4d6f1ea1738025d470c65f852b088e3045dda74ef12e2521e55f013016539438613917501d018717074e1dafa719b12efd494e80f964dff8baee246e40868821373e58c4c9b1a37160b7f6e88a747e35eb342e0d6453886bc98da6a
+http://198.179.30.108/live/26.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe16ae70fa443f66d51a7db072a84e9b2ee7808299eb809a2aa0945714f4794ad6d3b2333f8c8f79b04c5cabdd5b3ead4fbdae90416cea82f037a8389aaade0ae918da95b3a688d1f73ee9ff03113a959b7cf0da4ebe12a829a4a4486eac7a06a68861a9945ede5d4ab32d8e4f67ac982ab134bb3230184ea12ce6d8bd6efc4aac5d7cd996a46213dffcb193c83bb52b06
 #EXTINF:-1, ITV4
-http://198.179.30.108/live/101.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe9d63af94eb5869e54a04704b11fcfd718cbd9683959f8bf48ada4237823b93283e80098d8ba3d9d70f11ae507b3afe9895c456a59548dcfdb857b0769479a8e080b3917fdd8eedbcd535ae2c743657cfbe576e582e546df2f4f0bf5d3976d5a7824ed9c3c3fb63c50789c4cd67692cc84df72ab67c1ed97bf224fe3e0e135490761758baf42b346a1e4bc86e1e379eec
+http://198.179.30.108/live/101.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe8e0366e252a5703293981fe027727ca16a131f75f4fa8b9bfc402b2af5cbf02c662252394bf33a8cc3655485c2593c1218181dd5231843ac9c393a73ad3d320f556c18b49b053f761cf9e7b62f70ecdc25ea37bf0b89a8f0b0f7700121cdf9ef5bc3cc7a2fedf37d7e2a7ba796359a56c4051d9607830e2aa2dda05a6d9bc8b9c025857369369f834247fea5cf0fa097
+
+#EXTINF:-1,Itv choice
+http://185.27.237.105:8082/TV0055
+#EXTINF:-1,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+
 #EXTINF:-1, Channel 4
-http://198.179.30.108/live/2.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe209c42a97b8b53a8db714db2f0cc111b28f662fef3705d7e148e5026a4085d075a7654af9452032e82e30c4626dbf0c3f570ec2bde6b8c13da397d5b8ad3a16e212775e30c2fc9b1dbdd7752efd51bf9cf9e192598f7ce9cb61ad212b6a705b7f9f8cc90bf0f3b2007a7f2d4f9d1bde549befd499a4c4d3dd87694c6ea108e713384c1e52fcba69df78ac3428ed24c89
+http://198.179.30.108/live/2.low.stream/playlist.m3u8?id=0ad5aac39bb13fbed7aba438824329988539a51345d7a182b45a6aac35166a21132af655c17e9e51e49d2dd60725f1ba41413f63c9cfb26e3e9ef8a7f5b8f621f201a912081cc9419d9ae61ce24d0794813ecaa34b5ee027f60150aec808ba96793e4471c37e1b9c8dd31e45ffe2cf0cbedaa076fa3854c4a8151381a0816e359917726fb0174e30ed790178fa62b38b2aca286e8809b3f1
 #EXTINF:-1, E4
-http://live8.gv.edge.filmon.com/live/65.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe3ffce449c2c4be992db7aa8b1930097760d1c82e496b5b9d9865ab106cf0c94ff45c04a5161615a18920449b3c810fbc00c823f49af8a630112827f20146adea4c658ff07cf2dd5b65e10f5c5075004b07cd8ab6a054a902f876b16226eea5561e2a7d1b9514c8a4ed4437b850d755f55439224f890a1da4ab93e223a22957130774ce6322b4e47c43c96c804248fc8e
+http://live8.gv.edge.filmon.com/live/65.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef31d9a767ff66ccac5c765086cc3910180707862586a12bf5d6be4144a6a75dae82461533f6e648e88517b9d2a2016ca5e2285f0d79f4e1a4ee54f69f6e02a8046d8b7983cafede6cf60338c745f4b8a04e3a623fec3629e1bacb12e9c080dd4bd5db96a9d46b1591edc219386d919ef575f28068bf72ecf9c58f6a810cc6bd0fa1a5f65bf68ffdf552022a109a2e607
 #EXTINF:-1, Film 4
-http://198.179.30.108/live/13.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe97f39026636b63fa7e40c6b4becf74d1f5fa1c0992a248f209476055c62f95856d93508e5417f5b590682094a0b82340356f46560c2fdd1e7d764d42f75c71baa2c9b990724e24c63893600069e85b5a46fd8b6ae8307665a4840f19670d70a56188e40d1e25f6d3caad7b4fd29d07a11b4772a059c0975ee67779d4a895c76c8e08fa7369754681a480370f091aebce
+http://198.179.30.108/live/13.low.stream/playlist.m3u8?id=0ad5aac39bb13fbef87ccf0fe0b5b2cfbc418611f647d5e50d8bc9511e1c383f307d919e2ccd553f145a6293ec712363f14f37edd826cbbea2f2bb67433f50879c8faf08b4ff4268075fbf55c30d8ab2fd5417e0a109ba335b3b9c6aee1aa59ad4f456967da1c49e7d3f13c8d0478c84f806f32c540c2445ab8f608739e7b5bd20a325f8f7b2ce393dc4288a0686900dbfc3daf5de1b2d64
 #EXTINF:-1, Five
-http://198.179.30.108/live/22.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe38561c8c123d872c5849179a9a6f3786b2218b057a5c94838ed313d09baa91b0a3d859bf07c2feeb9df68e8b28ebbb795a238a777501f34059fb01d2dc83a6a34eeb0f4994881261a6197b7e6740b70b67e27a9ef32615066920e0a3791bfd4a62770e1ade8214046e2ca66ccdb6f5a67a7e89dec7d70d7e9447ddc9f6e44cf40a0f40aac830f2f6736a5e8ecda6d90b
+http://198.179.30.108/live/22.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe323dc112cb0242d6759f9690054ce7008b3548f7f8da5a04aaf91993b79d3dddc270d3a73a32d3717f127e32e9a0d8bf26039a8c68195c7fdf6da0a5e5b4eb4c787331e2543e8eda1f4ba10cf91b705afb32e78e1621f4f961bc3b4b862a954608fac84f4be973b3ab9b17b1a9ab821c07225af0c430842fdd2557bdb4b7be858e147874e78173a6c5d33b8745633e3f
 #EXTINF:-1, 5 usa
-http://198.179.30.110/live/845.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe9702648ebf8b7ea464d062f5fbf3d407476240db50171cda709eea4bae8ae5191bc746cbac1b976dc55ddf5d715187258d3f2409ae452f598cfd47cf96d04a6efa2ab7bd3b0e43f69584557457b442013c67b2edbc12c1e885d763311d4af59d4535bb355ddfa024063edbe29561a8c6f0b778a7aff713cc989e6edc62e270fd8892e8fd5cb380fee60bbb4e857fb54c
-
+http://198.179.30.110/live/845.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe54f2b75b2f2b254843a4567abc7ab1327ae6f8b4a844b5afdda6439c16633fe8754ea8a4d2eec7ac67ff1489c553ec29bc4221f4fd3a3c63f7cbfc78fa84681f6f8ee6df90725923695b9f2dd516346b77738486498a2831238af52d871c929913a97d55ac334d7e2d2fae366b182c1f54ebb88589c9d955f48151816b0ccd96f3906497ecff9e7fda640ec27587afcd
+#EXTINF:-1, 5*
+http://live300.edge.filmon.com/live/851.low.stream/playlist.m3u8?id=0ad5aac39bb13fbeaaa81b982150d65d9253d4110405a9192f46dc0c3fc4430d312664decb3f1a24611f08d3588cc0651d761a3481ad6a0773edaf1a52e0609967fa2c66bf475c1ae601de3f2565f093e1405d4e9018e4ed7decd639cd0931b52f59905129a5a40fd87ffc82de9427906da76640997b8035e79f8df5d1b1fe4f43081b4645665fce156724fdcd2baad3d87427e9928ee379
 #EXTINF:-1, Cartoon network
-rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chcartoonnetworkyes/2009/07/25/fae8e5c2-0854-4f80-988a-82b954d477a8 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?jsEnabled=false&height=450&time=&autoplay=true&width=600 pageUrl=http://cdn.livestream.com/embed/cartoonnetworkyes?layout=4&height=450&width=600&autoplay=true
-
-#EXTINF:-1, Disney channel
-http://213.250.19.50/disneychannel/disneychannel.isml/disneychannel-video=2500000-audio101=128000.m3u8
+http://198.27.94.105/hls/cartoon____0.m3u8
 #EXTINF:-1, CNBC
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnbc_eu/ls_satlink/b_,264,528,828,.m3u8
-#EXTINF:-1, Nickelodeon[COLOR red]link_down[/COLOR]
-#
-#EXTINF:-1, Sky boxnation[COLOR red]link_down[/COLOR]
+#EXTINF:-1, Disney channel
+rtmp://109.200.202.124:1935/live playpath=disney swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/disney.html token=ef8e8620da151301dfa07b3886ab30ad live=1
+#EXTINF:-1, Nickelodeon
+rtmp://rtmp.myhdcast.com/redirect/tntusa_usa pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=fCqfhb14WwwFbAsDbV3Z?Ger61uLQ4fedzvjRjrB7?IWSyIjvWgHRCMM7MEJoZ?TfRQx7deUAuncJwM047m pageUrl=http://zerocast.in/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=OOG17t.x#K9Vh#|
+#EXTINF:-1, Sky boxnation [COLOR red]link_down[/COLOR]
 #
 #EXTINF:-1, Sky 1 [COLOR red]link_down[/COLOR]
 #
