@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 24/03/2015 @ 18:05 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 24/03/2015 @ 19:05 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -23,7 +23,7 @@ http://198.27.94.105/hls/a7acde0d2196acbda664518913bf747b.m3u8
 #EXTINF:-1, Sky sports 1
 http://192.99.24.176:8080/sportsKy1S/Sk1o1kyp/index.m3u8
 #EXTINF:-1, Sky sports 2
-rtmp://37.48.118.29/live?wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDE1IDQ6MjY6MDkgUE0maGFzaF92YWx1ZT1UcE55WFZWWjNqV2F5Z29zOFJycUh3PT0mdmFsaWRtaW51dGVzPTIw playpath=skysports21.stream 
+http://198.27.94.105/hls/925f9084c858a337f3dece668fc2225b.m3u8
 #EXTINF:-1, Sky sports 3
 http://198.27.94.105/hls/cd4e1458de3c2c6b3a84ae44c0f53858.m3u8
 #EXTINF:-1, Sky sports 4
