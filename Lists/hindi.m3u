@@ -89,18 +89,3 @@ http://dittotv-vh.akamaihd.net/i/draco/Movies/Tamanchey/Video/Tamanchey.smil/mas
 #EXTINF:-1,holiday
 http://dittotv-vh.akamaihd.net/i/ditto/movies/5461a5055665722d000b0000_baseline.smil/master.m3u8?hdnea=st=1425508001~exp=1425509501~acl=/*~hmac=de6d9d1d2ab66dd49e6befb8c300703b88395f68bc85be77d9c651772a37eb67
 
-
-#EXTINF:-1,Mark Test please ignore ####################
-#
-
-#EXTINF:-1,test
-http://cdn.phoenix.intergi.com/21772/videos/3392967/video-sd.mp4?hosting_id=21772
-
-#EXTINF:-1,test2
-http://cdn.phoenix.intergi.com/21772/videos/3392959/video-sd.mp4
-
-#EXTINF:-1,NEWCASTLE UTD [COLOR red]VS[/COLOR] MAN UTD
-http://cdn.phoenix.intergi.com/21772/videos/3392962/video-sd.mp4?hosting_id=21772
-
-#EXTINF:-1,LIVERPOOL [COLOR red]VS[/COLOR] BURNLEY
-http://cdn.phoenix.intergi.com/21772/videos/3392963/video-sd.mp4?hosting_id=21772
