@@ -1,69 +1,92 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 25/03/15 @ 01:10 [/COLOR]  
-http://www.youtube.com/user/hmemar22
-
+#EXTINF:-1, [COLOR yellow]Updated 26/03/15 @ 14:50 [/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
-http://www.youtube.com/user/hmemar22
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
-http://www.youtube.com/user/hmemar22
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR yellow]Please donate to husham.com for more content[/COLOR]
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR yellow]Even if its £1[/COLOR]
 http://www.youtube.com/user/hmemar22
 
 
+#EXTINF:-1, Bein 1
+rtmp://94.102.49.207/iguide playpath=ggd49g0sfyhu6mj swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30811&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 2
+rtmp://89.248.172.95/iguide playpath=436y4f7zhxnaiin swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30812&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 3
+rtmp://94.102.49.207/iguide playpath=j7sit90urz5t7al swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30813&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 4
+rtmp://94.102.49.207/iguide playpath=v2xmzxari1yar79 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30814&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 5
+rtmp://94.102.49.207/iguide playpath=7x7mk11j8hypr5q swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30815&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 6
+rtmp://94.102.49.207/iguide playpath=0njbgowtk7l869j swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30816&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 7
+rtmp://94.102.63.54/iguide playpath=l2spvpk7c52r19u swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30817&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 8
+rtmp://94.102.49.207/iguide playpath=1iidrbrp7qme8w9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30818&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 9
+rtmp://93.174.93.230/iguide playpath=gewt94kh67md0tb swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30819&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 10
+rtmp://94.102.63.54/iguide playpath=9mqhnd009jmdx9g swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30820&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 11
+rtmp://89.248.169.48:1935/iguide/00b6jg0vkc984ee?lx8byomxs434xh5?frfv4gaulgbu0ig?7ggyzll6lv6pbya?hlcl1vpqwin3st1?ruwrr14dee9i2x3?o8dabdwketac53c?sighaniivpikwlo?kcei6bxb8npfsae?6plgubv4cwqh094?eb0gt1jm5gno6yz?6plg swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30005&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 12
+rtmp://195.154.253.203:80/liverepeater playpath=302412 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co/stream.php?id=302412&width=650&height=450&stretching=uniform  token=#ed%h0#w18623jsda6523IDGD
 
 
 #EXTINF:-1,OSN movies action 
 http://185.27.237.105:8082/TV0025
-#EXTINF:-1,osn movies hd
+#EXTINF:-1,OSN movies hd
 http://185.27.237.105:8082/TV0023
 #EXTINF:-1,OSN YAHALA hd 1
 http://185.27.237.105:8082/TV0064
-
-#EXTINF:-1,osn star movies hd
+#EXTINF:-1,OSN star movies hd
 http://185.27.237.105:8082/TV0051
-#EXTINF:-1,osn movie drama
+#EXTINF:-1,OSN movie drama
 http://185.27.237.105:8082/TV0022
-#EXTINF:-1,osn movies hd 2
+#EXTINF:-1,OSN movies hd 2
 http://185.27.237.105:8082/TV0024
-
-
-#EXTINF:-1,osn comedy
+#EXTINF:-1,OSN comedy
 http://185.27.237.105:8082/TV0021
 #EXTINF:-1,OSN 2 Film
 http://185.27.237.105:8082/TV0062
 #EXTINF:-1,OSN 2 Film
 http://185.27.237.105:8082/TV0062? gtoken 5bd6536167620b366fbc3d7515e1c9735519195fb36899fc4ae844dcee953ef5 =
-
 #EXTINF:-1,OSN YAHALA hd 2
 http://185.27.237.105:8082/TV0065
 #EXTINF:-1,OSN first HD
 http://185.27.237.105:8082/TV0063? gtoken 5bd6536167620b366fbc3d7515e1c9735519195fb36899fc4ae844dcee953ef5 =
-
-
-#EXTINF:-1,star osn
+#EXTINF:-1,star OSN
 http://185.27.237.105:8082/TV0056
-#EXTINF:-1,osn more 
+#EXTINF:-1,OSN more 
 http://185.27.237.105:8082/TV0084
- 
 
 #EXTINF:-1,0 -Dubai Racing (UAE)
 http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
 #EXTINF:-1,0 -Dubai Sports 3
 http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/BratuMarian.m3u8
-#EXTINF:-1,0 -KTV Sport Extra
+#EXTINF:-1,0 -Kuwait TV / KTV Sports Extra
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
 #EXTINF:-1,0 -KTV Sport Plus
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
 
-#EXTINF:-1,0 -MBC Sports Pro 1  - links not always working
-http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
-#EXTINF:-1,0 -MBC Sports Pro 2 - links not always working
-http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
-#EXTINF:-1,0 -MBC Sports Pro 3 - links not always working
-http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
-#EXTINF:-1,0 -MBC Pro Sports 4 (UAE) - links not always working
-http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8
 
 #EXTINF:-1,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
@@ -75,12 +98,12 @@ http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/BratuMarian.m3u8?DVR
 rtmp://66.23.237.233:1935/alkout/alkout
 #EXTINF:-1,Al Maaref
 http://almaareftv.com:1935/live/1/BratuMarian.m3u8
-#EXTINF:-1,Al Rasheed TV
-http://http.mmp.streamuk.com/live/smil:0_fk07czmb.smil/chunklist_b1228800.m3u8
-#EXTINF:-1,Al sahraa2 - Link down
-rtmp://79.134.137.65:1935/liveS2/Sahraa2.stream
-#EXTINF:-1,Al Sumaria (Iraq) Link down
-rtmp://$OPT:rtmp-raw=rtmp://livestreaming2.itworkscdn.net/sumarialive playpath=live swfUrl=http://www.alsumaria.tv/LiveMedia4/jwplayer.flash.swf live=true timeout=15 pageUrl=http://www.alsumaria.tv/watch-Alsumaria-Live
+#EXTINF:-1,Al Rasheed TV [COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1,Al sahraa2 - [COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1,Al Sumaria (Iraq) [COLOR red]link_down[/COLOR]
+#
 #EXTINF:-1,Al yawm
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1,Alarabiya
@@ -97,240 +120,58 @@ rtmp://stream.truth-voice.net/FadyLive//FadyLive
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
 #EXTINF:-1,Aljazeera En
 http://vizrthlsaje-i.akamaihd.net/hls/live/206524/AJEnglish/2873287_iOS/500.m3u8
-#EXTINF:-1,Aljazeera_america
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/livestation/ls_lmle/ajam_828.m3u8
-#EXTINF:-1,Alrayi mms wmv
+#EXTINF:-1,Alrayi
 mms://62.215.216.130/wmtencoder/alrai350.wmv
 #EXTINF:-1,ANN News
 rtmp://ns8.indexforce.com/ann/ann
 #EXTINF:-1,Albadawiyah
 http://streamer11.elementssys.com:8080/albadawiyah-800-hdsx/index.m3u8
-#EXTINF:-1, Syria Drama	(link is down )
-http://8.21.48.26:7777/SyriaDrama/SyriaDrama_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Syria	(link is down )
-http://8.21.48.26:7777/SyriaSat/SyriaSat_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Sama Syria(link is down )
-http://8.21.48.26:7777/SamaTV/SamaTV_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Syria Nour	(link is down )
-http://8.21.48.26:7777/NourElSham/NourElSham_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Syria Sedu(link is down )
-http://8.21.48.26:7777/SyrianEducation/SyrianEducation_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Syria	
+
+
+#EXTINF:-1,Syria
+http://82.137.248.16:1935/Sat/SatLive2/HasBahCa.m3u8
+#EXTINF:-1,Syria
+http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
+#EXTINF:-1,Syria Aloula
+http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8
+#EXTINF:-1,Syria Drama
+http://82.137.248.21:1935/Drama/DramaLive3/HasBahCa.m3u8
+#EXTINF:-1,Syria Nour
+http://82.137.248.21:1935/Nour/NourLive2/HasBahCa.m3u8
+
+#EXTINF:-1,Sama Syria 
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+#EXTINF:-1,Syria drama
+http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8
+#EXTINF:-1,Syria news 
+http://82.137.248.16:1935/Snews/SnewsLive1/gmswf.m3u8
+#EXTINF:-1,Syria TV 
 http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
-#EXTINF:-1, Syria Aloula
+#EXTINF:-1,Syria
+http://82.137.248.16:1935/Sat/SatLive2/BratuMarian.m3u8
+#EXTINF:-1,Syria Aloula
+http://82.137.248.21:1935/Aloula/AloulaLive3/BratuMarian.m3u8
+#EXTINF:-1,Syria Drama
+http://82.137.248.21:1935/Drama/DramaLive3/BratuMarian.m3u8
+#EXTINF:-1,Syria Nour
+http://82.137.248.21:1935/Nour/NourLive2/BratuMarian.m3u8
+
+#EXTINF:-1,AL HURRA SYRIA
+rtmp://cp51007.live.edgefcs.net/live/Alhurra_Flash@15
+#EXTINF:-1,Syria-Nour alsham
+http://82.137.248.21:1935/Nour/NourLive1/playlist.m3u8
+#EXTINF:-1,Syria aloula
 http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
 #EXTINF:-1, Syria Drama	
 http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 #EXTINF:-1,Talaqie
 rtmp://82.137.248.20/Talaqie/TalaqieLive2
-#EXTINF:-1,Syrian Educational TV
-rtmp://82.137.248.16/Snews/SnewsLive1
 #EXTINF:-1,Alikhbaria Syria
 rtmp://82.137.248.16/Snews/SnewsLive1
-#EXTINF:-1,Alriadia_sportx
-http://162.212.176.107:1935/alriadia_sport/globaltv-alriadia_sport.stream/chunklist_w573046591.m3u8 
-#EXTINF:-1, BahrainSport
-http://8.21.48.26:7777/BahrainSport/BahrainSport_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, alkass
-http://8.21.48.26:7777/AlDawriAlKassSport/AlDawriAlKassSport_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, TRT Arabic
-http://8.21.48.26:7777/TRTArabic/TRTArabic_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Russia Alyaum
-http://8.21.48.26:7777/RussiyaAlYaum/RussiyaAlYaum_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, BBC Arabic
-http://8.21.48.26:7777/BBCArabic/BBCArabic_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, CCTV Arabic
-http://8.21.48.26:7777/CCTVArabia/CCTVArabia_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Moustakilla
-http://8.21.48.26:7777/AlMustakila/AlMustakila_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Algeria 3
-http://8.21.48.26:7777/Thalitha/Thalitha_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Hanibal
-http://8.21.48.26:7777/Hannibal/Hannibal_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Tunisia national 1
-http://8.21.48.26:7777/Tunisie7/Tunisie7_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Medi 1 Sat
-http://8.21.48.26:7777/Medi1/Medi1_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Nessma
-http://8.21.48.26:7777/Nessma/Nessma_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, AlGeria
-http://8.21.48.26:7777/CanalAlgerie/CanalAlgerie_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, 2M
-http://8.21.48.26:7777/M2Morocco/M2Morocco_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Maghribia	
-http://8.21.48.26:7777/AlMaghribia/AlMaghribia_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Abu Dhabi
-http://8.21.48.26:7777/ADAlOula/ADAlOula_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Arrabia
-http://8.21.48.26:7777/Arrabiaa/Arrabiaa_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Assadissa
-http://8.21.48.26:7777/Assadissa/Assadissa_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Tamazigh Maroc
-http://8.21.48.26:7777/Tamazight/Tamazight_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1,Alriadia Sport
-http://8.21.48.26:7777/Arryadia/Arryadia_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Sudan TV
-http://8.21.48.26:7777/Sudan/Sudan_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Libya 2
-http://8.21.48.26:7777/Libya/Libya_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Libya
-http://8.21.48.26:7777/AlAhrar/AlAhrar_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Mauritanie
-http://8.21.48.26:7777/MauritaniaTV/MauritaniaTV_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Quran TV ksa
-http://8.21.48.26:7777/AlQuran/AlQuran_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Iqra
-http://8.21.48.26:7777/Iqraa/Iqraa_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al-Resalah
-http://8.21.48.26:7777/AlResala/AlResala_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Majd
-http://8.21.48.26:7777/AlmajdSpace/AlmajdSpace_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, KSA 2
-http://8.21.48.26:7777/KSA2/KSA2_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Ikhbaria
-http://8.21.48.26:7777/AlEkhbariya/AlEkhbariya_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Ajyal
-http://8.21.48.26:7777/AjyalTV/AjyalTV_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Rasheed
-http://8.21.48.26:7777/AlRasheed/AlRasheed_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Kuwait
-http://8.21.48.26:7777/KuwaitSpace/KuwaitSpace_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Funoon
-http://8.21.48.26:7777/Funoon/Funoon_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, alwatan
-http://8.21.48.26:7777/Alwatan/Alwatan_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Alwatan Plus
-http://8.21.48.26:7777/AlwatanPlus/AlwatanPlus_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, GearOne
-http://8.21.48.26:7777/GearOne/GearOne_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Sharjah
-http://8.21.48.26:7777/SharjahTV/SharjahTV_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Fatafeat	
-http://8.21.48.26:7777/Fatafeat/Fatafeat_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, KTV2
-http://8.21.48.26:7777/KTV2Kuwait/KTV2Kuwait_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Bahrain
-http://8.21.48.26:7777/Bahrain/Bahrain_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Qatar
-http://8.21.48.26:7777/Qatar/Qatar_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, AlJazeera	
-http://8.21.48.26:7777/AlJazeera/AlJazeera_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Yemen
-http://8.21.48.26:7777/Yemen/Yemen_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Roya
-http://8.21.48.26:7777/Roya/Roya_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Palestine
-http://8.21.48.26:7777/Palestinian/Palestinian_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Alqudis
-http://8.21.48.26:7777/Alquds/Alquds_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Baghdadia
-http://8.21.48.26:7777/AlBaghdadia/AlBaghdadia_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Sharqiya
-http://8.21.48.26:7777/AlSharqiya/AlSharqiya_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Sharqiya News
-http://8.21.48.26:7777/AlsharqiyaNews/AlsharqiyaNews_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al-hurra Iraq
-http://8.21.48.26:7777/AlhurraIraq/AlhurraIraq_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Aliraqiya
-http://8.21.48.26:7777/AlIraqiya/AlIraqiya_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419	
-#EXTINF:-1, Al Masar
-http://8.21.48.26:7777/AlMasar/AlMasar_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Tayba
-http://8.21.48.26:7777/Tayba/Tayba_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Libya AlWataniya
-http://8.21.48.26:7777/LibyaAlWataniya/LibyaAlWataniya_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Djibouti
-http://8.21.48.26:7777/RTD/RTD_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Eqtisadiyah
-http://8.21.48.26:7777/AlEqtisadiyah/AlEqtisadiyah_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Thakafiyah
-http://8.21.48.26:7777/AlThakafiyah/AlThakafiyah_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Amaken Drama
-http://8.21.48.26:7777/AlAmakenDrama/AlAmakenDrama_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419	
-#EXTINF:-1, Al Kout
-http://8.21.48.26:7777/AlKout/AlKout_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Ajman
-http://8.21.48.26:7777/Ajman/Ajman_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, DM
-http://8.21.48.26:7777/DM/DM_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Aden
-http://8.21.48.26:7777/Aden/Aden_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Sheba
-http://8.21.48.26:7777/Sheba/Sheba_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Shaab
-http://8.21.48.26:7777/AlShaab/AlShaab_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Eman
-http://8.21.48.26:7777/AlEman/AlEman_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Sabah
-http://8.21.48.26:7777/AlSabah/AlSabah_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Ordonia
-http://8.21.48.26:7777/AlOrdoni/AlOrdoni_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Haqeeqa	
-http://8.21.48.26:7777/AlHaqeeqa/AlHaqeeqa_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Zweina Bladna
-http://8.21.48.26:7777/ZweinaBaladna/ZweinaBaladna_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Alaqsa
-http://8.21.48.26:7777/AqsaSatCh/AqsaSatCh_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Palestine AlYawm
-http://8.21.48.26:7777/PalestineAlYawm/PalestineAlYawm_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Palestine Live	
-http://8.21.48.26:7777/PalestineLive/PalestineLive_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Baghdad
-http://8.21.48.26:7777/Baghdad/Baghdad_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Rafidain
-http://8.21.48.26:7777/AlRafidain/AlRafidain_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Fayhaa
-http://8.21.48.26:7777/AlFayhaa/AlFayhaa_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Aldiyar
-http://8.21.48.26:7777/AldiyarSat/AldiyarSat_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Forat
-http://8.21.48.26:7777/AlForat/AlForat_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Beladi	
-http://8.21.48.26:7777/Beladi/Beladi_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Saudia Sport
-http://8.21.48.26:7777/AlRiyadiah/AlRiyadiah_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Goan
-http://8.21.48.26:7777/GoanTV/GoanTV_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Libya Sport 1
-http://8.21.48.26:7777/LibyaSportChannel1/LibyaSportChannel1_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Neelain Sport
-http://8.21.48.26:7777/NeelainSport/_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, iFilm Arabic
-http://8.21.48.26:7777/iFilm/iFilm_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Sumaria
-http://8.21.48.26:7777/Alsumaria/Alsumaria_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Anwar	
-http://8.21.48.26:7777/AlAnwar/AlAnwar_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Music+
-http://8.21.48.26:7777/MusicPlus/MusicPlus_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, AlBabeleyia	
-http://8.21.48.26:7777/AlBabeleyia/AlBabeleyia_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Massaya
-http://8.21.48.26:7777/Massaya/Massaya_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Nojoom1
-http://8.21.48.26:7777/Nojoom1/Nojoom1_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al oula Maroc
-http://8.21.48.26:7777/AlAoulaEurope/AlAoulaEurope_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Aghanina
-http://8.21.48.26:7777/Aghanina/Aghanina_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al sahraa
-http://8.21.48.26:7777/AlSahraa/AlSahraa_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Jordan	
-http://8.21.48.26:7777/GamarHashimi/GamarHashimi_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, KTV Sport Plus	
-http://8.21.48.26:7777/KTV3Plus/KTV3Plus_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, KSA 1
-http://8.21.48.26:7777/SaudiArabia1/SaudiArabia1_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Al Iraqiya Documentary
-http://8.21.48.26:7777/AlIraqAlTarbawiyah/AlIraqAlTarbawiyah_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Mehwar	
-http://8.21.48.26:7777/ElMehwar/ElMehwar_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, Oman
-http://8.21.48.26:7777/Oman/Oman_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
-#EXTINF:-1, beINSports
-http://8.21.48.26:7777/beINSports/beINSports_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419	
-#EXTINF:-1, ABN
-http://8.21.48.26:7777/ABN/ABN_Low.m3u8?user=HTTP_Proxy_GLARAB-HLS-42_5442164&session=587ddeb5854952064d52ddaa067e8f1d26360bdebd2c3e0e9b801cdd9a436423a299017ce29bf1aa&hlsid=HLS_2487419
+
+
+#EXTINF:-1,Alriadia_sportx[COLOR red]link_down[/COLOR]
+#
 
 
 #EXTINF:-1,BBC Arabia
@@ -356,8 +197,7 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch6.sdp
 #EXTINF:-1,Kuwait
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
 
-#EXTINF:-1,Mbc 2
-http://63.237.48.3/ios/MBC2/MBC2.m3u8
+
 #EXTINF:-1,Medine
 http://46.245.160.224/medine/medine/gmswf.m3u8
 #EXTINF:-1,Mekke
@@ -370,6 +210,16 @@ http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/BratuM
 
 #EXTINF:-1,Quran TV
 rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream
+#EXTINF:-1,Quran tv
+http://46.245.160.224/mekke/mekke/gmswf.m3u8
+#EXTINF:-1,Radio Quran Qatar
+rtmp://AgendaStreamer1.qna.org.qa/qrn//qrn
+#EXTINF:-1,KSA Quran Radio
+http://broadcastquran.ism3na.com:8332/;stream.mp3
+#EXTINF:-1,Quran
+http://www.elahmad.com/tv/m3u8/itworkscdn.m3u8?id=quran1
+
+
 
 #EXTINF:-1,Russia Alyaum
 http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
@@ -379,88 +229,23 @@ http://cdnedvrsamadubai.endavomedia.com/smil:dmilivesamadubaihls.smil/BratuMaria
 
 #EXTINF:-1,Sky news arabia
 http://skynewsl.skynews.cshls.lldns.net/skynews/skynewsl/skynewsl/skynewsl_800.m3u8
-#EXTINF:-1,Syria
-http://82.137.248.16:1935/Sat/SatLive2/BratuMarian.m3u8
-#EXTINF:-1,Syria Aloula
-http://82.137.248.21:1935/Aloula/AloulaLive3/BratuMarian.m3u8
-#EXTINF:-1,Syria Drama
-http://82.137.248.21:1935/Drama/DramaLive3/BratuMarian.m3u8
-#EXTINF:-1,Syria Nour
-http://82.137.248.21:1935/Nour/NourLive2/BratuMarian.m3u8
+
 
 #EXTINF:-1,Tchad
 rtmp://tchad.streamakaci.com/tchad/tchad.stream
-
-
-#EXTINF:-1,Al Baghdadia
-http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 #EXTINF:-1,Al Forat
 http://alforatlive.nanocdn.com:1935/live/alforat256/BratuMarian.m3u8
-#EXTINF:-1,Al Gharbiya
+#EXTINF:-1,Al Gharbiya[COLOR red]link_down[/COLOR]
 http://46.165.208.230:1935/samarra/mystream/gmswf.m3u8
-
 #EXTINF:-1,AlDyar
 http://188.247.93.26:1935/live/aldyar.stream_360p/hassuni.m3u8
-#EXTINF:-1,Baghdad tv
-http://streamer1.hamuraabi.com:1935/baghdad/live/BratuMarian.m3u8
-#EXTINF:-1,Iraqiya
-http://212.7.205.5:1935/Iraqia/live/BratuMarian.m3u8
-#EXTINF:-1,Iraqiya Sport
-http://212.7.205.5:1935/sport/live/BratuMarian.m3u8
+#EXTINF:-1,Iraq music
+http://edge20.magictvbox.com/live/al_qithara_tv/index.m3u8
+#EXTINF:-1,Al-hurra Iraq 
+http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1,Iqraatv
+http://fl1.viastreaming.net:1935/iqraatv/livestream/HasBahCa.m3u8
 
-#EXTINF:-1,ASRE_EMROZZ
-http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8
-#EXTINF:-1,Bidari
-rtsp://bidari.streamwebtown.com/bidaritv
-#EXTINF:-1,CHANNEL_ONE
-http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
-#EXTINF:-1,GEM Bollywood
-rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-gembollywood-live-25f-16x9-HD?ref=www.gemonline.tv&USER=Gem+Bollywood
-#EXTINF:-1,GEM Junior Live
-rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-junior-live-25f-4x3-SDq?ref=www.gemonline.tv&USER=GEM+Junior
-#EXTINF:-1,GEM LIFE
-rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-life1-live-25f-16x9-HD?ref=www.gemonline.tv&USER=Life+1
-#EXTINF:-1,GEM MIFA MUSIC
-rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-mifa-live-16x9-SDq?ref=www.gemonline.tv&USER=MIFA+MUSIC
-#EXTINF:-1,GEM ONYX
-rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-onyx-live-16x9-HD?ref=www.gemonline.tv&USER=ONYX
-#EXTINF:-1,GEM RIVER
-rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-river-live-16x9-HD?ref=www.gemonline.tv&USER=River+HD
-#EXTINF:-1,GEM RUBIX
-rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-rubix-live-16x9-HD?ref=www.gemonline.tv&USER=RUBIX+HD
-#EXTINF:-1,GEM Travel
-rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-travel-live-25f-16x9-SD?ref=www.gemonline.tv&USER=0-100
-#EXTINF:-1,GEM TV
-rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-gemtv-live-25f-16x9-SDq?ref=www.gemonline.tv&USER=GEM+TV
-#EXTINF:-1,GEM_KURD
-http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
-#EXTINF:-1,GEM_TRAVEL
-http://63.237.48.3/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
-#EXTINF:-1,IRINN
-http://63.237.48.3/ios/IRINN/IRINN.m3u8
-#EXTINF:-1,JAME_JAM
-http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
-
-#EXTINF:-1,MTC
-http://mellitvrtmp.tulix.tv:1935/m-mellitv/m-mellitv.stream/playlist.m3u8
-#EXTINF:-1,ONYX HD
-http://63.237.48.3/ios/ONYX_HD/ONYX_HD.m3u8
-#EXTINF:-1,Pezhvak Show
-rtmp://media.mohabat.tv/live_transcoder/_definst_/mp4:mohabat.stream_240p
-#EXTINF:-1,PNG
-http://63.237.48.3/ios/PNG/PNG.m3u8
-#EXTINF:-1,QURAN_TV
-http://63.237.48.3/ios/QURAN_TV/QURAN_TV.m3u8
-#EXTINF:-1,Sahar TV 1
-rtsp://sahar1.live.hypercdn.com/live-35895787/sahartv1-512.sdp
-#EXTINF:-1,TAPESH
-http://63.237.48.3/ios/TAPESH/TAPESH.m3u8
-#EXTINF:-1,VARZESH_TV
-http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1,VELAYAT
-http://63.237.48.3/ios/VELAYAT_TV/VELAYAT_TV.m3u8
-#EXTINF:-1,VOA Persian TV
-rtsp://a1278.l211049675.c2110.g.lm.akamaistream.net/D/1278/2110/v0001/reflector:49675
 
 
 #EXTINF:-1, ===========Visit Husham.com=======================
@@ -469,39 +254,58 @@ http://www.youtube.com/user/hmemar22
 http://www.youtube.com/user/hmemar22
 
 
+#EXTINF:-1,art aflam 1
+rtmp://37.59.17.92:1935/live?idu=elelamy_65540608920/art_aflam_1
 #EXTINF:-1, ART Aflam 1
 rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artaflam1&width=600&height=400 
 
+#EXTINF:-1,art aflam 2
+rtmp://37.59.17.92:1935/live?idu=elelamy_65540608920/art_aflam_2
 #EXTINF:-1, ART Aflam 2
 rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=artaflam2&width=600&height=400 
 
+#EXTINF:-1,art hekayat
+rtmp://37.59.17.92:1935/live?idu=elelamy_65540608920/art_hekayat
 
 #EXTINF:-1,al hayat
 rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_ALhayat swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=Hi_ALhayat&width=600&height=400
 
-#EXTINF:-1,algeria 3
-rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_TVA3 swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=Hi_TVA3&width=600&height=400
+#EXTINF:-1,art hekayat 2
+rtmp://37.59.17.92:1935/live?idu=elelamy_65540608920/art_hekayat_2
 
 #EXTINF:-1,Alhayat Cinema
-rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_AlHayatCinema swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=Hi_AlHayatCinema&width=600&height=400
+rtmp://web.iptv-planet.com:1937/live2 playpathHi_AlHayatCinema swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_AlHayatCinema&width=600&height=400
+
+
+#EXTINF:-1,algeria 3
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_TVA3 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_TVA3&width=600&height=400 
+
 
 #EXTINF:-1,CBC
-rtmp://web.iptv-planet.com:1936/live2 playpath=cbc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=cbc&width=600&height=400
+rtmp://web.iptv-planet.com:1937/live2 playpath=cbc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=cbc&width=600&height=400
 
 #EXTINF:-1,Fox Movies
-rtmp://web.iptv-planet.com:1936/live2 playpath=fm swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=fm&width=600&height=400
+rtmp://web.iptv-planet.com:1937/live2 playpath=fm swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=fm&width=600&height=400
 
 #EXTINF:-1,Hanibal
-rtmp://web.iptv-planet.com:1936/live2 playpath=h swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=h&width=600&height=400
+rtmp://web.iptv-planet.com:1937/live2 playpath=h swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=h&width=600&height=400
 
 #EXTINF:-1,iqraa
-rtmp://web.iptv-planet.com:1936/live2 playpath=iqraa swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=iqraa&width=600&height=400
+rtmp://web.iptv-planet.com:1937/live2 playpath=iqraa swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=iqraa&width=600&height=400
 
 #EXTINF:-1,LBC
-rtmp://web.iptv-planet.com:1936/live2 playpath=lbc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=lbc&width=600&height=400
+rtmp://web.iptv-planet.com:1937/live2 playpath=lbc swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=lbc&width=600&height=400
+
+
 
 #EXTINF:-1,MBC 1
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400 
+
+#EXTINF:-1,Mbc 2
+http://63.237.48.3/ios/MBC2/MBC2.m3u8
+
+#EXTINF:-1,MBC 2
+rtmp://live-f01.vustream.net/live/livestream
 
 #EXTINF:-1,MBC 2
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc2 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc2&width=600&height=400 
@@ -511,6 +315,10 @@ rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc3 swfUrl=http://iptv-planet
 
 #EXTINF:-1,MBC 4
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc4 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc4&width=600&height=400 
+
+
+#EXTINF:-1,MBC MAX
+http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 
 #EXTINF:-1,MBC Max
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcmax swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcmax&width=600&height=400 
@@ -524,16 +332,14 @@ rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcdrama swfUrl=http://iptv-pl
 #EXTINF:-1,MBC Bollywood
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcbw swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcbw&width=600&height=400 
 
-
 #EXTINF:-1, Cairo Drama
 rtmp://web.iptv-planet.com:1937/live2 playpath=cd swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=cd&width=600&height=400 
 
-
 #EXTINF:-1,nessma
-rtmp://web.iptv-planet.com:1936/live2 playpath=n swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=n&width=600&height=400
+rtmp://web.iptv-planet.com:1937/live2 playpath=n swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=n&width=600&height=400
 
 #EXTINF:-1,toyour ljana
-rtmp://web.iptv-planet.com:1936/live2 playpath=toyouraljanna swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=toyouraljanna&width=600&height=400
+rtmp://web.iptv-planet.com:1937/live2 playpath=toyouraljanna swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=toyouraljanna&width=600&height=400
 
 #EXTINF:-1,Tunisia Nationale 1
 rtmp://web.iptv-planet.com:1937/live2 playpath=t1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=t1&width=600&height=400 
@@ -543,14 +349,15 @@ rtmp://web.iptv-planet.com:1937/live2 playpath=t2 swfUrl=http://iptv-planet.com/
 
 
 
-#EXTINF:-1, ===========Visit Husham.com=======================
+#EXTINF:-1, ===========Visit husham.com=======================
 http://www.youtube.com/user/hmemar22
 #EXTINF:-1, ===========Visit Husham.com=======================
 http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR yellow]Please donate to husham.com for more content[/COLOR]
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR yellow]Even if its £1[/COLOR]
+http://www.youtube.com/user/hmemar22
 
-
-#EXTINF:-1,Iqraatv
-http://fl1.viastreaming.net:1935/iqraatv/livestream/HasBahCa.m3u8
 
 #EXTINF:-1,Iraqiya
 http://212.7.205.5:1935/Iraqia/live/playlist.m3u8
@@ -563,7 +370,6 @@ http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 
 #EXTINF:-1, BAHRAIN SPORTS
 rtmp://alayam.netromedia.net/btv3/btv3
-
 
 #EXTINF:-1, Dubai Sp 3
 http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8
@@ -580,8 +386,6 @@ http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/HasBahCa.m3u8?DVR
 #EXTINF:-1,Al Maaref
 http://almaareftv.com:1935/live/1/HasBahCa.m3u8
 
-
-
 #EXTINF:-1,Dubai Racing
 http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/HasBahCa.m3u8
 
@@ -591,88 +395,17 @@ http://cdnedvrdubaitv.endavomedia.com/smil:dmilivedubaitvhls.smil/HasBahCa.m3u8
 #EXTINF:-1,Funoon TV
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanfunoonmed.m3u8
 
-#EXTINF:-1,KAS
-http://137.135.64.32:1935/kas/kas/gmswf.m3u8
-#EXTINF:-1,KTV 2
-rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
-#EXTINF:-1,KTV ARABE
-rtmp://91.140.238.7/rtmplive/rtpencoder/ch5.sdp
-#EXTINF:-1,KTV ETRAA
-rtmp://91.140.238.7/rtmplive/rtpencoder/ch4.sdp
-#EXTINF:-1,KTV PLUS
-rtmp://91.140.238.7/rtmplive/rtpencoder/ch6.sdp
-#EXTINF:-1,Kuwait
-rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
-
-
-
-#EXTINF:-1,Nabaa
-rtmp://31.14.40.238:1935/live/Nabaa
 
 #EXTINF:-1,Noor Dubai TV
 http://cdnedvrnoordubaitv.endavomedia.com/smil:dmilivenoordubaitvhls.smil/HasBahCa.m3u8
 
-#EXTINF:-1,Quran TV
-rtmp://208.75.224.165:1935/map-alquraan/map-alquraan.stream
-#EXTINF:-1,Russia Alyaum
-http://odna.octoshape.net/f3f5m2v4/cds/ch3_720p/chunklist.m3u8
-
 #EXTINF:-1,Sama Dubai
 http://cdnedvrsamadubai.endavomedia.com/smil:dmilivesamadubaihls.smil/HasBahCa.m3u8
 
-#EXTINF:-1,Syria
-http://82.137.248.16:1935/Sat/SatLive2/HasBahCa.m3u8
-#EXTINF:-1,Syria Aloula
-http://82.137.248.21:1935/Aloula/AloulaLive3/HasBahCa.m3u8
-#EXTINF:-1,Syria Drama
-http://82.137.248.21:1935/Drama/DramaLive3/HasBahCa.m3u8
-#EXTINF:-1,Syria Nour
-http://82.137.248.21:1935/Nour/NourLive2/HasBahCa.m3u8
 
-
-#EXTINF:-1,AAA_FAMILY
-http://63.237.48.3/ios/AAA_FAMILY/AAA_FAMILY.m3u8
-#EXTINF:-1,APADANA
-http://63.237.48.3/ios/APADANA/APADANA.m3u8
-#EXTINF:-1,ASRE_EMROZZ
-http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8
-#EXTINF:-1,CHANNEL_ONE
-http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
-#EXTINF:-1,GEM_KURD
-http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
-#EXTINF:-1,GEM_TRAVEL
-http://63.237.48.3/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
-#EXTINF:-1,IRINN
-http://63.237.48.3/ios/IRINN/IRINN.m3u8
-#EXTINF:-1,JAME_JAM
-http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
-#EXTINF:-1,MTC
-http://mellitvrtmp.tulix.tv:1935/m-mellitv/m-mellitv.stream/playlist.m3u8
-#EXTINF:-1,ONYX HD
-http://63.237.48.3/ios/ONYX_HD/ONYX_HD.m3u8
-#EXTINF:-1,Pezhvak Show
-rtmp://media.mohabat.tv/live_transcoder/_definst_/mp4:mohabat.stream_240p
-#EXTINF:-1,PNG
-http://63.237.48.3/ios/PNG/PNG.m3u8
-#EXTINF:-1,QURAN_TV
-http://63.237.48.3/ios/QURAN_TV/QURAN_TV.m3u8
-#EXTINF:-1,TAPESH
-http://63.237.48.3/ios/TAPESH/TAPESH.m3u8
-#EXTINF:-1,VARZESH_TV
-http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
-#EXTINF:-1,VELAYAT
-http://63.237.48.3/ios/VELAYAT_TV/VELAYAT_TV.m3u8
-
-#EXTINF:-1,AlDyar
-http://188.247.93.26:1935/live/aldyar.stream_360p/hassuni.m3u8
 
 #EXTINF:-1,Baghdad tv
 http://streamer1.hamuraabi.com:1935/baghdad/live/HasBahCa.m3u8
-
-#EXTINF:-1,Iraqiya Sport
-http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
-
-  
 
 #EXTINF:-1, QURAN TV ksa
 http://46.245.160.224/mekke/mekke/chunklist_w581447799.m3u8
@@ -702,27 +435,15 @@ http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8
 http://rtmp.infomaniak.ch/livecast/rougetv/playlist.m3u8
 #EXTINF:-1,SAFA
 http://50.7.131.42:1935/safa/smil:safa-smil.smil/chunklist_w1889871104_b632768.m3u8
-#EXTINF:-1,AL garbia
-http://46.165.208.230:1935/samarra/mystream/gmswf.m3u8
+
 #EXTINF:-1,Alasr
 http://xtvalasrx.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1 , TRT Arabic |
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:-1,Echorouk (Algeria)
 http://live.echoroukonline.com/live/EchoroukTV/chunklist.m3u8
-
-
 #EXTINF:-1,Royatv
 http://212.35.75.130/3330/HasBahCa.m3u8?email=tac%40umniah.com&password=2acc51f15bbba0a9ad4bab6da0ff0c81
- 
-
-
- 
-#EXTINF:-1 , Aljazeera
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_264.m3u8
-#EXTINF:-1,ALJAZERRA En
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_264.m3u8
- 
 
 #EXTINF:-1,FRANCE 24 Arabic
 http://vipwowza.yacast.net/f24_hlslive_ar/smil:iphone.fr24ar.smil/playlist.m3u8
@@ -730,31 +451,26 @@ http://vipwowza.yacast.net/f24_hlslive_ar/smil:iphone.fr24ar.smil/playlist.m3u8
 http://vipwowza.yacast.net/f24_hlslive_en/smil:iphone.fr24en.smil/playlist.m3u8
 
 
-
-#EXTINF:-1,Syria
-http://82.137.248.16:1935/Sat/SatLive2/playlist.m3u8
-
-
 #EXTINF:-1,Alwatan Ghanawi
 http://wpc.C56B.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatanghanawihigh.m3u8
 
 #EXTINF:-1,Alwatan (Kuwait)
-http://wpc.c56b.edgecastcdn.net/hls-live/20C56B/default/ThompsanECWTV/tsecwatantvhigh.m3u8
+http://alwatan_hls-lh.akamaihd.net/i/alwatan_ar@91111/master.m3u8
 
 #EXTINF:-1,Speda (Kurdistan)
 rtmp://sepidehlive.nanocdn.com:1935/live/sepideh256
 
-
-
+ 
+#EXTINF:-1 , Aljazeera
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_264.m3u8
+#EXTINF:-1,ALJAZERRA En
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_264.m3u8
 
 #EXTINF:-1, Al Jazeera Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8?b?b*t$
 
-#EXTINF:-1, Tolo TV
+#EXTINF:-1, Tolo TV / Afghan Play
 rtmp://media.mohabat.tv/live_transcoder/_definst_/mp4:mohabat.stream_480?b?b*t$
-
-
-
 
 #EXTINF:-1, Al-hurra Iraq
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
@@ -786,21 +502,20 @@ http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_828.m3u8
 
 #EXTINF:-1,BAHRIN
-http://155.obj.netromedia.net/alayam/alayam/playlist.m3u8
+rtmp://alayam.netromedia.net/btv2 playpath=btv2 swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.18.swf pageUrl=http://player.netromedia.com/?ID=4d0292f1-e996-4dff-bdcd-01bf49aea468&iframe=true&autoPlay=true&scaling=scale
 
-#EXTINF:-1,Echorouk Tv
+#EXTINF:-1,Echorouk Tv (الشروق
 http://live.echoroukonline.com/live/EchoroukTV/playlist.m3u8
 
 
 #EXTINF:-1,Al Forat
 http://alforatlive.nanocdn.com:1935/live/alforat256/HasBahCa.m3u8
 
-
 #EXTINF:-1,LBC Europe (Lebanon)
 rtmp://livestreaming.itworkscdn.net/lbclive/lbc_1 playpath=lbc_1 swfUrl=http://www.lbcgroup.tv/livemedia4/jwplayer.flash.swf live=1 pageUrl=http://www.lbcgroup.tv/watch-lbci-live
 
-#EXTINF:-1,Hawacom
-http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
+#EXTINF:-1,Hawacom[COLOR red]link_down[/COLOR]
+#
 
 
 
@@ -808,164 +523,6 @@ http://mobilestreaming.itworkscdn.com/hawacom/hawacomlive/playlist.m3u8
 http://www.youtube.com/user/hmemar22
 #EXTINF:-1, ===========Visit Husham.com=======================
 http://www.youtube.com/user/hmemar22
-
-
-#EXTINF:-1, BahrainSport
-http://8.21.48.26:7777/BahrainSport/BahrainSport_Low.m3u8
-
-#EXTINF:-1, alkass
-
-http://8.21.48.26:7777/AlDawriA…/AlDawriAlKassSport_Low.m3u8
-
-#EXTINF:-1, TRT Arabic
-
-http://8.21.48.26:7777/TRTArabic/TRTArabic_Low.m3u8
-
-#EXTINF:-1, Russia Alyaum
-
-http://8.21.48.26:7777/RussiyaAlYaum/RussiyaAlYaum_Low.m3u8
-
-#EXTINF:-1, BBC Arabic
-
-http://8.21.48.26:7777/BBCArabic/BBCArabic_Low.m3u8
-
-#EXTINF:-1, CCTV Arabic
-
-http://8.21.48.26:7777/CCTVArabia/CCTVArabia_Low.m3u8
-
-#EXTINF:-1, Al Moustakilla
-
-http://8.21.48.26:7777/AlMustakila/AlMustakila_Low.m3u8
-
-#EXTINF:-1, Algeria 3
-
-http://8.21.48.26:7777/Thalitha/Thalitha_Low.m3u8
-
-#EXTINF:-1, Hanibal
-
-http://8.21.48.26:7777/Hannibal/Hannibal_Low.m3u8
-
-#EXTINF:-1, Tunisia national 1
-
-http://8.21.48.26:7777/Tunisie7/Tunisie7_Low.m3u8
-
-#EXTINF:-1, Medi 1 Sat
-
-http://8.21.48.26:7777/Medi1/Medi1_Low.m3u8
-
-#EXTINF:-1, Nessma
-
-http://8.21.48.26:7777/Nessma/Nessma_Low.m3u8
-
-#EXTINF:-1, AlGeria
-
-http://8.21.48.26:7777/CanalAlgerie/CanalAlgerie_Low.m3u8
-
-#EXTINF:-1, 2M
-
-http://8.21.48.26:7777/M2Morocco/M2Morocco_Low.m3u8
-
-#EXTINF:-1, Al Maghribia
-
-http://8.21.48.26:7777/AlMaghribia/AlMaghribia_Low.m3u8
-
-#EXTINF:-1, Abu Dhabi
-
-http://8.21.48.26:7777/ADAlOula/ADAlOula_Low.m3u8
-
-#EXTINF:-1, Arrabia
-
-http://8.21.48.26:7777/Arrabiaa/Arrabiaa_Low.m3u8
-
-#EXTINF:-1, Assadissa
-
-http://8.21.48.26:7777/Assadissa/Assadissa_Low.m3u8
-
-#EXTINF:-1, Tamazigh Maroc
-
-http://8.21.48.26:7777/Tamazight/Tamazight_Low.m3u8
-
-#EXTINF:-1,Alriadia Sport
-
-http://8.21.48.26:7777/Arryadia/Arryadia_Low.m3u8
-
-#EXTINF:-1, Sudan TV
-
-http://8.21.48.26:7777/Sudan/Sudan_Low.m3u8
-
-#EXTINF:-1, Libya 2
-
-http://8.21.48.26:7777/Libya/Libya_Low.m3u8
-
-#EXTINF:-1, Libya
-
-http://8.21.48.26:7777/AlAhrar/AlAhrar_Low.m3u8
-
-#EXTINF:-1, Mauritanie
-
-http://8.21.48.26:7777/MauritaniaTV/MauritaniaTV_Low.m3u8
-
-#EXTINF:-1, Quran TV ksa
-
-http://8.21.48.26:7777/AlQuran/AlQuran_Low.m3u8
-
-#EXTINF:-1, Iqra
-
-http://8.21.48.26:7777/Iqraa/Iqraa_Low.m3u8
-
-#EXTINF:-1, Al-Resalah
-
-http://8.21.48.26:7777/AlResala/AlResala_Low.m3u8
-
-#EXTINF:-1, Al Majd
-
-http://8.21.48.26:7777/AlmajdSpace/AlmajdSpace_Low.m3u8
-
-#EXTINF:-1, KSA 2
-
-http://8.21.48.26:7777/KSA2/KSA2_Low.m3u8
-
-#EXTINF:-1, Al Ikhbaria
-
-http://8.21.48.26:7777/AlEkhbariya/AlEkhbariya_Low.m3u8
-
-#EXTINF:-1, Ajyal
-
-http://8.21.48.26:7777/AjyalTV/AjyalTV_Low.m3u8
-
-#EXTINF:-1, Al Rasheed
-
-http://8.21.48.26:7777/AlRasheed/AlRasheed_Low.m3u8
-
-#EXTINF:-1, Kuwait
-
-http://8.21.48.26:7777/KuwaitSpace/KuwaitSpace_Low.m3u8
-
-#EXTINF:-1, Funoon
-
-http://8.21.48.26:7777/Funoon/Funoon_Low.m3u8
-
-#EXTINF:-1, alwatan
-
-http://8.21.48.26:7777/Alwatan/Alwatan_Low.m3u8
-
-#EXTINF:-1, Alwatan Plus
-
-http://8.21.48.26:7777/AlwatanPlus/AlwatanPlus_Low.m3u8
-
-#EXTINF:-1, GearOne
-http://8.21.48.26:7777/GearOne/GearOne_Low.m3u8
-
-#EXTINF:-1, Sharjah
-
-http://8.21.48.26:7777/SharjahTV/SharjahTV_Low.m3u8
-
-#EXTINF:-1, Fatafeat
-http://8.21.48.26:7777/Fatafeat/Fatafeat_Low.m3u8
-
-#EXTINF:-1, KTV2
-http://8.21.48.26:7777/KTV2Kuwait/KTV2Kuwait_Low.m3u8
-
 
 
 #EXTINF:-1,i24 News Arabia
@@ -976,9 +533,12 @@ http://fl1.viastreaming.net:1935/iqraatv/livestream/BratuMarian.m3u8
 
 #EXTINF:-1, ===========Arabic Films=======================
 http://www.youtube.com/user/hmemar22
-#EXTINF:-1, ===========Arabic Films=======================
+#EXTINF:-1, ===========Arabic Films =======================
 http://www.youtube.com/user/hmemar22
-
+#EXTINF:-1, [COLOR yellow]Please donate to husham.com for more content[/COLOR]
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR yellow]Even if its £1[/COLOR]
+http://www.youtube.com/user/hmemar22
 #EXTINF:-1, فيلم Djinn اﻹماراتي الرعب العربي الجن اونلاين 2014 كامل
 http://flv.alarab.net:8080//flv/85194.flv?start=0
 
@@ -1110,3 +670,67 @@ http://flv.alarab.net:8080//flv/76253.flv
 http://flv.alarab.net:8080//flv/80603.flv
 #EXTINF:-1,flv villa69
 http://flv.alarab.net:8080//flv/79937.flv
+
+
+
+
+#EXTINF:-1, ===========Iran TV Channels=======================
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, ===========Visit Husham.com=======================
+http://www.youtube.com/user/hmemar22
+
+#EXTINF:-1,ASRE_EMROZZ (Iran)
+http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8
+#EXTINF:-1,Bidari
+rtsp://bidari.streamwebtown.com/bidaritv
+#EXTINF:-1,CHANNEL_ONE (Iran)
+http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+#EXTINF:-1,GEM Bollywood (Iran)
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-gembollywood-live-25f-16x9-HD?ref=www.gemonline.tv&USER=Gem+Bollywood
+#EXTINF:-1,GEM Junior Live(Iran)
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-junior-live-25f-4x3-SDq?ref=www.gemonline.tv&USER=GEM+Junior
+#EXTINF:-1,GEM LIFE(Iran)
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-life1-live-25f-16x9-HD?ref=www.gemonline.tv&USER=Life+1
+#EXTINF:-1,GEM MIFA MUSIC(Iran)
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-mifa-live-16x9-SDq?ref=www.gemonline.tv&USER=MIFA+MUSIC
+#EXTINF:-1,GEM ONYX(Iran)(Iran)
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-onyx-live-16x9-HD?ref=www.gemonline.tv&USER=ONYX
+#EXTINF:-1,GEM RIVER(Iran)
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-river-live-16x9-HD?ref=www.gemonline.tv&USER=River+HD
+#EXTINF:-1,GEM RUBIX(Iran)
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-rubix-live-16x9-HD?ref=www.gemonline.tv&USER=RUBIX+HD
+#EXTINF:-1,GEM Travel(Iran)
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-travel-live-25f-16x9-SD?ref=www.gemonline.tv&USER=0-100
+#EXTINF:-1,GEM TV(Iran)
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-gemtv-live-25f-16x9-SDq?ref=www.gemonline.tv&USER=GEM+TV
+#EXTINF:-1,GEM_KURD(Iran)
+http://63.237.48.3/ios/GEM_KURD/GEM_KURD.m3u8
+#EXTINF:-1,GEM_TRAVEL(Iran)
+http://63.237.48.3/ios/GEM_TRAVEL/GEM_TRAVEL.m3u8
+#EXTINF:-1,IRINN(Iran)
+http://63.237.48.3/ios/IRINN/IRINN.m3u8
+#EXTINF:-1,JAME_JAM(Iran)
+http://63.237.48.3/ios/JAME_JAM_TV_NETWORK_1/JAME_JAM_TV_NETWORK_1.m3u8
+#EXTINF:-1,Pezhvak Show (Iran)
+rtmp://media.mohabat.tv/live_transcoder/_definst_/mp4:mohabat.stream_240p
+#EXTINF:-1,PNG (Iran)
+http://63.237.48.3/ios/PNG/PNG.m3u8
+#EXTINF:-1,ONYX HD (Iran)
+http://63.237.48.3/ios/ONYX_HD/ONYX_HD.m3u8
+#EXTINF:-1,QURAN_TV (Iran)
+http://63.237.48.3/ios/QURAN_TV/QURAN_TV.m3u8
+#EXTINF:-1,Sahar TV 1(Iran)
+rtsp://sahar1.live.hypercdn.com/live-35895787/sahartv1-512.sdp
+#EXTINF:-1,TAPESH(Iran)
+http://63.237.48.3/ios/TAPESH/TAPESH.m3u8
+#EXTINF:-1,VARZESH_TV(Iran)
+http://63.237.48.3/ios/VARZESH_TV/VARZESH_TV.m3u8
+#EXTINF:-1,VELAYAT(Iran)
+http://63.237.48.3/ios/VELAYAT_TV/VELAYAT_TV.m3u8
+#EXTINF:-1,VOA Persian TV(Iran)
+rtsp://a1278.l211049675.c2110.g.lm.akamaistream.net/D/1278/2110/v0001/reflector:49675
+
+
+#EXTINF:-1,AAA_FAMILY (Iran)
+http://63.237.48.3/ios/AAA_FAMILY/AAA_FAMILY.m3u8
+
