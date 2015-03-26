@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 24/03/2015 @ 21:01 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 26/03/2015 @ 15:03 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -96,6 +96,42 @@ rtmp://31.220.0.195:80/live/atraccex pageUrl=http://xxxxxx.xx/rtmpe://46.246.124
 http://192.99.24.176:8080/wiLllow/will001W/index.m3u8
 
 
+
+#EXTINF:-1, Bein 1
+rtmp://94.102.49.207/iguide playpath=ggd49g0sfyhu6mj swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30811&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 2
+rtmp://89.248.172.95/iguide playpath=436y4f7zhxnaiin swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30812&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 3
+rtmp://94.102.49.207/iguide playpath=j7sit90urz5t7al swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30813&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 4
+rtmp://94.102.49.207/iguide playpath=v2xmzxari1yar79 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30814&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 5
+rtmp://94.102.49.207/iguide playpath=7x7mk11j8hypr5q swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30815&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 6
+rtmp://94.102.49.207/iguide playpath=0njbgowtk7l869j swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30816&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 7
+rtmp://94.102.63.54/iguide playpath=l2spvpk7c52r19u swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30817&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 8
+rtmp://94.102.49.207/iguide playpath=1iidrbrp7qme8w9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30818&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 9
+rtmp://93.174.93.230/iguide playpath=gewt94kh67md0tb swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30819&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 10
+rtmp://94.102.63.54/iguide playpath=9mqhnd009jmdx9g swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30820&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 11
+rtmp://89.248.169.48:1935/iguide/00b6jg0vkc984ee?lx8byomxs434xh5?frfv4gaulgbu0ig?7ggyzll6lv6pbya?hlcl1vpqwin3st1?ruwrr14dee9i2x3?o8dabdwketac53c?sighaniivpikwlo?kcei6bxb8npfsae?6plgubv4cwqh094?eb0gt1jm5gno6yz?6plg swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30005&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1, Bein 12
+rtmp://195.154.253.203:80/liverepeater playpath=302412 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co/stream.php?id=302412&width=650&height=450&stretching=uniform  token=#ed%h0#w18623jsda6523IDGD
 
 #EXTINF:-1,BEIN Sports 1 HD (AR)
 http://2co1.vp9.tv/chn/bin01/v.m3u8
