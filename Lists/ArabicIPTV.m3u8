@@ -88,6 +88,9 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
 
 
+#EXTINF:-1,Mbc 1
+rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/mbc_1
+
 #EXTINF:-1,MBC 1 HD
 rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/mbc_1
 
