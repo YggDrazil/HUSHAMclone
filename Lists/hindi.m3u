@@ -13,6 +13,10 @@ http://www.youtube.com/user/hmemar22
 #EXTINF:-1, MBC Bolloy Wood
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
+
+#EXTINF:-1, MBC Bollywood
+rtmp://63.237.48.3:1935/live/MBC_BOLLYWOOD
+
 #EXTINF:-1, Care World
 http://live.careworldtv.com:80/live/careworld/playlist.m3u8
 
@@ -28,64 +32,40 @@ http://164.100.49.24:8080/hls-live/livepkgr/_definst_/ddnewslive/ddnewslive1.m3u
 #EXTINF:-1, IBN LookMat
 http://ibn_lokmat_hls-lh.akamaihd.net/i/ibn_lokmat_hls_n_1@178974/index_3.m3u8
 
-#EXTINF:-1, Zee Cienma
-http://ukfeeds-lh.akamaihd.net/i/zeecinemauk_1@182166/master.m3u8?hdnea=st=1425504121~exp=1425505321~acl=/*~hmac=1bfa3aabb27bb02a0a3b34dd4e6054998406216f1eecb48bcbe796893b1ed880
+#EXTINF:-1,hindi movies
+http://cdn.rtmp.webverbosity.com:1935/liveedge2/hinditv_verbosityConsulting/playlist.m3u8
+#EXTINF:-1,Hindi Desi Bollywood 
+http://50.7.77.114:8296/
+#EXTINF:-1,hindi movies
+http://46.249.213.93/iPhone/broadcast/hindimovies-tablet.3gp/hindimovies-tablet.3gp-mr497k.m3u8
+#EXTINF:-1,Hindi Classic: Melodious
+http://188.138.16.143:8140/
+#EXTINF:-1,Hindi Movie 3
+http://46.249.213.93/iPhone/broadcast/filmsofindia-iphone.3gp.m3u8?trackingid=4361800000
+#EXTINF:-1,Hidi - Bollywood Cinema 2
+http://46.249.213.87/iPhone/broadcast/bollywoodcinema2-iphone.3gp.m3u8
 
-#EXTINF:-1, Zee TV
-http://ukfeeds-lh.akamaihd.net/i/zeetvuk_1@181866/master.m3u8?hdnea=st=1425504368~exp=1425505568~acl=/*~hmac=ccf551e69063cae12c0d8352e990b7fe31693da9bea0e792566f2d3d20a9e0fc
-
-#EXTINF:-1, Zee news
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_news_1.smil/playlist.m3u8?e=1425508612&a=GB&h=84ce6c4687c6233887f11c7ad20fb48a
-
-#EXTINF:-1, Zee Aflam
-http://zee-lh.akamaihd.net/i/zeeaflam_1@125122/master.m3u8?hdnea=st=1425504350~exp=1425505550~acl=/*~hmac=5132cd24e45c1624f1f7d3db191bae7e225806e1f74bcdb7b53940d4c830bca6
-
-#EXTINF:-1, Zee Alwan
-http://zee-lh.akamaihd.net/i/zeealwan_1@125120/master.m3u8?hdnea=st=1425504450~exp=1425505650~acl=/*~hmac=45a034d67997c3b1bece112503d9e7f48f98825aeca882f35e92776fdddc71b5
-
+#EXTINF:-1, Zee Tv
+http://ukfeeds-lh.akamaihd.net/i/zeetvuk_1@181866/master.m3u8?hdnea=st=1427416045~exp=1427417245~acl=/*~hmac=310fe5c1e7624cb681f34f8ad5b6af5012bbd7c554ab4935f50c9b961cbca16b
 #EXTINF:-1, Zee Bussiness
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_business_1.smil/playlist.m3u8?e=1425508712&a=GB&h=d924b35461acfdf690d27b6c0aa8ba09
-
+http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_business_1.smil/playlist.m3u8?e=1427420356&a=GB&h=ffef56c874a6a4506122f20c1583bc9d
 #EXTINF:-1, Colors 
-http://ukfeeds-lh.akamaihd.net/i/colorsuk_1@182167/master.m3u8?hdnea=st=1425504594~exp=1425505794~acl=/*~hmac=5da5401064fa2fce96fc655078b9b2d1255c3914d3668601f88caf06a7faef01
+http://ukfeeds-lh.akamaihd.net/i/colorsuk_1@182167/master.m3u8?hdnea=st=1427416120~exp=1427417320~acl=/*~hmac=8281617605169006e8e28a4bd232f2f6faa99c59d889fe7eb949c3eb7c717281
+
 
 #EXTINF:-1, AAJ Tak
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/aaj_tak_3G.smil/playlist.m3u8?e=1425508827&a=GB&h=89218d63b29865ff1d1b50fceed8eb37
+http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/aaj_tak_3G.smil/playlist.m3u8?e=1427420454&a=GB&h=5197a48e15a9daede6f94c6a8fdd602f
+
 
 
 #EXTINF:-1, Zoom
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zoom_3G.smil/playlist.m3u8?e=1425508863&a=GB&h=bafe79c44d94b1b72185402f5e661373
-
+http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zoom_3G.smil/playlist.m3u8?e=1427420478&a=GB&h=b93483ff2c704c5f43db4df338f6c20f
 #EXTINF:-1, Zetc
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/etc_3G.smil/playlist.m3u8?e=1425508940&a=GB&h=63e01a57750f10bb4faa7df565e49048
+http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/etc_3G.smil/playlist.m3u8?e=1427420507&a=GB&h=46c7cff34f0db780afb7fee0fa395e7c
 
 #EXTINF:-1, [COLOR green] --HINDI Movies --[/COLOR]  
 http://www.youtube.com/user/hmemar22
 
-#EXTINF:-1,urban turban
-http://dittotv1-vh.akamaihd.net/i/draco/Movies/Urban-Turban/Video/Urban-Turban.smil/master.m3u8?hdnea=st=1425507456~exp=1425508956~acl=/*~hmac=4f1b8fea61932dfe55edbc6d72ad5f0cdb99ec74a202bcae367b4a8b98c17901
-
-#EXTINF:-1,mtv films - real fm
-http://dittotv-vh.akamaihd.net/i/ditto/movies/539ab3a569702d46633e0000_baseline.smil/master.m3u8?hdnea=st=1425507567~exp=1425509067~acl=/*~hmac=ac6f2ff08c10a30cd32c58370de281f10e3c7e0a1fbe7789ab2b30736944ae35
-
-#EXTINF:-1,ek baar aaona
-http://dittotv-vh.akamaihd.net/i/draco/Movies/Ek_Baar_Aaona/Video/Ek_Baar_Aaona.smil/master.m3u8?hdnea=st=1425507611~exp=1425509111~acl=/*~hmac=68b00f1408631cbddd65e4b7de507e8311a1b7d6e85b367a09b7fd1a3e340bee
-
-#EXTINF:-1,entertainment
-http://dittotv1-vh.akamaihd.net/i/ditto/movies/ENTERTAINMENT-2014/Video/ENTERTAINMENT-2014-baseline.smil/master.m3u8?hdnea=st=1425507649~exp=1425509149~acl=/*~hmac=3334e0fa4b6956867e313614943827db97a84a8bd405120316515b01cbb497d3
-
-#EXTINF:-1,raja natwarlal
-http://dittotv-vh.akamaihd.net/i/ditto/movies/549835265665722d008b0200_baseline.smil/master.m3u8?hdnea=st=1425507710~exp=1425509210~acl=/*~hmac=6019a742c86f23f493c6d520c2f04460584eed27afb610c3a19aa97742c19f8e
-
-#EXTINF:-1,chetna and her night
-http://dittotv-vh.akamaihd.net/i/draco/Movies/Chetna_and_Her_Night/Video/Chetna_and_Her_Night.smil/master.m3u8?hdnea=st=1425507792~exp=1425509292~acl=/*~hmac=e39918f9c6c3412701122e1e92cbdf608171f7f0bb2455e90dfcf2d4fbfa0e13
-
-#EXTINF:-1,emi
-http://dittotv-vh.akamaihd.net/i/ditto/movies/5439281356657221533b0000_baseline.smil/master.m3u8?hdnea=st=1425507885~exp=1425509385~acl=/*~hmac=77eed8822588d8fdd952545c406fa63862fea5cb12ccab70a3084dde1d593951
-
-#EXTINF:-1,tamanchey
-http://dittotv-vh.akamaihd.net/i/draco/Movies/Tamanchey/Video/Tamanchey.smil/master.m3u8?hdnea=st=1425507952~exp=1425509452~acl=/*~hmac=bbb6ee0966d9fbbf690f3312ac870d2c8509eb81bf4bcb40e3543e63b7917098
-
-#EXTINF:-1,holiday
-http://dittotv-vh.akamaihd.net/i/ditto/movies/5461a5055665722d000b0000_baseline.smil/master.m3u8?hdnea=st=1425508001~exp=1425509501~acl=/*~hmac=de6d9d1d2ab66dd49e6befb8c300703b88395f68bc85be77d9c651772a37eb67
+#EXTINF:-1, [COLOR green] --Vistit husham.com and donate to keep the streams coming--[/COLOR]  
+http://www.youtube.com/user/hmemar22
 
