@@ -1,8 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 30/03/15 @ 01:50 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 30/03/15 @ 03:00 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-#EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
+#EXTINF:-1, [COLOR green] --French Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -11,17 +11,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR yellow]Please donate to husham.com for more content[/COLOR]
 http://www.youtube.com/user/hmemar22
 
-
-#EXTINF:-1,RADIO AFRICA NO1 French  sport
-http://african1paris.ice.infomaniak.ch/african1paris-64.mp3?rtmp://tv.muntumedia.com:1935/live/mp4:RTGA.mp4/pageUrl=http://www.muntumedia.com/docast.smbest
-#EXTINF:-1,RFI MONDE
-http://mp3.live.tv-radio.com/rfimonde/all/rfimonde-64k.mp3
-#EXTINF:-1,RADIO EUROPE
-http://mp3lg4.tdf-cdn.com/9240/lag_180945.mp3
-#EXTINF:-1,Radio RTL France  
-http://streaming.radio.rtl.fr/rtl-1-44-128
-#EXTINF:-1,Radio France
-http://mp3.live.tv-radio.com/franceinfo/all/franceinfo.mp3
 
 #EXTINF:-1,Bein sport french
 http://65.111.174.111:1935/iptv/beinsports1.stream/playlist.m3u8
@@ -65,8 +54,8 @@ http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/ipad_fr.m3u8
 http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.m3u8 
 #EXTINF:-1,ESPACE TV
 http://41.219.187.10:3000/8
-#EXTINF:-1,France O
-http://fast-fortress-4864.herokuapp.com/stream.streaming-hub.com:8080/simulcast/France_O/hls_v1/France_O-audio_AACL_fra_70000_355=70000-video=1404000.m3u8
+
+
 #EXTINF:-1,France 2  Live
 http://fast-fortress-4864.herokuapp.com/stream.streaming-hub.com:8080/simulcast/France_2/hls_v1/France_2-audio_AACL_fra_70000_315=70000-video=1404000.m3u8
 #EXTINF:-1,France 3
@@ -75,6 +64,9 @@ http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_3/hls
 http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_4/hls_v1/France_4-audio_AACL_fra_70000_335=70000-video=1404000.m3u8
 #EXTINF:-1,France 5
 http://fast-fortress-4864.herokuapp.com/94.23.33.220:8080/simulcast/France_5/hls_v1/France_5-audio_AACL_fra_70000_345=70000-video=1404000.m3u8
+#EXTINF:-1,France O
+http://fast-fortress-4864.herokuapp.com/stream.streaming-hub.com:8080/simulcast/France_O/hls_v1/France_O-audio_AACL_fra_70000_355=70000-video=1404000.m3u8
+
 #EXTINF:-1,France 24
 http://tv.flux.france24.com/4684/02.m3u8
 #EXTINF:-1,France 24 live 1
@@ -142,3 +134,15 @@ http://bfmlive2-i.akamaihd.net/hls/live/214427/bfmtv/03.m3u8
 rtmp://myafricanmega.tulix.tv:1935/map-rti2/map-rti2.stream
 #EXTINF:-1,RMC DECOUVERTE
 rtmp://vipwowza.yacast.net:1935/rmc_decouverte_rtmp/live/manifest.f4m/rmc_decouverte_rtmp/live/rmchdmse
+
+#EXTINF:-1,RADIO AFRICA NO1 French  sport
+http://african1paris.ice.infomaniak.ch/african1paris-64.mp3?rtmp://tv.muntumedia.com:1935/live/mp4:RTGA.mp4/pageUrl=http://www.muntumedia.com/docast.smbest
+#EXTINF:-1,RFI MONDE
+http://mp3.live.tv-radio.com/rfimonde/all/rfimonde-64k.mp3
+#EXTINF:-1,RADIO EUROPE
+http://mp3lg4.tdf-cdn.com/9240/lag_180945.mp3
+#EXTINF:-1,Radio RTL France  
+http://streaming.radio.rtl.fr/rtl-1-44-128
+#EXTINF:-1,Radio France
+http://mp3.live.tv-radio.com/franceinfo/all/franceinfo.mp3
+
