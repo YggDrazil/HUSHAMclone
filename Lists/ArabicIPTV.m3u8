@@ -229,6 +229,9 @@ http://almaareftv.com:1935/live/1/BratuMarian.m3u8
 #
 #EXTINF:-1,Al Sumaria (Iraq) [COLOR red]link_down[/COLOR]
 #
+#EXTINF: -1,[COLOR white]Karbala Live TV[/COLOR]
+https://www.karbala-tv.net/live.php
+
 #EXTINF:-1,Al yawm
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1,Alarabiya
