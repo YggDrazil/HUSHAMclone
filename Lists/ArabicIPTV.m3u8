@@ -75,6 +75,8 @@ http://185.27.237.105:8082/TV0063? gtoken 5bd6536167620b366fbc3d7515e1c973551919
 http://185.27.237.105:8082/TV0056
 #EXTINF:-1,OSN more 
 http://185.27.237.105:8082/TV0084
+#EXTINF:-1,MGM 
+http://185.27.237.105:8082/TV0050
 
 #EXTINF:-1,Dubai Racing (UAE)
 http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
@@ -84,6 +86,7 @@ http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/BratuMa
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
 #EXTINF:-1,KTV Sport Plus
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
+
 
 
 
@@ -220,6 +223,8 @@ http://livestreaming2.itworkscdn.net/sumarialive/smil:sumariamob.smil/playlist.m
 http://188.247.93.26:1935/live/aldyar.stream_360p/playlist.m3u8
 #EXTINF:-1,Iraqi songs أغاني عراقية
 rtmp://extondemand.livestream.com/ondemand playpath=trans/dv03/mogulus-user-files/chiraqsongs/2008/04/20/fa9f2ffe-4197-44ed-8f89-7325d58d26b1 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoPlay=true&jsEnabled=false pageUrl=http://watchfomny.tv/Video/Arabic/Iraq-songs/Iraq-songs.htm
+#EXTINF:-1,Iraqi Music
+http://edge20.magictvbox.com/live/al_qithara_tv/index.m3u8
 #EXTINF:-1,Almarga iraq songs فيديو كليب أغاني عراقية
 rtmp://extondemand.livestream.com/ondemand playpath=trans/dv02/mogulus-user-files/chiraqtopsong/2010/01/28/7f1bac2d-988a-4d56-87c5-f6d35c13fe9e swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoPlay=true&jsEnabled=false pageUrl=http://watchfomny.tv/Video/Arabic/Iraq-songs/Iraq-music-2.htm
 #EXTINF:-1,مسرح ومنوعات عراقية
