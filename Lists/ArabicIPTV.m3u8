@@ -218,6 +218,8 @@ http://almaareftv.com:1935/live/1/BratuMarian.m3u8
 http://livestreaming2.itworkscdn.net/sumarialive/smil:sumariamob.smil/playlist.m3u8
 #EXTINF:-1,قناة الديار
 http://188.247.93.26:1935/live/aldyar.stream_360p/playlist.m3u8
+#EXTINF:-1,Iraqi songs أغاني عراقية
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv03/mogulus-user-files/chiraqsongs/2008/04/20/fa9f2ffe-4197-44ed-8f89-7325d58d26b1 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoPlay=true&jsEnabled=false pageUrl=http://watchfomny.tv/Video/Arabic/Iraq-songs/Iraq-songs.htm 
 #EXTINF:-1,Al yawm
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1,Alarabiya
