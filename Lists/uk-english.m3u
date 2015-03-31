@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 24/03/2015 @ 19:05 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 31/03/2015 @ 02:12 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Uk Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -12,21 +12,21 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 #EXTINF:-1, Sky sports news
-http://198.27.94.105/hls/3635a4021a215f6c42d6f5455117f88a.m3u8
+rtmp://80.82.78.26:443/liverepeater<playpath>35 <swfUrl>http://popeoftheplayers.eu/atdedead.swf <pageUrl>http://popeoftheplayers.eu/crichd.php?id=35&width=600&height=450 <objectEncoding>
 #EXTINF:-1, Bt sports 1
-http://198.27.94.105/hls/74274c42d914378e8798b588f8ee9bb6.m3u8
+rtmp://80.82.70.106:443/liverepeater<playpath>13 <swfUrl>http://popeoftheplayers.eu/atdedead.swf <pageUrl>http://popeoftheplayers.eu/crichd.php?id=13&width=600&height=450 <objectEncoding>
 #EXTINF:-1, Bt sports 2
-http://198.27.94.105/hls/a7acde0d2196acbda664518913bf747b.m3u8
+rtmp://80.82.78.85:443/liverepeater<playpath>15 <swfUrl>http://popeoftheplayers.eu/atdedead.swf <pageUrl>http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 <objectEncoding>
 #EXTINF:-1, Sky sports 1
-http://192.99.24.176:8080/sportsKy1S/Sk1o1kyp/index.m3u8
+rtmp://80.82.78.85:443/liverepeater playpath=30 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=30&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1, Sky sports 2
-http://198.27.94.105/hls/925f9084c858a337f3dece668fc2225b.m3u8
+rtmp://89.248.172.159:443/liverepeater playpath=48 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=48&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1, Sky sports 3
-http://198.27.94.105/hls/cd4e1458de3c2c6b3a84ae44c0f53858.m3u8
+rtmp://80.82.70.106:443/liverepeater playpath=10 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=10&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1, Sky sports 4
-http://192.99.24.176:8080/skysPPp4/s0KsKy44Sp0o4/index.m3u8
+rtmp://80.82.70.106:443/liverepeater playpath=16 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=16&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1, Sky sports 5
-http://192.99.24.176:8080/skyp55/sk55SPsp5o0/index.m3u8
+rtmp://89.248.172.159:443/liverepeater playpath=31 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=31&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1, Sky sports f1
 rtmp://80.82.64.140:443/liverepeater playpath=22 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=22&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1, British eurosports 1
@@ -34,7 +34,7 @@ rtmp://80.82.64.140:443/liverepeater playpath=28 swfUrl=http://popeoftheplayers.
 #EXTINF:-1, British eurosport 2
 rtmp://80.82.78.26:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=620&height=490 token=#atd%#$ZH
 #EXTINF:-1, Sky boxnation
-rtmpe://46.246.124.27:1935/l/boxusa_usaa pageUrl=http://xxxxxxxxxx..xxx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/token=%ZZri(nKa@#Z/pageUrl=http://flashtv.co/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNB playpath=sboxn?bcpageUrlhttp pageUrl=http://prvservers.com/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=#yw%tt#w@kku token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@
+http://109.123.70.48/hls/channel9-sd.m3u8?s=MBXrf
 
 #EXTINF:-1, BBC news
 http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
