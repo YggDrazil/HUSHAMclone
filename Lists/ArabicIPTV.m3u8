@@ -236,6 +236,8 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kS
 http://vizrthlsaje-i.akamaihd.net/hls/live/206524/AJEnglish/2873287_iOS/500.m3u8
 #EXTINF:-1,Alrayi
 mms://62.215.216.130/wmtencoder/alrai350.wmv
+#EXTINF:-1,ANB Live
+http://188.247.93.26:1935/live/anb.stream_360p/playlist.m3u8
 #EXTINF:-1,ANN News
 rtmp://ns8.indexforce.com/ann/ann
 #EXTINF:-1,Albadawiyah
