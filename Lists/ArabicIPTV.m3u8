@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 31/03/15 @ 13:25 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 31/03/15 @ 20:26 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -77,6 +77,8 @@ http://185.27.237.105:8082/TV0056
 http://185.27.237.105:8082/TV0084
 #EXTINF:-1,MGM 
 http://185.27.237.105:8082/TV0050
+#EXTINF:-1,OSN Kids
+http://185.27.237.105:8082/TV0053
 
 #EXTINF:-1,Dubai Racing (UAE)
 http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
