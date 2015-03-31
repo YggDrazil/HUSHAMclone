@@ -15,6 +15,8 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 #EXTINF:-1,Rai Sport 2
 mmsh://212.162.68.163:80/raisport2
+#EXTINF:-1,ESPN 3
+http://hls.goodgame.ru/hls/35117.m3u8 
 
 #EXTINF:-1,Rai Premium
 mmsh://212.162.68.163:80/Rai_Premium?MSWMExt.asf
