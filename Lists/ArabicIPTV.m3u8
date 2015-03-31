@@ -219,7 +219,12 @@ http://livestreaming2.itworkscdn.net/sumarialive/smil:sumariamob.smil/playlist.m
 #EXTINF:-1,قناة الديار
 http://188.247.93.26:1935/live/aldyar.stream_360p/playlist.m3u8
 #EXTINF:-1,Iraqi songs أغاني عراقية
-rtmp://extondemand.livestream.com/ondemand playpath=trans/dv03/mogulus-user-files/chiraqsongs/2008/04/20/fa9f2ffe-4197-44ed-8f89-7325d58d26b1 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoPlay=true&jsEnabled=false pageUrl=http://watchfomny.tv/Video/Arabic/Iraq-songs/Iraq-songs.htm 
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv03/mogulus-user-files/chiraqsongs/2008/04/20/fa9f2ffe-4197-44ed-8f89-7325d58d26b1 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoPlay=true&jsEnabled=false pageUrl=http://watchfomny.tv/Video/Arabic/Iraq-songs/Iraq-songs.htm
+#EXTINF:-1,Almarga iraq songs فيديو كليب أغاني عراقية
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv02/mogulus-user-files/chiraqtopsong/2010/01/28/7f1bac2d-988a-4d56-87c5-f6d35c13fe9e swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoPlay=true&jsEnabled=false pageUrl=http://watchfomny.tv/Video/Arabic/Iraq-songs/Iraq-music-2.htm
+#EXTINF:-1,Alqithara
+http://upmv09-ntt-upmv.ustream.tv/0/1/58/58347/58347300/1_4365778_58347300.flv?e=1428405859&h=805ae55387a1382c3631c25a995eff49&tracking=8763ef_57_1_0_0
+
 #EXTINF:-1,Al yawm
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1,Alarabiya
