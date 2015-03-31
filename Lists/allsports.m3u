@@ -155,10 +155,12 @@ http://65.111.174.111:1935/iptv/beinsports2.stream/playlist.m3u8?husham.com
 #EXTINF:-1,BeinSports 1 - French
 http://65.111.174.111:1935/iptv/beinsports1.stream/playlist.m3u8?husham.com
 
-#EXTINF:-1,Premier/Setanta 1
-http://s1.satcardserver.com:8000/live/gizmis_4/WFf1ZVsYgx/80.m3u8
+
 #EXTINF:-1,Setanta Ireland 
-http://s1.satcardserver.com:8000/live/gizmis_4/WFf1ZVsYgx/63.m3u8
+http://109.123.70.48/hls/channel12-sd.m3u8?s=MBXrf
+
+#EXTINF:-1,Premier/Setanta 1 ( LINK NOT WORKING AND WILL RETRUN SOON )
+http://s1.satcardserver.com:8000/live/gizmis_4/WFf1ZVsYgx/80.m3u8
 
 
 #EXTINF:-1,Euro Sport
