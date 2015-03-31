@@ -1,0 +1,42 @@
+#EXTM3U 
+
+#EXTINF:-1, [COLOR yellow]Updated 31/03/2015 @ 14:05 [/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR green] --ITALY Live Tv--[/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR green] --These links are made for the community--[/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR green] --Easily available for the Robin Hood Addon--[/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+
+#EXTINF:-1,Rai Sport 2
+mmsh://212.162.68.163:80/raisport2
+
+#EXTINF:-1,Rai Premium
+mmsh://212.162.68.163:80/Rai_Premium?MSWMExt.asf
+#EXTINF:-1,Rai 1
+http://origin2.live.web.tv.streamprovider.net/streams/a3be8da5ba57ddb33ada9fa8fcd53a19/index.m3u8
+#EXTINF:-1,Rai 2
+http://origin2.live.web.tv.streamprovider.net/streams/84553722f218dda44aab91b4ae0c2d42/index.m3u8
+#EXTINF:-1,Rai4
+mmsh://212.162.68.162:80/Rai4/Rai4?MSWMExt=.asf
+
+#EXTINF:-1,CANALE DIECI
+rtmp://176.31.226.78/ch10live/stream1.sdp
+#EXTINF:-1,FOUR MUSIC
+rtmp://wowza1.top-ix.org/quartaretetv1/formusicweb
+
+#EXTINF:-1,la1
+http://iphonelive.rtve.es/LA1_LV3_IPH/LA1_LV3_IPH.m3u8
+#EXTINF:-1,la2
+http://iphonelive.rtve.es/LA2_LV3_IPH/bitrate_2.m3u8
+
+#EXTINF:-1,la5 hd
+http://mdsios1-lh.akamaihd.net/i/mitele/esmediaset_11@168471/index_0_av-b.m3u8
+#EXTINF:-1,la6
+rtmp://la6.stream.internetone.it/streaming/la6.stream
+
