@@ -255,7 +255,8 @@ http://188.247.93.26:1935/live/anb.stream_360p/playlist.m3u8
 rtmp://ns8.indexforce.com/ann/ann
 #EXTINF:-1,Albadawiyah
 http://streamer11.elementssys.com:8080/albadawiyah-800-hdsx/index.m3u8
-
+#EXTINF:-1, MCP
+rtmp://204.77.214.15/mogulus-stream-edge/mcpmusictv playpath=rtmp://212-94.livestream.com/affiliateStream/mcpmusictv/6c69766572657065617465723a72746d703a2f2f3231322d39342e6c69766573747265616d2e636f6d2f6d6f67756c75732f6d63706d7573696374762f6d7573696337616e696e3030353032303135303333312d3139343331È95f343436 <swfUrl>http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoplay=true&width=350&time=&jsEnabled=false&height=280 pageUrl=http://cdn.livestream.com/embed/McpMusicTV?layout=4&height=280&width=350&autoplay=true
 
 #EXTINF:-1,Syria
 http://82.137.248.16:1935/Sat/SatLive2/HasBahCa.m3u8
