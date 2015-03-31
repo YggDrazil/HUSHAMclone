@@ -155,13 +155,11 @@ http://65.111.174.111:1935/iptv/beinsports2.stream/playlist.m3u8?husham.com
 #EXTINF:-1,BeinSports 1 - French
 http://65.111.174.111:1935/iptv/beinsports1.stream/playlist.m3u8?husham.com
 
-
 #EXTINF:-1,Setanta Ireland 
 http://109.123.70.48/hls/channel12-sd.m3u8?s=MBXrf
 
 #EXTINF:-1,Premier/Setanta 1 ( LINK NOT WORKING AND WILL RETRUN SOON )
 http://s1.satcardserver.com:8000/live/gizmis_4/WFf1ZVsYgx/80.m3u8
-
 
 #EXTINF:-1,Euro Sport
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
@@ -174,8 +172,10 @@ rtmp://137.63.71.18:443/liverepeater/2778Eurox pageUrl=http://xxxxxxxxxxxxxxxx.x
 #EXTINF:-1, Fox Sport2
 rtmp://31.220.0.195:80/live/fox2 pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=fox22x?foxsport1?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
 
-#EXTINF:-1,UFC Combate
-rtmp://76.73.108.33/edge playpath=combate swfUrl=http://www.livestreamtv.biz/swfs/player.swf live=1 pageUrl=http://www.livestreamtv.biz/power.php?file=combate
+#EXTINF:-1,WWE Network 1st link
+rtmpe://l.xuscacamusca.se:Abouda/r/ playpath=wwenetwork412 swfUrl=http://mybeststream.xyz/MjJmN2I4MzNhY2NiNjdmMjAyN2U4M2Ni/jwplayer.flash.swf live=1 pageUrl=http://mybeststream.xyz/Abouda/gen_h.php?id=27470&width=100%25&height=100%
+#EXTINF:-1,WWE Network 2nd link
+rtmp://94.102.49.126:443/liverepeater/wwee pageUrl=http://xxxxxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=49?32?34 pageUrl=http://popeoftheplayers.eu/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1page/playpath=42?finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
 
 
 #EXTINF:-1,PAC-12 Anistorpic
