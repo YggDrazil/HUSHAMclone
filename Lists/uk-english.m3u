@@ -41,13 +41,9 @@ rtmp://89.248.172.159:443/liverepeater playpath=31 swfUrl=http://popeoftheplayer
 #EXTINF:-1, Sky sports f1
 rtmp://80.82.64.140:443/liverepeater playpath=22 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=22&width=600&height=450 token=#atd%#$ZH
 
-#EXTINF:-1,British Eurosport - Link1 - By Ted
-http://93.184.221.133/00573D/1210/1210-0.m3u8
-#EXTINF:-1,British Eurosport 2 - Link1 - By Ted
-http://93.184.221.133/00573D/1211/1211-0.m3u8
-#EXTINF:-1, British eurosports 1 - Link2
+#EXTINF:-1, British eurosports 1
 rtmp://80.82.64.140:443/liverepeater playpath=28 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=22&width=600&height=450 token=#atd%#$ZH
-#EXTINF:-1, British eurosport 2 - Link2
+#EXTINF:-1, British eurosport 2 
 rtmp://80.82.78.26:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/player3.php?id=15&width=620&height=490 token=#atd%#$ZH
 #EXTINF:-1, Sky boxnation
 http://109.123.70.48/hls/channel9-sd.m3u8?s=MBXrf
