@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 06/04/15 @ 09:40 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 06/04/15 @ 10:00 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -83,9 +83,9 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
 
 #EXTINF:-1,MBC 1 Link 1 (Link not stable )
-rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400 
-#EXTINF:-1,MBC 1 Link 2
 rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/mbc_1
+#EXTINF:-1,MBC 1 Link 2
+rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400
 
 #EXTINF:-1,Mbc 2 - Linke 1
 http://63.237.48.3/ios/MBC2/MBC2.m3u8
@@ -206,19 +206,8 @@ http://almaareftv.com:1935/live/1/BratuMarian.m3u8
 http://livestreaming2.itworkscdn.net/sumarialive/smil:sumariamob.smil/playlist.m3u8
 #EXTINF:-1,قناة الديار
 http://188.247.93.26:1935/live/aldyar.stream_360p/playlist.m3u8
-#EXTINF:-1,Iraqi songs أغاني عراقية
-rtmp://extondemand.livestream.com/ondemand playpath=trans/dv03/mogulus-user-files/chiraqsongs/2008/04/20/fa9f2ffe-4197-44ed-8f89-7325d58d26b1 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoPlay=true&jsEnabled=false pageUrl=http://watchfomny.tv/Video/Arabic/Iraq-songs/Iraq-songs.htm
-#EXTINF:-1,Iraqi Music
-http://edge20.magictvbox.com/live/al_qithara_tv/index.m3u8
-#EXTINF:-1,Almarga iraq songs فيديو كليب أغاني عراقية
-rtmp://extondemand.livestream.com/ondemand playpath=trans/dv02/mogulus-user-files/chiraqtopsong/2010/01/28/7f1bac2d-988a-4d56-87c5-f6d35c13fe9e swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoPlay=true&jsEnabled=false pageUrl=http://watchfomny.tv/Video/Arabic/Iraq-songs/Iraq-music-2.htm
-#EXTINF:-1,مسرح ومنوعات عراقية
-rtmp://extondemand.livestream.com/ondemand playpath=trans/dv01/mogulus-user-files/chiraqistheater/2008/11/16/a60f780d-8547-4948-aa56-ec895b06d019 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoPlay=true&jsEnabled=false pageUrl=http://watchfomny.tv/Video/Arabic/02/Iraqis-theater/Iraqis-theater.htm 
-#EXTINF:-1,kathem Alsahir تلفزيون عشاق القيصر
-rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chkathem/2010/04/11/3dcf6c62-0a64-4983-9f29-cdcab5c45851 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoPlay=true&jsEnabled=false pageUrl=http://watchfomny.tv/Video/Arabic/kathem-Alsahir/kathem-Alsahir.htm
-#EXTINF:-1,Alqithara
+#EXTINF:-1,Alqithara (VOD)
 http://upmv09-ntt-upmv.ustream.tv/0/1/58/58347/58347300/1_4365778_58347300.flv?e=1428405859&h=805ae55387a1382c3631c25a995eff49&tracking=8763ef_57_1_0_0
-
 #EXTINF:-1,Al yawm
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1,Alarabiya
