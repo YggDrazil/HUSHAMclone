@@ -28,7 +28,8 @@ rtmp://edge4.live.irib.ir/etv3/irib3-3
 rtmp://livetv.irib.ir/livepkgr/irib4-1
 #EXTINF:-1,IRIB 5
 rtmp://livetv.irib.ir/tv/irib5-1
-
+#EXTINF:-1,IRIB Amoozesh
+rtmp://livetv.irib.ir/livepkgr/learning-1
 
 #EXTINF:-1,GEM Bollywood (Iran)
 rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-gembollywood-live-25f-16x9-HD?ref=www.gemonline.tv&USER=Gem+Bollywood
