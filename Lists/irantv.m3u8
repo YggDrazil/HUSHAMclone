@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 26/03/15 @ 14:50 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 06/03/15 @ 10:08 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --IRAN Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -10,8 +10,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR yellow]Please donate to husham.com for more content[/COLOR]
 http://www.youtube.com/user/hmemar22
-#EXTINF:-1, [COLOR yellow]Even if its £1[/COLOR]
-http://www.youtube.com/user/hmemar22
 
 #EXTINF:-1,ASRE_EMROZZ (Iran)
 http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8
@@ -19,6 +17,19 @@ http://63.237.48.3/ios/ASRE_EMROZZ/ASRE_EMROZZ.m3u8
 rtsp://bidari.streamwebtown.com/bidaritv
 #EXTINF:-1,CHANNEL_ONE (Iran)
 http://63.237.48.3/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8
+
+#EXTINF:-1,IRIB 1
+rtmp://livetv.irib.ir/livepkgr/irib1-1
+#EXTINF:-1,IRIB 2
+rtmp://livetv.irib.ir/tv/irib2-1
+#EXTINF:-1,IRIB 3
+rtmp://edge4.live.irib.ir/etv3/irib3-3
+#EXTINF:-1,IRIB 4
+rtmp://livetv.irib.ir/livepkgr/irib4-1
+#EXTINF:-1,IRIB 5
+rtmp://livetv.irib.ir/tv/irib5-1
+
+
 #EXTINF:-1,GEM Bollywood (Iran)
 rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-gembollywood-live-25f-16x9-HD?ref=www.gemonline.tv&USER=Gem+Bollywood
 #EXTINF:-1,GEM Junior Live(Iran)
