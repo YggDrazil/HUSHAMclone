@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 16/03/2015 @ 00:01 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 06/04/2015 @ 00:01 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Uk Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -37,6 +37,8 @@ rtmp://80.82.78.26:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.e
 
 #EXTINF:-1, BBC news
 http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
+#EXTINF:-1, BBC news - link 2
+http://a.files.bbci.co.uk/media/live/manifests/hls/tablet/ak/news_ch.m3u8
 #EXTINF:-1, CNN
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
 #EXTINF:-1, BBC1

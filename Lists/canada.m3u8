@@ -1,0 +1,51 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]Updated 06/03/15 @ 14:38 [/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR green] --Canada Live Tv--[/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR yellow]Please donate to husham.com for more content[/COLOR]
+http://www.youtube.com/user/hmemar22
+
+#EXTINF:-1, CHCH
+rtmp://54.85.197.21:1935/live playpath=news swfUrl=http://www.chch.com/wp-content/plugins/projekktorvm/src/StrobeMediaPlayback.swf?enableStageVideo=true&disableHardwareAcceleration=false&javascriptCallbackFunction=window.projekktorOSMFReadyad859d51e580abcf06b7185b94a962fa& pageUrl=http://www.chch.com/live/ 
+#EXTINF:-1, CFCN Lethbridge
+http://198.179.31.198/live/2059.high.stream/2059.high.stream/index.m3u8
+#EXTINF:-1, CFCN Edmonton
+http://198.179.31.198/live/2053.high.stream/2053.high.stream/index.m3u8
+#EXTINF:-1, CFCN Yorkton
+http://198.179.31.198/live/2062.high.stream/2062.high.stream/index.m3u8
+#EXTINF:-1, CFCN Regina
+http://198.179.31.198/live/2056.high.stream/2056.high.stream/index.m3u8
+#EXTINF:-1, CPAC 
+http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_2000_av-p.m3u8
+#EXTINF:-1,Cpac
+http://bcliveuniv-lh.akamaihd.net/i/cpac1eng2014_01@119330/index_800_av-p.m3u8
+#EXTINF:-1,CTV NEWS CHANNEL HD (CANADA)
+http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/ctvnewsOpen8.m3u8
+#EXTINF:-1,CP 24 NEWSCHANNEL HD (CANADA)
+http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/cp24Open8.m3u8
+#EXTINF:-1,LCN NEWS 
+rtmp://cp39414.live.edgefcs.net/live/lcn2@9754
+#EXTINF:-1,MATV
+rtmp://cp39414.live.edgefcs.net/live/event1@9756
+#EXTINF:-1,RDS
+http://t.co/wGa8q0PDJC
+#EXTINF:-1,RDS 2
+http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open8.m3u8
+#EXTINF:-1,RDS  25
+http://ams-lp9.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSOpen8.m3u8
+#EXTINF:-1,2  RDS info
+http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8
+#EXTINF:-1,TSN 1
+http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
+#EXTINF:-1,TSN 2
+http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
+#EXTINF:-1,The Weather Network
+http://bcoveliveios-i.akamaihd.net/hls/live/207737/1942203455001/nat/master_Layer5.m3u8
+#EXTINF:-1, TSC The shopping Channel
+http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index_3_av-p.m3u8
