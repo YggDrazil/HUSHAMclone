@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 08/04/15 @ 21:50 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 10/04/15 @ 16:50 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -48,30 +48,43 @@ rtmp://89.248.169.48:1935/iguide/00b6jg0vkc984ee?lx8byomxs434xh5?frfv4gaulgbu0ig
 #EXTINF:-1, Bein 12
 rtmp://89.248.172.95/iguide playpath=d9ur73pgpwbmxw9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30822&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
+#EXTINF:-1,OMN comedy
+http://185.27.237.105:8082/TV0021
+#EXTINF:-1,OMN Movies drama
+http://185.27.237.105:8082/TV0022
+#EXTINF:-1,OMN Movies hd
+http://185.27.237.105:8082/TV0023
+#EXTINF:-1,OMN Movies hd 2
+http://185.27.237.105:8082/TV0024
+#EXTINF:-1,OMN Movies action 
+http://185.27.237.105:8082/TV0025
+#EXTINF:-1,OMN HD
+http://185.27.237.105:8082/TV0050
+#EXTINF:-1,OMN star Movies hd
+http://185.27.237.105:8082/TV0051
+#EXTINF:-1,OMN Movies kids
+http://185.27.237.105:8082/TV0053
+#EXTINF:-1,OMN 
+http://185.27.237.105:8082/TV0054
+#EXTINF:-1,OMN 
+http://185.27.237.105:8082/TV0055
+#EXTINF:-1,star OMN
+http://185.27.237.105:8082/TV0056
+#EXTINF:-1,OMN 2 Film
+http://185.27.237.105:8082/TV0062
+#EXTINF:-1,OMN 2 Film
+http://185.27.237.105:8082/TV0062? gtoken 5bd6536167620b366fbc3d7515e1c9735519195fb36899fc4ae844dcee953ef5 =
+#EXTINF:-1,OMN YAHALA hd
+http://185.27.237.105:8082/TV0052
+#EXTINF:-1,OMN YAHALA hd 1
+http://185.27.237.105:8082/TV0064
+#EXTINF:-1,OMN YAHALA hd 2
+http://185.27.237.105:8082/TV0065
+#EXTINF:-1,OMN first HD
+http://185.27.237.105:8082/TV0063? gtoken 5bd6536167620b366fbc3d7515e1c9735519195fb36899fc4ae844dcee953ef5 =
 
-#EXTINF:-1,OSN FUN
-http://91.109.20.227:8080/TV0113?gtoken=5bd6536167620b366fbc3d7515e1c9735519195fb36899fc4ae844dcee953ef5
-
-#EXTINF:-1,OSN YAHALA
-http://91.109.20.227:8080/TV0052?gtoken=5bd6536167620b366fbc3d7515e1c9735519195fb36899fc4ae844dcee953ef5
-
-#EXTINF:-1,OSN HD
-http://91.109.20.227:8080/TV0054?gtoken=5bd6536167620b366fbc3d7515e1c9735519195fb36899fc4ae844dcee953ef5
-
-#EXTINF:-1,OSN Action
-http://91.109.20.227:8080/TV0025?gtoken=5bd6536167620b366fbc3d7515e1c9735519195fb36899fc4ae844dcee953ef5
- 
-#EXTINF:-1,OSN FUN 2
-http://91.109.20.227:8080/TV0111?gtoken=5bd6536167620b366fbc3d7515e1c9735519195fb36899fc4ae844dcee953ef5
-
-#EXTINF:-1,OSN Comedy
-http://91.109.20.227:8080/TV0021? gtoken 5bd6536167620b366fbc3d7515e1c9735519195fb36899fc4ae844dcee953ef5 =
-
-#EXTINF:-1,OSN
-http://91.109.20.227:8080/TV0021?gtoken=5bd6536167620b366fbc3d7515e1c9735519195fb36899fc4ae844dcee953ef5
-
-#EXTINF:-1,OSN Y
-http://91.109.20.227:8080/TV0084?gtoken=5bd6536167620b366fbc3d7515e1c9735519195fb36899fc4ae844dcee953ef5
+#EXTINF:-1,OMN more 
+http://185.27.237.105:8082/TV0084
 
 #EXTINF:-1,Dubai Racing (UAE)
 http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
