@@ -77,16 +77,6 @@ rtmp://streamer1.streamhost.org/salive/GMImissiontvh
 #EXTINF:-1,AXN HD
 http://113.160.49.34/lives/origin03/axnhd.isml/axnhd-2096k.m3u8
  
-#EXTINF:-1,Cinemax
-http://113.160.49.34/lives/origin03/cinemaxsd.isml/cinemaxsd-1096k.m3u8
- 
- 
-#EXTINF:-1,Disney
-http://142.4.216.60:1935/edge/_definst_/2tag4dzgwof5ma2/playlist.m3u8?wowzasessionid=1420170412&xs=_we_MnRhZzRkemd3b2Y1bWEyfDE0MjAyMDY0MTJ8NzIuMjcuMjE0LjMzfDU0YTYxNGFjYjQwN2V8ZWMzN2Y0ZTg3OGE2ZDhmMzgyY2Y0ODhjMTgzOTYzMTVjNDVhMWVjMg timeout=10
- 
-#EXTINF:-1,Extreme Sports
-http://213.250.19.50/extreme/extreme.m3u8
-
 #EXTINF:-1,Press TV 
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/presstv/ls_fiber/b_,828,528,264,.m3u8
 #EXTINF:-1, WGN9 (CHICAGO)
@@ -229,8 +219,7 @@ http://xrxs.net/video/live-p12wash-4728.m3u8
 
 #EXTINF:-1, [COLOR yellow]Music Channels below[/COLOR]
 http://www.youtube.com/user/hmemar22?husham.com
-#EXTINF:-1, [COLOR yellow]Music Channels below[/COLOR]
-http://www.youtube.com/user/hmemar22?husham.com
+
 
 
 #EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="MUSIC",Vevo1 HD 
@@ -310,70 +299,14 @@ rtmp://fms.105.net/live/105Test1
 
 #EXTINF:-1 tvg-logo="http://i95.photobucket.com/albums/l154/gilberthoneynutcheerios/Mobile%20Uploads/cheerio600_zpsbc172607-1.jpeg" group-title="MUSIC", Partytv Eska HD
 rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
-
+#EXTINF:-1, [COLOR yellow]end of Music Channels above[/COLOR]
+http://www.youtube.com/user/hmemar22
 
 #EXTINF:-1,New12 Broklyn
 rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000 playpath=fs-ace3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-ace3010000000000 pageUrl=http://www.news12.com/player/flowplayer/.live_player.html?region=BK live=true swfVfy=true timeout=10
 
 
 
-
-
-#EXTINF:-1, FOX
-
-http://live.oneplay.tv/reproducir/85.m3u8
-
-#EXTINF:-1, SONY
-
-http://live.oneplay.tv/reproducir/89.m3u8
-
-#EXTINF:-1, WARNER HD
-
-http://live.oneplay.tv/reproducir/93.m3u8
-
-#EXTINF:-1, UNIVERSAL
-
-http://live.oneplay.tv/reproducir/97.m3u8
-
-#EXTINF:-1, FX HD
-
-http://live.oneplay.tv/reproducir/101.m3u8
-
-#EXTINF:-1, A&E
-
-http://live.oneplay.tv/reproducir/105.m3u8
-
-#EXTINF:-1, AXN HD
-
-http://live.oneplay.tv/reproducir/109.m3u8
-
-#EXTINF:-1, TRUE HD
-
-http://live.oneplay.tv/reproducir/113.m3u8
-
-#EXTINF:-1, COMEDY HD
-
-http://live.oneplay.tv/reproducir/117.m3u8
-
-#EXTINF:-1, UNICABLE HD
-
-http://live.oneplay.tv/reproducir/121.m3u8
-
-#EXTINF:-1, FOX HD
-
-http://live.oneplay.tv/reproducir/125.m3u8
-
-#EXTINF:-1, UNIVERSAL
-
-http://live.oneplay.tv/reproducir/137.m3u8
-
-#EXTINF:-1, SYFY HD
-
-http://live.oneplay.tv/reproducir/141.m3u8
-
-#EXTINF:-1, FX HD
-
-http://live.oneplay.tv/reproducir/145.m3u8
 
 
 #EXTINF:-1,Links down below here and need updating[COLOR red]link_down[/COLOR]
@@ -456,8 +389,6 @@ http://198.179.31.196/live/2927.low.stream/playlist.m3u8?id=0ad5aac39bb13fbed386
 #EXTINF:-1 , Food news#[COLOR red]link_down[/COLOR]
 #
 
-#EXTINF:-1,HBO[COLOR red]link_down[/COLOR]
-http://198.27.94.105/hls/hbo_1.m3u8
 #EXTINF:-1, The CW[COLOR red]link_down[/COLOR]
 http://198.27.94.105/hls/cw_1.m3u8
 #EXTINF:-1, The USA Network[COLOR red]link_down[/COLOR]
