@@ -90,9 +90,11 @@ http://wgntribune-lh.akamaihd.net/i/WGNTribune_1@109089/master.m3u8?husham.com
 #EXTINF:-1, CNN USA
 http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,828,528,264,.m3u8
 #EXTINF:-1, CNN USA
-http://142.4.216.60:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
+rtmp://watch2.streamlive.to:1935/edge/z28ie9oqoku4qoy/nz7l9vc5nv1og7b/vx63a0c7mxk2jt8/7uz4als3nigi0j3/z4cxm7zlfyqs65m/kjgkefh6la1di6g/1ioc7taql4472xs/1341ujtliqndod8/rjxo8hz17q9waiq live=1 swfUrl=http://www.streamlive.to/player/player_ilive_2.swf pageUrl=http://www.ilive.to/se decryptUrl=http://www.streamlive.to/view/?pw=iu973j
 #EXTINF:-1, CNN International
 http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_,264,528,828,.m3u8
+#EXTINF:-1, CNN International
+http://142.4.216.60:1935/edge/_definst_/rjxo8hz17q9waiq/playlist.m3u8?wowzasessionid=1758235421
 #EXTINF:-1, Deutsche Welle
 http://dwtvios_asiaplus-i.akamaihd.net/hls/live/200521-b/dwtvasiaplus/x1x/playlist1x.m3u8?husham.com
 #EXTINF:-1, Fashion TV.
