@@ -149,3 +149,15 @@
 </channel>
   </channels>
 
+  
+  
+<channels>
+
+<channel>
+      <name>[COLOR lime]Husham test area(please ignore) [/COLOR]</name>
+  <thumbnail>https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/test.m3u</externallink>
+</channel>
+  </channels>
