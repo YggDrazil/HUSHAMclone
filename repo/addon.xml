@@ -13,7 +13,7 @@
 	</extension>
 </addon>
 
-<addons>
+
 <addon id="plugin.video.RobinHood-PPL-List"
        name="RobinHood-People List"
        version="2.0.1"
