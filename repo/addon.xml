@@ -1,4 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<addon id="repository.husham.com" name="Husham.com Repo" version="1.0.2" provider-name="husham.com">
+	<extension point="xbmc.addon.repository" name="Husham.com Repository">
+		<info compressed="false">https://raw.githubusercontent.com/hmemar/husham.com/master/repo/addon.xml</info>
+		<checksum>https://raw.githubusercontent.com/hmemar/husham.com/master/repo/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/hmemar/husham.com/master/zips</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>The Husham.com Repo</summary>
+		<description>Download and install addons from husham.com repo</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
 <addons>
 <addon id="plugin.video.RobinHood-PPL-List"
        name="RobinHood-People List"
