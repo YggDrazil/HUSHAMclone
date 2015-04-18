@@ -71,6 +71,9 @@ rtmp://31.220.0.195:80/live/espnuu pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.2
 #EXTINF:-1,ESPN 2 UK
 rtmp://31.220.0.195:80/live/espnuu pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=espnxuk?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
 
+#EXTINF:-1,ESPN 3 ( Not english 
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?
+
 #EXTINF:-1,ESPN BaseBall Today
 http://198.179.31.181:1935/vodlast/1147.low.m4v/playlist.m3u8
 
@@ -98,7 +101,6 @@ http://alil.in/tsn4
 http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
 #EXTINF:-1,TSN 5 Backup
 http://alil.in/tsn5
-
 
 #EXTINF:-1,Astro 1
 http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/72.ts
@@ -176,15 +178,10 @@ http://65.111.174.111:1935/iptv/beinsports2.stream/playlist.m3u8?husham.com
 #EXTINF:-1,BeinSports 1 - French
 http://65.111.174.111:1935/iptv/beinsports1.stream/playlist.m3u8?husham.com
 
-#EXTINF:-1,Setanta Ireland 
-http://109.123.70.48/hls/channel12-sd.m3u8?s=MBXrf
 
-#EXTINF:-1,Premier/Setanta 1 ( LINK NOT WORKING AND WILL RETRUN SOON )
-http://s1.satcardserver.com:8000/live/gizmis_4/WFf1ZVsYgx/80.m3u8
-#EXTINF:-1,Setanta Sports UK - backup link
+#EXTINF:-1,Setanta Sports
 http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/3.ts
-#EXTINF:-1,Setanta Hd Asia  - backup link
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/80.ts
+
 
 #EXTINF:-1,Euro Sport
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
