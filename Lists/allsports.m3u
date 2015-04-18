@@ -64,6 +64,12 @@ http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
 #EXTINF:-1,Fox sports 2 Australia
 rtmp://93.174.93.230/iguide playpath=xkx26hf4rjxfn0h?zvfojee7twj0mqs?s1hh2ocjs9gvbz0?utifa3u3m1ktgd6?ztg7uhgjinfktt4?p7wksud7foc4cqd?c9l3ahxqsbqmi0t swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
+#EXTINF:-1,PRO SPORT 1
+http://185.56.30.127:8082/TV4133
+#EXTINF:-1,PRO SPORT 2
+http://185.56.30.127:8082/TV4134
+#EXTINF:-1,PRO SPORT 3
+http://185.56.30.127:8082/TV4135
 
 #EXTINF:-1,ESPN 1 US 
 rtmp://46.246.29.157:1935/stream/ playpath=1Kq68GX6Kc.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=otherse&width=600&height=460
