@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 18/04/2015 @ 12:38 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 18/04/2015 @ 13:00 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Uk Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -47,6 +47,9 @@ rtmp://89.248.172.159:443/liverepeater/2778Eurox pageUrl=http://xxxxxxxxxxxxxxxx
 #EXTINF:-1, Boxnation
 http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8 
 
+#EXTINF:-1,ESPN 2 UK
+rtmp://31.220.0.195:80/live/espnuu pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=espnxuk?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
+
 #EXTINF:-1, BBC news
 http://www.bbc.co.uk/mediaselector/playlists/hls/mobile_wifi/ak/bbc1.m3u8
 #EXTINF:-1, CNN
@@ -69,7 +72,8 @@ http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 http://198.179.30.108/live/2.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe64a6144bd6452f35c672a6f5b1e14cad12f329b0e20f5ed97009e918be1e54d2ff9d69cd1875fb7da3b831812ca1b7e0c0621752f58c80751ac8ef0bab7ed67d7345bf0d71fda7cc06a28c0ca58d3ffa913ef6877100fb60d6e062894cd4cacbb1b2a741bd96c47cb5e1a799e368f70887872164d6d024e3788a9992618d613c8b77fdd22a7b3aeba948ff144a5e8627
 #EXTINF:-1, E4[COLOR red]link_down[/COLOR]
 http://live304.edge.filmon.com/live/65.low.stream/playlist.m3u8?id=0ad5aac39bb13fbee93ef44a91315a0288cb74e7b2aae2a7278689f3856d3ac785d7f126cc88907d96ace187b95e5f84cf7477a5b4c7b18e8e886bca2cec950ea86a5397c41e6dcccc9ea0187a9a57b4ac76cfe51b3264b57fcdb62b01a30aa2cdb4619764b3b68c5c27b46ea817d32c0ac24243a9553bb88645e4ec2867e3831f6b5137679198dac603247a73f80e5ccaa86e6948595f81
-
+#EXTINF:-1, Cbbeebies / BBC 3
+http://llnw.live.simplestream.com/coder7/coder.channels.channel4/hls/3/playlist.m3u8 ITV1 
 #EXTINF:-1, Film 4
 http://78.129.175.72/live/film4/film4.m3u8
 #EXTINF:-1, Five[COLOR red]link_down[/COLOR]

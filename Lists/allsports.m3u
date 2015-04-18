@@ -1,5 +1,18 @@
 #EXTM3U
 
+#EXTINF:-1, [COLOR yellow]Updated 18/04/2015 @ 13:00 [/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR green] --http://bit.ly/hushamallsports--[/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR green] --Free Collection of IPTV sports links--[/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+
 #EXTINF:-1, Sky sports news
 rtmp://89.248.172.159:443/liverepeater playpath=35 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=35&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1,Bt sports 1
@@ -54,6 +67,9 @@ rtmp://46.246.29.157:1935/stream/ playpath=1Kq68GX6Kc.stream swfUrl=http://thecd
 
 #EXTINF:-1,ESPN 2 US
 rtmp://31.220.0.195:80/live/espnuu pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=espn22?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
+
+#EXTINF:-1,ESPN 2 UK
+rtmp://31.220.0.195:80/live/espnuu pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=espnxuk?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
 
 #EXTINF:-1,ESPN BaseBall Today
 http://198.179.31.181:1935/vodlast/1147.low.m4v/playlist.m3u8
