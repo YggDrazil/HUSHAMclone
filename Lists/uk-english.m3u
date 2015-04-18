@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 18/04/2015 @ 11:52 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 18/04/2015 @ 12:19 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Uk Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -79,7 +79,10 @@ http://198.179.30.110/live/845.high.stream/playlist.m3u8?id=0ad5aac39bb13fbe3612
 #EXTINF:-1, 5*[COLOR red]link_down[/COLOR]
 http://live300.edge.filmon.com/live/851.low.stream/playlist.m3u8?id=0ad5aac39bb13fbed32ca9e84fc504ec980c28eb323bcaeb482abbe9bdb2eb8d6c413567a0d08351c145c8377f4c530cb2f2b0dda020e7f64622c22dd46bb771045f0d9c0dd42c634f031533e82f2294b0b1a76b79d47e9dddc0cfb5bc7f6f0bcd49e85ca8c0dbd1832591bb778bd3b17b985623f89c300faad32d60ae0ba1669b00512de744a6d258e535ffcbfce51664fd3dc82a5b2678
 
-
+#EXTINF:-1,ART
+http://185.56.30.127:8082/TV4307
+EXTINF:-1,SKY ARTS 2
+http://185.56.30.127:8082/TV4250
 
 #EXTINF:0,Sky Movies Premiere 
 http://91.109.20.227:8080/TV4251 
