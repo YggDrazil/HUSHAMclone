@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 18/04/15 @ 16:26 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 19/04/15 @ 13:46 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -581,6 +581,13 @@ http://www.youtube.com/user/hmemar22
 http://www.youtube.com/user/hmemar22
 #EXTINF:-1, فيلم Djinn اﻹماراتي الرعب العربي الجن اونلاين 2014 كامل
 http://flv.alarab.net:8080//flv/85194.flv?start=0
+
+
+#EXTINF:-1,فيلم عنتر وبيسه كوميدي اجتماعي مصري اونلاين 2015
+http://flv.alarab.net:8080//flv/85444.flv?start=0
+
+#EXTINF:-1,فيلم المواطن برص كامل ديفيدي مصري اونلاين
+http://flv.alarab.net:8080//flv/85363.flv?start=0
 
 #EXTINF:-1, سوء تفاهم كامل تصوير سينما - كوميدي حركة اونلاين 2015
 http://flv.alarab.net:8080//flv/84844.flv?start=0
