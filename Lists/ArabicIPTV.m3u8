@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 19/04/15 @ 13:46 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 20/04/15 @ 18:30 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -56,6 +56,8 @@ http://185.56.30.123:8082/TV40010
 rtmp://89.248.169.48:1935/iguide/00b6jg0vkc984ee?lx8byomxs434xh5?frfv4gaulgbu0ig?7ggyzll6lv6pbya?hlcl1vpqwin3st1?ruwrr14dee9i2x3?o8dabdwketac53c?sighaniivpikwlo?kcei6bxb8npfsae?6plgubv4cwqh094?eb0gt1jm5gno6yz?6plg swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30005&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
 #EXTINF:-1, Bein 12
+rtmp://195.154.211.47:80/liverepeater playpath=302412 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co.uk/stream.php?id=302412&width=650&height=450&stretching=uniform token=#ed%h0#w18623jsda6523IDGD
+#EXTINF:-1, Bein 12
 rtmp://89.248.172.95/iguide playpath=d9ur73pgpwbmxw9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30822&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
 #EXTINF:-1,MBC PRO SPORT 1
@@ -64,6 +66,10 @@ http://185.56.30.127:8082/TV4133
 http://185.56.30.127:8082/TV4134
 #EXTINF:-1,MBC PRO SPORT 3
 http://185.56.30.127:8082/TV4135
+
+#EXTINF:-1,OMN Sports 1 HD
+http://185.27.237.105:8082/TV0104
+
 
 #EXTINF:-1,OMN comedy
 http://185.27.237.105:8082/TV0021
@@ -176,6 +182,8 @@ rtmp://web.iptv-planet.com:1937/live2 playpath=artaflam2 swfUrl=http://iptv-plan
 
 #EXTINF:-1,ART hekayat
 rtmp://37.59.17.92:1935/live?idu=elelamy_65540608920/art_hekayat
+#EXTINF:-1,ART Hakayat
+http://185.27.237.105:8082/TV0102
 #EXTINF:-1,ART hekayat
 rtmp://web.iptv-planet.com:1936/live2 playpath=Hi_ALhayat swfUrl=http://iptv-planet.com/swfs/player.swf  pageUrl=http://iptv-planet.com/embed.php?id=Hi_ALhayat&width=600&height=400
 
