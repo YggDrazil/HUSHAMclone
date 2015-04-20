@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 27/03/2015 @ 00:50 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 20/04/2015 @ 17:25 [/COLOR]  
 http://www.youtube.com/user/hmemar22
 
 #EXTINF:-1, [COLOR green] --HINDI Live Tv--[/COLOR]  
@@ -45,18 +45,15 @@ http://46.249.213.93/iPhone/broadcast/filmsofindia-iphone.3gp.m3u8?trackingid=43
 #EXTINF:-1,Hidi - Bollywood Cinema 2
 http://46.249.213.87/iPhone/broadcast/bollywoodcinema2-iphone.3gp.m3u8
 
-#EXTINF:-1, Zee Tv
-http://ukfeeds-lh.akamaihd.net/i/zeetvuk_1@181866/master.m3u8?hdnea=st=1427416045~exp=1427417245~acl=/*~hmac=310fe5c1e7624cb681f34f8ad5b6af5012bbd7c554ab4935f50c9b961cbca16b
-#EXTINF:-1, Zee Bussiness
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zee_business_1.smil/playlist.m3u8?e=1427420356&a=GB&h=ffef56c874a6a4506122f20c1583bc9d
-#EXTINF:-1, Colors 
-http://ukfeeds-lh.akamaihd.net/i/colorsuk_1@182167/master.m3u8?hdnea=st=1427416120~exp=1427417320~acl=/*~hmac=8281617605169006e8e28a4bd232f2f6faa99c59d889fe7eb949c3eb7c717281
-
+#EXTINF:-1,zee aflam 
+http://arabic.dynns.com:1935/arabic/ZeeAflem/chunklist_w2136840971.m3u8?wmsAuthSign
+#EXTINF:-1,Zee Primer
+http://cdn.ebound.tv:1935/tv/playtv/playlist.m3u8
 
 #EXTINF:-1, AAJ Tak
-http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/aaj_tak_3G.smil/playlist.m3u8?e=1427420454&a=GB&h=5197a48e15a9daede6f94c6a8fdd602f
-
-
+http://lmil.live-s.cdn.bitgravity.com/cdn-live-b5/_definst_/lmil/live/aajtak.smil/playlist.m3u8
+#EXTINF:-1, AAJ News
+rtsp://42.83.84.215/channel22.sdp?worldoftv.wpka.mobi
 
 #EXTINF:-1, Zoom
 http://dittotv.live-s.cdn.bitgravity.com/cdn-live/_definst_/dittotv/secure/zoom_3G.smil/playlist.m3u8?e=1427420478&a=GB&h=b93483ff2c704c5f43db4df338f6c20f
