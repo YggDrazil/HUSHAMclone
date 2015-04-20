@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, [COLOR yellow]Updated 15/04/2015 @ 05:45 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 20/04/2015 @ 14:38 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --ACEStreams Live Tv Otherwise known as torrent streaming--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -77,6 +77,8 @@ plugin://plugin.video.p2p-streams/?url=acestream://9f69c544d2b91e1beee94972bc943
 plugin://plugin.video.p2p-streams/?url=acestream://20b57889e46740135bdc62ac9f4f27789a221d8d&mode=1&name=acestream+C More Live
 #EXTINF:-1,C More Tennis
 plugin://plugin.video.p2p-streams/?url=acestream://396fd42de0784507c050e721d85c7ce4b261318b&mode=1&name=acestream+C More Tennis
+#EXTINF:-1,c+liga es ace
+plugin://plugin.video.p2p-streams/?url=acestream://e5044faad4f541cb02ca6ea360159a43ba610fb1&mode=1&name=acestream+c+liga es ace
 #EXTINF:-1,Canal+ Deportes ES
 plugin://plugin.video.p2p-streams/?url=acestream://d3f9c3afe670c596eaef768ace8c5c3071e12f03&mode=1&name=acestream+Canal+ Deportes ES
 #EXTINF:-1,Canal+ Futbol ES

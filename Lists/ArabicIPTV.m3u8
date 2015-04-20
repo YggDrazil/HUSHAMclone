@@ -13,16 +13,15 @@ http://www.youtube.com/user/hmemar22
 
 
 #EXTINF:-1, Bein 1
-rtmp://89.248.169.48/iguide playpath=zddoq9q2r3v1cpp swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30912&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-
+rtmp://93.174.93.230/iguide playpath=1dv28jqh47xqvqq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30921&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:0 ,Bein Sports 1 -Backup link
 http://185.56.30.123:8082/TV4001
 #EXTINF:-1, Bein 2
-rtmp://89.248.168.57/iguide playpath=kzfezdykf6hwr1o swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30908&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+rtmp://94.102.49.207/iguide playpath=jq6u0bn3lww7q03 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30920&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:0 ,Bein Sports 2 -Backup link
 http://185.56.30.123:8082/TV4002
 #EXTINF:-1, Bein 3
-rtmp://89.248.169.48/iguide playpath=d9ur73pgpwbmxw9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30822&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+rtmp://89.248.172.95/iguide playpath=f3kg75rbjp0ujvc swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30913&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:0 ,Bein Sports 3 -Backup link
 http://185.56.30.123:8082/TV4003
 #EXTINF:-1, Bein 4
@@ -58,6 +57,13 @@ rtmp://89.248.169.48:1935/iguide/00b6jg0vkc984ee?lx8byomxs434xh5?frfv4gaulgbu0ig
 
 #EXTINF:-1, Bein 12
 rtmp://89.248.172.95/iguide playpath=d9ur73pgpwbmxw9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30822&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,MBC PRO SPORT 1
+http://185.56.30.127:8082/TV4133
+#EXTINF:-1,MBC PRO SPORT 2
+http://185.56.30.127:8082/TV4134
+#EXTINF:-1,MBC PRO SPORT 3
+http://185.56.30.127:8082/TV4135
 
 #EXTINF:-1,OMN comedy
 http://185.27.237.105:8082/TV0021
@@ -105,7 +111,7 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
 
 #EXTINF:-1,MBC 1
-rtmp://www.teledunet.com:1935/live?idu=tibaamer123456_71009643600/mbc_1
+rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/mbc_1
 
 #EXTINF:-1,MBC 1 (Link not stable )
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400
@@ -138,6 +144,7 @@ rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcmax swfUrl=http://iptv-plan
 
 #EXTINF:-1,MBC Action HD
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
+
 #EXTINF:-1,MBC Action
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbcaction swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbcaction&width=600&height=400 
 
