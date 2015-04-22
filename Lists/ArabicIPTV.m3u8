@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 20/04/15 @ 18:30 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 22/04/15 @ 23:30 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -13,15 +13,15 @@ http://www.youtube.com/user/hmemar22
 
 
 #EXTINF:-1, Bein 1
-rtmp://93.174.93.230/iguide playpath=1dv28jqh47xqvqq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30921&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+rtmp://89.248.169.48/iguide playpath=bkckg6r1sl6jdlg swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30950&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:0 ,Bein Sports 1 -Backup link
 http://185.56.30.123:8082/TV4001
 #EXTINF:-1, Bein 2
-rtmp://94.102.49.207/iguide playpath=jq6u0bn3lww7q03 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30920&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+rtmp://93.174.93.230/iguide playpath=z9ihu6na5weuthv swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30951&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:0 ,Bein Sports 2 -Backup link
 http://185.56.30.123:8082/TV4002
 #EXTINF:-1, Bein 3
-rtmp://89.248.172.95/iguide playpath=f3kg75rbjp0ujvc swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30913&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+rtmp://89.248.169.48/iguide playpath=rpvqwo8vu3sesq8 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30928&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:0 ,Bein Sports 3 -Backup link
 http://185.56.30.123:8082/TV4003
 #EXTINF:-1, Bein 4
@@ -53,7 +53,7 @@ rtmp://94.102.63.54/iguide playpath=9mqhnd009jmdx9g swfUrl=http://www.iguide.to/
 #EXTINF:0 ,Bein Sports 10 -Backup link
 http://185.56.30.123:8082/TV40010
 #EXTINF:-1, Bein 11
-rtmp://89.248.169.48:1935/iguide/00b6jg0vkc984ee?lx8byomxs434xh5?frfv4gaulgbu0ig?7ggyzll6lv6pbya?hlcl1vpqwin3st1?ruwrr14dee9i2x3?o8dabdwketac53c?sighaniivpikwlo?kcei6bxb8npfsae?6plgubv4cwqh094?eb0gt1jm5gno6yz?6plg swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30005&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+rtmp://89.248.172.95/iguide playpath=ovb8donz5lpmdnu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30932&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
 #EXTINF:-1, Bein 12
 rtmp://195.154.211.47:80/liverepeater playpath=302412 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co.uk/stream.php?id=302412&width=650&height=450&stretching=uniform token=#ed%h0#w18623jsda6523IDGD
