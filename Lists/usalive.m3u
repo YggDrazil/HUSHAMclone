@@ -60,6 +60,38 @@ http://113.160.49.34/lives/origin03/moviehd.isml/moviehd-2096k.m3u8
 http://185.27.237.105:8082/TV0056
 #EXTINF:-1,TNT USA
 rtmp://rtmp.zerocast.tv/redirect/tntusa_usa pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=Waz0WqvbqNHmt0gdzrsm?Ger61uLQ4fedzvjRjrB7?IWSyIjvWgHRCMM7MEJoZ?TfRQx7deUAuncJwM047m pageUrl=http://zerocast.in/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=OOG17t.x#K9Vh#|
+#EXTINF:-1,DISNEY XD
+http://cctv2-lh.akamaihd.net/i/hoadisneyxd_live@125188/master.m3u8
+
+#EXTINF:-1,Best Music HD 720P
+rtmp://stream.smcloud.net/live2/best/best_720p
+
+#EXTINF:-1,Club HD 720P
+http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
+
+#EXTINF:-1,Dance TV HD 720P
+http://91.82.85.16:1935/relay15/nettv_channel_1/HasBahCa.m3u8
+
+‪#‎EXTINF‬:-1,Eska Best Music 720P
+rtmp://stream.smcloud.net/live2/best/best_720p
+
+#EXTINF:O,Eska Party 720P
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+
+#EXTINF:O,Eska Rock 720P
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+
+#EXTINF:-1,fix tv HD (Hungary)
+rtmp://video.fixhd.tv/fix/hd.stream
+
+#EXTINF:-1,HD MEDIA 3D 720P
+rtmp://hdmedia3d.vintera.tv/hdmedia3d//hdmedia3d.stream
+
+#EXTINF:-1,La Sexsta HD 720P (Spanish)
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:O,MTV Live HD 720P
+http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
 
 #EXTINF:-1,MTV
 rtmp://109.200.202.124/live playpath=hbohd swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/hbohd.html
