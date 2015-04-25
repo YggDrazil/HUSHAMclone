@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1, [COLOR yellow] --Husham Youtube Channel--[/COLOR]  
+plugin://plugin.video.youtube/user/hmemar22/
+#EXTINF:-1, [COLOR yellow] --XBMC Guides Youtube Channel--[/COLOR]  
+plugin://plugin.video.youtube/channel/UC0XB4eRTTYxYeLMpVcIClSQ/
+#EXTINF:-1, [COLOR yellow] --Memar Games Channel--[/COLOR]  
+plugin://plugin.video.youtube/channel/UCUglpFpByLwcKnbxfUlVc2g/
+#EXTINF:-1, [COLOR yellow] --Husham Unboxing vidoes--[/COLOR]
+plugin://plugin.video.youtube/channel/UCMF9CvIermsfS-hwrKwcFsA/
