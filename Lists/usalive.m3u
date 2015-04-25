@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 22/04/2015 @ 15:33 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 25/04/2015 @ 04:20 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --USA Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -62,6 +62,14 @@ http://185.27.237.105:8082/TV0056
 rtmp://rtmp.zerocast.tv/redirect/tntusa_usa pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=Waz0WqvbqNHmt0gdzrsm?Ger61uLQ4fedzvjRjrB7?IWSyIjvWgHRCMM7MEJoZ?TfRQx7deUAuncJwM047m pageUrl=http://zerocast.in/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=OOG17t.x#K9Vh#|
 #EXTINF:-1,DISNEY XD
 http://cctv2-lh.akamaihd.net/i/hoadisneyxd_live@125188/master.m3u8
+
+
+#EXTINF:-1,I.D. (Investigation Discovery) ( Russia )
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_DISCOVERYINVESTIGATION/variant.m3u8
+
+#EXTINF:-1,Crime Investigation
+http://pdd2.loginto.me:443/cdn78/tot_ci_360p/playlist.m3u8?model=Qpjle6Iumd
+
 
 #EXTINF:-1,Best Music HD 720P
 rtmp://stream.smcloud.net/live2/best/best_720p
