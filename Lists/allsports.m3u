@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 30/04/15 @ 22:59 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 01/05/15 @ 00:50 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -47,28 +47,25 @@ rtmp://89.248.172.159:443/liverepeater/2778Eurox pageUrl=http://xxxxxxxxxxxxxxxx
 http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8 
 
 
-
 #EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 
-
 #EXTINF:-1,FOX 1 SPORTS USA
 rtmp://178.18.31.60:443/liverepeater/itahd pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=191781?183055?ghtrapkjhg pageUrl=http://biggestplayer.me/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
-#EXTINF:-1 tvg-logo="FOX SPORTS.png,FOX SPORTS (Not English)
+#EXTINF:-1,FOX SPORTS (Not English)
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
 #EXTINF:-1,FOX SPORTS 2 ( Not English )
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
 #EXTINF:-1,FOX SPORTS 2 HD  Australia
 http://fsplive_hls-lh.akamaihd.net/i/fsp_hls_fs2sea_1@305331/index_1200_av-p.m3u8
-#EXTINF:-1,Fox sports 2 Australia
-rtmp://93.174.93.230/iguide playpath=xkx26hf4rjxfn0h?zvfojee7twj0mqs?s1hh2ocjs9gvbz0?utifa3u3m1ktgd6?ztg7uhgjinfktt4?p7wksud7foc4cqd?c9l3ahxqsbqmi0t swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 
-#EXTINF:-1,MBC PRO SPORT 1
+
+#EXTINF:-1,MBC PRO SPORT 1(Link not always working)
 http://185.56.30.127:8082/TV4133
-#EXTINF:-1,MBC PRO SPORT 2
+#EXTINF:-1,MBC PRO SPORT 2(Link not always working)
 http://185.56.30.127:8082/TV4134
-#EXTINF:-1,MBC PRO SPORT 3
+#EXTINF:-1,MBC PRO SPORT 3(Link not always working)
 http://185.56.30.127:8082/TV4135
 
 
@@ -87,87 +84,82 @@ rtmp://31.220.0.195:80/live/espnuu pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.2
 #EXTINF:-1,ESPN 3 ( Not english 
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?
 
-#EXTINF:-1,ESPN BaseBall Today
-http://198.179.31.181:1935/vodlast/1147.low.m4v/playlist.m3u8
-
-#EXTINF:-1,ESPN Football Today
-http://198.179.31.181:1935/vodlast/1469.low.m4v/playlist.m3u8
-
-
 #EXTINF:-1,Sony Six
 rtmp://178.18.31.65:443/liverepeater/itahd pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=190614?ghtrapkjhg pageUrl=http://biggestplayer.me/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
 
-#EXTINF:-1,SportsNet Now
-http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 #EXTINF:-1,Premier Sport
-rtmp://109.123.70.38:80/live/btpremier pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=premiersport?golf?btx22?mutvr?starsp4?ptvsports011?nbar?wefewf43g3?ssxk2?espn22?sx2?btx22?foxsport1?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
+rtmp://89.248.168.57/iguide playpath=3mix3owpwtrguui?4fh2i4nneqfagxk?wrx3vszyjk6i48l?xyixdpou8w466v5?gzqn0heioqg55fj?vqgdhnaat6vdjup swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1,SN1
 rtmp://31.220.0.195:80/live/fox1 pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=sportsnetw?foxsport1?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
-#EXTINF:-1,SportsNet Ontario
-rtmp://31.220.0.195:80/live/spont pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=sno?sportsnetw?foxsport1?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
+#EXTINF:-1,Sports Net Now
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
+#EXTINF:-1,SportsNet Ontario (link down)
+#
 
 
 #EXTINF:-1,TSN 1 - SD
-rtmp://178.18.31.63:443/liverepeater/itahd pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=191783?ghtrapkjhg pageUrl=http://biggestplayer.me/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
+rtmp://41.242.151.4:80/live/btpremier pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=tx1?ss5ry?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
 #EXTINF:-1,TSN 2 - SD
 rtmp://178.18.31.58:443/liverepeater/itahd pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=191784?ghtrapkjhg pageUrl=http://biggestplayer.me/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
+#EXTINF:-1,TSN 4
+rtmp://93.174.93.230:1935/iguide/wrx3vszyjk6i48l?nl0cqvcjmz0va0d?kcei6bxb8npfsae?6plgubv4cwqh094?eb0gt1jm5gno6yz?6plgubv4cwqh094?52p29792cvvr swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30005&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
-#EXTINF:-1,TSN 1 ( Link not working )
+#EXTINF:-1,OLD HD TSN 1 ( Link not working )
 http://ams-lp5.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/tsnOpen8.m3u8
-#EXTINF:-1,TSN 2 ( Link not working )
+#EXTINF:-1,OLD HD TSN 2 ( Link not working )
 http://ams-lp7.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN2Open8.m3u8
-#EXTINF:-1,TSN 3 ( Link not working )
+#EXTINF:-1,OLD HD TSN 3 ( Link not working )
 http://ams-lp1.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN3Open8.m3u8
-#EXTINF:-1,TSN 4 ( Link not working )
+#EXTINF:-1,OLD HD TSN 4 ( Link not working )
 http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8.m3u8
-#EXTINF:-1,TSN 5 ( Link not working )
+#EXTINF:-1,OLD HD TSN 5 ( Link not working )
 http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
+
+#EXTINF:-1,TVN - Chile 
+http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b950000.m3u8
+
+#EXTINF:-1,TVN Hd Chile
+http://edge-20-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 
 #EXTINF:-1,RDS 2 - canada/france
 http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open8.m3u8
 #EXTINF:-1,RDS info - canada/france
 http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8
 
-#EXTINF:-1,Astro 1
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/72.ts
-#EXTINF:-1,Astro 2
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/73.ts
-#EXTINF:-1,Astro 3
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/74.ts
 
 #EXTINF:-1,AT THE RACES
 rtmp://31.220.0.195:80/live/atraccex pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=atracessa?wspe3?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://flashtv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv token=%Zrey(nKa@#Z pageUrl=http://reytv.co/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
 
 #EXTINF:-1,WILLOW
-http://192.99.24.176:8080/wiLllow/will001W/index.m3u8
+rtmp://80.82.78.29:443/liverepeater/willhdhd pageUrl=http://xxxxxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=48?38?11?34 pageUrl=http://popeoftheplayers.eu/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1page/playpath=42?finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
 
 
 #EXTINF:-1, Bein 1
-rtmp://89.248.169.48/iguide playpath=bkckg6r1sl6jdlg swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30950&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+rtmp://89.248.172.95:1935/iguide/rq81kbma9xcayca?l4rtaxqsdmhphfe?00b6jg0vkc984ee?akj0gqokxmhtsr4?o8dabdwketac53c?sighaniivpikwlo?kcei6bxb8npfsae?6plgubv4cwqh094?eb0gt1jm5gno6yz?6plg swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30005&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:0 ,Bein Sports 1 -Backup link
 http://185.56.30.123:8082/TV4001
 #EXTINF:-1, Bein 2
-rtmp://93.174.93.230/iguide playpath=z9ihu6na5weuthv swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30951&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+rtmp://195.154.168.145:80/liverepeater/nbcsn pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC/token=#yw%tt#w@kku playpath=306618?206276?pageUrlhttp pageUrl=http://goodcast.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@
 #EXTINF:0 ,Bein Sports 2 -Backup link
 http://185.56.30.123:8082/TV4002
 #EXTINF:-1, Bein 3
-rtmp://89.248.169.48/iguide playpath=rpvqwo8vu3sesq8 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30928&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+rtmp://89.248.168.57:1935/iguide/kud50djyut894bx?7ggyzll6lv6pbya?hlcl1vpqwin3st1?ruwrr14dee9i2x3?o8dabdwketac53c?sighaniivpikwlo?kcei6bxb8npfsae?6plgubv4cwqh094?eb0gt1jm5gno6yz?6plguv swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30005&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:0 ,Bein Sports 3 -Backup link
 http://185.56.30.123:8082/TV4003
 #EXTINF:-1, Bein 4
-rtmp://94.102.49.207/iguide playpath=v2xmzxari1yar79 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30814&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+rtmp://89.248.168.57:1935/iguide/0svjde7ucehktxp?ruwrr14dee9i2x3?o8dabdwketac53c?sighaniivpikwlo?kcei6bxb8npfsae?6plgubv4cwqh094?eb0gt1jm5gno6yz?6plgubb swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30005&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:0 ,Bein Sports 4 -Backup link
 http://185.56.30.123:8082/TV4004
 #EXTINF:-1, Bein 5
-rtmp://94.102.49.207/iguide playpath=7x7mk11j8hypr5q swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30815&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+rtmp://89.248.169.55:1935/iguide/tytg77sgbu3i4wy?20633?3p4ohvspwwym93t?fmr2urscdx0r7fi?kcei6bxb8npfsae?6plgubv4cwqh094?eb0gt1jm5gno6yz?6plgubv4cwqh094?52p27 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30005&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:0 ,Bein Sports 5 -Backup link
 http://185.56.30.123:8082/TV4005
 #EXTINF:-1, Bein 6
-rtmp://94.102.49.207/iguide playpath=0njbgowtk7l869j swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30816&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+rtmp://89.248.168.57:1935/iguide/ix0xyisqvkrneji?7ggyzll6lv6pbya?hlcl1vpqwin3st1?ruwrr14dee9i2x3?o8dabdwketac53c?sighaniivpikwlo?kcei6bxb8npfsae?6plgubv4cwqh094?eb0gt1jm5gno6yz?6plguv swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30005&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:0 ,Bein Sports 6 -Backup link
 http://185.56.30.123:8082/TV4006
 #EXTINF:-1, Bein 7
-rtmp://94.102.63.54/iguide playpath=l2spvpk7c52r19u swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30817&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+rtmp://94.102.49.207:1935/iguide/cxulhsw3ajz1v8k?lo5m76l6njfiw7i?kcei6bxb8npfsae?6plgubv4cwqh094?eb0gt1jm5gno6yz?6plgubv4cc swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30005&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:0 ,Bein Sports 7 -Backup link
 http://185.56.30.123:8082/TV4007
 #EXTINF:-1, Bein 8
@@ -175,41 +167,29 @@ rtmp://94.102.49.207/iguide playpath=1iidrbrp7qme8w9 swfUrl=http://www.iguide.to
 #EXTINF:0 ,Bein Sports 8 -Backup link
 http://185.56.30.123:8082/TV4008
 #EXTINF:-1, Bein 9
-rtmp://93.174.93.230/iguide playpath=gewt94kh67md0tb swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30819&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+rtmp://89.248.172.95:1935/iguide/0uecdkvpgylfirg?9mqhnd009jmdx9g?d1ke0vbptmsb0if?44buamw9c8ic8pd?kcei6bxb8npfsae?6plgubv4cwqh094?eb0gt1jm5gno6yz?6plgubv4cwqh094?52p29792cvrwm swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30005&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:0 ,Bein Sports 9 -Backup link
 http://185.56.30.123:8082/TV4009
 #EXTINF:-1, Bein 10
-rtmp://94.102.63.54/iguide playpath=9mqhnd009jmdx9g swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30820&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+rtmp://94.102.63.54:1935/iguide/95xn5mrh247t9rg?d1ke0vbptmsb0if?44buamw9c8ic8pd?kcei6bxb8npfsae?6plgubv4cwqh094?eb0gt1jm5gno6yz?6plgubv4cwqh094?52p29792cvrwm swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30005&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:0 ,Bein Sports 10 -Backup link
 http://185.56.30.123:8082/TV40010
 #EXTINF:-1, Bein 11
-rtmp://89.248.172.95/iguide playpath=ovb8donz5lpmdnu swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30932&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-
+rtmp://89.248.168.57:1935/iguide/8k9r8smnq1srpal?00b6jg0vkc984ee?akj0gqokxmhtsr4?o8dabdwketac53c?sighaniivpikwlo?kcei6bxb8npfsae?6plgubv4cwqh094?eb0gt1jm5gno6yz?6plg swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30005&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 12
-rtmp://195.154.211.47:80/liverepeater playpath=302412 swfUrl=http://cdn.goodcast.co/players.swf pageUrl=http://goodcast.co.uk/stream.php?id=302412&width=650&height=450&stretching=uniform token=#ed%h0#w18623jsda6523IDGD
+rtmp://89.248.172.95:1935/iguide/jlfvflvatsk3g4n?grb13w517q07vos?d9ur73pgpwbmxw9?206342kcei6bxb8npfsae?6plgubv4cwqh094?eb0gt1jm5gno6yz?6plq swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30005&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 12
 rtmp://89.248.172.95/iguide playpath=d9ur73pgpwbmxw9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30822&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
 
-#EXTINF:-1,BEIN Sports 1 HD (AR)
-http://2co1.vp9.tv/chn/bin01/v.m3u8
-#EXTINF:-1,BEIN Sports 2 HD (AR)
-http://2co1.vp9.tv/chn/bin02/v.m3u8
-#EXTINF:-1,BEIN Sports 4 HD (AR)
-http://2co1.vp9.tv/chn/bin04/v.m3u8
-#EXTINF:-1,Bein Sports HD (ENG)
-rtmp://65.111.174.111/iptv/beinsports2.stream
-#EXTINF:-1,BeinSports 2 ( English )
-http://65.111.174.111:1935/iptv/beinsports2.stream/playlist.m3u8?husham.com
 
-#EXTINF:-1,BeinSports 1 - French
-http://65.111.174.111:1935/iptv/beinsports1.stream/playlist.m3u8?husham.com
 #EXTINF:-1,Bein USA
 rtmp://start.iptvhq.com/goLive/bsp2 pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=beinib_vc1ubzjd?btsports2_9gv7j116?beinib_vc1ubzjd pageUrl=http://zerocast.in/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=OOG17t.x#K9Vh#|
 #EXTINF:-1,Setanta Sports
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/3.ts
+http://80.77.52.6:4314/udp/230.0.4.1:12345
+
 #EXTINF:-1,NBA TV
-http://50.7.69.186:1935/edge/_definst_/fzasab6vz02yuf7/chunklist.m3u8?wowzasessionid=1419914830
+rtmp://31.220.0.195:80/live/btpremier pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=nbar?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
 #EXTINF:-1,Euro Sport
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 #EXTINF:-1,Euro sport French
@@ -217,13 +197,20 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 #EXTINF:-1,Euro Sport Channel - Backup link
 rtmp://137.63.71.18:443/liverepeater/2778Eurox pageUrl=http://xxxxxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=21?19?13 pageUrl=http://popeoftheplayers.eu/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1page/playpath=42?finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
 
-
-#EXTINF:-1, Fox Sport2
-rtmp://31.220.0.195:80/live/fox2 pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=fox22x?foxsport1?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
 #EXTINF:-1,WWE Network 1st link
 rtmp://94.102.49.126:443/liverepeater/wwee pageUrl=http://xxxxxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=49?32?34 pageUrl=http://popeoftheplayers.eu/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1page/playpath=42?finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
-#EXTINF:-1,WWE Network 2nd link
-rtmp://94.102.49.126:443/liverepeater/wwee pageUrl=http://xxxxxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=49?32?34 pageUrl=http://popeoftheplayers.eu/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1page/playpath=42?finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
+
+#EXTINF:-1,UFC (Not english)
+rtmp://89.248.172.95:1935/iguide playpath=ntym4uva8lcfbc0?ewpegl393qjjqoq?kwbcxxg555hzddt?bm6ldx2dhh1bi5z?ewpegl393qjjqoq?y9l42vxtum2xdgv?vouoo4ltzl15a52?s1hh2ocjs9gvbz0?utifa3u3m1ktgd6?s1hh2ocjs9gvbz0?utifa3u3m1ktgd6?ztg7uhgjinfktt4?p7wksud7foc4cqd?c9l3ahxqsbqmi0t swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
+
+
+#EXTINF:-1 ,Silk HD Georgia
+rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
+
+#EXTINF:-1 ,Silk HD 2 SPORT
+rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_sport/mp4:silk_sport swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
+
+
 
 
 #EXTINF:-1,PAC-12 Anistorpic
@@ -290,14 +277,6 @@ http://xrxs.net/video/live-p12netw-4728.m3u8
 http://xrxs.net/video/live-p12oreg-4728.m3u8
 #EXTINF:-1,PAC 12 Washington (HD)
 http://xrxs.net/video/live-p12wash-4728.m3u8
-
-
-#EXTINF:-1 ,Silk HD 2 SPORT
-rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_sport/mp4:silk_sport swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
-
-#EXTINF:-1 ,Silk HD Georgia
-rtmp://edge01-01.nl.myvideo.ge/dvrh264/silk_football/mp4:silk_football swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
-
 
 
 #EXTINF:-1,USA-BASKET UNI.(Arizona)
