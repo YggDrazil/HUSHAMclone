@@ -117,7 +117,7 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
 
 #EXTINF:-1,MBC 1
-rtmp://167.114.101.234:1935/linkiptv?idu=ahmed_user2/mbc_1
+http://38.99.146.71:7777/MBC1_HD.m3u8?user=2620262&session=b963c7377fd801a0f3412ff150949f6c47055d913df3fa7564a81f5ed3a4fafd
 
 #EXTINF:-1,MBC 1 (Link not stable )
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400

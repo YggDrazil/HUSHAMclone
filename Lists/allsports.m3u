@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 02/05/15 @ 20:48 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 04/05/15 @ 22:10 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -84,6 +84,11 @@ rtmp://31.220.0.195:80/live/espnuu pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.2
 #EXTINF:-1,ESPN 3 ( Not english 
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?
 
+#EXTINF:-1,NBC SN HD 1080
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8
+#EXTINF:-1,NBC SN HD 720
+http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/2596k/prog.m3u8
+
 #EXTINF:-1,Sony Six
 rtmp://178.18.31.65:443/liverepeater/itahd pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=190614?ghtrapkjhg pageUrl=http://biggestplayer.me/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
 
@@ -95,6 +100,7 @@ rtmp://31.220.0.195:80/live/fox1 pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 #EXTINF:-1,SportsNet Ontario (link down)
 #
+
 
 
 #EXTINF:-1,TSN 1 - SD
@@ -115,16 +121,14 @@ http://ams-lp2.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN4Open8
 #EXTINF:-1,OLD HD TSN 5 ( Link not working )
 http://ams-lp3.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/TSN5Open8.m3u8
 
-#EXTINF:-1,TVN - Chile 
-http://edge-12-cl.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b950000.m3u8
-
-#EXTINF:-1,TVN Hd Chile
-http://edge-20-mvstr.edge.mdstrm.com/tvn-live/_definst_/smil:7cb6048ff45cb5cdf7f5fed828597fd1/chunklist_b1500000.m3u8
 
 #EXTINF:-1,RDS 2 - canada/france
 http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDS2Open8.m3u8
 #EXTINF:-1,RDS info - canada/france
 http://ams-lp11.9c9media.com/hls-live/livepkgr/_definst_/liveeventNoDRM/RDSiOpen8.m3u8
+
+#EXTINF:-1,Real Madrid
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1250_av-p.m3u8?sd=10&rebase=on
 
 
 #EXTINF:-1,AT THE RACES
@@ -133,6 +137,8 @@ rtmp://31.220.0.195:80/live/atraccex pageUrl=http://xxxxxx.xx/rtmpe://46.246.124
 #EXTINF:-1,WILLOW
 rtmp://80.82.78.29:443/liverepeater/willhdhd pageUrl=http://xxxxxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=48?38?11?34 pageUrl=http://popeoftheplayers.eu/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1page/playpath=42?finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
 
+#EXTINF:-1,ASTRO HD
+http://stream.ssh101.com/hls/thenewday.m3u8
 
 #EXTINF:-1, Bein 1
 rtmp://89.248.172.95:1935/iguide/rq81kbma9xcayca?l4rtaxqsdmhphfe?00b6jg0vkc984ee?akj0gqokxmhtsr4?o8dabdwketac53c?sighaniivpikwlo?kcei6bxb8npfsae?6plgubv4cwqh094?eb0gt1jm5gno6yz?6plg swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?width=650&height=400&channel=30005&autoplay=true token=#ed%h0#w18623jsda6523IDGD
