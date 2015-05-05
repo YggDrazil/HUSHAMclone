@@ -150,3 +150,15 @@
 </channel>
   </channels>
 
+  
+
+<channels>
+
+<channel>
+      <name>[COLOR lime]Husham PinoyTV [/COLOR]</name>
+  <thumbnail>https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/PinoyTV.m3u8</externallink>
+</channel>
+  </channels>
