@@ -38,6 +38,18 @@ rtmp://94.102.63.54/iguide playpath=58poe1eex4wu3s7 swfUrl=http://www.iguide.to/
 rtmp://94.102.63.54/iguide playpath=uyg0tgshka802k1 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31063&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
 
+
+#EXTINF:-1,MBC PRO SPORT 1
+http://185.56.30.127:8082/TV4133
+#EXTINF:-1,MBC PRO SPORT 2
+http://185.56.30.127:8082/TV4134
+#EXTINF:-1,MBC PRO SPORT 3
+http://185.56.30.127:8082/TV4135
+
+#EXTINF:-1,OMN Sports 1 HD
+http://185.27.237.105:8082/TV0104
+
+
 #EXTINF:-1,OMN comedy
 http://185.27.237.105:8082/TV0021
 #EXTINF:-1,OMN Movies drama
