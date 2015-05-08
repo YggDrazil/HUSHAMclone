@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 08/05/15 @ 07:45 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 08/05/15 @ 18:13 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -36,56 +36,6 @@ rtmp://89.248.169.48/iguide playpath=zu6hgy66lch4ulf swfUrl=http://www.iguide.to
 rtmp://94.102.63.54/iguide playpath=58poe1eex4wu3s7 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31062&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 12
 rtmp://94.102.63.54/iguide playpath=uyg0tgshka802k1 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31063&autoplay=true token=#ed%h0#w18623jsda6523IDGD
-
-
-
-#EXTINF:-1,MBC PRO SPORT 1
-http://185.56.30.127:8082/TV4133
-#EXTINF:-1,MBC PRO SPORT 2
-http://185.56.30.127:8082/TV4134
-#EXTINF:-1,MBC PRO SPORT 3
-http://185.56.30.127:8082/TV4135
-
-#EXTINF:-1,OMN Sports 1 HD
-http://185.27.237.105:8082/TV0104
-
-
-#EXTINF:-1,OMN comedy
-http://185.27.237.105:8082/TV0021
-#EXTINF:-1,OMN Movies drama
-http://185.27.237.105:8082/TV0022
-#EXTINF:-1,OMN Movies hd
-http://185.27.237.105:8082/TV0023
-#EXTINF:-1,OMN Movies hd 2
-http://185.27.237.105:8082/TV0024
-#EXTINF:-1,OMN Movies action 
-http://185.27.237.105:8082/TV0025
-#EXTINF:-1,OMN HD
-http://185.27.237.105:8082/TV0050
-#EXTINF:-1,OMN star Movies hd
-http://185.27.237.105:8082/TV0051
-#EXTINF:-1,OMN Movies kids
-http://185.27.237.105:8082/TV0053
-#EXTINF:-1,OMN Movies +2
-http://185.27.237.105:8082/TV0054
-#EXTINF:-1,OMN first HD
-http://185.27.237.105:8082/TV0063? gtoken 5bd6536167620b366fbc3d7515e1c9735519195fb36899fc4ae844dcee953ef5 =
-#EXTINF:-1,OMN First +2 
-http://185.27.237.105:8082/TV0062
-#EXTINF:-1,OMN First +2 
-http://185.27.237.105:8082/TV0062? gtoken 5bd6536167620b366fbc3d7515e1c9735519195fb36899fc4ae844dcee953ef5 =
-#EXTINF:-1,OMN YAHALA hd
-http://185.27.237.105:8082/TV0052
-#EXTINF:-1,OMN YAHALA hd 1
-http://185.27.237.105:8082/TV0064
-#EXTINF:-1,OMN YAHALA hd 2
-http://185.27.237.105:8082/TV0065
-#EXTINF:-1,OMN more 
-http://185.27.237.105:8082/TV0084
-#EXTINF:-1,StarWorld HD
-http://185.27.237.105:8082/TV0056
-
-
 
 
 #EXTINF:-1, Dubai TV
