@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 05/05/15 @ 22:45 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 08/05/15 @ 07:45 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -112,12 +112,13 @@ rtmp://31.220.0.195:80/live/atraccex pageUrl=http://xxxxxx.xx/rtmpe://46.246.124
 #EXTINF:-1,WILLOW
 rtmp://80.82.78.29:443/liverepeater/willhdhd pageUrl=http://xxxxxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=48?38?11?34 pageUrl=http://popeoftheplayers.eu/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1page/playpath=42?finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
 
+
 #EXTINF:-1, Bein 1
-rtmp://94.102.63.54/iguide playpath=530z00r6a20e61h swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31066&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+rtmp://89.248.168.57/iguide playpath=a6kk0ml8mbbje89 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31066&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 2
-rtmp://89.248.172.95/iguide playpath=6bftjy5bccalt7r swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31067&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+rtmp://93.174.93.230/iguide playpath=p0wktzppywcftqx swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31067&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 3
-rtmp://89.248.169.48/iguide playpath=p8yjpsej4im98i1 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31054&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+rtmp://89.248.168.57/iguide playpath=szz873nndknv7b7 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31054&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 4
 rtmp://94.102.63.54/iguide playpath=1wvhj27ud0sj927 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31055&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 5
@@ -127,7 +128,7 @@ rtmp://94.102.63.54/iguide playpath=4t159olvwuhg9ac swfUrl=http://www.iguide.to/
 #EXTINF:-1, Bein 7
 rtmp://93.174.93.230/iguide playpath=sblz0ggiyxp6amk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31058&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 8
-rtmp://94.102.49.207/iguide playpath=1iidrbrp7qme8w9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30818&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+rtmp://89.248.169.55/iguide playpath=2qlg5lf3y6pd4no swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30818&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 9
 rtmp://89.248.172.95/iguide playpath=4segpro8ec25lxj swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31060&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 10
@@ -136,6 +137,8 @@ rtmp://89.248.169.48/iguide playpath=zu6hgy66lch4ulf swfUrl=http://www.iguide.to
 rtmp://94.102.63.54/iguide playpath=58poe1eex4wu3s7 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31062&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 12
 rtmp://94.102.63.54/iguide playpath=uyg0tgshka802k1 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31063&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+
 
 #EXTINF:-1,Bein USA
 rtmp://start.iptvhq.com/goLive/bsp2 pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=beinib_vc1ubzjd?btsports2_9gv7j116?beinib_vc1ubzjd pageUrl=http://zerocast.in/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=OOG17t.x#K9Vh#|

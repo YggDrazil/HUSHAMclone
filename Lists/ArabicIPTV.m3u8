@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 05/05/15 @ 21:29 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 08/05/15 @ 07:45 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -13,11 +13,11 @@ http://www.youtube.com/user/hmemar22
 
 
 #EXTINF:-1, Bein 1
-rtmp://94.102.63.54/iguide playpath=530z00r6a20e61h swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31066&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+rtmp://89.248.168.57/iguide playpath=a6kk0ml8mbbje89 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31066&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 2
-rtmp://89.248.172.95/iguide playpath=6bftjy5bccalt7r swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31067&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+rtmp://93.174.93.230/iguide playpath=p0wktzppywcftqx swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31067&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 3
-rtmp://89.248.169.48/iguide playpath=p8yjpsej4im98i1 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31054&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+rtmp://89.248.168.57/iguide playpath=szz873nndknv7b7 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31054&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 4
 rtmp://94.102.63.54/iguide playpath=1wvhj27ud0sj927 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31055&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 5
@@ -27,7 +27,7 @@ rtmp://94.102.63.54/iguide playpath=4t159olvwuhg9ac swfUrl=http://www.iguide.to/
 #EXTINF:-1, Bein 7
 rtmp://93.174.93.230/iguide playpath=sblz0ggiyxp6amk swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31058&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 8
-rtmp://94.102.49.207/iguide playpath=1iidrbrp7qme8w9 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30818&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+rtmp://89.248.169.55/iguide playpath=2qlg5lf3y6pd4no swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=30818&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 9
 rtmp://89.248.172.95/iguide playpath=4segpro8ec25lxj swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31060&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 10
@@ -38,19 +38,65 @@ rtmp://94.102.63.54/iguide playpath=58poe1eex4wu3s7 swfUrl=http://www.iguide.to/
 rtmp://94.102.63.54/iguide playpath=uyg0tgshka802k1 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31063&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
 
+#EXTINF:-1,OMN comedy
+http://185.27.237.105:8082/TV0021
+#EXTINF:-1,OMN Movies drama
+http://185.27.237.105:8082/TV0022
+#EXTINF:-1,OMN Movies hd
+http://185.27.237.105:8082/TV0023
+#EXTINF:-1,OMN Movies hd 2
+http://185.27.237.105:8082/TV0024
+#EXTINF:-1,OMN Movies action 
+http://185.27.237.105:8082/TV0025
+#EXTINF:-1,OMN HD
+http://185.27.237.105:8082/TV0050
+#EXTINF:-1,OMN star Movies hd
+http://185.27.237.105:8082/TV0051
+#EXTINF:-1,OMN Movies kids
+http://185.27.237.105:8082/TV0053
+#EXTINF:-1,OMN Movies +2
+http://185.27.237.105:8082/TV0054
+#EXTINF:-1,OMN first HD
+http://185.27.237.105:8082/TV0063? gtoken 5bd6536167620b366fbc3d7515e1c9735519195fb36899fc4ae844dcee953ef5 =
+#EXTINF:-1,OMN First +2 
+http://185.27.237.105:8082/TV0062
+#EXTINF:-1,OMN First +2 
+http://185.27.237.105:8082/TV0062? gtoken 5bd6536167620b366fbc3d7515e1c9735519195fb36899fc4ae844dcee953ef5 =
+#EXTINF:-1,OMN YAHALA hd
+http://185.27.237.105:8082/TV0052
+#EXTINF:-1,OMN YAHALA hd 1
+http://185.27.237.105:8082/TV0064
+#EXTINF:-1,OMN YAHALA hd 2
+http://185.27.237.105:8082/TV0065
+#EXTINF:-1,OMN more 
+http://185.27.237.105:8082/TV0084
+#EXTINF:-1,StarWorld HD
+http://185.27.237.105:8082/TV0056
 
-#EXTINF:-1,Dubai Racing (UAE)
-http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
-#EXTINF:-1,Dubai Sports 3
-http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/BratuMarian.m3u8
+
+
+
+#EXTINF:-1, Dubai TV
+http://dmi.mangomolo.com:1935/dubaitv/smil:dubaitv.smil/playlist.m3u8
+#EXTINF:-1, Dubai ONE
+http://dmi.mangomolo.com:1935/dubaione/smil:dubaione.smil/playlist.m3u8
+#EXTINF:-1, Noor DubaiTV
+http://dmi.mangomolo.com:1935/noordubaitv/smil:noordubaitv.smil/playlist.m3u8
+#EXTINF:-1, Sama Dubai
+http://dmi.mangomolo.com:1935/samadubai/smil:samadubai.smil/playlist.m3u8
+#EXTINF:-1, Dubai Racing
+http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1, Dubai Sports
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/playlist.m3u8
+
+
 #EXTINF:-1,Kuwait TV / KTV Sports Extra
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
 #EXTINF:-1,KTV Sport Plus
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
 
 #EXTINF:-1,MBC 1
-http://38.99.146.71:7777/MBC1_HD.m3u8?user=2620262&session=b963c7377fd801a0f3412ff150949f6c47055d913df3fa7564a81f5ed3a4fafd
-
+http://www.elahmad.com/tv/m3u8/akamaihd.m3u8?id=mbc1
 #EXTINF:-1,MBC 1 (Link not stable )
 rtmp://web.iptv-planet.com:1937/live2 playpath=Hi_mbc1 swfUrl=http://iptv-planet.com/swfs/player.swf pageUrl=http://iptv-planet.com/embed.php?id=Hi_mbc1&width=600&height=400
 
