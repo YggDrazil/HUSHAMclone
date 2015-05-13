@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 08/05/15 @ 18:13 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 13/05/15 @ 20:58 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -13,7 +13,7 @@ http://www.youtube.com/user/hmemar22
 
 
 #EXTINF:-1, Bein 1
-rtmp://89.248.168.57/iguide playpath=a6kk0ml8mbbje89 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31066&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
+rtmp://94.102.63.54/iguide playpath=qth2cjm19yqjhcg swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31066&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 2
 rtmp://93.174.93.230/iguide playpath=p0wktzppywcftqx swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31067&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 3
