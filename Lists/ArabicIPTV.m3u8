@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 13/05/15 @ 21:15 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 13/05/15 @ 21:28 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -15,7 +15,7 @@ http://www.youtube.com/user/hmemar22
 #EXTINF:-1, Bein 1
 rtmp://94.102.63.54/iguide playpath=qth2cjm19yqjhcg swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31066&autoplay=true  token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 2
-rtmp://89.248.172.95/iguide playpath=m63rejtg6pdejo8 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31067&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+rtmp://94.102.49.207/iguide playpath=m63rejtg6pdejo8 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31067&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 3
 rtmp://89.248.168.57/iguide playpath=szz873nndknv7b7 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31054&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 #EXTINF:-1, Bein 4
@@ -37,8 +37,11 @@ rtmp://94.102.63.54/iguide playpath=58poe1eex4wu3s7 swfUrl=http://www.iguide.to/
 #EXTINF:-1, Bein 12
 rtmp://94.102.63.54/iguide playpath=uyg0tgshka802k1 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_simon.php?width=650&height=450&channel=31063&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
+
 #EXTINF:-1, [COLOR green] --Backup Bein Sport Links--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR yellow]Please donate to husham.com for more content[/COLOR]
+http://www.youtube.com/user/hmemar22
 
 #EXTINF:-1, Bein 1
 rtmp://195.154.250.199:80/liverepeater/nbcsn pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC/token=#yw%tt#w@kku playpath=308018?206276?pageUrlhttp pageUrl=http://goodcast.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@
@@ -62,9 +65,6 @@ rtmp://89.248.169.48:1935/iguide/zu6hgy66lch4ulf?d1ke0vbptmsb0if?44buamw9c8ic8pd
 rtmp://89.248.169.55:1935/iguide playpath=58poe1eex4wu3s7?cnulq3v7bka1f94?s1kbzpbluwg3gq7?hx93cw5liha3iog?wrx3vszyjk6i48l?1pu96apgkyc7dea?p7wksud7foc4cqd?ztg7uhgjinfktt4?p7wksud7foc4cqd?c9l3ahxqsbqmi0t swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf live=1 pageUrl=http://www.iguide.to/ token=#ed%h0#w18623jsda6523lDGD
 #EXTINF:-1,Bein 12 HD
 rtmp://195.154.250.199:80/liverepeater/nbcsn pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC/token=#yw%tt#w@kku playpath=302412?206276?pageUrlhttp pageUrl=http://goodcast.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@
-
-
-
 
 
 #EXTINF:-1, Dubai TV
