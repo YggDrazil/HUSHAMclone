@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, [COLOR yellow]Updated 20/04/2015 @ 14:38 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 17/05/2015 @ 13:50 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --ACEStreams Live Tv Otherwise known as torrent streaming--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -29,6 +29,8 @@ plugin://plugin.video.p2p-streams/?url=acestream://2dff503259045e4d119e6e972a3db
 plugin://plugin.video.p2p-streams/?url=acestream://923cfd5ece05a56a99024e5f56297e6e0bd69515&mode=1&name=acestream+BT SPORT 1
 #EXTINF:-1,BT SPORT 2
 plugin://plugin.video.p2p-streams/?url=acestream://420ad279e44eef83b36673f4352373869e86a322&mode=1&name=acestream+BT SPORT 2
+#EXTINF:-1,2 plus 2
+plugin://plugin.video.p2p-streams/?url=acestream://2d0e351aa31c4d9edf196cdae89ca1dbd345cc26&mode=1&name=acestream+2 plus 2
 #EXTINF:-1,ARENA SPORT 1
 plugin://plugin.video.p2p-streams/?url=acestream://c70805467a2451dfdaa2ce6e667c22ee455174e6&mode=1&name=acestream+ARENA SPORT 1ARENA SPORT 1
 #EXTINF:-1,ARENA SPORT 1 HD Croatia
@@ -87,6 +89,8 @@ plugin://plugin.video.p2p-streams/?url=acestream://7aba3acd4761ec89f447d2daef908
 plugin://plugin.video.p2p-streams/?url=acestream://5d2341391e460050b87694dde553f141c0a5d9ce&mode=1&name=acestream+Canal+ Liga
 #EXTINF:-1,Canal+ Liga de Campeones ES
 plugin://plugin.video.p2p-streams/?url=acestream://8572dc2e68fe371d61244cba3b8a4ec4d3b49ead&mode=1&name=acestream+Canal+ Liga de Campeones ES
+#EXTINF:-1,NTV Sports Plus
+plugin://plugin.video.p2p-streams/?url=acestream://97e1b7f239270b108c51ec859284dd36f2a2efd1&mode=1&name=acestream+NTV Sports Plus
 #EXTINF:-1,SPORT 1 Select
 plugin://plugin.video.p2p-streams/?url=acestream://9655f7f0322a99415adf333820738ca17457c01d&mode=1&name=acestream+SPORT 1 Select
 #EXTINF:-1,SPORT 1 Voetbal
