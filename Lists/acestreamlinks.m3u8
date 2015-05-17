@@ -20,7 +20,7 @@ plugin://plugin.video.p2p-streams/?url=acestream://e6aaeb0c93c291a4cfe2c04d05c6b
 #EXTINF:-1,SKY SPORTS 2
 plugin://plugin.video.p2p-streams/?url=acestream://c36cfe788f185f7e7238b021e738951628336cfe&mode=1&name=acestream+SKY SPORTS 2
 #EXTINF:-1,SKY SPORTS 3
-plugin://plugin.video.p2p-streams/?url=acestream://7f480a00ac478b65fb75cfdde76ef38ee151b887&mode=1&name=acestream+SKY SPORTS 3
+plugin://plugin.video.p2p-streams/?url=acestream://af824678202ec687837752c113f2deb5aba7d1be&mode=1&name=acestream+SKY SPORTS 3
 #EXTINF:-1,SKY SPORTS 5
 plugin://plugin.video.p2p-streams/?url=acestream://e72bb7060e8e4780e65ed45e81bf09bf352f496b&mode=1&name=acestream+SKY SPORTS 5
 #EXTINF:-1,SKY SPORTS F1
