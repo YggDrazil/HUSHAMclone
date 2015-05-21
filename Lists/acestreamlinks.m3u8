@@ -14,7 +14,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1,SKY SPORT (Italia)
 plugin://plugin.video.p2p-streams/?url=acestream://640eb065872ffd55431698b24d30593437275599&mode=1&name=acestream+SKY SPORT (Italia)
 #EXTINF:-1,SKY SPORTS 1
-plugin://plugin.video.p2p-streams/?url=acestream://e6aaeb0c93c291a4cfe2c04d05c6b1e906f54955&mode=1&name=acestream+SKY SPORTS 1
+plugin://plugin.video.p2p-streams/?url=acestream://559e5d70ef94ffb4f86694f2def482bb009759a1&mode=1&name=acestream+SKY SPORTS 1
 #EXTINF:-1,SKY SPORTS 2
 plugin://plugin.video.p2p-streams/?url=acestream://c36cfe788f185f7e7238b021e738951628336cfe&mode=1&name=acestream+SKY SPORTS 2
 #EXTINF:-1,SKY SPORTS 3
