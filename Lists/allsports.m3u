@@ -37,8 +37,7 @@ http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8
 
 #EXTINF:-1,Sky sport 5
 http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
-#EXTINF:-1, Sky sports 5
-rtmp://80.82.78.87:443/liverepeater playpath-65 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=31&width=600&height=450 token=#atd%#$ZH
+
 
 #EXTINF:-1, Sky sports f1 [COLOR red]link_down[/COLOR]
 rtmp://89.248.171.90:443/liverepeater playpath=48 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=35&width=600&height=450 token=#atd%#$ZH
@@ -277,6 +276,11 @@ http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8?sd=10&rebase=on
 http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_720_av-p.m3u8
 
 
+#EXTINF:-1,GREEK-TILESPORT (low quality)
+http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
+
+
+
 #EXTINF:-1, Sports1
 rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to
 #EXTINF:-1, Sports2 [COLOR red]link_down[/COLOR]
@@ -337,26 +341,10 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/sportextra.sdp
 #EXTINF:-1,ARABIC-KTV Sport Plus
 rtmp://91.140.238.7/rtmplive/rtpencoder/sportplus.sdp
  
-
-
-
-#EXTINF:-1,BRASIL-ESPN+
-rtmp://31.204.128.74/live/master27
-#EXTINF:-1,BRASIL-FOX SPORTS
-rtmp://31.204.153.72/live/fsb
 #EXTINF:-1,BRASIL-TV Pocos - Sports
 rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
 
 
-
-#EXTINF:-1,ote sport
-http://149.255.39.122/aasd/8733/index.m3u8
-#EXTINF:-1,ote 1 
-http://macedoniathebest.mine.nu:8000/live/MACEDONIA/THEBEST/30.m3u8
-#EXTINF:-1,ote sport1
-http://demo.xtream-codes.com/b0zDWc02d7/alex1234/world-iptv/9.ch
-#EXTINF:-1,ote 1
-http://plex4u-s01.ddns.net/markcunningham/12345/7.ch
 
 #EXTINF:-1,Czech O Sport
 http://212.79.96.134:8014/
@@ -366,35 +354,24 @@ http://212.79.96.134:8023/
 http://212.79.96.134:8014/
  
  
-#EXTINF:-1,INDONESIA-Berita Satu Sport HD (720)
-http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_720_av-p.m3u8
-#EXTINF:-1,INDONESIA-Berita Satu Sport SD
-http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_360_av-p.m3u8
 
-
-#EXTINF:-1,PORSCHE CHANNEL mms
+#EXTINF:-1,PORSCHE CHANNEL 
 mms://100automoto.tv/channel_porsche
 
-#EXTINF:-1,AutoSport TV mms
+#EXTINF:-1,AutoSport TV 
 mms://100automoto.tv/100livesport
-#EXTINF:-1,BMW CHANNEL Italia mms
+#EXTINF:-1,BMW CHANNEL Italia 
 mms://100automoto.tv/bmw
 
-#EXTINF:-1,Motors TV
-rtmp://mi2.gv.filmon.com:8086/live/262.high.stream
+
 #EXTINF:-1,Motorsport 7 Channel Australia
 http://motorsport.hopto.org:8080/
-#EXTINF:-1,MOTORS
-http://live305.edge.filmon.com/live/262.low.stream/playlist.m3u8?id=0ad5aac39bb13fbed23ce613640bd027ecf89bc25f2d99f39f15b50ec50e7a029431108390789e025d255e0731eacee80432960ae4f3980b589ca70c99de647890552fffc27c06ebdeba80ad361e46107cde5857966758f18e8150616bab36f2951232b90f813e8bea896f38cc2024ebe29427ba8d77ac3e009df366ba2b15bc6dc22758c0736b8e97789014f49a636da58e22c60c1cac53
 
 
 
 
 #EXTINF:-1, -------------Old Links---------------
 http://www.youtube.com/user/hmemar22
-
-
-
 
 #EXTINF:-1,ENG-Classic Goals (Low Quality)
 rtsp://46.249.213.93/broadcast/classicgoals-tablet.3gp
@@ -406,13 +383,8 @@ rtsp://46.249.213.93/broadcast/drift4ever-tablet.3gp
 rtsp://46.249.213.93/broadcast/ghettokid-tablet.3gp
 #EXTINF:-1,ENG-MMA BAY TV(Low Quality)
 rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
-
 #EXTINF:-1,MMA(Low Quality)
 rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3
-
-#EXTINF:-1,GREEK-TILESPORT (low quality)
-http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
-
 
 
 
@@ -444,32 +416,3 @@ http://pdvid.ufc.tv/2015/01/02/UFC_VEGAS_JONESvsCORMIER_QA.mob.mp4
 
 
 
-
-
-
-#EXTINF:-1,ARABIC-MBC Pro Sports 1 [COLOR red]link_down[/COLOR]
-http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports01/_definst_/live.m3u8
-#EXTINF:-1,ARABIC-MBC Pro Sports 2[COLOR red]link_down[/COLOR]
-http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports02/_definst_/live.m3u8
-#EXTINF:-1,ARABIC-MBC Pro Sports 3[COLOR red]link_down[/COLOR]
-http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports03/_definst_/live.m3u8
-#EXTINF:-1,ARABIC-MBC Pro Sports 4[COLOR red]link_down[/COLOR]
-http://mbcprosports03-live.hls.adaptive.level3.net/hls-live/mbc-mbcprosports04/_definst_/live.m3u8
-
-#EXTINF:-1,FightBox[COLOR red]link_down[/COLOR]
-#
-
-#EXTINF:-1,RUS-Nash Futbol rtmp (link down)
-#
-#EXTINF:-1,RUS-NTV Basketbol rtmp(link down)
-#
-#EXTINF:-1,RUS-NTV Futbol 2 rtmp(link down)
-
-#EXTINF:-1,RUS-Ntv Plus Nash Futbol(link down)
-#
-#EXTINF:-1,RUS-NTV Sport rtmp(link down)
-#
-#EXTINF:-1,RUS-Outdoor Channel rtmp(link down)
-#
-#EXTINF:-1,RUS-Rus.Extrim rtmp(link down)
-#
