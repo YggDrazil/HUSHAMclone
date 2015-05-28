@@ -1,20 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 25/04/2015 @ 04:20 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 28/05/2015 @ 11:52 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --USA Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --These links are made for the community--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-#EXTINF:-1, [COLOR green] --Easily available for the Robin Hood Addon--[/COLOR]  
+#EXTINF:-1, [COLOR green] --Easily available for the Husham Lists Addon--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
-
-
-
 
 
 #EXTINF:-1,Fox Sports 1
