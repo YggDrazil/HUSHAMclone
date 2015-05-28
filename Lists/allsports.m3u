@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 28/05/15 @ 07:00 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 28/05/15 @ 11:51 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -40,7 +40,7 @@ http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
 
 
 #EXTINF:-1, Sky sports f1 [COLOR red]link_down[/COLOR]
-rtmp://89.248.171.90:443/liverepeater playpath=48 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=35&width=600&height=450 token=#atd%#$ZH
+#
 
 #EXTINF:-1,British eurosports 1
 rtmp://89.248.172.159:443/liverepeater playpath=17 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=17&width=600&height=450 token=#atd%#$ZH
