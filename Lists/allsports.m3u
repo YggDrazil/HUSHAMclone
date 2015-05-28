@@ -244,6 +244,8 @@ http://xrxs.net/video/live-p12wash-2328.m3u8
 
 #EXTINF:-1 , Big Ten Network HD (720)
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1 , Big Ten Network HD (720) 2 nd link
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000_20150528093640.ts
 
 #EXTINF:-1,Sports TV
 http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8?husham.com
@@ -263,15 +265,15 @@ mmsh://212.162.68.163:80/rai_scuola
 #EXTINF:-1,Rai Storia
 mmsh://212.162.68.163/rai_storia
 
-#EXTINF:-1,Sky Sport Calcio
+#EXTINF:-1,Sky Sport Calcio [COLOR red]link_down[/COLOR]
 http://bstream.dyndns.org:8000/live/andrededo/zanghetta06/46.ts
-#EXTINF:-1,Sky Sport 24 HD
+#EXTINF:-1,Sky Sport 24 HD [COLOR red]link_down[/COLOR]
 http://bstream.dyndns.org:8000/live/andrededo/zanghetta06/124.ts
 
 #EXTINF:-1,Anistorpic
 http://87.245.214.43/streaming/sport1/16/tvrec/playlist.m3u8?sd=10&rebase=on
 
-#EXTINF:-1,Berita Satu Sport HD
+#EXTINF:-1,Berita Satu Sport HD [COLOR red]link_down[/COLOR]
 http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_720_av-p.m3u8
 
 
@@ -308,7 +310,7 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 #EXTINF:-1,Sport Time TV 7 HD Deutchland
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_800
 
-#EXTINF:-1, Kanal Sports HD (720 )
+#EXTINF:-1,Kanal Sports HD (720 ) [COLOR red]link_down[/COLOR]
 http://lswb-de-08.servers.octoshape.net:1935/live/kanalsport_2000k/HD.m3u8?husham.com
 
 
@@ -318,15 +320,11 @@ http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/anten
 
 #EXTINF:-1,IRAK Iraqiya Sport 
 http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
-#EXTINF:-1,AD Sports 1 (UAE)
-http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8
-#EXTINF:-1,AD Sports 2 (UAE)
-http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
-#EXTINF:-1,Dubai Sport
+#EXTINF:-1,Dubai Sport [COLOR red]link_down[/COLOR]
 http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/playlist.m3u8
-#EXTINF:-1,Dubai Sports 3 (UAE)
+#EXTINF:-1,Dubai Sports 3 (UAE) [COLOR red]link_down[/COLOR]
 http://cdnehlsdubaisports3.endavomedia.com/smil:dmilivedubaisports3.smil/HasBahCa.m3u8
-#EXTINF:-1,Dubai Racing (UAE)
+#EXTINF:-1,Dubai Racing (UAE)[COLOR red]link_down[/COLOR]
 http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
 #EXTINF:-1,ARABIC-BAHRAIN SPORTS
 rtmp://alayam.netromedia.net/btv3/btv3
@@ -351,18 +349,15 @@ rtmp://rtmp.cdn.upx.net.br/00084/myStream.sdp
 
 
 
-#EXTINF:-1,OTE Sports 1
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/13.ts
-#EXTINF:-1,OTE Sports 2
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/14.ts
-#EXTINF:-1,OTE Sports 3
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/15.ts
-#EXTINF:-1,OTE Sports 4
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/16.ts
-#EXTINF:-1,OTE Sports 5
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/17.ts
-#EXTINF:-1,OTE Sports 6
-http://46.105.122.74:8000/live/simonday/jGM2NPnPBM/18.ts
+#EXTINF:-1,ote sport
+http://149.255.39.122/aasd/8733/index.m3u8
+#EXTINF:-1,ote 1 
+http://macedoniathebest.mine.nu:8000/live/MACEDONIA/THEBEST/30.m3u8
+#EXTINF:-1,ote sport1
+http://demo.xtream-codes.com/b0zDWc02d7/alex1234/world-iptv/9.ch
+#EXTINF:-1,ote 1
+http://plex4u-s01.ddns.net/markcunningham/12345/7.ch
+
 #EXTINF:-1,Czech O Sport
 http://212.79.96.134:8014/
 #EXTINF:-1,Czech Sport 5
