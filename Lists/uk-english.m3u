@@ -21,8 +21,6 @@ http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8
 rtmp://80.82.64.140:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
 #EXTINF:-1, Sky sports 1
 http://185.56.30.127:8082/TV4284
-#EXTINF:-1, Sky sports 1
-rtmp://80.82.78.85:443/liverepeater playpath=67 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=24&width=600&height=450 token=#atd%#$ZH timeout=5
 #EXTINF:-1, Sky sports 2
 http://185.56.30.127:8082/TV4285
 #EXTINF:-1, Sky sports 2

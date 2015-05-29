@@ -47,8 +47,6 @@ http://188.227.189.18:8082/TV4134
 http://188.227.189.18:8082/TV4135
 
 
-#EXTINF:-1,Osn time
-http://46.101.9.226/60/ch1332/index.m3u8
 #EXTINF:-1,osn action
 http://esiptv.mine.nu/633/650
 #EXTINF:-1,osn افلام1
