@@ -20,11 +20,6 @@ rtmpe://46.246.124.13:1935/livedge/btspot19 pageUrl=http://xxxxxxxxxxxxx.xx/rtmp
 #EXTINF:-1,Box office event (ACE Stream) - P2P addon required-
 plugin://plugin.video.p2p-streams/?url=acestream://e8f810a29314aaa176d9c0de6d70fe9e301233a0&mode=1&name=acestream+Box office event (ACE Stream) - P2P addon required-
 
-
-
-rtmp://server.kodistreamsnetwork.com:1935/live<playpath>channel09oa <swfUrl>http://www.ppvbay.com/player.swf <pageUrl>http://www.ppvbay.com/view.php?pg=elite9 <objectEncoding>
-
-
 #EXTINF:-1,Bt sports 1
 http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8
 #EXTINF:-1,Bt sports 1
