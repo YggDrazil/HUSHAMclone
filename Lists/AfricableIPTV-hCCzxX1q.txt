@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 23/12/14 @ 17:50 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 30/05/15 @ 05:26 [/COLOR]  
 http://www.youtube.com/user/hmemar22
 
 
@@ -9,6 +9,8 @@ http://www.youtube.com/user/hmemar22
 http://www.youtube.com/user/hmemar22
 
  
+#EXTINF:-1,RDV (Senegal)
+rtmp://$OPT:rtmp-raw=rtmp://67.213.217.205/8180 playpath=8386deux swfUrl=http://www.sunu-tv.com/online/swf/player.2.0.swf?token=89535304390 live=1 pageUrl=http://www.sunu-tv.com/online/channels/embed.html?id=sentv
 #EXTINF:0,1tv1
 http://162.212.176.83:8080/1tv1.m3u8
  
