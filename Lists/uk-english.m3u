@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 29/05/15 @ 08:08 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 31/05/15 @ 22:00 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
 #EXTINF:-1, [COLOR green] --Uk Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
@@ -12,15 +12,21 @@ plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
 plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
 
 #EXTINF:-1,Bt sports 1
-http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8
-#EXTINF:-1,Bt sports 1
 rtmp://80.82.64.140:443/liverepeater playpath=42 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=600&height=450 token=#atd%#$ZH
-#EXTINF:-1,Bt sports 2
-http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8
+
+#EXTINF: BT Sport 1
+http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8?
+#EXTINF:-1,BT Sport 2
+http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8?
+#EXTINF:-1,BT Sport 2
+rtmp://46.246.29.137:1935/stream/ playpath=q9dS41DQ8U.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other
 #EXTINF:-1,Bt sports 2
 rtmp://80.82.64.140:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
+
 #EXTINF:-1, Sky sports 1
 http://185.56.30.127:8082/TV4284
+#EXTINF:-1, Sky sports 1
+rtmp://80.82.78.85:443/liverepeater playpath=67 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=24&width=600&height=450 token=#atd%#$ZH timeout=5
 #EXTINF:-1, Sky sports 2
 http://185.56.30.127:8082/TV4285
 #EXTINF:-1, Sky sports 2
