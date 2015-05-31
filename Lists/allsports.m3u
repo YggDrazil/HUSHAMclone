@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 31/05/15 @ 11:35 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 31/05/15 @ 21:45 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -15,13 +15,17 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 
 #EXTINF:-1,Bt sports 1
-http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8
-#EXTINF:-1,Bt sports 1
 rtmp://80.82.64.140:443/liverepeater playpath=42 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=600&height=450 token=#atd%#$ZH
-#EXTINF:-1,Bt sports 2
-http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8
+
+#EXTINF: BT Sport 1
+http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8?
+#EXTINF:-1,BT Sport 2
+http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8?
+#EXTINF:-1,BT Sport 2
+rtmp://46.246.29.137:1935/stream/ playpath=q9dS41DQ8U.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other
 #EXTINF:-1,Bt sports 2
 rtmp://80.82.64.140:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
+
 #EXTINF:-1, Sky sports 1
 http://185.56.30.127:8082/TV4284
 #EXTINF:-1, Sky sports 1
@@ -66,10 +70,10 @@ rtmp://89.248.171.90:443/liverepeater playpath=21 swfUrl=http://popeoftheplayers
 #EXTINF:-1,WWE Network
 rtmp://80.82.78.29:443/liverepeater/wwee pageUrl=http://xxxxxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=70?32?34 pageUrl=http://popeoftheplayers.eu/hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1page/playpath=42?finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@ token=#atd%#$ZH
 
-#EXTINF:-1, Boxnation [COLOR red]link_down[/COLOR]
-#
+#EXTINF:-1,Boxnation [COLOR red]link_down[/COLOR]
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.195:80/live playpath=bxx swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.reytv.co/embed.php?live=bxx&vw=620&vh=490 token=%Zrey(nKa@#Z#
 
-#EXTINF:-1, Boxing Sports (Not english)
+#EXTINF:-1,Boxing Sports (Not english)
 http://46.61.226.18/hls/CH_BOETZ/bw1500000/variant.m3u8
 
 #EXTINF:-1,Sports Music
@@ -111,7 +115,8 @@ http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?
 #EXTINF:-1,Sports Net Now
 http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8
 
-
+#EXTINF:-1, TSN1
+rtmp://31.220.0.195:80/live/btpremier pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=tx1?ss5ry?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
 
 
 #EXTINF:-1,Real Madrid

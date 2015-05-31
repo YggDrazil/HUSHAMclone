@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1, [COLOR yellow]Updated 31/05/2015 @ 08:45 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 31/05/2015 @ 21:45 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --ACEStreams Live Tv Otherwise known as torrent streaming--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -16,7 +16,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1,SKY SPORTS 1
 plugin://plugin.video.p2p-streams/?url=acestream://559e5d70ef94ffb4f86694f2def482bb009759a1&mode=1&name=acestream+SKY SPORTS 1
 #EXTINF:-1,SKY SPORTS 2
-plugin://plugin.video.p2p-streams/?url=acestream://c36cfe788f185f7e7238b021e738951628336cfe&mode=1&name=acestream+SKY SPORTS 2
+plugin://plugin.video.p2p-streams/?url=acestream://0c245f8959582abea08cf4874fa35b7b3722c5bc&mode=1&name=acestream+SKY SPORTS 2
 #EXTINF:-1,SKY SPORTS 3
 plugin://plugin.video.p2p-streams/?url=acestream://af824678202ec687837752c113f2deb5aba7d1be&mode=1&name=acestream+SKY SPORTS 3
 
@@ -24,13 +24,13 @@ plugin://plugin.video.p2p-streams/?url=acestream://af824678202ec687837752c113f2d
 plugin://plugin.video.p2p-streams/?url=acestream://a97d243472ff0c67d2520943b0e4cac6566a99c6&mode=1&name=acestream+SKY SPORTS 4 (Italy)
 
 #EXTINF:-1,SKY SPORTS 5
-plugin://plugin.video.p2p-streams/?url=acestream://e72bb7060e8e4780e65ed45e81bf09bf352f496b&mode=1&name=acestream+SKY SPORTS 5
+plugin://plugin.video.p2p-streams/?url=acestream://a6192e7122c79a02346f674f7f9d964e713f8194&mode=1&name=acestream+SKY SPORTS 5
 #EXTINF:-1,SKY SPORTS F1
 plugin://plugin.video.p2p-streams/?url=acestream://2dff503259045e4d119e6e972a3db8521c47198a&mode=1&name=acestream+SKY SPORTS F1
 #EXTINF:-1,BT SPORT 1
 plugin://plugin.video.p2p-streams/?url=acestream://be3d2364098be07752ba6b200b087975e6bb2e09&mode=1&name=acestream+BT SPORT 1
 #EXTINF:-1,BT SPORT 2
-plugin://plugin.video.p2p-streams/?url=acestream://420ad279e44eef83b36673f4352373869e86a322&mode=1&name=acestream+BT SPORT 2
+plugin://plugin.video.p2p-streams/?url=acestream://944916ac382f162aa2e89f032a946638b99bdfe1&mode=1&name=acestream+BT SPORT 2
 #EXTINF:-1,2 plus 2
 plugin://plugin.video.p2p-streams/?url=acestream://2d0e351aa31c4d9edf196cdae89ca1dbd345cc26&mode=1&name=acestream+2 plus 2
 
