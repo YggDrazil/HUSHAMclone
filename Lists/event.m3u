@@ -5,3 +5,20 @@ plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
 #EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
 
+
+#EXTINF:-1,P2p Link 1
+plugin://plugin.video.p2p-streams/?url=acestream://82bbf57863b5a2f20c662bc90de5aa5c507fed57&mode=1&name=acestream+P2p Link 1
+
+#EXTINF:-1,P2p Link 2
+plugin://plugin.video.p2p-streams/?url=acestream://df30e82f40b30794cedb9920bb3aba1eb2b01201&mode=1&name=acestream+P2p Link 2
+
+#EXTINF:-1,P2p Link 3
+plugin://plugin.video.p2p-streams/?url=acestream://227c20d997d3f8da0982ebbd87bb08ad1428091&mode=1&name=acestream+P2p Link 3
+
+#EXTINF:-1,P2p Link 4
+plugin://plugin.video.p2p-streams/?url=acestream://1cf7b5258b632dd1ddb73e0afd89db5ffae9946d&mode=1&name=acestream+P2p Link 4
+
+#EXTINF:-1,P2p Link 5
+plugin://plugin.video.p2p-streams/?url=acestream://e8f810a29314aaa176d9c0de6d70fe9e301233a0&mode=1&name=acestream+P2p Link 5
+
+
