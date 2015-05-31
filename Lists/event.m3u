@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]Events Links will be added here only [/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
+#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
+
