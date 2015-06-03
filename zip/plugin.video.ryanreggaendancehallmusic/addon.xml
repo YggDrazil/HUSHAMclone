@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
   id="plugin.video.ryanreggaendancehallmusic"
-  version="1.0.0"
+  version="1.0.1"
   name="Ryan Reggae n Dancehall music"
   provider-name="Husham.com">
   <requires>
