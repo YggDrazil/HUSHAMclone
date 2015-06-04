@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 02/05/15 @ 23:12 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 04/06/15 @ 15:12 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -54,12 +54,16 @@ http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
 rtmp://80.82.78.87:443/liverepeater playpath=65 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
 
 #EXTINF:-1, Sky sports f1
-rtmp://94.102.49.126:443/liverepeater playpath=69 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
+rtmp://94.102.49.126:443/liverepeater playpath=69 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
 
 #EXTINF:-1,British eurosports 1
-rtmp://89.248.172.159:443/liverepeater playpath=17 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=17&width=600&height=450 token=#atd%#$ZH
+rtmp://89.248.172.159:443/liverepeater playpath=17 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=17&width=600&height=450 token=#atd%#$ZH timeout=5
+#EXTINF:-1,Eurosport (not english)
+http://yayinlar.tvizleyim.com/org16/eurosportrus_me/playlist.m3u8
 #EXTINF:-1,British eurosports 1
-rtmp://94.102.49.126:443/liverepeater playpath=17 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=17&width=600&height=450 token=#atd%#$ZH
+rtmp://94.102.49.126:443/liverepeater playpath=17 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=17&width=600&height=450 token=#atd%#$ZH timeout=5
+#EXTINF:-1,Eurosport 2 (not english)
+http://yayinlar.tvizleyim.com/org9/eurosport2_me/playlist.m3u8
 
 #EXTINF:-1,British eurosport 2 
 rtmp://80.82.78.87:443/liverepeater playpath=21 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=17&width=600&height=450 token=#atd%#$ZH

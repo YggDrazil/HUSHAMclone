@@ -9,6 +9,11 @@ http://www.youtube.com/user/hmemar22
 
 
 
+#EXTINF:-1,Eurosport
+http://yayinlar.tvizleyim.com/org16/eurosportrus_me/playlist.m3u8
+#EXTINF:-1,Eurosport 2
+http://yayinlar.tvizleyim.com/org9/eurosport2_me/playlist.m3u8
+
 #EXTINF:-1,P2p Link 1 
 plugin://plugin.video.p2p-streams/?url=acestream://b10d282276461422e36f5fcaec876be1ce5dd831&mode=1&name=acestream+P2p Link 1
 
