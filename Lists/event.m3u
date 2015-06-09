@@ -1,5 +1,7 @@
 #EXTM3U
 
+
+
 #EXTINF:-1, [COLOR yellow]Events Links will be added here only [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
 #EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
@@ -7,41 +9,14 @@ plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
 #EXTINF:-1, [COLOR yellow]Please donate to husham.com for more content[/COLOR]
 http://www.youtube.com/user/hmemar22
 
+#EXTINF:-1,Golf Link 1
+http://46.61.226.18/hls/CH_C06_VIASATGOLFHD/bw3000000/variant.m3u8
 
+#EXTINF:-1,BT Sport 1 (P2P)
+plugin://plugin.video.p2p-streams/?url=acestream://be3d2364098be07752ba6b200b087975e6bb2e09&mode=1&name=acestream+BT Sport 1 (P2P)
 
-#EXTINF:-1,Eurosport
-http://yayinlar.tvizleyim.com/org16/eurosportrus_me/playlist.m3u8
-#EXTINF:-1,Eurosport 2
-http://yayinlar.tvizleyim.com/org9/eurosport2_me/playlist.m3u8
-
-#EXTINF:-1,P2p Link 1 
-plugin://plugin.video.p2p-streams/?url=acestream://b10d282276461422e36f5fcaec876be1ce5dd831&mode=1&name=acestream+P2p Link 1
-
-#EXTINF:-1,P2p Link 2
-plugin://plugin.video.p2p-streams/?url=acestream://944916ac382f162aa2e89f032a946638b99bdfe1&mode=1&name=acestream+P2p Link 2
-
-#EXTINF:-1,P2p Link 3
-plugin://plugin.video.p2p-streams/?url=acestream://a97d243472ff0c67d2520943b0e4cac6566a99c6&mode=1&name=acestream+P2p Link 3
-
-#EXTINF:-1,P2p Link 4
-plugin://plugin.video.p2p-streams/?url=acestream://dd5a67fc36728bd08b35002bd015ebfe79e0dce6&mode=1&name=acestream+P2p Link 4
-
-#EXTINF:-1,P2p Link 5
-plugin://plugin.video.p2p-streams/?url=acestream://944916ac382f162aa2e89f032a946638b99bdfe1&mode=1&name=acestream+P2p Link 5
-
-#EXTINF:-1,P2p Link 6
-plugin://plugin.video.p2p-streams/?url=acestream://200e5e4db1f56caa6ec79d9b85e1fd37942320e3&mode=1&name=acestream+P2p Link 6
-
-#EXTINF:-1,P2p Link 7
-plugin://plugin.video.p2p-streams/?url=acestream://3a78e14a7256108ee170eaf95606af38e92650dd&mode=1&name=acestream+P2p Link 7
-
-#EXTINF:-1,Boxing events
-rtmpe://46.246.124.13:1935/livedge/btspot19 pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC token=Fo5_n0w?U.rA6l3-70w47 playpath=llive5?sboxn?pageUrlhttp pageUrl=http://hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w#yw%tt#w@kku
-
-#EXTINF:-1,Sky Box Office P2p Link 1
-plugin://plugin.video.p2p-streams/?url=acestream://0f19878397418b5a5f191e7b83e6babfeff298f8&mode=1&name=acestream+P2p Link 1
-
-
+#EXTINF:-1,BT Sport 2 (P2P)
+plugin://plugin.video.p2p-streams/?url=acestream://944916ac382f162aa2e89f032a946638b99bdfe1&mode=1&name=acestream+BT Sport 1 (P2P)
 
 #EXTINF:-1, [COLOR yellow]Events Reply Lin links [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
