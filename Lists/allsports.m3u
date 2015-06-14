@@ -66,11 +66,11 @@ http://pappuyartangnakar.ddns.net:8080/sp4TK/sp4Rtk/index.m3u8
 http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8
 #EXTINF:-1,Sky sport 4
 rtmp://80.82.70.106:443/liverepeater playpath=31 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
-#EXTINF:-1,SKY SPORTS 5
-http://pappuyartangnakar.ddns.net:8080/sTpRg5/spK5/index.m3u8
 
 #EXTINF:-1,Sky sport 5
-http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
+http://pappuyartangnakar.ddns.net:8080/sTpRg5/spK5/index.m3u8 timeout=5
+#EXTINF:-1,Sky sport 5
+http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8 timeout=5
 #EXTINF:-1,Sky sport 5
 rtmp://80.82.78.87:443/liverepeater playpath=65 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
 #EXTINF:-1,SKY SPORTS F1
