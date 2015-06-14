@@ -15,9 +15,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 
 #EXTINF:-1,BT sports 1
-rtmp://80.82.64.140:443/liverepeater playpath=42 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=600&height=450 token=#atd%#$ZH
+rtmp://80.82.64.140:443/liverepeater playpath=42 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=600&height=450 token=#atd%#$ZH timeout=5
 #EXTINF:-1,BT sports 1
-rtmp://80.82.78.85:443/liverepeater playpath=7 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=600&height=450 token=#atd%#$ZH
+rtmp://80.82.78.85:443/liverepeater playpath=7 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=600&height=450 token=#atd%#$ZH timeout=5
 #EXTINF:-1,BT SPORT 1
 http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8
 #EXTINF:-1,BT Sport 2
