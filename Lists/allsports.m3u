@@ -23,7 +23,7 @@ http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8
 #EXTINF:-1,BT Sport 2
 http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8?
 #EXTINF:-1,BT Sport 2
-rtmp://46.246.29.137:1935/stream/ playpath=q9dS41DQ8U.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other
+rtmp://46.246.29.137:1935/stream/ playpath=q9dS41DQ8U.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other timeout=5
 #EXTINF:-1,Bt sports 2
 rtmp://80.82.64.140:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
 
