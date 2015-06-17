@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 03/06/15 @ 06:54 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 17/06/15 @ 14:27 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
 #EXTINF:-1, [COLOR green] --Uk Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
@@ -11,62 +11,97 @@ plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
 #EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
 
-#EXTINF:-1,Bt sports 1
-rtmp://80.82.64.140:443/liverepeater playpath=42 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=600&height=450 token=#atd%#$ZH
 
-#EXTINF: BT Sport 1
-http://195.154.227.38:1935/live/btsports1lsh/playlist.m3u8?
-#EXTINF:-1,BT Sport 2
-http://195.154.227.38:1935/live/btsports2lsh/playlist.m3u8?
+#EXTINF:-1,BT sports 1
+rtmp://80.82.78.85:443/liverepeater playpath=7 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=600&height=450 token=#atd%#$ZH timeout=5
+#EXTINF:-1,BT sports 1
+rtmp://80.82.64.140:443/liverepeater playpath=42 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=600&height=450 token=#atd%#$ZH timeout=5
+
+#EXTINF:-1,BT sports 2
+rtmp://94.102.49.126:443/liverepeater playpath=8 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=600&height=450 token=#atd%#$ZH timeout=5
 #EXTINF:-1,BT Sport 2
 rtmp://46.246.29.137:1935/stream/ playpath=q9dS41DQ8U.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other
-#EXTINF:-1,Bt sports 2
-rtmp://80.82.64.140:443/liverepeater playpath=15 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
 
-#EXTINF:-1, Sky sports 1
+#EXTINF:-1,Sky sports News
+rtmp://94.102.49.126:443/liverepeater playpath=19 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
+
+#EXTINF:-1, Sky sports 1 
 http://185.56.30.127:8082/TV4284
-#EXTINF:-1, Sky sports 1
+#EXTINF:-1,Sky sports 1
 rtmp://80.82.78.85:443/liverepeater playpath=67 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=24&width=600&height=450 token=#atd%#$ZH timeout=5
+#EXTINF:-1,Sky sports 1
+rtmp://94.102.49.126:443/liverepeater playpath=1 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=24&width=600&height=450 token=#atd%#$ZH timeout=5
+#EXTINF:-1,Sky sports 1
+rtmp://80.82.64.87:443/liverepeater playpath=19 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=24&width=600&height=450 token=#atd%#$ZH timeout=5
+
 #EXTINF:-1, Sky sports 2
+rtmp://137.63.71.18:443/liverepeater  playpath=72 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
+#EXTINF:-1, Sky sports 2
+rtmp://80.82.78.85:443/liverepeater  playpath=72 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
+#EXTINF:-1,Sky sports 2
 http://185.56.30.127:8082/TV4285
 #EXTINF:-1, Sky sports 2
 http://195.154.227.38:1935/live/skysports2lsh/playlist.m3u8
 #EXTINF:-1, Sky sports 2
-rtmp://80.82.70.106:443/liverepeater playpath=72 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
+rtmp://80.82.70.106:443/liverepeater playpath=72 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
+
+#EXTINF:-1,Sky sports 3
+rtmp://137.63.71.18:443/liverepeater playpath=3 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=64&width=600&height=450 token=#atd%#$ZH timeout=10
 #EXTINF:-1,Sky sport 3
 http://185.56.30.127:8082/TV4286
-#EXTINF:-1,Sky sport 3
-http://195.154.227.38:1935/live/skysports3lsh/playlist.m3u8
 #EXTINF:-1, Sky sports 3
-rtmp://80.82.78.15:443/liverepeater playpath=64 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=64&width=600&height=450 token=#atd%#$ZH
+rtmp://80.82.78.15:443/liverepeater playpath=64 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=64&width=600&height=450 token=#atd%#$ZH timeout=5
+
 #EXTINF:-1,Sky sport 4
 http://185.56.30.127:8082/TV4130
+#EXTINF:-1,SKY SPORTS 4
+rtmp://137.63.71.18:443/liverepeater playpath=4 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
+#EXTINF:-1,SKY SPORTS 4
+rtmp://80.82.78.39:443/liverepeater playpath=4 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
 #EXTINF:-1,Sky sport 4
-http://195.154.227.38:1935/live/skysports4lsh/playlist.m3u8
-#EXTINF:-1,Sky sport 4
-rtmp://80.82.70.106:443/liverepeater playpath=31 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
-#EXTINF:-1,Sky sport 5
-http://195.154.227.38:1935/live/skysports5lsh/playlist.m3u8
-#EXTINF:-1,Sky sport 5
-rtmp://80.82.78.87:443/liverepeater playpath=65 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
+rtmp://80.82.70.106:443/liverepeater playpath=31 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
 
+#EXTINF:-1,Sky sport 5
+rtmp://80.82.70.106:443/liverepeater playpath=5 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
+#EXTINF:-1,Sky sport 5
+rtmp://80.82.78.87:443/liverepeater playpath=65 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
+
+#EXTINF:-1,SKY SPORTS F1
+rtmp://80.82.78.39:443/liverepeater playpath=6 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
 #EXTINF:-1, Sky sports f1
-rtmp://94.102.49.126:443/liverepeater playpath=69 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH
+rtmp://94.102.49.126:443/liverepeater playpath=69 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
 
 #EXTINF:-1,British eurosports 1
-rtmp://89.248.172.159:443/liverepeater playpath=17 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=17&width=600&height=450 token=#atd%#$ZH
+rtmp://80.82.78.26:443/liverepeater playpath=9 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=17&width=600&height=450 token=#atd%#$ZH timeout=5
+#EXTINF:-1,Eurosport (not english)
+http://yayinlar.tvizleyim.com/org16/eurosportrus_me/playlist.m3u8
 #EXTINF:-1,British eurosports 1
-rtmp://94.102.49.126:443/liverepeater playpath=17 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=17&width=600&height=450 token=#atd%#$ZH
+rtmp://94.102.49.126:443/liverepeater playpath=17 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=17&width=600&height=450 token=#atd%#$ZH timeout=5
 
+
+#EXTINF:-1,British eurosports 2
+rtmp://80.82.78.85:443/liverepeater playpath=10 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=17&width=600&height=450 token=#atd%#$ZH timeout=5
+#EXTINF:-1,Eurosport 2 (not english)
+http://yayinlar.tvizleyim.com/org9/eurosport2_me/playlist.m3u8
 #EXTINF:-1,British eurosport 2 
-rtmp://80.82.78.87:443/liverepeater playpath=21 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=17&width=600&height=450 token=#atd%#$ZH
-
+rtmp://80.82.78.87:443/liverepeater playpath=21 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=17&width=600&height=450 token=#atd%#$ZH  timeout=5
 #EXTINF:-1,British eurosport 2 
-rtmp://89.248.171.90:443/liverepeater playpath=21 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=17&width=600&height=450 token=#atd%#$ZH
+rtmp://89.248.171.90:443/liverepeater playpath=21 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=17&width=600&height=450 token=#atd%#$ZH timeout=5
 
+#EXTINF:-1,WWE Network
+rtmp://80.82.78.15:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=49&width=600&height=450 token=#atd%#$ZH timeout=5
+#EXTINF:-1,WWE Network
+rtmp://89.248.171.90:443/liverepeater playpath=13 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=49&width=600&height=450 token=#atd%#$ZH timeout=5
 
-#EXTINF:-1,Boxnation
-http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8 
+#EXTINF:-1,Boxnation [COLOR red]link_down[/COLOR]
+rtmp://$OPT:rtmp-raw=rtmp://31.220.0.195:80/live playpath=bxx swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://www.reytv.co/embed.php?live=bxx&vw=620&vh=490 token=%Zrey(nKa@#Z#
+
+#EXTINF:-1,Boxing Sports (Not english)
+http://46.61.226.18/hls/CH_BOETZ/bw1500000/variant.m3u8
+
+#EXTINF:-1,Sports Music
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
+
 
 #EXTINF:-1,ESPN
 rtmp://137.63.71.18:443/liverepeater playpath=34 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=34&width=600&height=450 token=#atd%#$ZH
