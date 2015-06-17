@@ -77,8 +77,6 @@
 </channel>
   </channels>
 
-
-  
 <channels>
 
 <channel>
@@ -177,7 +175,8 @@
 </channel>
   </channels>
 
-
+<channels>
+  
 <channel>
       <name>[COLOR lime]Husham Greek TV [/COLOR]</name>
   <thumbnail>https://lh5.ggpht.com/i7sGDGnng38EJ5gAIvBOnnWoiQ5oMXfO4FA925CaXzB_JxqWPkNntXT-BluYBZyvjo3r=w300</thumbnail>
@@ -187,5 +186,18 @@
 </channel>
   </channels>
 
+
+  
+<channels>
+
+<channel>
+      <name>[COLOR lime]Husham RussianI-IPTV [/COLOR]</name>
+  <thumbnail>http://languages.utah.edu/languages/russian/St-Basil-s-Cathedral-russia-33388434-1680-1050.jpg</thumbnail>
+<fanart>https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/RussianI-IPTV.m3u</externallink>
+</channel>
+  </channels>
+ 
 
   
