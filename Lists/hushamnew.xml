@@ -90,6 +90,16 @@
 </channel>
   </channels>
 
+<channels>
+
+<channel>
+     <name>[COLOR white]MARWAN Arabic list[/COLOR]</name>
+   <thumbnail>http://mainlogos.shadowcrew.info/Marwan.png</thumbnail>
+<fanart>http://mainlogos.shadowcrew.info/main%20background.jpg</fanart>
+<link>http://ignoreme</link>
+    <externallink>https://raw.githubusercontent.com/marwanwardi/MARWANListApr2/master/MARWANListApr2.m3u</externallink>
+</channel>
+   </channels>  
 
   
 <channels>
