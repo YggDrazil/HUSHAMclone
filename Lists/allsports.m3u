@@ -113,6 +113,10 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 #EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
+#EXTINF:-1,LFTV Live Stream
+rtmp://46.246.29.130:1935/stream/ playpath=0VmU1bpSNQ.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460
+
+
 #EXTINF:-1,NBCSN
 http://tvenbcsn-i.Akamaihd.net/hls/live/218235/nbcsnx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104
 #EXTINF:-1,NBCSN Golf
