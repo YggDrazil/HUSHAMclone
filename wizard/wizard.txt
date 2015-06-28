@@ -3,10 +3,3 @@ url="https://copy.com/NQATbyALqseQoYYd/newhushamaddons.zip?download=1"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
 description="Husham Fully Loaded Set-up"
-
-name="Husham.com Old Fully Loaded Setup"
-url="http://hushamwizard.x10.bz/wizard/hushamaddons.zip"
-img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
-fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
-description="Husham Fully Loaded Set-up"
-
