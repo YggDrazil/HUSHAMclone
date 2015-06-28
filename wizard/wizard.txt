@@ -10,15 +10,10 @@ img="http://droidking.net/wizard/fullyloaded.jpg"
 fanart="https://www.dropbox.com/s/cnmv4xas5kcum45/main.jpg?dl=1"
 description="Fully Loaded Setup"
 
-
-name="Husham.com Fully Loaded Setup ( Source 1)"
-url="https://www.dropbox.com/s/rictvcjhzh1oovl/0.4newhushamaddons.zip?dl=1"
+name="Husham.com Fully Loaded Setup"
+url="https://www.copy.com/s/t%3ANQATbyALqseQoYYd%3Bp%3A%252Fhushamaddons.zip"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
 description="Husham Fully Loaded Set-up"
 
-name="Husham.com Fully Loaded Setup (Source 2 )"
-url="https://copy.com/NQATbyALqseQoYYd/hushamaddons.zip?download=1"
-img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
-fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
-description="Husham Fully Loaded Set-up"
+
