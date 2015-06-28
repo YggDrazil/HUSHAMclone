@@ -1,5 +1,5 @@
 name="Husham.com Fully Loaded Setup"
-url="https://copy.com/NQATbyALqseQoYYd/hushamaddons.zip?download=1"
+url="https://copy.com/9oT7E27fVKbRVd0T/oldhushamaddons.zip?download=1"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
 description="Husham Fully Loaded Set-up"
