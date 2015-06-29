@@ -10,17 +10,4 @@ img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.co
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
 description="Husham Fully Loaded Set-up"
 
-name="Install BlackBox"
-url="http://theblackboxostv.co.uk/build/2206.zip"
-img="http://theblackboxostv.co.uk/wizard/blackbox.jpg"
-fanart="http://theblackboxostv.co.uk/wizard/blackbox.jpg"
-description="BlackBox Wizard Setup"
-
-name="Droid King Fully Loaded Setup"
-url="http://droidking.net/wizard/newaddons.zip"
-img="http://droidking.net/wizard/fullyloaded.jpg"
-fanart="https://www.dropbox.com/s/cnmv4xas5kcum45/main.jpg?dl=1"
-description="Fully Loaded Setup"
-
-
 
