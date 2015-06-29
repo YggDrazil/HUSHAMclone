@@ -1,11 +1,11 @@
 name="Husham.com Fully Loaded Setup"
-url="http://hushamwizard.x10.bz/wizard/0.4newhushamaddons.zip"
+url="https://copy.com/NQATbyALqseQoYYd/hushamaddons.zip?download=1"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
 description="Husham Fully Loaded Set-up"
 
 name="Husham.com Fully Loaded Setup"
-url="https://copy.com/NQATbyALqseQoYYd/hushamaddons.zip?download=1"
+url="http://hushamwizard.x10.bz/wizard/0.4newhushamaddons.zip"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
 description="Husham Fully Loaded Set-up"
