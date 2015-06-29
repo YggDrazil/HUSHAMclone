@@ -5,7 +5,7 @@ fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham
 description="Husham Fully Loaded Set-up"
 
 name="Husham.com Fully Loaded Setup"
-url="https://www.copy.com/s/t%3ANQATbyALqseQoYYd%3Bp%3A%252Fhushamaddons.zip"
+url="https://copy.com/NQATbyALqseQoYYd/hushamaddons.zip?download=1"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
 description="Husham Fully Loaded Set-up"
