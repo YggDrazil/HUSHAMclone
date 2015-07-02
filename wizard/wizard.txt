@@ -1,7 +1,13 @@
 name="0.6 Husham.com Fully Loaded Setup"
-url="http://bit.ly/husham06
+url="http://bit.ly/husham06"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
+description="Husham Fully Loaded Set-up"
+
+name="Husham.com Repos only"
+url="http://bit.ly/husahmreposonly01"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
 description="Husham Fully Loaded Set-up"
 
 name="0.5 Husham.com Fully Loaded Setup"
@@ -12,12 +18,6 @@ description="Husham Fully Loaded Set-up"
 
 name="0.4 Husham.com Fully Loaded Setup"
 url="http://bit.ly/hushamwizard04"
-img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
-fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
-description="Husham Fully Loaded Set-up"
-
-name="Husham.com Fully Loaded Repos only"
-url="http://bit.ly/husahmreposonly01"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
 description="Husham Fully Loaded Set-up"
