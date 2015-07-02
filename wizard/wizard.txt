@@ -4,7 +4,7 @@ img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlis
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
 description="Husham Fully Loaded Set-up"
 
-name="Husham.com Repos Only"
+name="Husham.com Repos only"
 url="http://bit.ly/husahmreposonly01"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
