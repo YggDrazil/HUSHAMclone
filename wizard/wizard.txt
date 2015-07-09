@@ -1,14 +1,16 @@
+name="0.7.1 Husham.com Fully Loaded Setup"
+url="http://bit.ly/husham71"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
+description="Husham Fully Loaded Set-up"
+
+
 name="0.7 Husham.com Fully Loaded Setup"
 url="http://bit.ly/husham07"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
 description="Husham Fully Loaded Set-up"
 
-name="Husham.com Repos only"
-url="http://bit.ly/husahmreposonly01"
-img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
-fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
-description="Husham Fully Loaded Set-up"
 
 name="0.6 OLD Husham.com Fully Loaded Setup"
 url="http://bit.ly/husham06"
