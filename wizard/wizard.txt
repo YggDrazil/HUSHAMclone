@@ -4,6 +4,12 @@ img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
 description="Husham Fully Loaded Set-up"
 
+name="Husham.com Repos only"
+url="http://bit.ly/husahmreposonly01"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham.com%20logo.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
+description="Husham Fully Loaded Set-up"
+
 name="0.7.2 Husham.com Fully Loaded Setup"
 url="http://bit.ly/husham072"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
