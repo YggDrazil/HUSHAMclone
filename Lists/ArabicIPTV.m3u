@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 17/07/15 @ 14:50 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 17/07/15 @ 11:23 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -12,34 +12,34 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 http://www.youtube.com/user/hmemar22
 
 
-#EXTINF:0,beIN SPORTS 1HD
-http://star7arab.zapto.org:8082/TV4001
-#EXTINF:0,beIN SPORTS 2HD
-http://star7arab.zapto.org:8082/TV4002
-#EXTINF:0,beIN SPORTS 3HD
-http://star7arab.zapto.org:8082/TV4003
-#EXTINF:0,beIN SPORTS 4HD
-http://star7arab.zapto.org:8082/TV4004
-#EXTINF:0,beIN SPORTS 5HD
-http://star7arab.zapto.org:8082/TV4005
-#EXTINF:0,beIN SPORTS 6HD
-http://star7arab.zapto.org:8082/TV4006
-#EXTINF:0,beIN SPORTS 7HD
-http://star7arab.zapto.org:8082/TV4007
-#EXTINF:0,beIN SPORTS 8HD
-http://star7arab.zapto.org:8082/TV4008
-#EXTINF:0,beIN SPORTS 9HD
-http://star7arab.zapto.org:8082/TV4009
-#EXTINF:0,beIN SPORTS 10HD
-http://star7arab.zapto.org:8082/TV4010
-#EXTINF:0,beIN SPORTS 11HD
-http://star7arab.zapto.org:8082/TV4011
-#EXTINF:0,beIN SPORTS 1HD EN
-http://star7arab.zapto.org:8082/TV4012
-#EXTINF:0,beIN SPORTS 1HD FR
-http://star7arab.zapto.org:8082/TV4013
-#EXTINF:0,beIN SPORTS 2HD
-http://star7arab.zapto.org:8082/TV4014
+#EXTINF:0, beIN SPORTS 1HD
+http://188.93.234.112:8082/TV4001
+#EXTINF:0, beIN SPORTS 2HD
+http://188.93.234.112:8082/TV4002
+#EXTINF:0, beIN SPORTS 3HD
+http://188.93.234.112:8082/TV4003
+#EXTINF:0, beIN SPORTS 4HD
+http://188.93.234.112:8082/TV4004
+#EXTINF:0, beIN SPORTS 5HD
+http://188.93.234.112:8082/TV4005
+#EXTINF:0, beIN SPORTS 6HD
+http://188.93.234.112:8082/TV4006
+#EXTINF:0, beIN SPORTS 7HD
+http://188.93.234.112:8082/TV4007
+#EXTINF:0, beIN SPORTS 8HD
+http://188.93.234.112:8082/TV4008
+#EXTINF:0, beIN SPORTS 9HD
+http://188.93.234.112:8082/TV4009
+#EXTINF:0, beIN SPORTS 10HD
+http://188.93.234.112:8082/TV4010
+#EXTINF:0, beIN SPORTS 11HD
+http://188.93.234.112:8082/TV4011
+#EXTINF:0, beIN SPORTS 1HDEN
+http://188.93.234.112:8082/TV4012
+#EXTINF:0, beIN SPORTS 1HDFR
+http://188.93.234.112:8082/TV4013
+#EXTINF:0, beIN SPORTS 2HD
+http://188.93.234.112:8082/TV4014
 
 
 #EXTINF:-1,OMN yahla drama
