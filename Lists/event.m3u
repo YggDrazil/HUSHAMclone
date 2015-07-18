@@ -8,6 +8,16 @@ plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
 http://www.youtube.com/user/hmemar22
 
 
+
+#EXTINF:-1,UFC Fight(P2P)
+plugin://plugin.video.p2p-streams/?url=acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&mode=1&name=acestream+UFC Fight (P2P)
+
+#EXTINF:-1, BT sport 2 - Slow Link due to many people useing it
+rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+
+
+
 #EXTINF:-1 group-title=" 10.45 friendly BRISBANE ROAR - LIVERPOOL ",[COLOR green]10.45 friendly BRISBANE ROAR - LIVERPOOL[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
 #EXTINF:-1 group-title=" 10.45 friendly BRISBANE ROAR - LIVERPOOL ",arena sport 1 sr
@@ -105,13 +115,6 @@ rtmp://217.174.227.20/webtv/ch004_sd
 
 
 
-#EXTINF:-1,UFC Fight(P2P)
-plugin://plugin.video.p2p-streams/?url=acestream://c8ed2f07e6b80ccc10c26eb4966db8602c1a2527&mode=1&name=acestream+UFC Fight (P2P)
 
-#EXTINF:-1,UFC Fight link 2 (P2P)
-plugin://plugin.video.p2p-streams/?url=acestream://4ec9fe4a24574777277dafe72914bcb7ff84e6c4&mode=1&name=acestream+UFC Fight link 2 (P2P)
-
-#EXTINF:-1, BT sport 2 - Slow Link due to many people useing it
-rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
 
