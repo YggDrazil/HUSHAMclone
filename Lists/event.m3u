@@ -54,7 +54,7 @@ http://edge.ailetv.net/org16/eurosportrus_me/playlist.m3u8
 #EXTINF:-1 group-title=" 18.00 den NORDSYAELLAND - SONDERJYSKE ",[COLOR green]18.00 den NORDSYAELLAND - SONDERJYSKE[/COLOR]
 http://streameo.altervista.org/forum/index.php
 #EXTINF:-1 group-title=" 18.00 den NORDSYAELLAND - SONDERJYSKE ",tv3 sport 1 ace
-acestream://c23764405bdb4ee0aa21f226f45e1100aaf4b35a
+plugin://plugin.video.p2p-streams/?url=acestream://c23764405bdb4ee0aa21f226f45e1100aaf4b35a&mode=1&name=acestream+UFC tv3 sport 1 ace
 
 #EXTINF:-1 group-title=" 19.00 friendly MONACO - PSV ",[COLOR green]19.00 friendly MONACO - PSV[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
