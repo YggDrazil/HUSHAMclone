@@ -16,74 +16,84 @@ plugin://plugin.video.p2p-streams/?url=acestream://ccfa7549f7837e3e2c7cb646562e7
 rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
 
-
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 16 Bourg de Peage-Gap ",[COLOR green]14.00 cycling TOUR de FRANCE - etape 16 Bourg de Peage-Gap[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 16 Bourg de Peage-Gap ",rai sport 1 it
-http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(596000)/Manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 16 Bourg de Peage-Gap ",rai3 it
-http://httpstream2.rai.it/Italy/rai3.isml/QualityLevels(1856000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 16 Bourg de Peage-Gap ",rai3 it_2
-http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 16 Bourg de Peage-Gap ",rsi la 2 ch
-http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 16 Bourg de Peage-Gap ",eurosport de
-http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 16 Bourg de Peage-Gap ",srf 2 ch
-http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 16 Bourg de Peage-Gap ",rts2 ch
-http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 16 Bourg de Peage-Gap ",rtp2 pt
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 16 Bourg de Peage-Gap ",rtp2 pt_opz 2
-http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 16 Bourg de Peage-Gap ",france 2
-http://streaming-hub.com/tv/i/france2_1@97347/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 16 Bourg de Peage-Gap ",srf 2 ch
-http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 16 Bourg de Peage-Gap ",ARD de
-http://streaming-hub.com/tv/i/daserste_1@97481/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 16 Bourg de Peage-Gap ",rtl lux
-http://wowza02.newmedia.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 16 Bourg de Peage-Gap ",eurosport ru
-http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 16 Bourg de Peage-Gap ",eurosport ru_2
-http://edge.ailetv.net/org16/eurosportrus_me/playlist.m3u8
-
-#EXTINF:-1 group-title=" 19.00 den AAB AALBORG - ESBJERG ",[COLOR green]19.00 den AAB AALBORG - ESBJERG[/COLOR]
+#EXTINF:-1 group-title=" 12.00 Int.Champ.cup ROMA - MANCHESTER CITY ",[COLOR green]12.00 Int.Champ.cup ROMA - MANCHESTER CITY[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 19.00 den AAB AALBORG - ESBJERG ",tv3 sport 1 ace
+#EXTINF:-1 group-title=" 12.00 Int.Champ.cup ROMA - MANCHESTER CITY ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 12.00 Int.Champ.cup ROMA - MANCHESTER CITY ",sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 12.00 Int.Champ.cup ROMA - MANCHESTER CITY ",supersport 2 al
+http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 12.00 Int.Champ.cup ROMA - MANCHESTER CITY ",sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 12.00 Int.Champ.cup ROMA - MANCHESTER CITY ",sky sports 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=" 14.00 friendly BAYERN MUNCHEN - INTER ",[COLOR green]14.00 friendly BAYERN MUNCHEN - INTER[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 14.00 friendly BAYERN MUNCHEN - INTER ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 14.00 friendly BAYERN MUNCHEN - INTER ",sport 1 de
+http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 14.00 friendly BAYERN MUNCHEN - INTER ",sky sports 1 uk
+rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=1 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+
+#EXTINF:-1 group-title=" 14.30 ch.league DILA GORI - PARTIZAN BELGRADE ",[COLOR green]14.30 ch.league DILA GORI - PARTIZAN BELGRADE[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 14.30 ch.league DILA GORI - PARTIZAN BELGRADE ",1 tv georgia
+rtmp://$OPT:rtmp-raw=rtmp://edge01-03.nl.myvideo.ge/dvrh264/gpb/mp4:gpb swfUrl=http://www.myvideo.ge/dvr/dvrStretch2.swf?v=1.91 live=1 pageUrl=http://www.myvideo.ge/
+
+#EXTINF:-1 group-title=" 18.00 eur.lea ELGSBORG - RANDERS ",[COLOR green]18.00 eur.lea ELGSBORG - RANDERS[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 18.00 eur.lea ELGSBORG - RANDERS ",tv3 sport 1 ace
 acestream://c23764405bdb4ee0aa21f226f45e1100aaf4b35a
 
-#EXTINF:-1 group-title=" 19.05 swe HACKEN - HAMMARBY ",[COLOR green]19.05 swe HACKEN - HAMMARBY[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 19.05 swe HACKEN - HAMMARBY ",c more sport se
-http://188.138.9.228:8023
-
-#EXTINF:-1 group-title=" 23.00 arg GIMNASIA LA PLATA - GODOY CRUZ ",[COLOR green]23.00 arg GIMNASIA LA PLATA - GODOY CRUZ[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 23.00 arg GIMNASIA LA PLATA - GODOY CRUZ ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 23.00 arg GIMNASIA LA PLATA - GODOY CRUZ ",tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 23.00 arg GIMNASIA LA PLATA - GODOY CRUZ ",tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 23.00 arg GIMNASIA LA PLATA - GODOY CRUZ ",tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
-
-#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - UNION SANTA FE ",[COLOR green]2.10 arg ARGENTINOS JRS - UNION SANTA FE[/COLOR]
+#EXTINF:-1 group-title=" 19.00 friendly SALZBURG - B.LEVERKUSEN ",[COLOR green]19.00 friendly SALZBURG - B.LEVERKUSEN[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - UNION SANTA FE ",tv publica ar
+#EXTINF:-1 group-title=" 19.00 friendly SALZBURG - B.LEVERKUSEN ",servus tv au
+http://hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8?b=0-1500
+
+#EXTINF:-1 group-title=" 2.00 cop.lib GUARANI - RIVER PLATE ",[COLOR green]2.00 cop.lib GUARANI - RIVER PLATE[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 2.00 cop.lib GUARANI - RIVER PLATE ",sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 2.00 cop.lib GUARANI - RIVER PLATE ",tv publica ar
 rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - UNION SANTA FE ",tv publica ar_opz 2
+#EXTINF:-1 group-title=" 2.00 cop.lib GUARANI - RIVER PLATE ",tv publica ar_opz 2
 http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 2.10 arg ARGENTINOS JRS - UNION SANTA FE ",tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
+#EXTINF:-1 group-title=" 2.00 cop.lib GUARANI - RIVER PLATE ",tv publica ar_opz 3
+http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1 group-title=" 2.00 cop.lib GUARANI - RIVER PLATE ",trt spor HD tr
+http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
+#EXTINF:-1 group-title=" 2.00 cop.lib GUARANI - RIVER PLATE ",trt spor tr_2
+http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
 
+#EXTINF:-1 group-title=" 2.30 Int.Champ.cup FIORENTINA - PSG ",[COLOR green]2.30 Int.Champ.cup FIORENTINA - PSG[/COLOR]
+http://streameo.altervista.org/forum/index.php
+#EXTINF:-1 group-title=" 2.30 Int.Champ.cup FIORENTINA - PSG ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 2.30 Int.Champ.cup FIORENTINA - PSG ",sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 2.30 Int.Champ.cup FIORENTINA - PSG ",supersport 2 al
+http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 2.30 Int.Champ.cup FIORENTINA - PSG ",turkmen sport
+rtmp://217.174.227.20/webtv/ch004_sd
 
+#EXTINF:-1 group-title=" 5.00 Int.Champ.cup MANCHESTER UTD - SAN JOSE EARTHQUAKES ",[COLOR green]5.00 Int.Champ.cup MANCHESTER UTD - SAN JOSE EARTHQUAKES[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 5.00 Int.Champ.cup MANCHESTER UTD - SAN JOSE EARTHQUAKES ",sport tv 2 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 5.00 Int.Champ.cup MANCHESTER UTD - SAN JOSE EARTHQUAKES ",supersport 3 al
+http://balkanstream.com/stream/supersport3/putidoma22/udhfbu
 
-
-
-
-
+#EXTINF:-1 group-title=" 5.00 Int.Champ.cup LA GALAXY - BARCELONA ",[COLOR green]5.00 Int.Champ.cup LA GALAXY - BARCELONA[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 5.00 Int.Champ.cup LA GALAXY - BARCELONA ",sport tv 1 pt
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+#EXTINF:-1 group-title=" 5.00 Int.Champ.cup LA GALAXY - BARCELONA ",supersport 2 al
+http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
+#EXTINF:-1 group-title=" 5.00 Int.Champ.cup LA GALAXY - BARCELONA ",sport 1 ru
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
+#EXTINF:-1 group-title=" 5.00 Int.Champ.cup LA GALAXY - BARCELONA ",turkmen sport
+rtmp://217.174.227.20/webtv/ch004_sd
 
