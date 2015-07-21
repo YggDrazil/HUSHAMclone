@@ -169,33 +169,33 @@ rtmp://80.82.78.26:443/liverepeater/willhdhd pageUrl=http://xxxxxxxxxxxxxxxx.xx/
 #EXTINF:-1,Star Sport
 rtmp://31.220.0.195:80/live/btpremier pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=starsp11?ptvsports22?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
 
-#EXTINF:0, beIN SPORTS 1HD
+#EXTINF:1, beIN SPORTS 1HD
 http://188.93.234.112:8082/TV4001
-#EXTINF:0, beIN SPORTS 2HD
+#EXTINF:1, beIN SPORTS 2HD
 http://188.93.234.112:8082/TV4002
-#EXTINF:0, beIN SPORTS 3HD
+#EXTINF:1, beIN SPORTS 3HD
 http://188.93.234.112:8082/TV4003
-#EXTINF:0, beIN SPORTS 4HD
+#EXTINF:1, beIN SPORTS 4HD
 http://188.93.234.112:8082/TV4004
-#EXTINF:0, beIN SPORTS 5HD
+#EXTINF:1, beIN SPORTS 5HD
 http://188.93.234.112:8082/TV4005
-#EXTINF:0, beIN SPORTS 6HD
+#EXTINF:1, beIN SPORTS 6HD
 http://188.93.234.112:8082/TV4006
-#EXTINF:0, beIN SPORTS 7HD
+#EXTINF:1, beIN SPORTS 7HD
 http://188.93.234.112:8082/TV4007
-#EXTINF:0, beIN SPORTS 8HD
+#EXTINF:1, beIN SPORTS 8HD
 http://188.93.234.112:8082/TV4008
-#EXTINF:0, beIN SPORTS 9HD
+#EXTINF:1, beIN SPORTS 9HD
 http://188.93.234.112:8082/TV4009
-#EXTINF:0, beIN SPORTS 10HD
+#EXTINF:1, beIN SPORTS 10HD
 http://188.93.234.112:8082/TV4010
-#EXTINF:0, beIN SPORTS 11HD
+#EXTINF:1, beIN SPORTS 11HD
 http://188.93.234.112:8082/TV4011
-#EXTINF:0, beIN SPORTS 1HDEN
+#EXTINF:1, beIN SPORTS 1HDEN
 http://188.93.234.112:8082/TV4012
-#EXTINF:0, beIN SPORTS 1HDFR
+#EXTINF:1, beIN SPORTS 1HDFR
 http://188.93.234.112:8082/TV4013
-#EXTINF:0, beIN SPORTS 2HD
+#EXTINF:1, beIN SPORTS 2HD
 http://188.93.234.112:8082/TV4014
 
 
@@ -207,34 +207,6 @@ http://188.93.234.112:8082/TV4134
 http://188.93.234.112:8082/TV4135
 
 
-#EXTINF:0, beIN SPORTS 1HD
-http://188.93.234.112:8082/TV4001
-#EXTINF:0, beIN SPORTS 2HD
-http://188.93.234.112:8082/TV4002
-#EXTINF:0, beIN SPORTS 3HD
-http://188.93.234.112:8082/TV4003
-#EXTINF:0, beIN SPORTS 4HD
-http://188.93.234.112:8082/TV4004
-#EXTINF:0, beIN SPORTS 5HD
-http://188.93.234.112:8082/TV4005
-#EXTINF:0, beIN SPORTS 6HD
-http://188.93.234.112:8082/TV4006
-#EXTINF:0, beIN SPORTS 7HD
-http://188.93.234.112:8082/TV4007
-#EXTINF:0, beIN SPORTS 8HD
-http://188.93.234.112:8082/TV4008
-#EXTINF:0, beIN SPORTS 9HD
-http://188.93.234.112:8082/TV4009
-#EXTINF:0, beIN SPORTS 10HD
-http://188.93.234.112:8082/TV4010
-#EXTINF:0, beIN SPORTS 11HD
-http://188.93.234.112:8082/TV4011
-#EXTINF:0, beIN SPORTS 1HDEN
-http://188.93.234.112:8082/TV4012
-#EXTINF:0, beIN SPORTS 1HDFR
-http://188.93.234.112:8082/TV4013
-#EXTINF:0, beIN SPORTS 2HD
-http://188.93.234.112:8082/TV4014
 #EXTINF:0,beIN SPORTS 1HD
 http://star7arab.zapto.org:8082/TV4001
 #EXTINF:0,beIN SPORTS 2HD
