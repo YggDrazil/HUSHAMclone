@@ -1,3 +1,9 @@
+name="0.8.0 Husham.com KODI 15 Fully Loaded Setup"
+url="http://bit.ly/husham080"
+img="http://kodi.tv/wp-content/uploads/Kodi-Isengard-2C2-1080p-Original-Size-600x336.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+description="Husham KODI 15 Fully Loaded Set-up"
+
 name="0.7.3 Husham.com Fully Loaded Setup"
 url="http://bit.ly/hushamwizard073"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
