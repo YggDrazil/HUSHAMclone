@@ -14,122 +14,83 @@ plugin://plugin.video.p2p-streams/?url=acestream://ccfa7549f7837e3e2c7cb646562e7
 #EXTINF:-1, BT sport 2 - Slow Link due to many people useing it
 rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
 
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 17 Digne-les-Bains - Pra-Loup Station de Montagne ",[COLOR green]14.00 cycling TOUR de FRANCE - etape 17 Digne-les-Bains - Pra-Loup Station de Montagne[/COLOR]
+#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 18 Gap - Saint Jean de Maurienne ",[COLOR green]14.00 cycling TOUR de FRANCE - etape 18 Gap - Saint Jean de Maurienne[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 17 Digne-les-Bains - Pra-Loup Station de Montagne ",rai sport 1 it
+#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 18 Gap - Saint Jean de Maurienne ",rai sport 1 it
 http://httpstream1.rai.it/Italy/raisport1.isml/QualityLevels(596000)/Manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 17 Digne-les-Bains - Pra-Loup Station de Montagne ",rai3 it
+#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 18 Gap - Saint Jean de Maurienne ",rai3 it
 http://httpstream2.rai.it/Italy/rai3.isml/QualityLevels(1856000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 17 Digne-les-Bains - Pra-Loup Station de Montagne ",rai3 it_2
+#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 18 Gap - Saint Jean de Maurienne ",rai3 it_2
 http://origin2.live.web.tv.streamprovider.net/streams/2946613af1f663bb5b4164131b8c9413/index.m3u8
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 17 Digne-les-Bains - Pra-Loup Station de Montagne ",rsi la 2 ch
+#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 18 Gap - Saint Jean de Maurienne ",rsi la 2 ch
 http://streaming-hub.com/tv/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 17 Digne-les-Bains - Pra-Loup Station de Montagne ",eurosport de
+#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 18 Gap - Saint Jean de Maurienne ",eurosport de
 http://streaming-hub.com/tv/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 17 Digne-les-Bains - Pra-Loup Station de Montagne ",srf 2 ch
+#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 18 Gap - Saint Jean de Maurienne ",srf 2 ch
 http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 17 Digne-les-Bains - Pra-Loup Station de Montagne ",rts2 ch
+#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 18 Gap - Saint Jean de Maurienne ",rts2 ch
 http://streaming-hub.com/tv/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 17 Digne-les-Bains - Pra-Loup Station de Montagne ",rtp2 pt
+#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 18 Gap - Saint Jean de Maurienne ",rtp2 pt
 http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 17 Digne-les-Bains - Pra-Loup Station de Montagne ",rtp2 pt_opz 2
+#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 18 Gap - Saint Jean de Maurienne ",rtp2 pt_opz 2
 http://noscdn1.connectedviews.com:1935/live/rtp2.stream/livestream.m3u8
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 17 Digne-les-Bains - Pra-Loup Station de Montagne ",france 2
+#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 18 Gap - Saint Jean de Maurienne ",france 2
 http://streaming-hub.com/tv/i/france2_1@97347/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 17 Digne-les-Bains - Pra-Loup Station de Montagne ",srf 2 ch
+#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 18 Gap - Saint Jean de Maurienne ",srf 2 ch
 http://streaming-hub.com/tv/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 17 Digne-les-Bains - Pra-Loup Station de Montagne ",ARD de
+#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 18 Gap - Saint Jean de Maurienne ",ARD de
 http://streaming-hub.com/tv/i/daserste_1@97481/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 17 Digne-les-Bains - Pra-Loup Station de Montagne ",rtl lux
+#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 18 Gap - Saint Jean de Maurienne ",rtl lux
 http://wowza02.newmedia.lu/channel1/smil:channel1/playlist.m3u8
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 17 Digne-les-Bains - Pra-Loup Station de Montagne ",eurosport ru
+#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 18 Gap - Saint Jean de Maurienne ",eurosport ru
 http://hlsstr04.svc.iptv.rt.ru/hls/CH_C02_EUROSPORTHD/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 17 Digne-les-Bains - Pra-Loup Station de Montagne ",eurosport ru_2
+#EXTINF:-1 group-title=" 14.00 cycling TOUR de FRANCE - etape 18 Gap - Saint Jean de Maurienne ",eurosport ru_2
 http://edge.ailetv.net/org16/eurosportrus_me/playlist.m3u8
 
-#EXTINF:-1 group-title=" 18.00 friendly HERTHA BERLIN - FULHAM ",[COLOR green]18.00 friendly HERTHA BERLIN - FULHAM[/COLOR]
+#EXTINF:-1 group-title=" 17.45 den2 LYNGBY - KOGE ",[COLOR green]17.45 den2 LYNGBY - KOGE[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 18.00 friendly HERTHA BERLIN - FULHAM ",sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 group-title=" 17.45 den2 LYNGBY - KOGE ",tv3 sport 1 ace
+acestream://c23764405bdb4ee0aa21f226f45e1100aaf4b35a
 
-#EXTINF:-1 group-title=" 19.00 friendly MONACO - MAINZ 05 ",[COLOR green]19.00 friendly MONACO - MAINZ 05[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 19.00 friendly MONACO - MAINZ 05 ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-
-#EXTINF:-1 group-title=" 20.00 ch.lea FOLA ESCH - DINAMO ZAGREB ",[COLOR green]20.00 ch.lea FOLA ESCH - DINAMO ZAGREB[/COLOR]
+#EXTINF:-1 group-title=" 18.00 eur.lea SPARTAKS - VOJVODINA ",[COLOR green]18.00 eur.lea SPARTAKS - VOJVODINA[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.00 ch.lea FOLA ESCH - DINAMO ZAGREB ",hrt 2 hr
+#EXTINF:-1 group-title=" 18.00 eur.lea SPARTAKS - VOJVODINA ",setanta eurasia
+http://80.77.52.6:3917/udp/230.0.4.1:12345
+
+#EXTINF:-1 group-title=" 19.00 eur.lea BOTOSANI - LEGIA WARSAW ",[COLOR green]19.00 eur.lea BOTOSANI - LEGIA WARSAW[/COLOR]
+http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
+#EXTINF:-1 group-title=" 19.00 eur.lea BOTOSANI - LEGIA WARSAW ",digi sport 1 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
+
+#EXTINF:-1 group-title=" 19.00 eur.league HAJDUK SPLIT - KOPER (2-3) ",[COLOR green]19.00 eur.league HAJDUK SPLIT - KOPER (2-3)[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 19.00 eur.league HAJDUK SPLIT - KOPER (2-3) ",hrt 2 hr
 http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
-#EXTINF:-1 group-title=" 20.00 ch.lea FOLA ESCH - DINAMO ZAGREB ",hrt 2 hr_2
+#EXTINF:-1 group-title=" 19.00 eur.league HAJDUK SPLIT - KOPER (2-3) ",hrt 2 hr_2
 http://www.nasatv.eu:80/live?channelId=3&uid=18&deviceUser=zine&devicePass=zine
 
-#EXTINF:-1 group-title=" 20.00 friendly KOLN - ESPANYOL ",[COLOR green]20.00 friendly KOLN - ESPANYOL[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 20.00 friendly KOLN - ESPANYOL ",sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 group-title=" 20.30 friendly CELTA VIGO - GALATASARAY ",[COLOR green]20.30 friendly CELTA VIGO - GALATASARAY[/COLOR]
+#EXTINF:-1 group-title=" 19.00 eur.lea ASTRA GIURGIU - INVERNESS (1-0) ",[COLOR green]19.00 eur.lea ASTRA GIURGIU - INVERNESS (1-0)[/COLOR]
 http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 20.30 friendly CELTA VIGO - GALATASARAY ",tv galicia es
-rtmp://$OPT:rtmp-raw=rtmp://media3.crtvg.es:80/live/ playpath=tvge_2 swfUrl=http://www.crtvg.es/flowplayer3/flowplayer.rtmp-3.2.8.swf pageUrl=http://www.crtvg.es/tvg/tvg-en-directo/canle/galicia-tv-europa live=1
+#EXTINF:-1 group-title=" 19.00 eur.lea ASTRA GIURGIU - INVERNESS (1-0) ",digi sport 1 ro
+rtmp://$OPT:rtmp-raw=rtmp://195.154.162.159:80/liverepeater playpath=128746 pageUrl=http://deltatv.pw/ token=Fo5_n0w?U.rA6l3-70w47ch
 
-#EXTINF:-1 group-title=" 20.45 ch.lea DUNDALK - BATE BORISOV ",[COLOR green]20.45 ch.lea DUNDALK - BATE BORISOV[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 20.45 ch.lea DUNDALK - BATE BORISOV ",rte 2 irl
-http://212.250.46.35:4252/bysid/9602
-
-#EXTINF:-1 group-title=" 21.15 ch.lea STJARNAN - CELTIC (0-2) ",[COLOR green]21.15 ch.lea STJARNAN - CELTIC (0-2)[/COLOR]
+#EXTINF:-1 group-title=" 19.30 friendly ANTALYASPOR - OLYMPIAKOS ",[COLOR green]19.30 friendly ANTALYASPOR - OLYMPIAKOS[/COLOR]
 http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 21.15 ch.lea STJARNAN - CELTIC (0-2) ",bt sport 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1 group-title=" 0.00 gold.cup.Semifinal USA - JAMAICA ",[COLOR green]0.00 gold.cup.Semifinal USA - JAMAICA[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 0.00 gold.cup.Semifinal USA - JAMAICA ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 0.00 gold.cup.Semifinal USA - JAMAICA ",sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 0.00 gold.cup.Semifinal USA - JAMAICA ",bt sport 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1 group-title=" 0.30 bra.cup BAHIA - PAYSANDU ",[COLOR green]0.30 bra.cup BAHIA - PAYSANDU[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 0.30 bra.cup BAHIA - PAYSANDU ",sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup N.Y.RED BULLS - CHELSIE ",[COLOR green]2.00 Int.Cham.cup N.Y.RED BULLS - CHELSIE[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup N.Y.RED BULLS - CHELSIE ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup N.Y.RED BULLS - CHELSIE ",sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup N.Y.RED BULLS - CHELSIE ",supersport 2 al
-http://balkanstream.com/stream/supersport2/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 2.00 Int.Cham.cup N.Y.RED BULLS - CHELSIE ",turkmen sport
-rtmp://217.174.227.20/webtv/ch004_sd
-
-#EXTINF:-1 group-title=" 3.00 cop.lib.Semifinal TIGRES (Mex) - INTERNATIONAL (Bra) ",[COLOR green]3.00 cop.lib.Semifinal TIGRES (Mex) - INTERNATIONAL (Bra)[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 3.00 cop.lib.Semifinal TIGRES (Mex) - INTERNATIONAL (Bra) ",sport tv 3 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 3.00 cop.lib.Semifinal TIGRES (Mex) - INTERNATIONAL (Bra) ",trt spor HD tr
+#EXTINF:-1 group-title=" 19.30 friendly ANTALYASPOR - OLYMPIAKOS ",trt spor HD tr
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8?byLuca
-#EXTINF:-1 group-title=" 3.00 cop.lib.Semifinal TIGRES (Mex) - INTERNATIONAL (Bra) ",trt spor tr_2
+#EXTINF:-1 group-title=" 19.30 friendly ANTALYASPOR - OLYMPIAKOS ",trt spor tr_2
 http://origin.live.web.tv.streamprovider.net/streams/4ec69caf3e7c904f476f91d9e20213d0_live_0_0/index.m3u8
-#EXTINF:-1 group-title=" 3.00 cop.lib.Semifinal TIGRES (Mex) - INTERNATIONAL (Bra) ",sport 1 ru
-http://hlsstr02.svc.iptv.rt.ru/hls/CH_SPORT1/variant.m3u8?version=2
 
-#EXTINF:-1 group-title=" 3.00 gold.cup.Semifinal PANAMA - MEXICO ",[COLOR green]3.00 gold.cup.Semifinal PANAMA - MEXICO[/COLOR]
+#EXTINF:-1 group-title=" 20.30 eur.lea WAC - SHAKHTYOR SOLIGORSK (1-0) ",[COLOR green]20.30 eur.lea WAC - SHAKHTYOR SOLIGORSK (1-0)[/COLOR]
 http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 3.00 gold.cup.Semifinal PANAMA - MEXICO ",sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 3.00 gold.cup.Semifinal PANAMA - MEXICO ",sportklub 1 sr
-http://balkanstream.com/stream/sportklub1hr/putidoma22/udhfbu
-#EXTINF:-1 group-title=" 3.00 gold.cup.Semifinal PANAMA - MEXICO ",bt sport 1 uk
-rtmp://$OPT:rtmp-raw=rtmp://80.82.64.140:443/liverepeater playpath=38 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
+#EXTINF:-1 group-title=" 20.30 eur.lea WAC - SHAKHTYOR SOLIGORSK (1-0) ",orf 1 at
+http://streaming-hub.com/tv/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
 
+#EXTINF:-1 group-title=" 20.45 eur.lea ABERDEEN - RIJEKA (3-0) ",[COLOR green]20.45 eur.lea ABERDEEN - RIJEKA (3-0)[/COLOR]
+http://weblinks.altervista.org/LSTV.htm
+#EXTINF:-1 group-title=" 20.45 eur.lea ABERDEEN - RIJEKA (3-0) ",hrt 2 hr
+http://213.5.58.58:1935/hrt_live/smil:hrt2.smil/nesto.m3u8
+#EXTINF:-1 group-title=" 20.45 eur.lea ABERDEEN - RIJEKA (3-0) ",hrt 2 hr_2
+http://www.nasatv.eu:80/live?channelId=3&uid=18&deviceUser=zine&devicePass=zine
 
-
-
-
+ 
