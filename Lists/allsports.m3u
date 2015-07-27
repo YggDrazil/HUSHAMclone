@@ -23,6 +23,27 @@ rtmp://94.102.49.126:443/liverepeater playpath=8 swfUrl=http://popeoftheplayers.
 #EXTINF:-1,BT Sport 2
 rtmp://46.246.29.137:1935/stream/ playpath=q9dS41DQ8U.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other
 
+
+#EXTINF:0,Sky Sports News HQ UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_News_HQ_UK?auth=test+test
+#EXTINF:0,Sky Sports 1 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_1_UK?auth=test+test?auth=test+test
+#EXTINF:0,Sky Sports 2 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_2_UK?auth=test+test
+#EXTINF:0,Sky Sports 3 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_3_UK?auth=test+test
+#EXTINF:0,Sky Sports 4 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_4_UK?auth=test+test
+#EXTINF:0,Sky Sports 5 UK
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_5_UK?auth=test+test
+#EXTINF:0,Sky Sports F1
+http://planetiptv-test.ddns.net:9088/sdtv/skyuk/planet/iptv/Sky_Sports_F1?auth=test+test
+#EXTINF:0,beIN Sports 1 HD
+http://planetiptv-test.ddns.net:9088/relay/frtv/planet/iptv/BEIN-SPORTS-1-HD?auth=test+test
+#EXTINF:0,beIN Sports 2 HD
+http://planetiptv-test.ddns.net:9088/relay/frtv/planet/iptv/BEIN-SPORTS-2-HD?auth=test+test
+
+
 #EXTINF:-1,Sky sports News
 rtmp://94.102.49.126:443/liverepeater playpath=19 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
 #EXTINF:-1,Sky sports News
