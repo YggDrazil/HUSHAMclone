@@ -20,7 +20,15 @@ fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham
 description="Husham KODI 15 Fully Loaded Set-up"
 
 
-name="0.7.3 Husham.com Fully Loaded Setup"
+
+name="Link 1-0.7.3 Husham.com Fully Loaded Setup"
+url="http://bit.ly/1IvCz8O"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
+description="Husham Fully Loaded Set-up"
+
+
+name="Link 2-0.7.3 Husham.com Fully Loaded Setup"
 url="http://bit.ly/hushamwizard073"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg"
