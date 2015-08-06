@@ -1,6 +1,6 @@
 
 name="Linke 1 - 0.8.0 Husham.com KODI 15 Fully Loaded Setup"
-url="http://bit.ly/1KNoaVg"
+url="http://bit.ly/1Ndaxim"
 img="http://kodi.tv/wp-content/uploads/kodi-splash-Isengard-alpha-600x336.png"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
