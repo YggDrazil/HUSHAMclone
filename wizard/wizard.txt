@@ -1,7 +1,7 @@
 
 
 name="Linke 1 - 0.8.1 Husham.com KODI 15 Fully Loaded Setup"
-url="http://bit.ly/1Eebodt"
+url="http://bit.ly/1PfmHsn"
 img="http://kodi.tv/wp-content/uploads/kodi-splash-Isengard-alpha-600x336.png"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
@@ -11,6 +11,14 @@ url="http://bit.ly/husham081"
 img="http://kodi.tv/wp-content/uploads/kodi-splash-Isengard-alpha-600x336.png"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
+
+name="Linke 3 - 0.8.1 Husham.com KODI 15 Fully Loaded Setup"
+url=""
+img="http://kodi.tv/wp-content/uploads/kodi-splash-Isengard-alpha-600x336.png"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+description="Husham KODI 15 Fully Loaded Set-up"
+
+
 
 
 
