@@ -1,0 +1,5 @@
+[B]Version 1.0.0[/B]
+- This is the first versions of my youtube channels
+
+[B]Version 1.0.1[/B]
+- Added more channels
