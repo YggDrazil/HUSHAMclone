@@ -58,27 +58,6 @@
   </extension>
 </addon>
 
-<addon
-  id="plugin.video.Husham"
-  version="1.0.0"
-  name="Husham"
-  provider-name="Husham.com">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  	<import addon="script.module.buggalo" version="1.1.2"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Addon made by Husham Memar</summary>
-    <description>The Husham Memar Video Guides: Addon made by Husham Memar http://www.husham.com</description>
-
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="plugin.video.hushamaddonwizard" name="Husham Addon Wizard" version="1.0.2" provider-name="Husham.com">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -111,6 +90,27 @@
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
 
 
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.hushamyoutube"
+  version="1.0.0"
+  name="Husham"
+  provider-name="Husham.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.buggalo" version="1.1.2"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Addon made by Husham Memar</summary>
+    <description>The Husham Memar Video Guides: Addon made by Husham Memar http://www.husham.com</description>
+
+    <platform>all</platform>
   </extension>
 </addon>
 
