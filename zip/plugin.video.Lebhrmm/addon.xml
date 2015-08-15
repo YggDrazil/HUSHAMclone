@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="plugin.video.Lebhrmm"
+  version="1.0.0"
+  name="lebhrmm"
+  provider-name="Hisham">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.buggalo" version="1.1.2"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Addon made by Hisham marzouk</summary>
+    <description>Lebanon from the World : Addon made by Hisham marzouk</description>
+   
+    <platform>all</platform>
+  </extension>
+</addon>
