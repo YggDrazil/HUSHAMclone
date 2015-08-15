@@ -31,6 +31,23 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.freshstart" name="Fresh Start"
+	version="1.0.5" provider-name="tvaddons.ag">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Factory Restore Functionality for Kodi</summary>
+    <description lang="en">Easily Factory Restore your Kodi Configuration in One Simple Click! This tool will bring your Kodi back to its original installation state, deleting all customizations and add-ons you may have previously enabled, giving you a fresh start!</description>
+    <platform>all</platform>
+    <forum>http://forums.tvaddons.ag/forums/141-FRESH-START</forum>
+    <website>http://www.tvaddons.ag/</website>
+  </extension>
+</addon>
+
 <addon
   id="plugin.video.haydargames"
   version="1.0.4"
@@ -282,21 +299,6 @@ http://www.husham.com</summary>
   </extension>
 </addon>
 
-<addon id="plugin.video.SuperStreams" name="SuperStreams" version="2.1.0" provider-name="SuperStreams">
-<requires>
-    <import addon="xbmc.python" version="2.1.0" />
-</requires>
-<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-	<extension  point="xbmc.addon.metadata">
-		<summary lang="nl">SuperStreams voor XBMC / KODI!</summary>
-		<description lang="nl">Met deze addon is het mogelijk om sport streams te bekijken in XBMC / KODI.</description>
-		<platform>all</platform>
-		<website></website>
-	</extension>
-</addon>
-
 <addon
   id="pvr.iptvsimple"
   version="1.11.5"
@@ -473,7 +475,7 @@ http://www.husham.com</summary>
 	</extension>
 </addon>
 
-<addon id="repository.husham.com" name="Husham.com Repo" version="1.0.5" provider-name="husham.com">
+<addon id="repository.husham.com" name="Husham.com Repo" version="1.0.7" provider-name="husham.com">
 	<extension point="xbmc.addon.repository" name="Husham.com Repository">
 		<info compressed="false">https://raw.githubusercontent.com/hmemar/husham.com/master/repository/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/hmemar/husham.com/master/repository/addons.xml.md5</checksum>
