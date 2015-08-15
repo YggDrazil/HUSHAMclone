@@ -8,52 +8,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
 http://www.youtube.com/user/hmemar22
 
 
-#EXTINF:-1,UFC Fight(P2P)
-plugin://plugin.video.p2p-streams/?url=acestream://ccfa7549f7837e3e2c7cb646562e77c1aac6f0c9&mode=1&name=acestream+UFC Fight (P2P)
-
-#EXTINF:-1, BT sport 2 - Slow Link due to many people useing it
-rtmp://80.82.64.140:443/liverepeater playpath=36 pageUrl=http://popeoftheplayers.eu/ token=#atd%#$ZH
-
-#EXTINF:-1 group-title=" 17.00 cycling VOLTA A PORTUGAL etapa 5 ",[COLOR green]17.00 cycling VOLTA A PORTUGAL etapa 5[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 17.00 cycling VOLTA A PORTUGAL etapa 5 ",rtp1 pt
-http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8
-#EXTINF:-1 group-title=" 17.00 cycling VOLTA A PORTUGAL etapa 5 ",rtp1 pt_opz 2
-http://noscdn1.connectedviews.com:1935/live/rtp1.stream/livestream.m3u8
-
-#EXTINF:-1 group-title=" 17.30 cycling TOUR DE POLOGNE stage 2 ",[COLOR green]17.30 cycling TOUR DE POLOGNE stage 2[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 17.30 cycling TOUR DE POLOGNE stage 2 ",eurosport 2 ru
-http://188.93.94.46:80/eurosport2/index.m3u8?token=my6ZI5MAYdq4Ec3UDz4CjSg1QotdI-_4uNadhd-6VzQqcTdi631GcyuMXb7B4n9VyAuBYjvy-6oXnw64pT3eA
-
-#EXTINF:-1 group-title=" 19.00 den NORDSYAELLAND - AAB AALBORG ",[COLOR green]19.00 den NORDSYAELLAND - AAB AALBORG[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 19.00 den NORDSYAELLAND - AAB AALBORG ",tv3 sport 1 ace
-acestream://bab64b62b2723074abe8fb0abc66dc34d6c47d9e
-
-#EXTINF:-1 group-title=" 20.15 ger2 RB LEIPZIG - GREUTHER FURTH ",[COLOR green]20.15 ger2 RB LEIPZIG - GREUTHER FURTH[/COLOR]
-http://weblinks.altervista.org/LSTV.htm
-#EXTINF:-1 group-title=" 20.15 ger2 RB LEIPZIG - GREUTHER FURTH ",sport 1 de
-http://streaming-hub.com/tv/i/sport1_1@97464/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 20.15 ger2 RB LEIPZIG - GREUTHER FURTH ",s@y bundesliga 1 de
-http://balkanstream.com/stream/skybundes/putidoma22/udhfbu
-
-#EXTINF:-1 group-title=" 23.00 arg TIGRE - QUILMES ",[COLOR green]23.00 arg TIGRE - QUILMES[/COLOR]
-http://streameo.altervista.org/forum/index.php
-#EXTINF:-1 group-title=" 23.00 arg TIGRE - QUILMES ",tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 23.00 arg TIGRE - QUILMES ",tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 23.00 arg TIGRE - QUILMES ",tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
-
-#EXTINF:-1 group-title=" 2.10 arg BANFIELD - ARSENAL SARANDI ",[COLOR green]2.10 arg BANFIELD - ARSENAL SARANDI[/COLOR]
-http://list_made_by_lucaucca_at->pastebin.com/2Z7VsJwt
-#EXTINF:-1 group-title=" 2.10 arg BANFIELD - ARSENAL SARANDI ",tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 2.10 arg BANFIELD - ARSENAL SARANDI ",tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 2.10 arg BANFIELD - ARSENAL SARANDI ",tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
+#EXTINF:-1,Link1 (P2P)
+plugin://plugin.video.p2p-streams/?url=acestream://8c0abceedf2360d64980aa34850fc681d2a5ddcc&mode=1&name=acestream+Link1 (P2P)
 
 
+#EXTINF:-1,Link2 (P2P)
+plugin://plugin.video.p2p-streams/?url=acestream://6e5016bc0258b062c0610e658615369feb8000a5&mode=1&name=acestream+Link2 (P2P)
