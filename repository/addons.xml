@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon
+  id="plugin.video.alarab"
+  version="2.0.4"
+  name="AlArab"
+  provider-name="daschacka">
+  <requires>
+    <import addon="xbmc.python"
+            version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>AlArabNet</summary>
+    <description>AlArabNet.</description>
+
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.DiavolettoBeatsLists"
        name="DiavolettoBeatsLists"
        version="1.0.1"
@@ -75,6 +96,27 @@
   </extension>
 </addon>
 
+<addon
+  id="plugin.video.HRMTV"
+  version="1.0.0"
+  name="HRMTV"
+  provider-name="Hisham">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.buggalo" version="1.1.2"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Addon made by Hisham marzouk</summary>
+    <description>HRMTV : Addon made by Hisham marzouk</description>
+
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.hushamaddonwizard" name="Husham Addon Wizard" version="1.0.2" provider-name="Husham.com">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -136,6 +178,27 @@
   <extension point="xbmc.addon.metadata">
     <summary>Addon made by Husham Memar</summary>
     <description>The Husham Memar Video Guides: Addon made by Husham Memar http://www.husham.com</description>
+
+    <platform>all</platform>
+  </extension>
+</addon>
+
+<addon
+  id="plugin.video.Lebhrmm"
+  version="1.0.0"
+  name="lebhrmm"
+  provider-name="Hisham">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.buggalo" version="1.1.2"/>
+    <import addon="plugin.video.youtube" version="3.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Addon made by Hisham marzouk</summary>
+    <description>Lebanon from the World : Addon made by Hisham marzouk</description>
 
     <platform>all</platform>
   </extension>
