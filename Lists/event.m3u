@@ -14,3 +14,105 @@ plugin://plugin.video.p2p-streams/?url=acestream://8c0abceedf2360d64980aa34850fc
 
 #EXTINF:-1,Link2 (P2P)
 plugin://plugin.video.p2p-streams/?url=acestream://6e5016bc0258b062c0610e658615369feb8000a5&mode=1&name=acestream+Link2 (P2P)
+
+
+
+#EXTINF:-1,Bayer Leverkusen vs Hoffenheim Live TV Channels
+#
+
+#EXTINF:-1,bein sports 2 hd france
+plugin://plugin.video.p2p-streams/?url=acestream://cbc3c5374ddaf75a9a96703de523341f525603af&mode=1&name=acestream+Link
+
+#EXTINF:-1,sport tv 3 portugal
+plugin://plugin.video.p2p-streams/?url=acestream://b923cbc40e196a6cd5ebb89243a797a60c9b6992&mode=1&name=acestream+Link
+
+#EXTINF:-1,supersport 3 hd albania
+http://81.7.13.162/hls/ss3/index.m3u8
+
+#EXTINF:-1,Werder Bremen vs Schalke 04 Live TV Channels
+#
+
+#EXTINF:-1,supersport 2 hd albania
+http://81.7.13.162/hls/ss2/index.m3u8
+
+#EXTINF:-1,sport tv 2 portugal
+plugin://plugin.video.p2p-streams/?url=acestream://24660dc5f5a642f7f5df8873ddac481bc4702115&mode=1&name=acestream+Link
+
+#EXTINF:-1,sport tv 2 portugal
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+
+#EXTINF:-1,Borussia Dortmund vs Borussia M’gladbach Live TV Channels
+#
+
+#EXTINF:-1,bt sport europe uk
+plugin://plugin.video.p2p-streams/?url=acestream://76a5a4ecccde1c973462f1683199c202064964f0&mode=1&name=acestream+Link
+
+#EXTINF:-1,sportsnet world canada
+plugin://plugin.video.p2p-streams/?url=acestream://a9b63a3a4a9c268ba2b4a0858f2e4a519b0c7a40&mode=1&name=acestream+Link
+
+#EXTINF:-1,bein sports 2 hd france
+plugin://plugin.video.p2p-streams/?url=acestream://cbc3c5374ddaf75a9a96703de523341f525603af&mode=1&name=acestream+Link
+
+#EXTINF:-1,canal+ fútbol espana
+rtmp://$OPT:rtmp-raw=rtmp://31.220.2.56/privatestream/ playpath=futbolplus45?keys=KEQA7Tczwp76XdwgyOjdWg&keyt=1439622158 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=futbolplus45&width=650&height=360
+
+#EXTINF:-1,sport tv 2 portugal
+plugin://plugin.video.p2p-streams/?url=acestream://24660dc5f5a642f7f5df8873ddac481bc4702115&mode=1&name=acestream+Link
+
+#EXTINF:-1,sport tv 2 portugal
+rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
+
+#EXTINF:-1,supersport 2 hd albania
+http://81.7.13.162/hls/ss2/index.m3u8
+
+
+#EXTINF:-1,bt sport 1 uk
+plugin://plugin.video.p2p-streams/?url=acestream://8b9a6589d2a6cd4adb8be47eae7954c6b53c26ce&mode=1&name=acestream+Link
+
+#EXTINF:-1,nbcsn hd usa
+plugin://plugin.video.p2p-streams/?url=acestream://6c1f9b806eb63b89dae52c1c1227baa24a122e45&mode=1&name=acestream+Link
+
+#EXTINF:-1,canal+ fútbol espana
+rtmp://$OPT:rtmp-raw=rtmp://31.220.2.56/privatestream/ playpath=futbolplus45?keys=KEQA7Tczwp76XdwgyOjdWg&keyt=1439622158 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=futbolplus45&width=650&height=360
+
+#EXTINF:-1,viasat sport baltic
+plugin://plugin.video.p2p-streams/?url=acestream://cbb4764ca8a7edd9a26533acad103fa2d5965d10&mode=1&name=acestream+Link
+
+#EXTINF:-1,sport klub 1 hd serbia
+plugin://plugin.video.p2p-streams/?url=acestream://973a698dd669f6bff649ea080a4517a491334252&mode=1&name=acestream+Link
+
+#EXTINF:-1,ntv+ futbol 1 hd russia / htb+ Футбол 1 hd
+plugin://plugin.video.p2p-streams/?url=acestream://d7126b08e917bef7c14bd17f5affccf14e19eb65&mode=1&name=acestream+Link
+futbol 1 hd ukraine / Футбол 1 hd
+plugin://plugin.video.p2p-streams/?url=acestream://24b2e33593c6425bb66a1237e2e967ca51d197c6&mode=1&name=acestream+Link
+idman tv azerbaijan
+http://149.255.152.70:80/idman/index.m3u8
+West Ham United vs Leicester City Live TV Channels
+
+#EXTINF:-1,sportsnet world canada
+plugin://plugin.video.p2p-streams/?url=acestream://a9b63a3a4a9c268ba2b4a0858f2e4a519b0c7a40&mode=1&name=acestream+Link
+#EXTINF:-1,sport klub 1 hd serbia
+plugin://plugin.video.p2p-streams/?url=acestream://973a698dd669f6bff649ea080a4517a491334252&mode=1&name=acestream+Link
+
+
+#EXTINF:-1,Swansea City vs Newcastle United Live TV Channels
+#
+#EXTINF:-1,canal+ sport france
+plugin://plugin.video.p2p-streams/?url=acestream://12b8e78f7d1b33a9733f35f6498497cb54f43eb7&mode=1&name=acestream+Link
+#EXTINF:-1,tsn 2 canada
+plugin://plugin.video.p2p-streams/?url=acestream://021b8ca3b541246e95d88d9e7bf1c2a080bd0d8c&mode=1&name=acestream+Link
+
+
+#EXTINF:-1,Tottenham Hotspur vs Stoke City Live TV Channels
+#
+
+#EXTINF:-1,nbcsn hd usa
+plugin://plugin.video.p2p-streams/?url=acestream://6c1f9b806eb63b89dae52c1c1227baa24a122e45&mode=1&name=acestream+Link
+#EXTINF:-1,canal+ fútbol espana
+rtmp://$OPT:rtmp-raw=rtmp://31.220.2.56/privatestream/ playpath=futbolplus45?keys=KEQA7Tczwp76XdwgyOjdWg&keyt=1439622158 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 pageUrl=http://privatestream.tv/player?streamname=futbolplus45&width=650&height=360
+#EXTINF:-1,ntv+ futbol 1 hd russia / htb+ Футбол 1 hd
+plugin://plugin.video.p2p-streams/?url=acestream://d7126b08e917bef7c14bd17f5affccf14e19eb65&mode=1&name=acestream+Link
+#EXTINF:-1,futbol 1 hd ukraine / Футбол 1 hd
+plugin://plugin.video.p2p-streams/?url=acestream://24b2e33593c6425bb66a1237e2e967ca51d197c6&mode=1&name=acestream+Link
+#EXTINF:-1,idman tv azerbaijan
+http://149.255.152.70:80/idman/index.m3u8
