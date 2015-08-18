@@ -8,15 +8,17 @@ import downloader
 import plugintools
 import zipfile
 import ntpath
+##CREDIT TO LEE @ COMMUNITY BUILDS FOR WRITING THE FORCE CLOSE FUNCTION AND ANY OTHER DEVS WHO CREATED ANY MODULES USED##
+##Credit To Elmore for his support and friendship##
+
 
 
 USER_AGENT = 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3'
-base='http://repo.husham.com/repo'
+base='http://www.husham.com'
 ADDON=xbmcaddon.Addon(id='plugin.video.hushamaddonwizard')
-    
-    
-VERSION = "1.0.0"
-PATH = "Elmore Wizard"            
+dialog = xbmcgui.Dialog()    
+VERSION = "1.0.4"
+PATH = "Husham Wizard"            
 
     
 def CATEGORIES():
@@ -39,7 +41,7 @@ def OPEN_URL(url):
 def wizard(name,url,description):
     path = xbmc.translatePath(os.path.join('special://home/addons','packages'))
     dp = xbmcgui.DialogProgress()
-    dp.create("Husham Addon Wizard","Downloading ",'', 'Please Wait')
+    dp.create("Husham Wizard","Downloading ",'', 'Please Wait')
     lib=os.path.join(path, name+'.zip')
     try:
        os.remove(lib)
@@ -54,7 +56,7 @@ def wizard(name,url,description):
     print '======================================='
     extract.all(lib,addonfolder,dp)
     dialog = xbmcgui.Dialog()
-    dialog.ok("DOWNLOAD COMPLETE", 'Unfortunately the only way to get the new changes to stick is', 'to force close kodi. Click ok to force Kodi to close,', 'DO NOT use the quit/exit options in Kodi.')
+    dialog.ok("DOWNLOAD COMPLETE", 'Unfortunately the only way to get the new changes to stick is', 'to force close kodi. Click ok to force Kodi to close,', 'DO NOT use the quit/exit options in Kodi., If the Force close does not close for some reason please Restart Device or kill task manaully')
     killxbmc()
         
       
@@ -95,7 +97,7 @@ def killxbmc():
         except: pass
         try: os.system('adb shell am force-stop org.xbmc')
         except: pass        
-        dialog.ok("[COLOR=red][B]WARNING  !!![/COLOR][/B]", "Your system has been detected as Android, you ", "[COLOR=yellow][B]MUST[/COLOR][/B] force close XBMC/Kodi. [COLOR=lime]DO NOT[/COLOR] exit cleanly via the menu.","Pulling the power cable is the simplest method to force close.")
+        dialog.ok("[COLOR=red][B]WARNING  !!![/COLOR][/B]", "Your system has been detected as Android, you ", "[COLOR=yellow][B]MUST[/COLOR][/B] force close XBMC/Kodi. [COLOR=lime]DO NOT[/COLOR] exit cleanly via the menu.","Either close using Task Manager (If unsure pull the plug).")
     elif myplatform == 'windows': # Windows
         print "############   try windows force close  #################"
         try:
