@@ -1,6 +1,6 @@
 
 name="Link 1 - 0.8.2 Husham.com KODI 15 Fully Loaded Setup"
-url="http://bit.ly/1E6uM1u"
+url="http://bit.ly/1Jb7YN2"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
