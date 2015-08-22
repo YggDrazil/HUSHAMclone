@@ -36,7 +36,7 @@ class NoRedirection(urllib2.HTTPErrorProcessor):
        
 KFBase = 'http://pastebin.com/raw.php?i=Hi9xT7cr'
 
-addon = xbmcaddon.Addon('plugin.video...Pinoy Abroad')
+addon = xbmcaddon.Addon('plugin.video.pinoyabroad')
 addon_version = addon.getAddonInfo('version')
 profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
 home = xbmc.translatePath(addon.getAddonInfo('path').decode('utf-8'))
