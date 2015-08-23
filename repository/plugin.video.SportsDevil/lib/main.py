@@ -1,4 +1,4 @@
-# -*- coding: latin-1 -*-
+# -*- coding: utf-8 -*-
 
 # Merge xSopcast and SportsDevil
 #http://forum.xbmc.org/showthread.php?tid=100031&pid=1101338#pid1101338
@@ -603,6 +603,7 @@ class Main:
             item.infos = self.addon.parse_query(urllib.unquote(queryString),{})
         else:
             item.infos = self.addon.parse_query(queryString,{})
+        item.infos = dict((k.decode('utf8'), v.decode('utf8')) for k, v in item.infos.items())
         return [mode, item]
 
 
@@ -619,6 +620,7 @@ class Main:
         self.handle = handle
         
         paramstring = urllib.unquote_plus(parameter)
+        common.log(paramstring)
         
         try:
             

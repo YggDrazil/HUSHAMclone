@@ -12,5 +12,5 @@ item_info_convert=getInfo('%s','.*src="([^"]+)"\s*type="video/mp4".*','@REFERER@
 item_info_build=%s
 
 item_info_name=url
-item_info_from=file+'|Referer=http://goodcast.co.uk/stream2.php&User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
+item_info_from=file+'|Referer=http://goodcast.co.uk/stream2.php&User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
 item_info_build=%s

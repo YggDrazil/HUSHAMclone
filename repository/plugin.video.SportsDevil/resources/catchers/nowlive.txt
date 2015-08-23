@@ -33,7 +33,7 @@ item_info_build=%s
 
 item_info_name=tok
 item_info_from=tokUrl
-item_info_build=b4wetilMSd4zHJ5cgyG_MA
+item_info_build=OXR0kGCjQPfPYYuIYGOMDA
 
 item_info_name=file
 item_info_from=file.tmp+tok
@@ -42,5 +42,5 @@ item_info_build=%s
 
 
 item_info_name=url
-item_info_from=file+'|Referer=http://cdn.p2pcast.tv/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36
+item_info_from=file+'|Referer=http://cdn.p2pcast.tv/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36
 item_info_build=%s 

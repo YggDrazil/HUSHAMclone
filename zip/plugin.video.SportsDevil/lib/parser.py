@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-#from __future__ import unicode_literals
 import common
 import sys, os, traceback
 import time
@@ -7,7 +6,6 @@ import random
 import re
 import urllib
 import string
-import HTMLParser
 from string import lower
 
 from entities.CList import CList
@@ -185,11 +183,7 @@ class Parser(object):
                     referer = ''
                     if lItem['referer']:
                         referer = lItem['referer']
-                    try:
-                        inputList.curr_url = HTMLParser.HTMLParser().unescape(urllib.unquote(inputList.curr_url)).decode('utf-8')
-                    except:
-                        inputList.curr_url = HTMLParser.HTMLParser().unescape(urllib.unquote(inputList.curr_url))
-                    data = common.getHTML(inputList.curr_url, None, referer, False, ignoreCache, demystify)
+                    data = common.getHTML(inputList.curr_url, None, referer, False, False, ignoreCache, demystify)
                     if data == '':
                         return False
 
@@ -264,8 +258,6 @@ class Parser(object):
                     if startUrl == red:
                         common.log('    -> No redirect found')
                     else:
-                        red = HTMLParser.HTMLParser().unescape(red) 
-                        red = urllib.unquote(red)
                         common.log('    -> Redirect: ' + red)
                         if back == red:
                             break
@@ -282,7 +274,7 @@ class Parser(object):
                 inputList.items = inputList.items + items
 
 
-        except IOError:
+        except:
             traceback.print_exc(file = sys.stdout)
             return False
         return True
@@ -312,7 +304,7 @@ class Parser(object):
 
 
     def __findRedirect(self, page, referer='', demystify=False):
-        data = common.getHTML(page, None, referer = referer, xml = False, demystify = demystify)
+        data = common.getHTML(page, None, referer = referer, xml = False, mobile=False, demystify = demystify)
         
         if findVideoFrameLink(page, data):
             return findVideoFrameLink(page, data)
@@ -603,6 +595,9 @@ class Parser(object):
             
             elif command == 'getXML':
                 src = cc.getInfo(item, params, src, xml=True)
+                
+            elif command == 'getMobile':
+                src = cc.getInfo(item, params, src, mobile=True)
 
             elif command == 'decodeBase64':
                 src = cc.decodeBase64(src)
@@ -640,6 +635,12 @@ class Parser(object):
             elif command == 'encryptJimey':
                 src = crypt.encryptJimey(params.strip("'").replace('%s', src))
 
+            elif command == 'gAesDec':
+                src = crypt.gAesDec(src,item.infos[params])
+                
+            elif command == 'getCookies':
+                src = cc.getCookies(params, src)
+
             elif command == 'destreamer':
                 src = crypt.destreamer(params.strip("'").replace('%s', src))
 
@@ -663,6 +664,9 @@ class Parser(object):
                 
             elif command == 'lowercase':
                 src = string.lower(src)
+                
+            elif command == 'reverse':
+                src = src[::-1]
                 
             elif command == 'demystify':
                 print 'demystify'

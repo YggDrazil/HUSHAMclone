@@ -1,4 +1,4 @@
-# -*- coding: latin-1 -*-
+# -*- coding: utf-8 -*-
 
 import urllib
 import urlparse
@@ -137,7 +137,7 @@ def parseText(item, params, src):
     return reg.parseText(text, regex, variables)
 
 
-def getInfo(item, params, src, xml=False):
+def getInfo(item, params, src, xml=False, mobile=False):
     paramArr = __parseParams(params)
     paramPage = paramArr[0].replace('%s', src)
 
@@ -172,7 +172,7 @@ def getInfo(item, params, src, xml=False):
         pass
 
     common.log('Get Info from: "'+ paramPage + '" from "' + referer + '"')
-    data = common.getHTML(paramPage, form_data, referer, xml, ignoreCache=False,demystify=True)
+    data = common.getHTML(paramPage, form_data, referer, xml, mobile, ignoreCache=False,demystify=True)
     return reg.parseText(data, paramRegex, variables)
 
 
@@ -297,4 +297,9 @@ def decodeXppod(src):
 
 def decodeXppod_hls(src):
     return xp.decode_hls(src)
+
+def getCookies(cookieName, url):
+    domain = urlparse.urlsplit(url).netloc
+    return common.getCookies(cookieName, domain)
+    
     

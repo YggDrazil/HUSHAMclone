@@ -1,0 +1,16 @@
+item_info_name=title
+item_info_from=@PARAM1@
+item_info_build=Xusca - %s
+
+item_info_name=pageUrl
+item_info_from=@PARAM1@
+item_info_build=http://mybeststream.xyz/?id=%s
+
+item_info_name=rtmp
+item_info_from=pageUrl
+item_info_convert=getInfo('%s','.*(?:file|streamer):\s*["']([^'"]+).*','@REFERER@')
+item_info_build=%s
+
+item_info_name=url
+item_info_from=rtmp + ' swfUrl=http://mybeststream.xyz/jwplayer.flash.swf swfsize=61755 swfhash=0c9c09d9383bc5850755aa4814cc13c4105ece72d5233ac5ed02c31c7bc503e6 token=ovcast_live_streaming flashver=WIN\2018,0,0,209 live=1 timeout=15 swfVfy=1 pageUrl=' + pageUrl
+item_info_build=%s

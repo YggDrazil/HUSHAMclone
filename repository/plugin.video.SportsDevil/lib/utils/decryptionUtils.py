@@ -1,4 +1,4 @@
-# -*- coding: latin-1 -*-
+# -*- coding: utf-8 -*-
 
 import pyDes
 import urllib
@@ -7,8 +7,6 @@ import re
 from regexUtils import parseTextToGroups
 
 from javascriptUtils import JsFunctions, JsUnpacker,JsUnpackerV2, JsUnpacker95High, JsUnwiser, JsUnIonCube, JsUnFunc, JsUnPP
-import HTMLParser
-html = HTMLParser.HTMLParser()
 
 
 def encryptDES_ECB(data, key):
@@ -17,6 +15,10 @@ def encryptDES_ECB(data, key):
     d = k.encrypt(data)
     assert k.decrypt(d, padmode=pyDes.PAD_PKCS5) == data
     return d
+
+def gAesDec(data, key):
+    import mycrypt
+    return mycrypt.decrypt(key,data)
 
 def encryptJimey(data):
     result = encryptDES_ECB(data,"PASSWORD").encode('base64').replace('/','').strip()
@@ -56,9 +58,7 @@ def doDemystify(data):
 
     # replace NUL
     data = data.replace('\0','')
-    
-    data = html.unescape(data)
-    
+
 
     # unescape
     r = re.compile('a1=["\'](%3C(?=[^\'"]*%\w\w)[^\'"]+)["\']')

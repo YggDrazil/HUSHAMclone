@@ -1,4 +1,4 @@
-# -*- coding: latin-1 -*-
+# -*- coding: utf-8 -*-
 
 import os
 import re
@@ -7,6 +7,7 @@ import urlparse
 import requests
 import cookielib
 import socket
+from HTMLParser import HTMLParser
 from fileUtils import fileExists, setFileContent, getFileContent
 
 #------------------------------------------------------------------------------
@@ -33,7 +34,7 @@ class BaseRequest(object):
         self.s = requests.Session()
         if fileExists(self.cookie_file):
             self.s.cookies = self.load_cookies_from_lwp(self.cookie_file)
-        self.s.headers.update({'User-Agent' : 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.130 Safari/537.36'})
+        self.s.headers.update({'User-Agent' : 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36'})
         #self.s.headers.update({'Accept' : 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8'})
         self.url = ''
     
@@ -51,14 +52,35 @@ class BaseRequest(object):
         lwp_cookiejar = cookielib.LWPCookieJar()
         lwp_cookiejar.load(filename, ignore_discard=True)
         return lwp_cookiejar
+    
+    def fixurl(self, url):
+        #url is unicode (quoted or unquoted)
+        try:
+            #url is already quoted
+            url = url.encode('ascii')
+        except:
+            #quote url if it is unicode
+            parsed_link = urlparse.urlsplit(url)
+            parsed_link = parsed_link._replace(netloc=parsed_link.netloc.encode('idna'),path=urllib.quote(parsed_link.path.encode('utf-8')))
+            url = parsed_link.geturl().encode('ascii')
+        #url is str (quoted)
+        return url
 
-    def getSource(self, url, form_data, referer, xml=False):
-        parsed_link = urlparse.urlsplit(url)
-        parsed_link = parsed_link._replace(netloc=parsed_link.netloc.encode('idna'),path=urllib.quote(parsed_link.path.encode('utf-8')))
-        url = parsed_link.geturl().encode('utf-8')
+    def getSource(self, url, form_data, referer, xml=False, mobile=False):
+        url = self.fixurl(url)
+        
+        if 'arenavision.in' in urlparse.urlsplit(url).netloc:
+            self.s.headers.update({'Cookie' : 'beget=begetok'})
+            
         if not referer:
             referer = url
+        else:
+            referer = self.fixurl(referer)
+        
         headers = {'Referer': referer}
+        if mobile:
+            self.s.headers.update({'User-Agent' : 'Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36'})
+            
         if xml:
             headers['X-Requested-With'] = 'XMLHttpRequest'
         
@@ -74,8 +96,8 @@ class BaseRequest(object):
         
         if len(response) > 10:
             if self.cookie_file:
-                self.save_cookies_lwp(r.cookies, self.cookie_file)
-        return response
+                self.save_cookies_lwp(self.s.cookies, self.cookie_file)
+        return HTMLParser().unescape(response)
 
 #------------------------------------------------------------------------------
 
@@ -84,8 +106,8 @@ class DemystifiedWebRequest(BaseRequest):
     def __init__(self, cookiePath):
         super(DemystifiedWebRequest,self).__init__(cookiePath)
 
-    def getSource(self, url, form_data, referer='', xml=False, demystify=False):
-        data = super(DemystifiedWebRequest, self).getSource(url, form_data, referer, xml)
+    def getSource(self, url, form_data, referer='', xml=False, mobile=False, demystify=False):
+        data = super(DemystifiedWebRequest, self).getSource(url, form_data, referer, xml, mobile)
         if not data:
             return None
 
@@ -127,12 +149,12 @@ class CachedWebRequest(DemystifiedWebRequest):
         return getFileContent(self.lastUrlPath)
         
 
-    def getSource(self, url, form_data, referer='', xml=False, ignoreCache=False, demystify=False):
+    def getSource(self, url, form_data, referer='', xml=False, mobile=False, ignoreCache=False, demystify=False):
         
         if url == self.getLastUrl() and not ignoreCache:
             data = self.__getCachedSource()
         else:
-            data = super(CachedWebRequest,self).getSource(url, form_data, referer, xml, demystify)
+            data = super(CachedWebRequest,self).getSource(url, form_data, referer, xml, mobile, demystify)
             if data:
                 # Cache url
                 self.__setLastUrl(url)

@@ -1,4 +1,4 @@
-# -*- coding: latin-1 -*-
+# -*- coding: utf-8 -*-
 
 
 import regexUtils
@@ -21,7 +21,7 @@ def findJS(data):
 
 
 def findPHP(data, streamId):
-    regex = "document.write\('.*?src=['\"]*(.*?.php[^&\"]*).*?['\" ]*.*?\)"
+    regex = "document.write\('.*?src=['\"]*(.*?.(?:php|html)[^&\"]*).*?['\" ]*.*?\)"
     php = regexUtils.findall(data, regex)
     if php:
         return re.sub(r"\'\+\s*(?:f*id|ch)\s*\+\'", "%s" % streamId,php[0])
@@ -147,6 +147,11 @@ def findContentRefreshLink(data):
         return links[0]
     
     regex = 'frame\s*scrolling=\"auto\"\s*noresize\s*src\s*=\s*[\'"]([^\'"]+)[\'"]'
+    links = regexUtils.findall(data, regex)
+    if links:
+        return links[0]
+    
+    regex = '<center><a\s*href=[\'"]([^\'"]+)[\'"]\s*target="_blank"><img'
     links = regexUtils.findall(data, regex)
     if links:
         return links[0]
