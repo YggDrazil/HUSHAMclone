@@ -1,3 +1,5 @@
+[b]1.2[/b]
+- source updated
 [b]1.1[/b]
 - bug fix to repair some channels that wouldn't load
 [b]1.0[/b]
