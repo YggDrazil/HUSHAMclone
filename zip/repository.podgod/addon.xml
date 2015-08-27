@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.podgod" name="podgod repo" version="1.3" provider-name="podgod">
+<addon id="repository.podgod" name="podgod repo" version="1.4" provider-name="podgod">
 	<extension point="xbmc.addon.repository" name="PodGod Addon Repository">
-		<info compressed="false">http://podgod.webege.com/Repo/My-Repo/addons.xml</info>
-		<checksum>http://podgod.webege.com/Repo/My-Repo/addons.xml.md5</checksum>
-		<datadir zip="true">http://podgod.webege.com/Repo/My-Repo/zips</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/podgod/podgod/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/podgod/podgod/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://github.com/podgod/podgod/raw/master/zips</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install My Addons</summary>

@@ -1,22 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon
-  id="plugin.video.SportsDevil"
-  version="2015.08.16"
-  name="SportsDevil"
-  provider-name="MaxMustermann, Al101, Hubbab3, Sattekop">
+<addon id="plugin.video.adryanlist"
+       name="AdryanList"
+       version="1.1.0"
+       provider-name="Doc Shadrach">
   <requires>
-   <import addon="xbmc.python" version="2.14.0"/>
-   <import addon="script.module.requests" />
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
   </requires>
-  <extension
-    point="xbmc.python.pluginsource"
-    library="default.py">
-   <provides>video</provides>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Play videos of different sports streaming sites</summary>
-    <description>Play videos of different sports streaming sites</description>
+    <summary>based on livestreamspro 1.7.0 by Shani</summary>
+    <description>Lista de canales de Adryan</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -753,7 +759,7 @@ http://www.husham.com</summary>
 	</extension>
 </addon>
 
-<addon id="repository.husham.com" name="Husham.com Repo" version="1.0.8" provider-name="husham.com">
+<addon id="repository.husham.com" name="Husham.com Repo" version="1.0.9" provider-name="husham.com">
 	<extension point="xbmc.addon.repository" name="Husham.com Repository">
 		<info compressed="false">https://raw.githubusercontent.com/hmemar/husham.com/master/repository/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/hmemar/husham.com/master/repository/addons.xml.md5</checksum>
@@ -766,11 +772,11 @@ http://www.husham.com</summary>
 	</extension>
 </addon>
 
-<addon id="repository.podgod" name="podgod repo" version="1.3" provider-name="podgod">
+<addon id="repository.podgod" name="podgod repo" version="1.4" provider-name="podgod">
 	<extension point="xbmc.addon.repository" name="PodGod Addon Repository">
-		<info compressed="false">http://podgod.webege.com/Repo/My-Repo/addons.xml</info>
-		<checksum>http://podgod.webege.com/Repo/My-Repo/addons.xml.md5</checksum>
-		<datadir zip="true">http://podgod.webege.com/Repo/My-Repo/zips</datadir>
+		<info compressed="false">https://raw.githubusercontent.com/podgod/podgod/master/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/podgod/podgod/master/addons.xml.md5</checksum>
+		<datadir zip="true">http://github.com/podgod/podgod/raw/master/zips</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install My Addons</summary>
