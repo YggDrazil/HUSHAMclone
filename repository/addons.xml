@@ -501,6 +501,21 @@ http://www.husham.com</summary>
   </extension>
 </addon>
 
+<addon id="plugin.video.SuperStreams" name="SuperStreams" version="3.0.0" provider-name="SuperStreams">
+<requires>
+    <import addon="xbmc.python" version="2.1.0" />
+</requires>
+<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension  point="xbmc.addon.metadata">
+		<summary lang="nl">SuperStreams voor XBMC / KODI!</summary>
+		<description lang="nl">Met deze addon is het mogelijk om Internet streams te bekijken in XBMC / KODI.</description>
+		<platform>all</platform>
+		<website>www.superstreams.tv</website>
+	</extension>
+</addon>
+
 <addon id="plugin.video.yifymovies.hd" name="Yify Movies HD" version="1.6.5" provider-name="lambda">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
@@ -728,7 +743,7 @@ http://www.husham.com</summary>
 	</extension>
 </addon>
 
-<addon id="repository.husham.com" name="Husham.com Repo" version="1.0.9" provider-name="husham.com">
+<addon id="repository.husham.com" name="Husham.com Repo" version="1.1.0001" provider-name="husham.com">
 	<extension point="xbmc.addon.repository" name="Husham.com Repository">
 		<info compressed="false">https://raw.githubusercontent.com/hmemar/husham.com/master/repository/addons.xml</info>
 		<checksum>https://raw.githubusercontent.com/hmemar/husham.com/master/repository/addons.xml.md5</checksum>
