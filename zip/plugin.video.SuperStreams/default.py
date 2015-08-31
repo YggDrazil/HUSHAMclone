@@ -22,12 +22,12 @@ icon = xbmc.translatePath(os.path.join('special://home/addons/' + AddonID, 'icon
  
 def categorie():
     addDir('SPORT CHANNELS', 'plugin://plugin.video.SuperStreams/?xcat9x',icon)
-    addDir('LIVE SPORT GAMES', 'plugin://plugin.video.SuperStreams/?xcat3x',icon)
-    addDir('MUSIC CHANNELS', 'plugin://plugin.video.SuperStreams/?xcat5x',icon)
-    addDir('DUTCH TV CHANNELS', 'plugin://plugin.video.SuperStreams/?xcat4x',icon)
-    addDir('UK TV CHANNELS', 'plugin://plugin.video.SuperStreams/?xcat1x',icon)
-    addDir('GERMAN TV CHANNELS', 'plugin://plugin.video.SuperStreams/?xcat6x',icon)
-    addDir('OTHER CHANNELS', 'plugin://plugin.video.SuperStreams/?xcat7x',icon)
+    #addDir('LIVE SPORT GAMES', 'plugin://plugin.video.SuperStreams/?xcat3x',icon)
+    #addDir('MUSIC CHANNELS', 'plugin://plugin.video.SuperStreams/?xcat5x',icon)
+    #addDir('DUTCH TV CHANNELS', 'plugin://plugin.video.SuperStreams/?xcat4x',icon)
+    #addDir('UK TV CHANNELS', 'plugin://plugin.video.SuperStreams/?xcat1x',icon)
+    #addDir('GERMAN TV CHANNELS', 'plugin://plugin.video.SuperStreams/?xcat6x',icon)
+    #addDir('OTHER CHANNELS', 'plugin://plugin.video.SuperStreams/?xcat7x',icon)
     #addDir('NOT IN USE', 'plugin://plugin.video.SuperStreams/?xcat8x',icon)
     #addDir('NOT IN USE', 'plugin://plugin.video.SuperStreams/?xcat2x',icon)
     #addDir('NOT IN USE9', 'plugin://plugin.video.SuperStreams/?xcat9x',icon)
