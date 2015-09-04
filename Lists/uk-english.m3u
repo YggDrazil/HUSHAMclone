@@ -23,7 +23,7 @@ rtmp://94.102.49.126:443/liverepeater playpath=8 swfUrl=http://popeoftheplayers.
 rtmp://46.246.29.137:1935/stream/ playpath=q9dS41DQ8U.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other
 
 #EXTINF:-1,Sky sports News
-rtmp://94.102.49.126:443/liverepeater playpath=19 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=15&width=600&height=450 token=#atd%#$ZH timeout=5
+rtmp://89.248.169.35/live playpath=ss1 swfUrl=http://www.yocast.tv/myplayer/jwplayer.flash.swf http://www.yocast.tv/embed.php?live=ss1&vw=600&vh=450 token=#atd%#$ZH timeout=5
 
 #EXTINF:-1, Sky sports 1 
 http://176.53.21.99:8082/TV4284
