@@ -264,6 +264,27 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.movieyoutube"
+	name="Movies on YouTube"
+	version="1.0.0"
+	provider-name="coldkeys">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Movie Channels addon</summary>
+    <description lang="en">Movie Channels on YouTube.</description>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>n/a</website>
+  </extension>
+</addon>
+
 <addon id="plugin.video.OperationRobocopUltimate"
        name="Operation Robocop Ultimate"
        version="1.5"
@@ -292,6 +313,27 @@
     <summary lang="en"> Operation Robocop Add-on</summary>
     <description lang="en">Find us at our Facebook Group https://www.facebook.com/groups/1551875625033019/</description>
     <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.outofthisworld"
+	name="Out of this World"
+	version="1.0.0"
+	provider-name="coldkeys">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Out of this World</summary>
+    <description lang="en">Documentary youtube channels.</description>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>n/a</website>
   </extension>
 </addon>
 
