@@ -15,15 +15,29 @@ http://www.youtube.com/user/hmemar22
 #EXTINF:-1, [COLOR red] --Check out the new forum.husham.com website--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
+
+#EXTINF:-1,BT SPORTS 1
+rtmp://www1.iguide.to/iguide playpath=ie7ny249k7lrkfv swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31510&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,BT SPORTS 2
+rtmp://www1.iguide.to/iguide playpath=z368lvipj0njcia swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31511&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,BT SPORTS EUROPE
+rtmp://www1.iguide.to/iguide playpath=6epw8m72yow0wqt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31521&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,BT ESPN
+rtmp://www1.iguide.to/iguide playpath=m5x7pyi1sqakdvt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31636&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+
 #EXTINF:-1,BT sports 1
 rtmp://80.82.78.85:443/liverepeater playpath=7 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=600&height=450 token=#atd%#$ZH timeout=5
 #EXTINF:-1,BT sports 1
 rtmp://80.82.64.140:443/liverepeater playpath=42 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=600&height=450 token=#atd%#$ZH timeout=5
 
-#EXTINF:-1,BT sports 2
-rtmp://94.102.49.126:443/liverepeater playpath=8 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=600&height=450 token=#atd%#$ZH timeout=5
-#EXTINF:-1,BT Sport 2
-rtmp://46.246.29.137:1935/stream/ playpath=q9dS41DQ8U.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other
+# #EXTINF:-1,BT sports 2
+# rtmp://94.102.49.126:443/liverepeater playpath=8 swfUrl=http://popeoftheplayers.eu/atdedead.swf pageUrl=http://popeoftheplayers.eu/crichd.php?id=42&width=600&height=450 token=#atd%#$ZH timeout=5
+# #EXTINF:-1,BT Sport 2
+# rtmp://46.246.29.137:1935/stream/ playpath=q9dS41DQ8U.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other
 
 
 #EXTINF:0,Sky Sports News HQ UK
