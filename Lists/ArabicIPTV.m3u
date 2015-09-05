@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 28/08/15 @ 01:31 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 05/09/15 @ 13:30 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -10,6 +10,54 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR yellow]Please donate to husham.com for more content[/COLOR]
 http://www.youtube.com/user/hmemar22
+
+
+
+#EXTINF:-1,Bein 1 AR
+rtmp://www1.iguide.to/iguide playpath=nujkqb82ht54f05 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 2 AR
+rtmp://www1.iguide.to/iguide playpath=ix87jz08b1l9wjl swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 3 AR
+rtmp://www1.iguide.to/iguide playpath=zqd4jye2ubzsk8g swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 4 AR
+rtmp://www1.iguide.to/iguide playpath=6kvth9vfk31w5hq swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 5 AR
+rtmp://www1.iguide.to/iguide playpath=uzd0xctulomtekn swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 6 AR
+rtmp://www1.iguide.to/iguide playpath=a66ht7p4opy1s5r swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 7 AR
+rtmp://www1.iguide.to/iguide playpath=ilirzmz6u21561n swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 8 AR
+rtmp://www1.iguide.to/iguide playpath=heh8qiagrxkwcm3 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 11 AR
+rtmp://www1.iguide.to/iguide playpath=ql4mb7goxh0gx7y swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31507&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 12 AR
+rtmp://www1.iguide.to/iguide playpath=zrbbip5ikugr384 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf <pageUrl>http://www.iguide.to/embedplayer_new.php?channel=31508&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+
+
+#EXTINF:-1,BT SPORTS 1
+rtmp://www1.iguide.to/iguide playpath=ie7ny249k7lrkfv swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31510&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,BT SPORTS 2
+rtmp://www1.iguide.to/iguide playpath=z368lvipj0njcia swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31511&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,BT SPORTS EUROPE
+rtmp://www1.iguide.to/iguide playpath=6epw8m72yow0wqt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31521&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,BT ESPN
+rtmp://www1.iguide.to/iguide playpath=m5x7pyi1sqakdvt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31636&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+
 
 #EXTINF:1,BEIN USA 1
 http://lihattv.toh.info/jhos/beib1.m3u8
@@ -38,26 +86,6 @@ http://178.33.88.129:888/udp/239.102.0.11:1234
 #EXTINF:1,bein sport 2hd ar
 http://178.33.88.129:888/udp/239.102.0.2:1234
 
-#EXTINF:1,BEIN SPORT 1
-http://portal.rapidiptv.com:8080/live/onur/onur/2447.m3u8
-#EXTINF:1,BEIN SPORT 2
-http://portal.rapidiptv.com:8080/live/onur/onur/2448.m3u8
-#EXTINF:1,BEIN SPORT 3
-http://portal.rapidiptv.com:8080/live/onur/onur/2449.m3u8
-#EXTINF:1,BEIN SPORT 4
-http://portal.rapidiptv.com:8080/live/onur/onur/2450.m3u8
-#EXTINF:1,BEIN SPORT 5
-http://portal.rapidiptv.com:8080/live/onur/onur/2451.m3u8
-#EXTINF:1,BEIN SPORT 6
-http://portal.rapidiptv.com:8080/live/onur/onur/2452.m3u8
-#EXTINF:1,BEIN SPORT 7
-http://portal.rapidiptv.com:8080/live/onur/onur/2453.m3u8
-#EXTINF:1,BEIN SPORT8 HD
-http://portal.rapidiptv.com:8080/live/onur/onur/2454.m3u8
-#EXTINF:1,BEIN SPORT 9
-http://portal.rapidiptv.com:8080/live/onur/onur/2455.m3u8
-#EXTINF:1,BEIN SPORT 10
-http://portal.rapidiptv.com:8080/live/onur/onur/2456.m3u8
 
 
 #EXTINF:-1,OMN yahla drama

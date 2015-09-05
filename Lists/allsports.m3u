@@ -1,16 +1,18 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 27/07/15 @ 14:52 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 05/09/15 @ 13:30 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+http://www.youtube.com/user/hmemar22
 #EXTINF:-1, [COLOR green] --http://bit.ly/hushamallsports--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Free Collection of IPTV sports links--[/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+http://www.youtube.com/user/hmemar22
 #EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+http://www.youtube.com/user/hmemar22
 #EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR red] --Check out the new forum.husham.com website--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 #EXTINF:-1,BT sports 1
@@ -133,6 +135,10 @@ rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp
 
 #EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR red] --Check out the new forum.husham.com website--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 #EXTINF:-1,LFTV Live Stream
 rtmp://46.246.29.130:1935/stream/ playpath=0VmU1bpSNQ.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460
@@ -191,27 +197,89 @@ rtmp://80.82.78.26:443/liverepeater/willhdhd pageUrl=http://xxxxxxxxxxxxxxxx.xx/
 rtmp://31.220.0.195:80/live/btpremier pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=starsp11?ptvsports22?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
 
 
+#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR red] --Check out the new forum.husham.com website--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
-http://portal.rapidiptv.com:8080/live/onur/onur/2447.m3u8
-#EXTINF:0,BEIN SPORT 2
-http://portal.rapidiptv.com:8080/live/onur/onur/2448.m3u8
-#EXTINF:0,BEIN SPORT 3
-http://portal.rapidiptv.com:8080/live/onur/onur/2449.m3u8
-#EXTINF:0,BEIN SPORT 4
-http://portal.rapidiptv.com:8080/live/onur/onur/2450.m3u8
-#EXTINF:0,BEIN SPORT 5
-http://portal.rapidiptv.com:8080/live/onur/onur/2451.m3u8
-#EXTINF:0,BEIN SPORT 6
-http://portal.rapidiptv.com:8080/live/onur/onur/2452.m3u8
-#EXTINF:0,BEIN SPORT 7
-http://portal.rapidiptv.com:8080/live/onur/onur/2453.m3u8
-#EXTINF:0,BEIN SPORT8 HD
-http://portal.rapidiptv.com:8080/live/onur/onur/2454.m3u8
-#EXTINF:0,BEIN SPORT 9
-http://portal.rapidiptv.com:8080/live/onur/onur/2455.m3u8
-#EXTINF:0,BEIN SPORT 10
-http://portal.rapidiptv.com:8080/live/onur/onur/2456.m3u8
+#EXTINF:-1,Bein 1 AR
+rtmp://www1.iguide.to/iguide playpath=nujkqb82ht54f05 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
 
+#EXTINF:-1,Bein 2 AR
+rtmp://www1.iguide.to/iguide playpath=ix87jz08b1l9wjl swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 3 AR
+rtmp://www1.iguide.to/iguide playpath=zqd4jye2ubzsk8g swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 4 AR
+rtmp://www1.iguide.to/iguide playpath=6kvth9vfk31w5hq swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 5 AR
+rtmp://www1.iguide.to/iguide playpath=uzd0xctulomtekn swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 6 AR
+rtmp://www1.iguide.to/iguide playpath=a66ht7p4opy1s5r swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 7 AR
+rtmp://www1.iguide.to/iguide playpath=ilirzmz6u21561n swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 8 AR
+rtmp://www1.iguide.to/iguide playpath=heh8qiagrxkwcm3 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 11 AR
+rtmp://www1.iguide.to/iguide playpath=ql4mb7goxh0gx7y swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31507&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,Bein 12 AR
+rtmp://www1.iguide.to/iguide playpath=zrbbip5ikugr384 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf <pageUrl>http://www.iguide.to/embedplayer_new.php?channel=31508&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+
+
+#EXTINF:-1,BT SPORTS 1
+rtmp://www1.iguide.to/iguide playpath=ie7ny249k7lrkfv swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31510&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,BT SPORTS 2
+rtmp://www1.iguide.to/iguide playpath=z368lvipj0njcia swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31511&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,BT SPORTS EUROPE
+rtmp://www1.iguide.to/iguide playpath=6epw8m72yow0wqt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31521&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+#EXTINF:-1,BT ESPN
+rtmp://www1.iguide.to/iguide playpath=m5x7pyi1sqakdvt swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31636&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
+
+
+
+#EXTINF:1,BEIN USA 1
+http://lihattv.toh.info/jhos/beib1.m3u8
+#EXTINF:1,BEIN USA 2
+http://lihattv.toh.info/jhos/beib2.m3u8
+#EXTINF:1,BEIN USA 3
+http://lihattv.toh.info/jhos/beib3.m3u8
+EXTINF:0,beINSport1 FR
+http://178.33.88.129:888/udp/239.102.0.15:1234
+#EXTINF:1,beINSport2 FR
+http://178.33.88.129:888/udp/239.102.0.16:1234
+#EXTINF:1,beINSport3 FR
+http://178.33.88.129:888/udp/239.102.0.17:1234
+#EXTINF:1,bein sport 4hd
+http://178.33.88.129:888/udp/239.102.0.5:1234
+#EXTINF:1,bein sport 5hd
+http://178.33.88.129:888/udp/239.102.0.6:1234
+#EXTINF:1,bein sport 6hd
+http://178.33.88.129:888/udp/239.102.0.7:1234
+#EXTINF:1,bein sport 7hd
+http://178.33.88.129:888/udp/239.102.0.8:1234
+#EXTINF:1,bein sport 9hd
+http://178.33.88.129:888/udp/239.102.0.9:1234
+#EXTINF:1,bein sport 10hd
+http://178.33.88.129:888/udp/239.102.0.11:1234
+#EXTINF:1,bein sport 2hd ar
+http://178.33.88.129:888/udp/239.102.0.2:1234
+
+
+#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR red] --Check out the new forum.husham.com website--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 
 #EXTINF:-1,Setanta Sports
 rtmpe://46.246.124.27:1935/livedge/setanta pageUrl=http://xxxxxxxxxxxxx.xx/rtmpe://strm.dcast.tv:1935/live/asdfadfaa/pageUrl=http://xxxxx.xx/rtmp://80.82.64.90:443/liverepeater/79/pageUrl=http://filotv.pw/rtmpe://strm.ukcast.tv:1935/redirect/FUNKTSN/pageUrl=http://ukcast.tv/rtmp://173.192.81.176:443/liverepeater/stream1/token%ZZri(nKa@#Z/pageUrl=http://hdcast.org/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC token=Fo5_n0w?U.rA6l3-70w47 playpath=ssetanta?spremsp?pageUrlhttp pageUrl=http://hdcast.org/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?rtmp://89.46.102.70:443/liveedge/bt1pageUrl=http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/swfUrl=http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrl=http://www.hdcast.org/token=Fo5_n0w#yw%tt#w@kku
