@@ -59,14 +59,25 @@ debug = addon.getSetting('debug')
 if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
+if os.path.exists(favorites)==True:
+    FAV = open(favorites).read()
+else: FAV = []
+
+SOURCES = [{"url": "http://opti786.5gbfree.com/ma%25dex.xml", "fanart": "http://opti786.5gbfree.com/thumbs/fanart.jpg", "genre": "Tv Live", "date": "01.09.2015", "credits": "DexterTV", "thumbnail": "http://1.bp.blogspot.com/-USW8oQI2iPA/T-FssXUqJ-I/AAAAAAAAAIU/eqk5G_L5fRY/s1600/dexter.png"}]
+
+# http://i.imgur.com/aOyKUFn.jpg
+# http://i.imgur.com/CUE62qD.png
+
+    
+"""
 if os.path.exists(source_file)==True:
     SOURCES = open(source_file).read()
 else: SOURCES = []
-
+"""
 
 def addon_log(string):
     if debug == 'true':
-        xbmc.log("[addon.dextertv-%s]: %s" %(addon_version, string))
+        xbmc.log("[addon.video.dextertv-%s]: %s" %(addon_version, string))
 
 
 def makeRequest(url, headers=None):
@@ -82,61 +93,24 @@ def makeRequest(url, headers=None):
             addon_log('URL: '+url)
             if hasattr(e, 'code'):
                 addon_log('We failed with error code - %s.' % e.code)
-                xbmc.executebuiltin("XBMC.Notification(dexterTV,We failed with error code - "+str(e.code)+",10000,"+icon+")")
+                xbmc.executebuiltin("XBMC.Notification(dextertv,We failed with error code - "+str(e.code)+",10000,"+icon+")")
             elif hasattr(e, 'reason'):
                 addon_log('We failed to reach a server.')
                 addon_log('Reason: %s' %e.reason)
-                xbmc.executebuiltin("XBMC.Notification(dexterTV,We failed to reach a server. - "+str(e.reason)+",10000,"+icon+")")
-
+                xbmc.executebuiltin("XBMC.Notification(dextertv,We failed to reach a server. - "+str(e.reason)+",10000,"+icon+")")
 
 def getSources():
-        if addon.getSetting("browse_xml_database") == "true":
-            addDir('XML Database','http://xbmcplus.xb.funpic.de/www-data/filesystem/',15,icon,FANART,'','','','')
-        if addon.getSetting("browse_community") == "true":
-            addDir('Community Files','community_files',16,icon,FANART,'','','','')
-        if os.path.exists(history) == True:
-            addDir('Search History','history',25,os.path.join(home, 'resources', 'favorite.png'),FANART,'','','','')
-        if addon.getSetting("searchyt") == "true":
-            addDir('Search:Youtube','youtube',25,icon,FANART,'','','','')
-        if addon.getSetting("searchDM") == "true":
-            addDir('Search:dailymotion','dmotion',25,icon,FANART,'','','','')
-        if addon.getSetting("PulsarM") == "true":
-            addDir('Pulsar:IMDB','IMDBidplay',27,icon,FANART,'','','','')            
-        if os.path.exists(source_file)==True:
-            sources = json.loads(open(source_file,"r").read())
-            #print 'sources',sources
-            if len(sources) > 1:
-                for i in sources:
-                    ## for pre 1.0.8 sources
-                    if isinstance(i, list):
-                        addDir(i[0].encode('utf-8'),i[1].encode('utf-8'),1,icon,FANART,'','','','','source')
-                    else:
-                        thumb = icon
-                        fanart = FANART
-                        desc = ''
-                        date = ''
-                        credits = ''
-                        genre = ''
-                        if i.has_key('thumbnail'):
-                            thumb = i['thumbnail']
-                        if i.has_key('fanart'):
-                            fanart = i['fanart']
-                        if i.has_key('description'):
-                            desc = i['description']
-                        if i.has_key('date'):
-                            date = i['date']
-                        if i.has_key('genre'):
-                            genre = i['genre']
-                        if i.has_key('credits'):
-                            credits = i['credits']
-                        addDir(i['title'].encode('utf-8'),i['url'].encode('utf-8'),1,thumb,fanart,desc,genre,date,credits,'source')
-
+        if os.path.exists(favorites) == True:
+            FAV = open(favorites).read()
+            if FAV == "[]":
+                os.remove(favorites)
             else:
-                if len(sources) == 1:
-                    if isinstance(sources[0], list):
-                        getData(sources[0][1].encode('utf-8'),FANART)
-                    else:
-                        getData(sources[0]['url'], sources[0]['fanart'])
+                addDir('[COLOR yellow][B]- MIS CANALES FAVORITOS[/COLOR][/B]','url',4,os.path.join(home, 'resources', 'favorite.png'),FANART,'','','','')
+                addDir('','',100,'',FANART,'','','','')
+
+        sources = SOURCES
+        #print 'sources',sources
+        getData(sources[0]['url'], sources[0]['fanart'])
 
 
 def addSource(url=None):
@@ -210,14 +184,13 @@ def addSource(url=None):
             b.close()
         addon.setSetting('new_url_source', "")
         addon.setSetting('new_file_source', "")
-        xbmc.executebuiltin("XBMC.Notification(dexterTV,New source added.,5000,"+icon+")")
+        xbmc.executebuiltin("XBMC.Notification(dextertv,New source added.,5000,"+icon+")")
         if not url is None:
             if 'xbmcplus.xb.funpic.de' in url:
                 xbmc.executebuiltin("XBMC.Container.Update(%s?mode=14,replace)" %sys.argv[0])
             elif 'community-links' in url:
                 xbmc.executebuiltin("XBMC.Container.Update(%s?mode=10,replace)" %sys.argv[0])
         else: addon.openSettings()
-
 
 def rmSource(name):
         sources = json.loads(open(source_file,"r").read())
