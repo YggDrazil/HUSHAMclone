@@ -1,31 +1,49 @@
 
-name="Link 1 - 0.8.2 Husham.com KODI 15 Fully Loaded Setup"
-url="http://bit.ly/1NhmdEh"
+name="Link 1 - 0.8.3a Husham.com KODI 15 Fully Loaded Setup"
+url="http://bit.ly/1KU4hOa"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
 
-name="Link 2 - 0.8.2 Husham.com KODI 15 Fully Loaded Setup"
+name="Link 2 - 0.8.3a Husham.com KODI 15 Fully Loaded Setup"
+url="http://bit.ly/husham083-a"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+description="Husham KODI 15 Fully Loaded Set-up"
+
+name="Link 3 - 0.8.3a Husham.com KODI 15 Fully Loaded Setup"
+url="http://bit.ly/husham083a-2"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+description="Husham KODI 15 Fully Loaded Set-up"
+
+name="Link 1 - 0.8.3b Husham.com KODI 15 Fully Loaded Setup"
+url="http://bit.ly/1g3tWaf"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+description="Husham English Small"
+
+name="Link 2 - 0.8.3b Husham.com KODI 15 Fully Loaded Setup"
+url="http://bit.ly/husham083b"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+description="Husham English Small"
+
+
+name="Link 3 - 0.8.3b Husham.com KODI 15 Fully Loaded Setup"
+url="http://bit.ly/husham083b-2"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+description="Husham English Small"
+
+name="Old - 0.8.2 Husham.com KODI 15 Fully Loaded Setup"
 url="http://bit.ly/husham082-2"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
 
-name="Link 3 - 0.8.2 Husham.com KODI 15 Fully Loaded Setup"
+name="old - 0.8.2 Husham.com KODI 15 Fully Loaded Setup"
 url="http://bit.ly/husham082"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-description="Husham KODI 15 Fully Loaded Set-up"
-
-
-name="OLD wizard - 0.8.1 Husham.com KODI 15 Fully Loaded Setup"
-url="http://bit.ly/husham081"
-img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-description="Husham KODI 15 Fully Loaded Set-up"
-
-name="Old Wizard 0.8.0 Husham.com KODI 15 Fully Loaded Setup"
-url="http://bit.ly/husham080"
-img="http://kodi.tv/wp-content/uploads/kodi-splash-Isengard-alpha-600x336.png"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
