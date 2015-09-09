@@ -1,0 +1,4 @@
+[B]Version 1.0.0[/B]
+8 September 2015 - This is the first versions of my vevo youtube playlists addon
+
+
