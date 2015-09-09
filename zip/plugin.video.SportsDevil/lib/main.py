@@ -412,6 +412,7 @@ class Main:
 
         if m_type == 'video':
             liz.setProperty('IsPlayable','true')
+            #liz.setMimeType('text')
 
         return liz
 

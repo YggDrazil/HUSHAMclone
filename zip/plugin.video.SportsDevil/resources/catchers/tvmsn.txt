@@ -5,7 +5,7 @@ item_info_build=%s
 
 item_info_name=pageUrl
 item_info_from=@PARAM1@
-item_info_build=%s
+item_info_build=http://www.tv-msn.com/%s
 
 item_info_name=part1
 item_info_from=pageUrl
@@ -42,7 +42,5 @@ item_info_convert=replace('%s','\','')
 item_info_build=%s
 
 item_info_name=url
-item_info_from=rtmp+' swfUrl=http://www.tv-msn.com/player/player.swf flashver=WIN\2018,0,0,232 token=eddII72edll97757 live=1 timeout=15 pageUrl=' + pageUrl
+item_info_from=rtmp+' swfUrl=http://www.tv-msn.com/player/player.swf flashver=WIN\2018,0,0,232 token=rua2casa199maria live=1 timeout=15 pageUrl=' + pageUrl
 item_info_build=%s
-
-#token changes every week eddll72edII97757 <--> eddII72edll97757

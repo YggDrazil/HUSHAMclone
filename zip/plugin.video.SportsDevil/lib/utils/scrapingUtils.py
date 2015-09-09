@@ -151,7 +151,7 @@ def findContentRefreshLink(data):
     if links:
         return links[0]
     
-    regex = '<center><a\s*href=[\'"]([^\'"]+)[\'"]\s*target="_blank"><img'
+    regex = 'href=[\'"]([^\'"]+)[\'"]\s*target="_blank"><img class="alignnone"'
     links = regexUtils.findall(data, regex)
     if links:
         return links[0]

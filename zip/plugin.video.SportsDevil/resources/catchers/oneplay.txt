@@ -15,14 +15,16 @@ item_info_build=%s
 
 item_info_name=cTxt
 item_info_from=pageUrl
-item_info_convert=getInfo('%s','.*var\s*[_\w]+\s*=\s*\[.*?["]([^"]{100,10000})["]','@REFERER@')
+item_info_convert=getInfo('%s','.*?[\W]["']([^"']{2000,10000})["']','@REFERER@')
 item_info_convert=unicode_escape
+item_info_convert=debug
 item_info_build=%s
 
 item_info_name=key
 item_info_from=pageUrl
-item_info_convert=getInfo('%s','.*var\s*[_\w]+\s*=\s*\[.*?["]([^"]{40})["]','@REFERER@')
+item_info_convert=getInfo('%s','.*?[\W]["']([^"']{40})["']','@REFERER@')
 item_info_convert=unicode_escape
+item_info_convert=debug
 item_info_build=%s
 
 item_info_name=page
@@ -33,6 +35,7 @@ item_info_build=%s
 item_info_name=token
 item_info_from=page
 item_info_convert=parseText('%s','.*name="token"\s*value="([^"]+)"')
+item_info_convert=debug
 item_info_build=%s
 
 item_info_name=postData
@@ -43,13 +46,11 @@ item_info_name=embedPage
 item_info_from=http://oneplay.tv/embed/chp|' + postData
 item_info_build=%s
 
+item_info_name=cd
+item_info_build=http://oneplay.tv/crossdomain.xml
+
 item_info_name=page2
 item_info_from=http://oneplay.tv/embed/?i='+id+'&n='+title+'&w=100%25&h=480&token='+token
-item_info_build=%s
-
-item_info_name=cookie
-item_info_from=embedPage
-item_info_convert=getCookies(OPSESSID)
 item_info_build=%s
 
 item_info_name=k1
@@ -68,6 +69,16 @@ item_info_from=http://oneplay.tv/embed/embed.php?s='+m3u8
 item_info_convert=getInfo('%s','.*var\s*[_\w]+\s*=\s*\[.*?["]([^"]{40})["]','@page2@')
 item_info_build=%s
 
+item_info_name=k3
+item_info_from=cd
+item_info_convert=getInfo('%s','.*var\s*[_\w]+\s*=\s*\[.*?["]([^"]{40})["]','http://p.jwpcdn.com/6/12/jwplayer.flash.swf')
+item_info_build=%s
+
+item_info_name=cookie
+item_info_from=embedPage
+item_info_convert=getCookies(OPSESSID)
+item_info_build=%s
+
 item_info_name=url
-item_info_from=m3u8+'|Referer=http://p.jwpcdn.com/6/12/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36&Cookie=OPSESSID='+cookie
+item_info_from=m3u8+'|Referer=http://p.jwpcdn.com/6/12/jwplayer.flash.swf&User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36&Cookie=OPSESSID='+cookie
 item_info_build=%s
