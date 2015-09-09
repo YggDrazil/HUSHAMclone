@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.adryanlist"
        name="AdryanList"
-       version="1.1.0"
+       version="1.8.5"
        provider-name="Doc Shadrach">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -21,8 +21,8 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>based on livestreamspro 1.7.0 by Shani</summary>
-    <description>Lista de canales de Adryan</description>
+    <summary>based on livestreamspro 1.8.5 by Shani</summary>
+    <description>Lista de canales de Adryan.</description>
     <platform>all</platform>
   </extension>
 </addon>

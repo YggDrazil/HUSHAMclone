@@ -1800,10 +1800,12 @@ class vidzi:
             result = getUrl(url, mobile=True).result
             result = result.replace('\n','')
             result = re.compile('sources *: *\[.+?\]').findall(result)[-1]
+            result = re.compile('file *: *"(http.+?)"').findall(result)
 
-            url = re.compile('file *: *"(http.+?)"').findall(result)
-            url = [i for i in url if not '.m3u8' in i][-1]
-            return url
+            url = [i for i in result if '.m3u8' in i]
+            if len(url) > 0: return url[0]
+            url = [i for i in result if not '.m3u8' in i]
+            if len(url) > 0: return url[0]
         except:
             return
 
