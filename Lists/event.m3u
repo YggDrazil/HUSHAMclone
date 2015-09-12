@@ -3,148 +3,15 @@
 #EXTINF:-1, [COLOR yellow]Events Links will be added here only [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
 #EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
-#EXTINF:-1, [COLOR yellow]Please donate to husham.com for more content[/COLOR]
 http://www.youtube.com/user/hmemar22
 
 
+#EXTINF:-1,Boxnation
+rtmp://89.248.169.50:1935/live playpath=box swfUrl=http://www.yocast.tv/myplayer/jwplayer.flashse.swf pageUrl=http://www.yocast.tv/embed.php?live=ss1
+
+#EXTINF:-1,LINK 1 (Plexus Addon)
+plugin://program.plexus/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+SKY SPORTS 1
+
 #EXTINF:-1,Link1 (P2P)
-plugin://plugin.video.p2p-streams/?url=acestream://8c0abceedf2360d64980aa34850fc681d2a5ddcc&mode=1&name=acestream+Link1 (P2P)
+plugin://plugin.video.p2p-streams/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+Link1 (P2P)
 
-
-#EXTINF:-1,Link2 (P2P)
-plugin://plugin.video.p2p-streams/?url=acestream://6e5016bc0258b062c0610e658615369feb8000a5&mode=1&name=acestream+Link2 (P2P)
-
-#EXTINF:-1,05/09/2015 UK Times Sprts Events
-#
-
-#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 14 - Vitoria - Alto Campoo. Fuente del Chivo ",eurosport uk
-http://www.nasatv.eu:80/live?channelId=42&uid=18&deviceUser=dm800&devicePass=dm800
-#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 14 - Vitoria - Alto Campoo. Fuente del Chivo ",eurosport de
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 16.00 cycling VUELTA A ESPANA - etapa 14 - Vitoria - Alto Campoo. Fuente del Chivo ",tve1 es
-http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
-
-#EXTINF:-1 group-title=" 17.00-4.00 tennis US OPEN 3rd round ",eurosport de
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/eurosportde_1@97452/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 17.00-4.00 tennis US OPEN 3rd round ",eurosport uk
-http://www.nasatv.eu:80/live?channelId=42&uid=18&deviceUser=dm800&devicePass=dm800
-#EXTINF:-1 group-title=" 17.00-4.00 tennis US OPEN 3rd round ",eurosport 2 uk
-http://www.nasatv.eu:80/live?channelId=43&uid=18&deviceUser=dm800&devicePass=dm800
-
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual UKRAINE - BELARUS ",digi sport 3 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual UKRAINE - BELARUS ",sportklub 2 sr
-http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=dm800&devicePass=dm800
-
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual ESTONIA - LITHUANIA ",sport tv 3 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual SAN MARINO - ENGLAND ",sport 1 voetbal nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual SAN MARINO - ENGLAND ",sport 1 voetbal HD nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual SAN MARINO - ENGLAND ",digi sport 2 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual SAN MARINO - ENGLAND ",itv 1 uk
-http://www.nasatv.eu:80/live?channelId=132&uid=7&deviceUser=dm800&devicePass=dm800
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual SAN MARINO - ENGLAND ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual SAN MARINO - ENGLAND ",supersport 2 al
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual SAN MARINO - ENGLAND ",sportklub 3 sr
-http://www.nasatv.eu:80/live?channelId=101&uid=18&deviceUser=dm800&devicePass=dm800
-
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual RUSSIA - SWEDEN ",idman tv Az_opz 2
-http://bak01-edge03.itdc.ge/idman/index.m3u8?token=RmJ773HrhrbFVliIfgWYyufCKfQGCkfg8GzuwyEhdy71-Q6lR0URbKRGIcmc-aSojPP43Cdru03IaC_S5e2YzA**
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual RUSSIA - SWEDEN ",haberturk tr
-http://strm-i.glb.pr.medianova.tv:1935/haberturk/haberturk2/playlist.m3u8
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual RUSSIA - SWEDEN ",digi sport 1 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132679
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual RUSSIA - SWEDEN ",sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual RUSSIA - SWEDEN ",orf 1 at
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual RUSSIA - SWEDEN ",supersport 3 al
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1 group-title=" 18.00 eur.2016.qual RUSSIA - SWEDEN ",sportklub 1 sr
-http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=dm800&devicePass=dm800
-
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SPAIN - SLOVAKIA ",sport 1 voetbal nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(696000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SPAIN - SLOVAKIA ",sport 1 voetbal HD nl
-http://ziggo.cdn.sport1.triple-it.nl/sport1voetbalhd.isml/QualityLevels(2896000)/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SPAIN - SLOVAKIA ",idman tv Az_opz 2
-http://bak01-edge03.itdc.ge/idman/index.m3u8?token=RmJ773HrhrbFVliIfgWYyufCKfQGCkfg8GzuwyEhdy71-Q6lR0URbKRGIcmc-aSojPP43Cdru03IaC_S5e2YzA**
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SPAIN - SLOVAKIA ",rtl nitro de
-http://212.79.96.134:8026
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SPAIN - SLOVAKIA ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SPAIN - SLOVAKIA ",digi sport 1 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132679
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SPAIN - SLOVAKIA ",supersport 2 al
-http://81.7.13.162/hls/ss2/index.m3u8
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SPAIN - SLOVAKIA ",tve1 es
-http://hlslive.rtve.es/LA1_LV3_IPH/master.m3u8
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SPAIN - SLOVAKIA ",sportklub 1 sr
-http://www.nasatv.eu:80/live?channelId=87&uid=18&deviceUser=dm800&devicePass=dm800
-
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual MONTENEGRO - LIECHTENSTEIN ",digi sport 3 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132686
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual MONTENEGRO - LIECHTENSTEIN ",rtcg montenegro
-http://edge1.volim.tv/live/rtcg.stream/playlist.m3u8?hash=41f1c9080b62848336609fcc1aab1f744723af0e
-
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual AUSTRIA - MOLDOVA ",orf 1 at
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/orf1_1@97573/index_1300_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual AUSTRIA - MOLDOVA ",sport tv 3 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SWITZERLAND - SLOVENIA ",rsi la 2 ch
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/rsila2_1@97473/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SWITZERLAND - SLOVENIA ",rts2 ch
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/rts2_1@97470/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SWITZERLAND - SLOVENIA ",srf 2 ch
-http://streaming-hub.com/ss/kjhkdsqfksdqfhoisdxco/i/sf2_1@97475/index_1300_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SWITZERLAND - SLOVENIA ",digi sport 2 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132685
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SWITZERLAND - SLOVENIA ",sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SWITZERLAND - SLOVENIA ",ictimai tv Az
-http://bak01-edge03.itdc.ge/ictimai/index.m3u8?token=mk8CRfDflPluw8PPSBcG0ngP6FXfU0b7Lmy4OmQFkH2OfJVVhM-LifoJyCym2ru1tZpodnleth8K1YSg9yOVSQ**
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SWITZERLAND - SLOVENIA ",supersport 3 al
-http://81.7.13.162/hls/ss3/index.m3u8
-#EXTINF:-1 group-title=" 20.45 eur.2016.qual SWITZERLAND - SLOVENIA ",sportklub 2 sr
-http://www.nasatv.eu:80/live?channelId=88&uid=18&deviceUser=dm800&devicePass=dm800
-
-#EXTINF:-1 group-title=" 21.45 arg ROSARIO CENTRAL - ARSENAL SARANDI ",tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 21.45 arg ROSARIO CENTRAL - ARSENAL SARANDI ",tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 21.45 arg ROSARIO CENTRAL - ARSENAL SARANDI ",tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
-
-#EXTINF:-1 group-title=" 22.00 friendly BRASIL - COSTARICA ",gazzetta tv it (geo)
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/master.m3u8
-#EXTINF:-1 group-title=" 22.00 friendly BRASIL - COSTARICA ",gazzetta tv it_opz 2 (geo)
-http://rcsgazzettatv59-lh.akamaihd.net/i/gazzettaTV59Univ_1@127684/index_700_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 group-title=" 22.00 friendly BRASIL - COSTARICA ",arena sport 3 sr
-http://www.nasatv.eu:80/live?channelId=18&uid=18&deviceUser=dm800&devicePass=dm800
-
-#EXTINF:-1 group-title=" 23.00 friendly CHILE - PARAGUAY ",sport tv 3 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/
-
-#EXTINF:-1 group-title=" 0.00 arg DEFENSA Y JUSTICIA - NEWELLS OLD BOYS ",sport tv 2 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 0.00 arg DEFENSA Y JUSTICIA - NEWELLS OLD BOYS ",tv publica ar
-rtmp://live-edge01.telecentro.net.ar:1935/live/tvphd-180
-#EXTINF:-1 group-title=" 0.00 arg DEFENSA Y JUSTICIA - NEWELLS OLD BOYS ",tv publica ar_opz 2
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-360/playlist.m3u8?
-#EXTINF:-1 group-title=" 0.00 arg DEFENSA Y JUSTICIA - NEWELLS OLD BOYS ",tv publica ar_opz 3
-http://live-edge01.telecentro.net.ar:1935/live/tvphd-720/playlist.m3u8?
-
-#EXTINF:-1 group-title=" 0.30 bra SAO PAULO - INTERNACIONAL ",sport tv 1 pt
-rtmp://$OPT:rtmp-raw=rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/
-#EXTINF:-1 group-title=" 0.30 bra SAO PAULO - INTERNACIONAL ",digi sport 1 ro
-rtmp://rtmp.deltatv.pw:1935/liverepeater/_definst_/132679
-#EXTINF:-1 group-title=" 0.30 bra SAO PAULO - INTERNACIONAL ",arena sport 1 sr
-http://www.nasatv.eu:80/live?channelId=16&uid=18&deviceUser=dm800&devicePass=dm800
