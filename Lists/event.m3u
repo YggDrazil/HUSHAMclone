@@ -9,9 +9,17 @@ http://www.youtube.com/user/hmemar22
 #EXTINF:-1,Boxnation
 rtmp://89.248.169.50:1935/live playpath=box swfUrl=http://www.yocast.tv/myplayer/jwplayer.flashse.swf pageUrl=http://www.yocast.tv/embed.php?live=ss1
 
+
 #EXTINF:-1,LINK 1 (Plexus Addon)
-plugin://program.plexus/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+SKY SPORTS 1
+plugin://program.plexus/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+LINK 1 (Plexus Addon)
 
 #EXTINF:-1,Link1 (P2P)
 plugin://plugin.video.p2p-streams/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+Link1 (P2P)
+
+
+#EXTINF:-1,Link2 (Plexus Addon)
+plugin://program.plexus/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+Link2 (Plexus Addon)
+
+#EXTINF:-1,Link2 (P2P)
+plugin://plugin.video.p2p-streams/?url=acestream://7dcf3c8daaad0efbef55af2d74d52a5f8f65783c&mode=1&name=acestream+Link2 (P2P)
 
