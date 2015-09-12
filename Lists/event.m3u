@@ -6,10 +6,13 @@ plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
 http://www.youtube.com/user/hmemar22
 
 
-#EXTINF:-1,Boxnation Link 1
+#EXTINF:-1,box Link 1
 http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8
 
 #EXTINF:-1,box Link 2
+http://80.82.78.165:1935/live/box/live.m3u8
+
+#EXTINF:-1,box Link 3
 http://lihattv.wha.la/jhos/fight/-/playlist.m3u8
 
 #EXTINF:-1,Boxnation ( Link died ) 
