@@ -7,10 +7,10 @@ http://www.youtube.com/user/hmemar22
 
 
 #EXTINF:-1,box Link 2
-rtmp://185.82.215.8:3579/vod/ playpath=live8?e=1442101072&st=Rkd2gCxyEoyANIDQHpOSsQ256592  swfUrl=http://simplestreams.us/flowplayer-3.2.16.swf  pageUrl=http://simplestreams.us/ho4.php?channel=live8&crn=654064715.0948644
+http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8
 
 #EXTINF:-1,box Link 3
-http://llnw.live.simplestream.com/coder1/coder.channels.channel5/hls/3/playlist.m3u8
+rtmp://185.82.215.8:3579/vod/ playpath=live8?e=1442101072&st=Rkd2gCxyEoyANIDQHpOSsQ256592  swfUrl=http://simplestreams.us/flowplayer-3.2.16.swf  pageUrl=http://simplestreams.us/ho4.php?channel=live8&crn=654064715.0948644
 
 #EXTINF:-1,box Link 4
 rtmp://80.82.78.13:19350/live/ playpath=last1  swfUrl=http://www.aadvertismentt.com/player.swf  pageUrl=http://www.newsko.co.uk/embed2.php?channel=last1&vw=650&vh=500&domain=www.dabstrap.comrtmp://80.82.78.13:19350/live/ playpath=last1  swfUrl=http://www.aadvertismentt.com/player.swf  pageUrl=http://www.newsko.co.uk/embed2.php?channel=last1&vw=650&vh=500&domain=www.dabstrap.comrtmp://80.82.78.13:19350/live/ playpath=last1  swfUrl=http://www.aadvertismentt.com/player.swf  pageUrl=http://www.newsko.co.uk/embed2.php?channel=last1&vw=650&vh=500&domain=www.dabstrap.com
