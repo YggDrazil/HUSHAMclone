@@ -6,9 +6,6 @@ plugin://plugin.video.youtube/?action=play_video&videoid=HdmqDLnW2uE
 http://www.youtube.com/user/hmemar22
 
 
-#EXTINF:-1,PPV Link 1
-http://185.63.255.169:1935/liveedge/ibrodtv1_jqvwzgo3/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMy8yMDE1IDEyOjA5OjU0IEFNJmhhc2hfdmFsdWU9L2FZN3AxSSt5aTE1eE0zMEpVWGgrZz09JnZhbGlkbWludXRlcz01
-
 #EXTINF:-1,box Link 2
 rtmp://185.82.215.8:3579/vod/ playpath=live8?e=1442101072&st=Rkd2gCxyEoyANIDQHpOSsQ256592  swfUrl=http://simplestreams.us/flowplayer-3.2.16.swf  pageUrl=http://simplestreams.us/ho4.php?channel=live8&crn=654064715.0948644
 
