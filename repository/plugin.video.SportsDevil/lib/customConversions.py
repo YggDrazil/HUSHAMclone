@@ -177,12 +177,8 @@ def getInfo(item, params, src, xml=False, mobile=False):
 
 
 def decodeBase64(src):
-    src = src.strip('.js').replace('%3D','=')
-    try:
-        return src.decode('base-64').replace('qo','')
-    except:
-        return src
-
+    from base64 import b64decode
+    return b64decode(src)
 
 def decodeRawUnicode(src):
     try:

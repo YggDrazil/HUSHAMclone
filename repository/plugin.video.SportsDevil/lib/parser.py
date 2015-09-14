@@ -637,6 +637,9 @@ class Parser(object):
 
             elif command == 'gAesDec':
                 src = crypt.gAesDec(src,item.infos[params])
+            
+            elif command == 'aesDec':
+                src = crypt.aesDec(src,item.infos[params])
                 
             elif command == 'getCookies':
                 src = cc.getCookies(params, src)

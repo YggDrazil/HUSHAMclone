@@ -86,11 +86,11 @@ class BaseRequest(object):
             headers['X-Requested-With'] = 'XMLHttpRequest'
         
         if form_data:
-            r = self.s.post(url, headers=headers, data=form_data, timeout=8)
+            r = self.s.post(url, headers=headers, data=form_data, timeout=20)
             response  = r.text
         else:
             try:
-                r = self.s.get(url, headers=headers, timeout=8)
+                r = self.s.get(url, headers=headers, timeout=20)
                 response  = r.text
             except (requests.exceptions.MissingSchema):
                 response  = 'pass'
