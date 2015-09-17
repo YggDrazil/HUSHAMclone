@@ -1,6 +1,6 @@
 
 name="Link 1 - 0.8.3a Husham.com KODI 15 Fully Loaded Setup"
-url="http://bit.ly/1godAsU"
+url="http://bit.ly/1OxffKB"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
@@ -18,7 +18,7 @@ fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham
 description="Husham KODI 15 Fully Loaded Set-up"
 
 name="Link 1 - 0.8.3b Husham.com KODI 15 Fully Loaded Setup"
-url="http://bit.ly/1idlhmT"
+url="http://bit.ly/1F3m3hl"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 description="Husham English Small"
