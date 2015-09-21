@@ -530,7 +530,7 @@ http://www.husham.com</summary>
 
 <addon
   id="plugin.video.SportsDevil"
-  version="2015-09-21"
+  version="2015-09-21c"
   name="SportsDevil"
   provider-name="MaxMustermann">
   <requires>
