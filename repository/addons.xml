@@ -530,9 +530,9 @@ http://www.husham.com</summary>
 
 <addon
   id="plugin.video.SportsDevil"
-  version="2015.09.16.0"
+  version="2015-09-21"
   name="SportsDevil"
-  provider-name="MaxMustermann,Al101,Hubbab3,Sattekop">
+  provider-name="MaxMustermann">
   <requires>
    <import addon="xbmc.python" version="2.14.0"/>
    <import addon="script.module.requests" />
@@ -578,21 +578,6 @@ http://www.husham.com</summary>
     <description lang="en">Thanks to Husham for helping me with this addon</description>
     <platform>all</platform>
   </extension>
-</addon>
-
-<addon id="plugin.video.SuperStreams" name="SuperStreams" version="3.1.0" provider-name="SuperStreams">
-<requires>
-    <import addon="xbmc.python" version="2.1.0" />
-</requires>
-<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-	<extension  point="xbmc.addon.metadata">
-		<summary lang="nl">SuperStreams voor XBMC / KODI!</summary>
-		<description lang="nl">Met deze addon is het mogelijk om Internet streams te bekijken in XBMC / KODI.</description>
-		<platform>all</platform>
-		<website>www.superstreams.tv</website>
-	</extension>
 </addon>
 
 <addon id="plugin.video.yifymovies.hd" name="Yify Movies HD" version="1.6.5" provider-name="lambda">
