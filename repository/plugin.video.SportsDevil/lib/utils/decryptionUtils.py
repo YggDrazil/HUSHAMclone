@@ -57,7 +57,8 @@ def ntos(n):
     return urllib.unquote(n)
 
 def doDemystify(data):
-
+    escape_again=False
+    
     #init jsFunctions and jsUnpacker
     jsF = JsFunctions()
     jsU = JsUnpacker()
@@ -93,7 +94,21 @@ def doDemystify(data):
         for g in r.findall(data):
             quoted=g
             data = data.replace(quoted, quoted.decode('unicode-escape'))
+            
+    r = re.compile('(eval\(decodeURIComponent\(atob\([\'"][^\'"]+[\'"]\)\)\);)')
+    while r.findall(data):
+        for g in r.findall(data):
+            r2 = re.compile('eval\(decodeURIComponent\(atob\([\'"]([^\'"]+)[\'"]\)\)\);')
+            for base64_data in r2.findall(g):
+                data = data.replace(g, urllib.unquote(base64_data.decode('base-64')))
        
+    r = re.compile('(base\([\'"]*[^\'"\)]+[\'"]*\))')
+    while r.findall(data):
+        for g in r.findall(data):
+            r2 = re.compile('base\([\'"]*([^\'"\)]+)[\'"]*\)')
+            for base64_data in r2.findall(g):
+                data = data.replace(g, urllib.unquote(base64_data.decode('base-64')))
+                escape_again=True
 
     # n98c4d2c
     if 'function n98c4d2c(' in data:
@@ -160,7 +175,7 @@ def doDemystify(data):
     if jsU.containsPacked(data):
         data = jsU.unpackAll(data)
         
-    escape_again=False
+    
     #if still exists then apply v2
     if jsUV2.containsPacked(data):
         data = jsUV2.unpackAll(data)

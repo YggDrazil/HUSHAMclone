@@ -4,11 +4,11 @@ item_info_build=CastAlba - %s
 
 item_info_name=pageUrl
 item_info_from=@PARAM1@
-item_info_build=http://castalba.tv/embed.php?cid=%s&wh=640&ht=385&r=lsh.lshunter.tv
+item_info_build=http://castalba.tv/embed.php?cid=%s&wh=600&ht=380
 
 item_info_name=tmp
 item_info_from=pageUrl
-item_info_convert=getInfo('%s','.*?['"]flashplayer['"][:,]\s*['"]([^'"]+)['"].*?['"]file['"][:,]\s.*['"]([^'"]+)['"].*?['"]streamer['"][:,]\s.*?['"]([^'"]+)['"].*','@REFERER@','swf|file|rtmp')
+item_info_convert=getInfo('%s','.*?['"]flashplayer['"][:,]\s*['"]([^'"]+)['"].*?['"]file['"][:,]\s*(?:unescape\()?['"]([^'"]+)['"].*?['"]streamer['"][:,]\s*(?:unescape\()?['"]([^'"]+)['"].*','@REFERER@','swf|file|rtmp')
 item_info_build=%s
 
 item_info_name=url
