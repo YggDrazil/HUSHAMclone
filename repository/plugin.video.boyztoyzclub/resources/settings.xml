@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="Boyz Toyz Club">
+		<setting id="btusername" type="text" label="Boyz Toyz Club Username" default="" visible="true"/>
+		<setting id="btpassword" type="text" label="Boyz Toyz Club Password" default="" visible="true"/>
+		<setting label="Visit http://www.boyztoyz.club/ to signup" type="lsep" />
+	</category>
+</settings>
