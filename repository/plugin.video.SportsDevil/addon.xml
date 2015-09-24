@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
   id="plugin.video.SportsDevil"
-  version="2015-09-21c"
+  version="2015-09-24-c"
   name="SportsDevil"
   provider-name="MaxMustermann">
   <requires>
@@ -15,7 +15,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary>Play videos of different sports streaming sites</summary>
-    <description>Play videos of different sports streaming sites</description>
+    <description>Play videos of different sports streaming sites - fixed catcher with this version</description>
     <platform>all</platform>
   </extension>
 </addon>

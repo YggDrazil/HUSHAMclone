@@ -11,9 +11,9 @@ item_info_build=%s
 
 item_info_name=tmp
 item_info_from=p1+p2
-item_info_convert=getInfo('%s','.*?SWFObject\('([^']+)'.*?['"]file['"][:,]\s*(?:unescape\()?['"]([^'"]+)['"].*?['"]streamer['"][:,]\s*(?:unescape\()?['"]([^'"]+)['"].*','@REFERER@','swf|file|rtmp')
+item_info_convert=getInfo('%s','.*?SWFObject\('([^']+)'.*?['"]file['"][:,]\s*(?:unescape\()?['"]([^'"]+)['"].*?(?:unescape\()?['"](?:\?)?['"].*?(?:unescape\()?['"]([^'"]+)['"].*?['"]streamer['"][:,]\s*(?:unescape\()?['"]([^'"]+)['"].*','@REFERER@','swf|file1|file2|rtmp')
 item_info_build=%s
 
 item_info_name=url
-item_info_from=rtmp + ' playpath=' + file + ' swfVfy=1 flashver=WIN\2018,0,0,232 timeout=15 swfUrl=' + swf + ' live=true pageUrl=' + p1+p2
+item_info_from=rtmp + ' playpath=' + file1 + '?' + file2 + ' swfVfy=1 flashver=WIN\2018,0,0,232 timeout=15 swfUrl=' + swf + ' live=true pageUrl=' + p1+p2
 item_info_build=%s
