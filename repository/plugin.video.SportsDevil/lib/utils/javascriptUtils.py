@@ -329,19 +329,19 @@ class JsUnwiser2:
     def unwiseAll(self, data):
         try:
             in_data=data
-            sPattern = 'eval\\(function\\(f,u,c,k\\).*?}\\((.*?)\\)'
+            sPattern = 'eval\\(function\\(\w+,\w+,\w+,\w+\\).*?}\\((.*?)\\)'
             wise_data=re.compile(sPattern).findall(in_data)
             for wise_val in wise_data:
                 unpack_val=self.unwise(wise_val)
                 #print '\nunpack_val',unpack_val
                 in_data=in_data.replace(wise_val,unpack_val)
-            return re.sub("eval\(function\(f,u,c,k\).*?join\(''\);}", "", in_data, count=1, flags=re.DOTALL)
+            return re.sub("eval\(function\(\w+,\w+,\w+,\w+\).*?join\(''\);}", "", in_data, count=1, flags=re.DOTALL)
         except: 
             traceback.print_exc(file=sys.stdout)
             return data
         
     def containsWise(self, data):
-        return 'f,u,c,k' in data
+        return 'var lIll=0' in data
         
     def unwise(self, sJavascript):
         #print 'sJavascript',sJavascript
@@ -393,8 +393,8 @@ class JsUnwiser2:
             if (ll1I >= len(l1lI)):
                 ll1I = 0;
         ret=''.join(l1ll)
-        if 'eval(function(f,u,c,k)' in ret:
-            ret=re.compile('eval\(function\(f,u,c,k\).*}\((.*?)\)').findall(ret)[0] 
+        if 'var lIll=0' in ret:
+            ret=re.compile('eval\(function\(\w+,\w+,\w+,\w+\).*}\((.*?)\)').findall(ret)[0] 
             return self.unwise(ret)
         else:
             return ret

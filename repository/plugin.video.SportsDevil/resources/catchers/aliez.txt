@@ -4,7 +4,7 @@ item_info_build=Aliez - %s
 
 item_info_name=pageUrl
 item_info_from=@PARAM1@
-item_info_build=http://emb.aliez.com/player/live.php?id=%s&w=700&h=480
+item_info_build=http://emb.aliez.org/player/live.php?id=%s&w=700&h=480
 
 item_info_name=flashvars
 item_info_from=pageUrl
