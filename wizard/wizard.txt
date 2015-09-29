@@ -48,7 +48,7 @@ fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham
 description="Husham KODI 15 Fully Loaded Set-up"
 
 name="P2P AND PLEXUS FIX PLUS REPOS"
-url="http://bit.ly/1VhwC2b"
+url="http://bit.ly/p2ppluexhushamwizard"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 description="P2P AND PLEXUS FIX PLUS REPOS"
