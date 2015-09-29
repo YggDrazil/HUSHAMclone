@@ -1,5 +1,0 @@
-[
-{"url": "http://pastebin.com/raw.php?i=eqbbxygH", "name": "[COLOR yellow]The HIFI List[/COLOR]"},
-{"url": "http://pastebin.com/raw.php?i=eqbbxygH", "name": "HIFI MUSIC IPTV"},
-{"url": "http://pastebin.com/raw.php?i=97E9gvNG", "name": "HIFI ARABIC IPTV"},
-]
