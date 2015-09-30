@@ -54,7 +54,7 @@ STATIC_STREAMS = (
 	{
         'title': 'NEWS 12 NEW JERSEY',
         'logo': 'news12.jpg',
-        'stream_url': ('rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000 playpath=fs-ace3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-ace3010000000000 pageUrl=http://www.news12.com/player/flowplayer/.live_player.html?region=BK live=true swfVfy=true timeout=10'
+        'stream_url': ('rtmp://fs-b9e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000 playpath=fs-b9e3010000000000 swfUrl=http://newjersey.news12.com/js/libs/jwplayer/6.9/jwplayer.flash.swf app=vxedge/fs-b9e3010000000000 pageUrl=http://newjersey.news12.com/news/news-12-new-jersey-live-stream-1.3925819?qr=1 live=true swfVfy=true timeout=10'
                        ' live=true swfVfy=true timeout=10'),
     },
 	{
