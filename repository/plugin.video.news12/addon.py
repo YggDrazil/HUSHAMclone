@@ -63,6 +63,12 @@ STATIC_STREAMS = (
         'stream_url': ('rtmp://fs-bce3010000000000.id.cdn.cv.net/vxedge/fs-bce3010000000000 playpath=fs-bce3010000000000 swfUrl=http://westchester.news12.com/js/libs/jwplayer/6.9/jwplayer.flash.swf app=vxedge/fs-bce3010000000000 pageUrl=http://westchester.news12.com/news/news-12-westchester-live-stream-1.3924903?qr=1 live=true swfVfy=true timeout=10'
                        ' live=true swfVfy=true timeout=10'),
     },
+	{
+        'title': 'News 12 Brooklyn',
+        'logo': 'news12.jpg',
+        'stream_url': ('rtmp://fs-ace3010000000000.id.cdn.cv.net/vxedge/fs-ace3010000000000 playpath=fs-ace3010000000000 swfUrl=http://brooklyn.news12.com/js/libs/jwplayer/6.9/jwplayer.flash.swf app=vxedge/fs-ace3010000000000 pageUrl=http://brooklyn.news12.com/news/news-12-brooklyn-live-stream-1.3925389?qr=1 live=true swfVfy=true timeout=10'
+                       ' live=true swfVfy=true timeout=10'),
+    },
 )
 
 
