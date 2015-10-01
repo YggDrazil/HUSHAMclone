@@ -10,18 +10,6 @@ img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
 
-name="Link 1 - Repos Only"
-url="http://bit.ly/1Rgbbhp"
-img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-description="Repos Only"
-
-name="Link 2 - Repos Only"
-url="http://bit.ly/hushamreposonlysep2015"
-img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-description="Repos Only"
-
 name="P2P AND PLEXUS FIX PLUS REPOS"
 url="http://bit.ly/p2ppluexhushamwizard"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
