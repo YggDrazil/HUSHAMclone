@@ -1,20 +1,15 @@
 name="Link 1 - 0.8.4 Husham.com KODI 15 Fully Loaded Setup"
-url="http://bit.ly/hushamwizard084alink1"
-img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
-description="Husham KODI 15 Fully Loaded Set-up"
-
-name="Link 2 - 0.8.4 Husham.com KODI 15 Fully Loaded Setup"
 url="http://bit.ly/1KMKwq1"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
 
-name="Link 3 - 0.8.4 Husham.com KODI 15 Fully Loaded Setup"
+name="Link 2 - 0.8.4 Husham.com KODI 15 Fully Loaded Setup"
 url="http://bit.ly/hushamwizard084a"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
+
 
 name="P2P AND PLEXUS FIX PLUS REPOS"
 url="http://bit.ly/1hf28QK Link 1"
