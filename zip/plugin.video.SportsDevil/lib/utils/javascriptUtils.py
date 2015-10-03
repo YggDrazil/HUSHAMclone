@@ -329,13 +329,13 @@ class JsUnwiser2:
     def unwiseAll(self, data):
         try:
             in_data=data
-            sPattern = 'eval\\(function\\(\w+,\w+,\w+,\w+\\).*?}\\((.*?)\\)'
+            sPattern = 'eval\\(function\\(\w+,\w+,\w+,\w+.*?}\\((.*?)\\)'
             wise_data=re.compile(sPattern).findall(in_data)
             for wise_val in wise_data:
                 unpack_val=self.unwise(wise_val)
                 #print '\nunpack_val',unpack_val
                 in_data=in_data.replace(wise_val,unpack_val)
-            return re.sub("eval\(function\(\w+,\w+,\w+,\w+\).*?join\(''\);}", "", in_data, count=1, flags=re.DOTALL)
+            return re.sub("eval\(function\(\w+,\w+,\w+,\w+.*?join\(''\);}", "", in_data, count=1, flags=re.DOTALL)
         except: 
             traceback.print_exc(file=sys.stdout)
             return data
@@ -394,7 +394,7 @@ class JsUnwiser2:
                 ll1I = 0;
         ret=''.join(l1ll)
         if 'var lIll=0' in ret:
-            ret=re.compile('eval\(function\(\w+,\w+,\w+,\w+\).*}\((.*?)\)').findall(ret)[0] 
+            ret=re.compile('eval\(function\(\w+,\w+,\w+,\w+.*}\((.*?)\)').findall(ret)[0] 
             return self.unwise(ret)
         else:
             return ret
