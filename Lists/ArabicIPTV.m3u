@@ -12,39 +12,38 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 http://www.youtube.com/user/hmemar22
 
 
-#EXTINF:-1,AR: Bein Sport 1 HD
-http://109.236.85.209/bein_sports_1_hd_ar.m3u8
-#EXTINF:-1,AR: Bein Sport 2 HD
-http://109.236.85.209/bein_sports_2_hd_ar.m3u8
-#EXTINF:-1,AR: Bein Sport 3 HD
-http://109.236.85.209/bein_sports_3_hd_ar.m3u8
-#EXTINF:-1,AR: Bein Sport 4 HD
-http://109.236.85.209/bein_sports_4_hd_ar.m3u8
-#EXTINF:-1,AR: Bein Sport 5 HD
-http://109.236.85.209/bein_sports_5_hd_ar.m3u8
-#EXTINF:-1,AR: Bein Sport 6 HD
-http://109.236.85.209/bein_sports_6_hd_ar.m3u8
-#EXTINF:-1,AR: Bein Sport 7 HD
-http://109.236.85.209/bein_sports_7_hd_ar.m3u8
-#EXTINF:-1,AR: Bein Sport 8 HD
-http://109.236.85.209/bein_sports_8_hd_ar.m3u8
-#EXTINF:-1,AR: Bein Sport 9 HD
-http://109.236.85.209/bein_sports_9_hd_ar.m3u8
-#EXTINF:-1,AR: Bein Sport 10 HD
-http://109.236.85.209/bein_sports_10_hd_ar.m3u8
-#EXTINF:-1,AR: Bein Sport 11 HD
-http://109.236.85.209/bein_sports_11_hd_ar.m3u8
-#EXTINF:0,AR: Bein Sport 12 HD
-http://109.236.85.209/bein_sports_12_hd_ar.m3u8
-#EXTINF:0,AR: Bein Sport 13 HD
-http://109.236.85.209/bein_sports_13_hd_ar.m3u8
-#EXTINF:0,AR: Bein Sport 14 HD
-http://109.236.85.209/bein_sports_14_hd_ar.m3u8
-#EXTINF:0,AR: Bein Sport 15 HD
-http://109.236.85.209/bein_sports_15_hd_ar.m3u8
-#EXTINF:0,AR: Bein Sport 16 HD
-http://109.236.85.209/bein_sports_16_hd_ar.m3u8
-
+#EXTINF:-1,beIN SPORTS 1 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=1
+#EXTINF:-1,beIN SPORTS 2 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=2
+#EXTINF:-1,beIN SPORTS 3 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=3
+#EXTINF:-1,beIN SPORTS 4 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=4
+#EXTINF:-1,beIN SPORTS 5 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=5
+#EXTINF:-1,beIN SPORTS 6 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=6
+#EXTINF:-1,beIN SPORTS 7 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=7
+#EXTINF:-1,beIN SPORTS 8 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=8
+#EXTINF:-1,beIN SPORTS 9 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=9
+#EXTINF:-1,beIN SPORTS 10 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=10
+#EXTINF:-1,beIN SPORTS 11 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=11
+#EXTINF:-1,beIN SPORTS 12 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=12
+#EXTINF:-1,beIN SPORTS 13 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=13
+#EXTINF:-1,beIN SPORTS 14 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=14
+#EXTINF:-1,beIN SPORTS 15 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=15
+#EXTINF:-1,beIN SPORTS 16 HD
+http://iptv.star7arab.com/free?token=775815969&id&id=16 
 
 #EXTINF:-1,Bein 1 AR
 rtmp://www1.iguide.to/iguide playpath=nujkqb82ht54f05 swfUrl=http://cdn.iguide.to/player/secure_player_iguide_embed_token.swf pageUrl=http://www.iguide.to/embedplayer_new.php?channel=31501&width=646&height=450&autoplay=true token=#ed%h0#w18623jsda6523IDGD
