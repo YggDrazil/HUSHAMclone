@@ -1,5 +1,5 @@
 name="Updated Link1 - 0.8.4 Husham.com KODI 15 Fully Loaded Setup"
-url="https://copy.com/aWS1mGlHL9j4ydgg/0.8.4.a.zip?download=1"
+url="https://volafile.io/get/tiSyPpFZOg_ka/0.8.4.a.zip"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 description="Husham KODI 15 Fully Loaded Set-up"
