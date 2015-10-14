@@ -35,7 +35,7 @@ class NoRedirection(urllib2.HTTPErrorProcessor):
        return response
    https_response = http_response
        
-CIBase = 'aHR0cDovL29wZXJhdGlvbnJvYm9jb3AuYXRzcGFjZS5ldS9saXN0cy94bWwvaG9tZS54bWw='.decode('base64')
+CIBase = 'aHR0cDovL29wZXJhdGlvbnJvYm9jb3AuYXRzcGFjZS50di9saXN0cy94bWwvaG9tZS54bWw='.decode('base64')
 
 addon = xbmcaddon.Addon('plugin.video.OperationRobocopUltimate')
 addon_version = addon.getAddonInfo('version')

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.OperationRobocopUltimate"
        name="Operation Robocop Ultimate"
-       version="1.9.666"
+       version="1.9.667"
        provider-name="OperationRobocop Dev Team">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
