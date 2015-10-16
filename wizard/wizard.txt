@@ -12,7 +12,7 @@ description="Husham KODI 15 Fully Loaded Set-up"
 
 
 name="P2P AND PLEXUS FIX PLUS REPOS Link 1"
-url="http://bit.ly/1jZzOUz"
+url="http://bit.ly/1LxlYTP"
 img="http://i.ytimg.com/vi/98kXr_GxNqo/hqdefault.jpg"
 fanart="http://i.ytimg.com/vi/98kXr_GxNqo/hqdefault.jpg"
 description="P2P AND PLEXUS FIX PLUS REPOS"
