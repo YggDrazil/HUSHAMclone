@@ -64,7 +64,7 @@
 
 <addon id="plugin.video.bassleaks"
        name="bassleaks"
-       version="1.0.04"
+       version="1.0.05"
        provider-name="Bass Controller">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
