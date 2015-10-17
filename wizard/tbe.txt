@@ -1,0 +1,5 @@
+name="INSTALL SIMPLY-TB EVER"
+url="https://archive.org/download/AKZ_TBE/SIMPLYEVER.zip"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/tbe/TBELOGO.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/tbe.TBEFANART.jpg"
+description="SIMPLY-TB EVER WIZARD"
