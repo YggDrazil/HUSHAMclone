@@ -1,5 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+<addon id="plugin.program.simplytbe" name="SIMPLY-TB EVER WIZARD" version="1.0" provider-name="simplyTB ever & husham.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="simplytbe.py">
+        <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">SIMPLY-TB EVER WIZARD - Simply The Best Wizard</summary>
+    <description lang="en">SIMPLY-TB EVER WIZARD</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.program.spinztv" name="SpinzTv Wizard" version="1.0" provider-name="SpinzTv">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
