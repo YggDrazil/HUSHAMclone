@@ -1,3 +1,9 @@
+[B]Version 1.7[/B]
+- Changed hosts
+
+[B]Version 1.5[/B]
+- Changed hosts again - thanks to mtlfreetv.com
+
 [B]Version 1.4[/B]
 - Changed hosts
 
