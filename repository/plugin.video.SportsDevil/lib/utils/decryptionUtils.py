@@ -32,6 +32,27 @@ def aesDec(data, key):
     padding_len = ord(padded_plaintext[-1])
     return padded_plaintext[:-padding_len]
 
+def wdecode(data):
+    from itertools import chain
+    
+    in_data = re.split('\W+',data)
+    pos = in_data.index(max(in_data,key=len))
+    codec = "".join(chain(*zip(in_data[pos][:5], in_data[pos+1][:5], in_data[pos+2][:5])))
+    data = "".join(chain(*zip(in_data[pos][5:], in_data[pos+1][5:], in_data[pos+2][5:])))
+    
+    ring = 0
+    res = []
+    for i in xrange(0,len(data),2):
+        modifier = -1
+        if (ord(codec[ring]) % 2):
+            modifier = 1
+        res.append( chr( int(data[i:i+2],36) - modifier ) )
+        
+        ring = ring + 1
+        if ring >= len(codec):
+            ring = 0
+    return ''.join(res)
+
 def encryptJimey(data):
     result = encryptDES_ECB(data,"PASSWORD").encode('base64').replace('/','').strip()
     return result
@@ -109,6 +130,15 @@ def doDemystify(data):
             for base64_data in r2.findall(g):
                 data = data.replace(g, urllib.unquote(base64_data.decode('base-64')))
                 escape_again=True
+    
+    r = re.compile('(eval\\(function\\(\w+,\w+,\w+,\w+.*?;}\\(.*?\\))', flags=re.DOTALL)
+    while r.findall(data):
+        for g in r.findall(data):
+            try:
+                data = data.replace(g, wdecode(g))
+            except:
+                data = data.replace(g, '')
+            escape_again=True
 
     # n98c4d2c
     if 'function n98c4d2c(' in data:
