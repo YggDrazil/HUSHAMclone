@@ -629,7 +629,7 @@ http://www.husham.com</summary>
 
 <addon
   id="plugin.video.SportsDevil"
-  version="2015-10-20"
+  version="2015-10-20-c"
   name="SportsDevil"
   provider-name="MaxMustermann">
   <requires>
