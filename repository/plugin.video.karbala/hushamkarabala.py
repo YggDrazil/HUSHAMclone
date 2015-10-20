@@ -34,7 +34,7 @@ class NoRedirection(urllib2.HTTPErrorProcessor):
        return response
    https_response = http_response
        
-HushamBase = 'https://raw.githubusercontent.com/hmemar/husham.comprivate/master/List/karbala.xml?token=AGn4Zznos8lKQXRvVQhP59vCFSPhwvp_ks5WL6F9wA%3D%3D'
+HushamBase = 'https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/karbala.xml'
 
 addon = xbmcaddon.Addon('plugin.video.HushamLists')
 addon_version = addon.getAddonInfo('version')
