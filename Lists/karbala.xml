@@ -29,14 +29,27 @@
 <link>rtsp://alforatmob.nanocdn.com:1935/live/alforat256</link>
 </item>
 
-
- 
 <item>
-<title>Al Baghdadia – قناة البغدادية الفضائية</title>
+<title>Alforat TV</title>
+<sportsdevil>http://www.tvspice.com/videogallery/alforat-tv/</sportsdevil>
+<referer>http://www.ultracast.me/</referer>
+</item>
+
+<item>
+<title>Al-Manar tv – تلفزيون قناة المنار لبنان</title>
+<sportsdevil>http://www.tvspice.com/videogallery/al-manar-tv-2/</sportsdevil>
+<referer>http://www.ultracast.me/</referer>
+</item>
+
+
+<item>
+<title>Alkawthar TV – قناة الكوثر الفضائية</title>
 <sportsdevil>http://www.tvspice.com/videogallery/al-baghdadia/</sportsdevil>
 <referer>http://www.ultracast.me/</referer>
 </item>
- 
+
+
+
 
 <item>
 <title></title>
