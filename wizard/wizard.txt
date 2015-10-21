@@ -5,6 +5,12 @@ fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/husham
 description="Husham KODI 15 Fully Loaded Set-up"
 
 name="Link 2 - 0.8.4 Husham.com KODI 15 Fully Loaded Setup"
+url="https://archive.org/download/0.8.4.a/0.8.4.a.zip"
+img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
+description="Husham KODI 15 Fully Loaded Set-up"
+
+name="Link 3 - 0.8.4 Husham.com KODI 15 Fully Loaded Setup"
 url="http://bit.ly/hushamwizard084a"
 img="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
 fanart="https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamme.jpg"
