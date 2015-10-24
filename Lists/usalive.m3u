@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 28/05/2015 @ 11:52 [/COLOR]  
+#EXTINF:-1, [COLOR yellow]Updated 24/10/2015 @ 10:50 [/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --USA Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
@@ -12,6 +12,10 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+
+
+#EXTINF:-1,OWN
+http://89.248.172.57:1935/edge/_definst_/uehgy5htiasffj3/playlist.m3u8?wowzasessionid=1419878658
 
 
 #EXTINF:-1,Fox Sports 1
@@ -165,10 +169,10 @@ http://212.70.155.243:40665/udp/237.100.0.173:4000
 #EXTINF:-1,Bliss
 http://212.70.155.243:40665/udp/237.100.0.174:4000
 #EXTINF:-1 tvg-logo="RussiaToday.png" group-title="News",  Russia Today (480)  
-http://odna.octoshape.net/f3f5m2v4/cds/ch1_480p/chunklist.m3u8?Vd?u#bt!25
+http://odna.octoshape.net/f3f5m2v4/cds/ch1_480p/chunklist.m3u8
  
 #EXTINF:-1 tvg-logo="RussiaToday.png" group-title="News",  Russia Today (720)
-http://odna.octoshape.net/f3f5m2v4/cds/ch1_720p/chunklist.m3u8?Vd?u#bt!25
+http://odna.octoshape.net/f3f5m2v4/cds/ch1_720p/chunklist.m3u8
 
 #EXTINF:-1, Al Jazeera (English).
 rtmp://aljazeeraflashlivefs.fplive.net:1935/aljazeeraflashlive-live?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=/aljazeera_eng_high?videoId=883816736001&lineUpId=&pubId=665003303001&playerId=751182905001&affiliateId=.flv live=1
