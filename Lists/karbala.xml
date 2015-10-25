@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
  <item>
- <title>Karbala</title>
+ <title>[COLOR red]Karbala[/COLOR]</title>
  <link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
  <regex>
  <name>get-m3u8final</name>
@@ -27,7 +27,7 @@
  
 
 <item>
-<title>[COLOR red]Alforattv[/COLOR]</title>
+<title>Alforattv</title>
 <link>rtsp://alforatmob.nanocdn.com:1935/live/alforat256</link>
 </item>
 
@@ -42,6 +42,18 @@
 <sportsdevil>http://www.tvspice.com/videogallery/al-manar-tv-2/</sportsdevil>
 <referer>http://www.ultracast.me/</referer>
 </item>
+
+<item>
+<title>[COLOR red]Ahalmuhajir الشيخ عبدالحميد المهاجر[/COLOR]</title>
+<sportsdevil>https://www.youtube.com/user/Ahalmuhajir</sportsdevil>
+<referer>http://www.ultracast.me/</referer>
+</item>
+
+<item>
+<title>[COLOR red]Ahalmuhajir الشيخ عبدالحميد المهاجر[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL_-DKA_MjvXyl6ybRydxzCiHh8idy6wmt&order=default</link>
+</item>
+
 
 
 # <item>
