@@ -50,14 +50,14 @@
 </item>
 
 <item>
-<title>[COLOR red]Ahalmuhajir الشيخ عبدالحميد المهاجر[/COLOR]</title>
-<link>plugin://plugin.video.youtube/play/?playlist_id=PL_-DKA_MjvXyl6ybRydxzCiHh8idy6wmt&order=default</link>
+<title>[COLOR red]Ahalmuhajir Videos الشيخ عبدالحميد المهاجر[/COLOR]</title>
+<link>plugin://plugin.video.youtube/user/Ahalmuhajir/</link>
 </item>
 
 
 
 # <item>
-# <title>Alkawthar TV – قناة الكوثر الفضائية</title>
+# <title>Al Baghdadia </title>
 # <sportsdevil>http://www.tvspice.com/videogallery/al-baghdadia/</sportsdevil>
 # <referer>http://www.ultracast.me/</referer>
 # </item>
