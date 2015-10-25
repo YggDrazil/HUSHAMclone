@@ -19,7 +19,7 @@
  <name>get-json</name>
  <expres>config = ({.*})</expres>
  <page>http://livestream.com/accounts/11436227/events/3998452</page>
- <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+  <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
  <cookieJar></cookieJar>
  </regex>
  </item>
@@ -44,11 +44,11 @@
 </item>
 
 
-<item>
-<title>Alkawthar TV – قناة الكوثر الفضائية</title>
-<sportsdevil>http://www.tvspice.com/videogallery/al-baghdadia/</sportsdevil>
-<referer>http://www.ultracast.me/</referer>
-</item>
+# <item>
+# <title>Alkawthar TV – قناة الكوثر الفضائية</title>
+# <sportsdevil>http://www.tvspice.com/videogallery/al-baghdadia/</sportsdevil>
+# <referer>http://www.ultracast.me/</referer>
+# </item>
 
 
 
