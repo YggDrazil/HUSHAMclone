@@ -1,0 +1,7 @@
+name="TeleDroid XSTREAM Wizard Fully Loaded Setup"
+url="https://archive.org/download/LEKENTERTAINMENT_GMAIL_Kodi/kodi.zip"
+img=""
+fanart=""
+description="TeleDroid XSTREAM Wizard KODI 15 Fully Loaded Set-up"
+
+
