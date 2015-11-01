@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1, [COLOR yellow]Updated 05/09/15 @ 13:30 [/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+http://www.youtube.com/user/hmemar22
 #EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
 http://www.youtube.com/user/hmemar22
-#EXTINF:-1, [COLOR green] --http://bit.ly/hushamallsports--[/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR green]http://bit.ly/hushamallsports[/COLOR]  
+http://www.youtube.com/user/hmemar22
 #EXTINF:-1, [COLOR green] --Free Collection of IPTV sports links--[/COLOR]  
 http://www.youtube.com/user/hmemar22
 #EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
@@ -144,12 +144,46 @@ http://46.61.226.18/hls/CH_BOETZ/bw1500000/variant.m3u8
 rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_800
 
 
+
+
+
 #EXTINF:-1, [COLOR green] --Sports Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
 http://www.youtube.com/user/hmemar22
 #EXTINF:-1, [COLOR red] --Check out the new forum.husham.com website--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+
+
+
+#EXTINF:-1,Fox Sport 1 Latino
+http://201.161.59.6/foxsports.isml/manifest(format=m3u8-aapl).m3u8 
+#EXTINF:-1,ESPN Latino
+http://201.161.59.3/espn.isml/manifest(format=m3u8-aapl).m3u8 
+
+
+#EXTINF:-1,Fox Sports 1[COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1,Fox sport 2[COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1,Fox sport 2[COLOR red]link_down[/COLOR]
+#
+#EXTINF:-1,ESPN 1 US HD 
+rtmp://46.246.29.157:1935/stream/ playpath=1Kq68GX6Kc.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf pageUrl=http://www.04stream.com/ebb.php?adsp=otherse&width=600&height=460
+#EXTINF:-1,ESPN 2 US
+rtmp://31.220.0.195:80/live/espnuu pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=espn22?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
+#EXTINF:-1,ESPN 3 - Not English
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?
+#EXTINF:-1,NBC US
+http://128.105.21.253:8080/udp/239.1.1.84:3084
+#EXTINF:-1,NBC Sports USA 
+rtmp://31.220.0.195:80/live/golfx pageUrl=http://xxxxxx.xx/rtmpe://46.246.124.26:1935/redirect/espn?se23455vxanbfjhkkiytsasgfd/pageUrl=http://hdcast.org/rtmp://173.192.81.176:443/liverepeater/stream/cdn.kingofplayers.com/rtmpe://46.246.29.152:1935/redirect/HDMNBC playpath=golf?btx22?foxsport1?sdsd111111?pageUrlhttp//castv.tv pageUrl=http://reytv.co/rtmp://31.220.0.134:1935/live/tsn2/pageUrl=http://www.eucast.tv/rtmp://195.154.236.152:80/liverepeater/141449/pageUrl=http://goodcast.pw/rtmp://77.81.98.134/tv/bt1h28qn?v=pageUrl=http://castok.com/rtmp://89.46.102.70:443/liveedge/bt1pageUrl token=%Zrey(nKa@#Z pageUrl=http://www.reytv.co/http://hqstreams.tv/rtmpe://play.finecast.tv/live/hqbt1pageUrl=http;//finecast.tv/rtmpe://cdn.hdcast.org:1935/redirect/http://www.hdcast.org/aplayer/jwplayer.flash.swfpageUrlhttp://www.hdcast.org/token=Fo5_n0w?U.rA6l3-70w47ch@#8x12pX@token=%ZZri(nKa@#Z
+#EXTINF:-1,Bein USA
+rtmp://cdn.cast-tv.us/stream/ playpath=z00031.stream swfUrl=http://cast-tv.us/player/player.swf  live=1 pageUrl=http://cast-tv.us/test1000.php?n=z00030      token=#ed%h0#w@1
+
+
+
+
 
 #EXTINF:-1,LFTV Live Stream
 rtmp://46.246.29.130:1935/stream/ playpath=0VmU1bpSNQ.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460

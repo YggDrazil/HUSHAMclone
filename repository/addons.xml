@@ -78,7 +78,7 @@
 
 <addon id="plugin.video.bassleaks"
        name="bassleaks"
-       version="1.0.05"
+       version="1.0.06"
        provider-name="Bass Controller">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -682,7 +682,7 @@ http://www.husham.com</summary>
 
 <addon
   id="plugin.video.SportsDevil"
-  version="2015-10-20-c"
+  version="2015-11-01"
   name="SportsDevil"
   provider-name="MaxMustermann">
   <requires>
