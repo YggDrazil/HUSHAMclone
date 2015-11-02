@@ -34,7 +34,7 @@ class NoRedirection(urllib2.HTTPErrorProcessor):
        return response
    https_response = http_response
        
-HushamBase = 'https://raw.githubusercontent.com/diavoletto/diavolettotvlist/master/M3U/diavoletto_tv.m3u'
+HushamBase = 'https://raw.githubusercontent.com/diavoletto/diavolettotvlist/master/M3U/diavoletto_next_chapter.m3u'
 
 addon = xbmcaddon.Addon('plugin.video.DiavolettoBeatsLists')
 addon_version = addon.getAddonInfo('version')
