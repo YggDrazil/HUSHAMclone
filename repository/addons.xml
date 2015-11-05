@@ -1,5 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
+	<addon
+        id="plugin.audio.ukexpatradio"
+        name="UK Expat Radio"
+        version="1.0.0"
+        provider-name="coldkeys">
+		<requires>
+			<import addon="xbmc.python"             	version="2.1.0"/>
+			<import addon="xbmc.addon"              	version="12.1.0"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>audio</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">UK Expat Radio</summary>
+			<description lang="en">Tune in to the best UK radio stations on the net.</description>
+			<disclaimer lang="en">I do not own or publish the content delivered by the plugin. Email coldkeys@outlook.com if any stations fail or you would like a personal Radio addon. Only tested in Turkey :-)
+			In order to appreciate the backgrounds it is best to have no visualization or use Waveform.</disclaimer>
+			<platform>all</platform>
+			<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+			<language>en</language>
+			<forum></forum>
+			<website>http://www.mygoldmusic.co.uk/</website>
+			<email></email>
+			<source>http://www.mygoldmusic.co.uk/</source>
+		</extension>
+	</addon>
+
 <addon id="plugin.program.simplytbe" name="SIMPLY-TB EVER WIZARD" version="1.1" provider-name="simplyTB ever and husham.com">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -923,6 +950,19 @@ http://www.husham.com</summary>
 <description>Download and install addons by natko1412. For support visit XBMC thread on forum.hr</description>
 <platform>all</platform>
 </extension>
+</addon>
+
+<addon id="repository.pipcan" name="My Kodi Repo" version="1.0.2" provider-name="Pipccan">
+	<extension point="xbmc.addon.repository" name="My Kodi Repo">
+		<info compressed="false">http://raw.github.com/pipcan3/Pipcan-Repo/master/_repo/addons.xml</info>
+		<checksum>http://raw.github.com/pipcan3/Pipcan-Repo/master/_repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://raw.github.com/pipcan3/Pipcan-Repo/master/_repo</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Install my Addons</summary>
+		<description>Download Addon Templates</description>
+		<platform>all</platform>
+	</extension>
 </addon>
 
 <addon id="repository.podgod" name="podgod repo" version="1.7" provider-name="podgod">
