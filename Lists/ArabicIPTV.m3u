@@ -116,20 +116,17 @@ rtmp://66.23.237.233:1935/alkout/alkout
 #EXTINF:-1,Al Maaref
 rtmp://almaareftv.com:1935/live/ playpath=11 swfUrl=http://www.almaareftv.com/nver/jwplayer/jwplayer.flash.swf pageUrl=http://www.almaareftv.com/nver/#
 
-#EXTINF:-1,Al sahraa2 - [COLOR red]link_down[/COLOR]
+#EXTINF:-1,Al sahraa2 - 
 plugin://plugin.video.youtube/?action=play_video&videoid=v=rjt-txSdnIM
-#EXTINF:-1,Al Sumaria (Iraq)
-http://livestreaming2.itworkscdn.net/sumarialive/smil:sumariamob.smil/playlist.m3u8
-#EXTINF:-1,قناة الديار
-http://188.247.93.26:1935/live/aldyar.stream_360p/playlist.m3u8
-#EXTINF:-1,Alqithara (VOD)
-http://upmv09-ntt-upmv.ustream.tv/0/1/58/58347/58347300/1_4365778_58347300.flv?e=1428405859&h=805ae55387a1382c3631c25a995eff49&tracking=8763ef_57_1_0_0
 #EXTINF:-1,Al yawm
 http://live.paltoday.tv:1935/paltv/live/gmswf.m3u8
 #EXTINF:-1,Alarabiya
-http://livestream5.alarabiya.tv/i/live_1@141854/index_1_av-b.m3u8?sd=10&rebase=on
+http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
+#EXTINF:-1,Al hadath
+http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
+
 #EXTINF:-1,Albadawiyah
-http://94.127.209.149:8080/albadawiyah-800-hdsx/playlist.m3u8
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_ara_high swfUrl=http://www.tvspice.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.tvspice.com/ 
 #EXTINF:-1,Albadawiyahtv
 http://94.127.209.149:8080/edhakx/playlist.m3u8?DVR
 #EXTINF:-1,Albaghdadia
