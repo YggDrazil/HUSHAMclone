@@ -123,10 +123,6 @@ http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_
 #EXTINF:-1,Al hadath
 http://alhadath-geo-live.hls.adaptive.level3.net/hls-live/alhadath-channel01/_definst_/live/stream1.m3u8
 
-#EXTINF:-1,Albadawiyah
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/ playpath=aljazeera_ara_high swfUrl=http://www.tvspice.com/jwplayer/jwplayer.flash.swf pageUrl=http://www.tvspice.com/ 
-#EXTINF:-1,Albadawiyahtv
-http://94.127.209.149:8080/edhakx/playlist.m3u8?DVR
 #EXTINF:-1,Albaghdadia
 http://albaghdadiahls-i.akamaihd.net/hls/live/218980/albaghdadia-ios/01.m3u8
 #EXTINF:-1,Albaghdadia 2
@@ -135,10 +131,11 @@ http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
 rtmp://stream.truth-voice.net/FadyLive//FadyLive
 #EXTINF:-1,Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,Aljazeera En
-http://vizrthlsaje-i.akamaihd.net/hls/live/206524/AJEnglish/2873287_iOS/500.m3u8
+rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
+#EXTINF:-1,الجزيرة عربي aljazeera
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
 #EXTINF:-1,Alrayi
-mms://62.215.216.130/wmtencoder/alrai350.wmv
+rtmp://stream02.fasttelco.net:1935/live/_definst_ playpath=alrai.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.alrai.tv/LiveBroadcast.aspx?lang=ar
 #EXTINF:-1,ANB Live
 http://188.247.93.26:1935/live/anb.stream_360p/playlist.m3u8
 #EXTINF:-1,ANN News
