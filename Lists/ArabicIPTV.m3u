@@ -1,9 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR yellow]Updated 18/10/15 @ 14:50 [/COLOR]  
-http://www.youtube.com/user/hmemar22
 #EXTINF:-1, [COLOR green] --Arabic Live Tv--[/COLOR]  
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+http://www.youtube.com/user/hmemar22
 #EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
