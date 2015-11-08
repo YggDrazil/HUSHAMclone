@@ -131,22 +131,16 @@ http://albaghdadiahls-i.akamaihd.net/hls/live/221008/albaghdadiaIOS2/master.m3u8
 rtmp://stream.truth-voice.net/FadyLive//FadyLive
 #EXTINF:-1,Aljazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:-1,الجزيرة عربي
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_eng_high
 #EXTINF:-1,الجزيرة عربي aljazeera
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
 #EXTINF:-1,Alrayi
 rtmp://stream02.fasttelco.net:1935/live/_definst_ playpath=alrai.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://www.alrai.tv/LiveBroadcast.aspx?lang=ar
 #EXTINF:-1,ANB Live
-http://188.247.93.26:1935/live/anb.stream_360p/playlist.m3u8
+http://livestream-f.akamaihd.net/933317_2295471_e4010063_1_678@75500?v=3.6.0&fp=WIN 19,0,0,226&r=BTFCO&g=QZRETQVHGJCS
 #EXTINF:-1,ANN News
-rtmp://ns8.indexforce.com/ann/ann
-#EXTINF:-1,Albadawiyah
-http://streamer11.elementssys.com:8080/albadawiyah-800-hdsx/index.m3u8
+rtmp://ns8.indexforce.com/ann playpath=ann swfUrl=http://www.anntv.tv/new/player.swf pageUrl=http://www.anntv.tv/new/webcast.aspx
 #EXTINF:-1,Beladi TV
-rtmp://192.240.125.26:443/live?twijwZME0VwR0L3c7x2XKpAsnZYxH4f5 playpath=live_beladitv swfUrl=http://vaughnlive.tv/4282571532/swf/VaughnSoftPlayer.swf pageUrl=http://vaughnlive.tv/embed/video/beladitv?viewers=true&watermark=left&autoplay=true
-#EXTINF:-1, MCP
-rtmp://204.77.214.15/mogulus-stream-edge/mcpmusictv playpath=rtmp://212-94.livestream.com/affiliateStream/mcpmusictv/6c69766572657065617465723a72746d703a2f2f3231322d39342e6c69766573747265616d2e636f6d2f6d6f67756c75732f6d63706d7573696374762f6d7573696337616e696e3030353032303135303333312d3139343331È95f343436 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?autoplay=true&width=350&time=&jsEnabled=false&height=280 pageUrl=http://cdn.livestream.com/embed/McpMusicTV?layout=4&height=280&width=350&autoplay=true
+rtmp://50.7.78.138:443/live?sNdkBIDz77Qmdv2IPVwvjkK7mLUN9u5Y playpath=live_beladitv swfUrl=http://vaughnlive.tv/4340896464/swf/VaughnSoftPlayer.swf <pageUrl>http://vaughnlive.tv/embed/video/beladitv?viewers=true&autoplay=true 
 #EXTINF:-1,Syria
 http://82.137.248.16:1935/Sat/SatLive2/HasBahCa.m3u8
 #EXTINF:-1,Syria
