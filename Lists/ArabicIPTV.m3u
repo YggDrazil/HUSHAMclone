@@ -63,25 +63,18 @@ rtmp://91.140.238.7/rtmplive/rtpencoder/ch1.sdp
 rtmp://91.140.238.7/rtmplive/rtpencoder/ch2.sdp
 
 #EXTINF:-1,MBC 1
-http://bit.ly/1OBdWvq
+http://bit.ly/1WA1dsa
 
 #EXTINF:-1,MBC 2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 
 
 #EXTINF:-1,MBC 3
-http://bit.ly/1RhvPgt
-#EXTINF:-1,MBC 3 - Link 2
-http://50.7.69.138:9080/hls/mbc3.m3u8
-#EXTINF:-1,MBC 3 - Link 3
-http://38.99.146.38:7777/MBC3_HD.m3u8?user=1441975005&session=e4724ee6a2741a3a32cf62bb836be4fee3e95ec1692f3cd5f86a8bd3cdd8c76c&v=520489549
+http://bit.ly/1PuDGIM
 
 
 #EXTINF:-1,Mbc4 - Link 1
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-#EXTINF:-1,MBC 4 - Link 2
-http://50.7.69.138:9080/hls/mbc4.m3u8
-
 
 #EXTINF:-1,MBC MAX
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
@@ -90,31 +83,23 @@ http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
 
 
-#EXTINF:-1,MBC DRAMA Link 1
-http://bit.ly/1OBheiu
-#EXTINF:-1,mbc drama Link 2
-http://216.66.42.85:7777/MBCDrama_HD.m3u8
-#EXTINF:-1,MBC DRAMA Link 3
-http://50.7.69.138:9080/hls/mbc-drama.m3u8
+#EXTINF:-1,MBC DRAMA
+http://bit.ly/1SzfHrV
+
 
 #EXTINF:-1,MBC Bollywood
 http://63.237.48.23/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
 
 #EXTINF:-1,ART AFLAM 1
-http://50.7.69.138:9080/hls/mal-art-aflam1.m3u8
+http://bit.ly/1MDTG62
 #EXTINF:-1,ART AFLAM 2
-http://50.7.69.138:9080/hls/mal-art-aflam2.m3u8
+http://bit.ly/1MDTJ1J
 
 #EXTINF:-1,ART CINEMA
-http://50.7.69.138:9080/hls/mal-art-cinema.m3u8
-
-#EXTINF:-1,Alhayat 1
-http://bit.ly/1VQPRoM
-#EXTINF:-1,Alhayat 2 
-http://bit.ly/1VQPU3T
+http://bit.ly/1LZcwaw
 
 #EXTINF:-1,CBC DRAMA
-http://bit.ly/1OKnjHL
+http://185.5.222.231:4242/bysid/5107
 
 
 #EXTINF:-1, ===========Visit Husham.com=======================
@@ -125,14 +110,14 @@ http://www.youtube.com/user/hmemar22
 #EXTINF:-1,Al Ikhbaria syria
 http://82.137.248.16:1935/Snews/SnewsLive3/BratuMarian.m3u8
 #EXTINF:-1,Al Kawthar
-http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/BratuMarian.m3u8?DVR
+http://live.pgmedia.ir:1935/live-35895787/alkosar-1024.sdp/BratuMarian.m3u8
 #EXTINF:-1,Al Kout
 rtmp://66.23.237.233:1935/alkout/alkout
 #EXTINF:-1,Al Maaref
 rtmp://almaareftv.com:1935/live/ playpath=11 swfUrl=http://www.almaareftv.com/nver/jwplayer/jwplayer.flash.swf pageUrl=http://www.almaareftv.com/nver/#
 
 #EXTINF:-1,Al sahraa2 - [COLOR red]link_down[/COLOR]
-#
+plugin://plugin.video.youtube/?action=play_video&videoid=v=rjt-txSdnIM
 #EXTINF:-1,Al Sumaria (Iraq)
 http://livestreaming2.itworkscdn.net/sumarialive/smil:sumariamob.smil/playlist.m3u8
 #EXTINF:-1,قناة الديار
