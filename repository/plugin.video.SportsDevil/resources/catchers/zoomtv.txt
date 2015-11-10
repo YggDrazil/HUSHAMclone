@@ -42,7 +42,7 @@ item_info_build=%s
 
 item_info_name=h1
 item_info_from=pageUrl
-item_info_convert=getInfo('%s','.*[^\w](\w+)\s*=.{0,20}['"]([\w]{10,15})\b.*?(?:file.{0,20}\1|stream.{0,20}\1).*','@REFERER@','junk|file')
+item_info_convert=getInfo('%s','.*[^\w](\w+)\s*=.{0,20}['"]([\w]{10,15})\b.*?file.*?(?:file.{0,20}\1|stream.{0,20}\1).*','@REFERER@','junk|file')
 item_info_build=%s
 
 item_info_name=h3
@@ -52,7 +52,7 @@ item_info_build=%s
 
 item_info_name=h4
 item_info_from=pageUrl
-item_info_convert=getInfo('%s','.*[^\w](\w+)\s*=\s*unescape\(\'([\w]{32})\b.*sg.{0,20}\1.*','@REFERER@','junk|sg')
+item_info_convert=getInfo('%s','.*?[^\w](\w+)\s*=\s*unescape\(\'([a-z0-9]{32})\b.*sg.{0,20}\1.*','@REFERER@','junk|sg')
 item_info_build=%s
 
 item_info_name=rtmp

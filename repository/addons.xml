@@ -709,7 +709,7 @@ http://www.husham.com</summary>
 
 <addon
   id="plugin.video.SportsDevil"
-  version="2015-11-01"
+  version="2015-11-08c"
   name="SportsDevil"
   provider-name="MaxMustermann">
   <requires>
