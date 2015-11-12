@@ -2,6 +2,21 @@
 
 
 
+<item>
+<title>[COLOR white]Stargate [/COLOR]</title>
+<link>$doregex[get-url]|User-Agent=extrawatch_agent</link>
+<regex>
+<name>get-url</name>
+<expres>source src="(.*?)"</expres>
+<page>http://www.stream4free.eu/stargate</page>
+</regex>
+
+<item>
+<title>Stargate</title>
+<sportsdevil>http://www.stream4free.eu/stargate</sportsdevil>
+<referer>http://www.ultracast.me/</referer>
+</item>
+
 
  <item>
  <title>Test</title>
