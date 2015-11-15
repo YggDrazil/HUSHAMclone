@@ -8,12 +8,13 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 http://www.youtube.com/user/hmemar22
 
 #EXTINF:-1,ART AFLAM 1
-http://bit.ly/1MDTG62
+http://2.109.65.138/masa/tun3716.m3u8
 #EXTINF:-1,ART AFLAM 2
-http://bit.ly/1MDTJ1J
+http://2.109.65.138/masa/tun3717.m3u8
 
 #EXTINF:-1,ART CINEMA
-http://bit.ly/1LZcwaw
+http://2.109.65.138/masa/tun3720.m3u8
+
 
 #EXTINF:-1,Al Ikhbaria syria
 http://82.137.248.16:1935/Snews/SnewsLive3/BratuMarian.m3u8
