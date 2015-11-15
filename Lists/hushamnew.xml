@@ -194,6 +194,20 @@
    <externallink>https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/RussianI-IPTV.m3u</externallink>
 </channel>
   </channels>
+  
+<channels>
+
+<channel>
+      <name>[COLOR lime]Husham DAB Radio [/COLOR]</name>
+  <thumbnail>#</thumbnail>
+<fanart>https://raw.githubusercontent.com/hmemar/husham.com/master/images/hushamlistlogo.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/hmemar/husham.com/master/Lists/radio.m3u</externallink>
+</channel>
+  </channels>
+  
+  
+  
  
 
   
