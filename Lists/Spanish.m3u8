@@ -5,7 +5,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR green] --Spanish Live Tv--[/COLOR]  
 plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 #EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
-plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+http://www.youtube.com/user/hmemar22
+
+
 
 #EXTINF:0,DISCOVERY THEATER
 http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
