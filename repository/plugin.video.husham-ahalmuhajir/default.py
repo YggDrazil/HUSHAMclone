@@ -21,6 +21,9 @@ local = xbmcaddon.Addon(id=addonID)
 icon = local.getAddonInfo('icon')
 
 YOUTUBE_CHANNEL_ID_1 = "UCNkQZkmCiT7gOVTSMlLz7cQ"
+YOUTUBE_CHANNEL_ID_2 = "UCVZNS89ZdukOh26qBnM-S_g"
+YOUTUBE_CHANNEL_ID_3 = "UCrgJRoRy37qzHOYLz7u6H4A"
+
 
 # Entry point
 def run():
@@ -47,4 +50,32 @@ def main_list(params):
         url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_1+"/",
         thumbnail="https://yt3.ggpht.com/-cvxdWTXh_Hc/AAAAAAAAAAI/AAAAAAAAAAA/qLxLYuq0OoE/s100-c-k-no/photo.jpg",
         folder=True )
+		
+	plugintools.add_item( 
+        #action="", 
+        title="اية الله السيد كمال الحيدري",
+        url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_2+"/",
+        thumbnail="https://yt3.ggpht.com/-wMd67Z6lN6Y/AAAAAAAAAAI/AAAAAAAAAAA/lwFbCFdfQHg/s100-c-k-no/photo.jpg",
+        folder=True )
+		
+	plugintools.add_item( 
+        #action="", 
+        title="Alhaydari-tube",
+        url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_3+"/",
+        thumbnail="https://yt3.ggpht.com/-TiFlfrdhBgg/AAAAAAAAAAI/AAAAAAAAAAA/jdYf3F7R7YY/s100-c-k-no/photo.jpg",
+        folder=True )
+			
 run()
+
+
+
+
+
+
+
+
+
+
+
+
+
