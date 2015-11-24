@@ -8,12 +8,12 @@ plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
 http://www.youtube.com/user/hmemar22
 
 #EXTINF:-1,ART AFLAM 1
-http://2.109.65.138/masa/tun3716.m3u8
+http://163.172.14.11:12000/live/q7tlKbZgBJ/23bhgdMtJJ/1057.ts
 #EXTINF:-1,ART AFLAM 2
-http://2.109.65.138/masa/tun3717.m3u8
+rtmp://cdn1.volkaiptv.info/iptv/ch41?code=38003636554606
 
 #EXTINF:-1,ART CINEMA
-http://2.109.65.138/masa/tun3720.m3u8
+#
 
 
 #EXTINF:-1,Al Ikhbaria syria
@@ -58,27 +58,6 @@ rtmp://82.137.248.16/Snews/SnewsLive1
 http://alforatlive.nanocdn.com:1935/live/alforat256/BratuMarian.m3u8
 #EXTINF:-1,Al-hurra Iraq 
 http://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-
-
-#EXTINF:-1,Aljazeera
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_ar/ls_satlink/b_828.m3u8
-
-#EXTINF:-1,Aljazeera
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_low
-
-#EXTINF:-1,AKJAZEERA
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_med
-
-#EXTINF:-1,ALJAZEERA
-rtmp://aljazeeraflashlivefs.fplive.net/aljazeeraflashlive-live/aljazeera_ara_high
-
-
-#EXTINF:-1,ALJAZERRA En
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_528.m3u8
-
-#EXTINF:-1,ALJAZERRA En
-http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/aljazeera_en/ls_satlink/b_828.m3u8
-
 
 #EXTINF:-1,AL SHARJAH
 rtmp://livestreaming.itworkscdn.net/smc1live/smc1tv
