@@ -90,7 +90,7 @@
 </addon>
 
 <addon
-  id="plugin.video.Arabic-VOD"
+  id="plugin.video.Arabic-VOD2"
   version="1.0.4"
   name="Arabic VOD"
   provider-name="Hawwach">
