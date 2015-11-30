@@ -89,6 +89,28 @@
   </extension>
 </addon>
 
+<addon
+  id="plugin.video.Arabic-VOD"
+  version="1.0.4"
+  name="Arabic VOD"
+  provider-name="Hawwach">
+  <requires>
+    <import addon="xbmc.python"
+            version="2.1.0"/>
+	<import addon="script.module.requests" />
+  </requires>
+  <extension point="xbmc.python.pluginsource"
+             library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>Arabic VOD</summary>
+    <description>Arabic VOD from Alarab</description>
+
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.bassleaks"
        name="bassleaks"
        version="1.0.06"
@@ -711,27 +733,6 @@ http://www.husham.com</summary>
   <extension point="xbmc.addon.metadata">
     <summary lang="en"> Enjoy Lists</summary>
     <description lang="en"></description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon
-  id="plugin.video.SportsDevil"
-  version="2015-11-22c"
-  name="SportsDevil"
-  provider-name="MaxMustermann">
-  <requires>
-   <import addon="xbmc.python" version="2.14.0"/>
-   <import addon="script.module.requests" />
-  </requires>
-  <extension
-    point="xbmc.python.pluginsource"
-    library="default.py">
-   <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Play videos of different sports streaming sites</summary>
-    <description>Play videos of different sports streaming sites</description>
     <platform>all</platform>
   </extension>
 </addon>
