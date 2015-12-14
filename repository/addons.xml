@@ -385,6 +385,27 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.kids-tube"
+	name="Kids Tube"
+	version="1.0.1"
+	provider-name="coldkeys">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Kids Tube</summary>
+    <description lang="en">YouTube Channels of Fun and Educational videos for kids</description>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>n/a</website>
+  </extension>
+</addon>
+
 <addon id="plugin.video.kodihelp"
 	name="Kodi Help"
 	version="1.0.0"
@@ -424,6 +445,27 @@
     <description>Lebanon from the World : Addon made by Hisham marzouk</description>
 
     <platform>all</platform>
+  </extension>
+</addon>
+
+<addon id="plugin.video.mosthaunted"
+	name="Most Haunted"
+	version="1.0.0"
+	provider-name="coldkeys">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Most Haunted</summary>
+    <description lang="en">Most Episodes of the UK TV program Most Haunted</description>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>n/a</website>
   </extension>
 </addon>
 
@@ -772,6 +814,27 @@ http://www.husham.com</summary>
 		<source>https://github.com/esxbr/plugin.video.stalker</source>
 		<email>patrick.cabral@gmail.com</email>
 	</extension>
+</addon>
+
+<addon id="plugin.video.talesfromthecrypt"
+	name="Tales from the Crypt"
+	version="1.0.0"
+	provider-name="coldkeys">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Tales from the Crypt</summary>
+    <description lang="en">All 93 Episodes of the cult classic series Tales from the Crypt, plus 3 Movies, Soundtracks and Extras, complete Tales From The Cryptkeeper cartoon. Bonus channel 92 episodes subtitled in Spanish.</description>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>n/a</website>
+  </extension>
 </addon>
 
 <addon id="plugin.video.yifymovies.hd" name="Yify Movies HD" version="1.6.5" provider-name="lambda">
