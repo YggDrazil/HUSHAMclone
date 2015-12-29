@@ -302,6 +302,26 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.hushamiptv" name="Husham IPTV TV" version="1.0.1" provider-name="xunitytalk.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Husham IPTV TV</summary>
+    <description lang="en">Husham IPTV TV is an IP television over the internet without satellite dish or cable.[CR]For more information, visit [COLOR blue]http://iptv.husham.com[/COLOR]</description>
+    <platform>all</platform>
+	<language></language>
+	<license></license>
+	<forum></forum>
+	<website></website>
+	<source></source>
+	<email></email>
+  </extension>
+</addon>
+
 <addon id="plugin.video.HushamLists"
        name="hushamlists"
        version="1.0.03"
@@ -1106,19 +1126,6 @@ http://www.husham.com</summary>
 		<summary></summary>
 		<description>Download and install addons by Mr Entertainment</description>
 		<disclaimer>By using this, you take reponsibility for anything that happens. Some parts of this addon may not be legal in your country - please check with your local laws before installing. I take no responsibility for any problems this plugin might in any way shape or form. This is project is for a LEARNING EXPERIANCE.</disclaimer>
-		<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="repository.Halowrepo" name="  [COLOR lime][B]HALOW [/COLOR][COLOR white]Repository[/B][/COLOR]" version="2.2.6" provider-name="HalowRepo">
-	<extension point="xbmc.addon.repository" name="  [COLOR lime][B]Halow[/COLOR][COLOR white]Repository[/B][/COLOR]">
-        <info compressed="false">https://raw.githubusercontent.com/HalowTV/Halowrepo/master/zips/addons.xml</info>
-		<checksum>https://raw.githubusercontent.com/HalowTV/Halowrepo/master/zips/addons.xml.md5</checksum>
-		<datadir zip="true">https://raw.githubusercontent.com/HalowTV/Halowrepo/master/zips/</datadir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Install my Addons</summary>
-		<description>Download and install addons from Halow Repo</description>
 		<platform>all</platform>
 	</extension>
 </addon>
