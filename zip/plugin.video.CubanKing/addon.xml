@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.CubanKing" name="CubanKing Wizard" version="1.0" provider-name="CubanKing">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">CubanKing Wizard</summary>
+    <description lang="en">Here you will find the CubanKing Wizard with all the best goodies for Kodi</description>
+    <platform>all</platform>
+  </extension>
+</addon>
