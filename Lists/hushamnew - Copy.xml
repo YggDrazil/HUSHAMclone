@@ -283,7 +283,7 @@ https://www.youtube.com/playlist?list=PL_-DKA_MjvXyl6ybRydxzCiHh8idy6wmt
 </item>
 
 <item>
-<title>Bein2</title>
+<title>Bein3</title>
 <sportsdevil>http://showsport-tv.com/watch/bein-sport-3-live-stream</sportsdevil>
 <referer>http://showsport-tv.com/</referer>
 </item>
@@ -357,6 +357,12 @@ https://www.youtube.com/playlist?list=PL_-DKA_MjvXyl6ybRydxzCiHh8idy6wmt
 </item>
 
 
+
+<item>
+<title>Bein Sports Live</title>
+<sportsdevil>http://crichd.tv/watch/95280/bein-sports-usa-live-streaming/</sportsdevil>
+<referer>http://crichd.tv/</referer>
+</item>
 
 
 
@@ -489,6 +495,10 @@ https://www.youtube.com/playlist?list=PL_-DKA_MjvXyl6ybRydxzCiHh8idy6wmt
 <sportsdevil>http://crichd.tv/espn-uk-live-stream.php</sportsdevil>
 <referer>http://showsport-tv.com/</referer>
 </item>
+
+
+
+
 
 <item>
 <title>ESPN USA</title>
