@@ -1,0 +1,4 @@
+[B]Version 1.0.0[/B]
+09 January 2016 - This is the first versions of my DocumentaryTube addon
+
+
