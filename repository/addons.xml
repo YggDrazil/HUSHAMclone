@@ -161,6 +161,27 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.dancehallgeniuz"
+	name="Dancehall Geniuz"
+	version="1.0.0"
+	provider-name="Geniuz">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Dancehall Geniuz v1.01 - selection of channels with the latest dancehall music brought to you Geniuz</summary>
+    <description lang="en">Dancehall Geniuz v1.01 - selection of channels with the latest dancehall music brought to you Geniuz</description>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>http://dancehallandreggae.tv/kodi</website>
+  </extension>
+</addon>
+
 <addon id="plugin.video.DiavolettoBeatsLists"
        name="Diavoletto Next Chapter"
        version="1.0.2"
