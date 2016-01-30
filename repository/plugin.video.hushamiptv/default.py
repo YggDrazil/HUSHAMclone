@@ -57,7 +57,7 @@ def APICALL(route, params={}):
 
 if ADDON.getSetting('user')=='':
     dialog = xbmcgui.Dialog()
-    if dialog.yesno("Husahm.iptv", "If you dont already have an account, please sign up at:", "[COLOR royalblue]http://IPTV.HUSHAM.COM[/COLOR]", "", "Exit", "Continue"):
+    if dialog.yesno("Husahm.iptv", "If you dont already have an account, please sign up at:", "[COLOR royalblue]http://Husahm.iptv/en[/COLOR]", "", "Exit", "Continue"):
         
         dialog.ok("Husahm.iptv", "Please provide your email")
         keyboard = xbmc.Keyboard("", "Husahm.iptv - Please provide your email")
@@ -257,8 +257,15 @@ def PopulateChannels():
         
         channelList.append ( ( {'mode':'dummy', 'title':cg['name']}, {'title' : "[COLOR yellow][B]" + cg['name'] + "[/COLOR][/B]"}, '', []) )
         for c_id, c in cg['channels'].items():
+            #print c
             favMarker = ""
             
+            if ADDON.getSetting('hls')=='true':                
+                STREAM=c['link_m3u8'].replace('\/','/')+'?'+stream_token                
+            else:                
+                STREAM=c['link_rtp'].replace('\/','/')+'?'+stream_token
+
+                
             contextMenuItems = []
             if c['name'] not in favs:
                 contextMenuItems.append( ('[B][COLOR green]Add to addon favorites[/COLOR][/B]', 'RunPlugin(%s)' % ADDON_HELPER.build_plugin_url( {'mode':'add_fav', 'channel_id':c['id'], 'title': c['name'], 'url':c['url']}) ) )
@@ -270,9 +277,9 @@ def PopulateChannels():
             
             if c['name'] in favs:
                 favMarker = " [COLOR green][B]|*|[/B][/COLOR] "
-                favoritesList.append ( ( {'mode':'live', 'play':'true', 'url':c['link_rtp'].replace('\/','/')+'?'+stream_token, 'title':c['name'], 'channel_id':c['id'] }, {'title': '.....' + c['name'] }, c['image'].replace('\/', '/'), contextMenuItems) )
+                favoritesList.append ( ( {'mode':'live', 'play':'true', 'url':STREAM, 'title':c['name'], 'channel_id':c['id'] }, {'title': '.....' + c['name'] }, c['image'].replace('\/', '/'), contextMenuItems) )
             
-            channelList.append ( ( {'mode':'live', 'play':'true', 'url':c['link_rtp'].replace('\/','/')+'?'+stream_token, 'title':c['name'], 'channel_id':c['id'] }, {'title': '.....' + favMarker + c['name'] }, c['image'].replace('\/', '/'), contextMenuItems) )
+            channelList.append ( ( {'mode':'live', 'play':'true', 'url':STREAM, 'title':c['name'], 'channel_id':c['id'] }, {'title': '.....' + favMarker + c['name'] }, c['image'].replace('\/', '/'), contextMenuItems) )
     
     ADDON_HELPER.add_directory( {'mode':'dummy'}, {'title':'[COLOR green][B]***** Favorite Channels *****[/B][/COLOR]'} )
     uniques= []
