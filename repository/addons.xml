@@ -241,6 +241,31 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.FilmStreamzAddOn" name="FilmStreamzAddOn" version="1.0.0" provider-name="me">
+    <requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+		<import addon="script.module.requests"/>
+		<import addon="script.module.beautifulsoup"/>
+		<import addon="script.module.beautifulsoup4"/>
+<!-- (naechste Zeile) und schon wird bei der Installation (!, nicht manuellem Abspeichern im addons-Ordner) der geforderte Helper mitinstalliert. urlResolver hat sich zum Ziel gemacht, aus einem Hostinglink die Stream-url rauszuholen, nicht mehr, aber auch nicht weniger.
+http://www.kodinerds.net/index.php/Thread/14558-urlResolver-Patches-Verbesserungen-und-Grunds%C3%A4tzliches/-->
+		<import addon="script.module.urlresolver"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">Addon FilmStreamz</summary>
+		<description lang="en">Search for Media at FilmStreamz</description>
+		<license>GNU General Public License, v2</license>
+		<language>DE</language>
+		<forum>http://forum.kodi.tv/showthread.php?tid=209948</forum>
+		<source>https://github.com/zag2me/script.hello.world</source>
+		<email>zag@kodi.org</email>
+	</extension>
+</addon>
+
 <addon id="plugin.video.freshstart" name="Fresh Start"
 	version="1.0.5" provider-name="tvaddons.ag">
   <requires>
