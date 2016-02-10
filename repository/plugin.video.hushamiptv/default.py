@@ -57,7 +57,7 @@ def APICALL(route, params={}):
 
 if ADDON.getSetting('user')=='':
     dialog = xbmcgui.Dialog()
-    if dialog.yesno("Husahm.iptv", "If you dont already have an account, please sign up at:", "[COLOR royalblue]http://Husahm.iptv/en[/COLOR]", "", "Exit", "Continue"):
+    if dialog.yesno("Husahm.iptv", "If you dont already have an account, please sign up at:", "[COLOR royalblue]http://iptv.husham.com[/COLOR]", "", "Exit", "Continue"):
         
         dialog.ok("Husahm.iptv", "Please provide your email")
         keyboard = xbmc.Keyboard("", "Husahm.iptv - Please provide your email")

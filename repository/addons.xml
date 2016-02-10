@@ -390,7 +390,7 @@ http://www.kodinerds.net/index.php/Thread/14558-urlResolver-Patches-Verbesserung
   </extension>
 </addon>
 
-<addon id="plugin.video.hushamiptv" name="Husham IPTV TV" version="1.0.3" provider-name="xunitytalk.com">
+<addon id="plugin.video.hushamiptv" name="Husham IPTV Live TV" version="1.0.4" provider-name="xunitytalk.com">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
