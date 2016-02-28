@@ -1321,11 +1321,13 @@ http://www.husham.com</summary>
 
 <addon
   id="skin.confluence.hwy2015"
-  version="2.5.9.008"
+  version="2.5.9.009"
   name="Confluence - hwy2015 fixed by husham - Original Mod by TheHighway"
   provider-name="The[COLOR tan]Highway[/COLOR], Jezz_X, Team Kodi, Husham.com">
   <requires>
     <import addon="xbmc.gui" version="5.10.0"/>
+    <import addon="script.artistslideshow" version="1.8.0"/>
+    <import addon="script.favourites" version="6.0.2"/>
   </requires>
   <extension
     point="xbmc.gui.skin"
