@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 	<addon
+        id="plugin.audio.empireldn.com"
+        name="empireldn.com"
+        version="0.1.0"
+        provider-name="@basscontroller">
+		<requires>
+			<import addon="xbmc.python"             	version="2.1.0"/>
+			<import addon="xbmc.addon"              	version="12.1.0"/>
+		</requires>
+		<extension point="xbmc.python.pluginsource" library="default.py">
+			<provides>audio</provides>
+		</extension>
+		<extension point="xbmc.addon.metadata">
+			<summary lang="en">empireldn.com</summary>
+			<description lang="en">Listen to empireldn.com online or 101.5fm on your radio</description>
+			<disclaimer lang="en">All streams and content is owned by empireldn.com... Addon code provided by atb a member from xbmchub forum and reworked by basscontroller REPO</disclaimer>
+			<platform>all</platform>
+			<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+			<language>en</language>
+			<forum>www.xbmchub.com</forum>
+			<website>www.empireldn.com</website>
+			<email>basscontroller</email>
+			<source>www.empireldn.com</source>
+		</extension>
+	</addon>
+
+	<addon
         id="plugin.audio.ukexpatradio"
         name="UK Expat Radio"
         version="1.0.0"
