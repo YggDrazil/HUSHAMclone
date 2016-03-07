@@ -4,10 +4,4 @@ v1.0.0
 
 v1.0.1
 ------
-+ Channel List fix
-
-v1.0.3
-------
-+ Channel List fix
-
-
++ Channel list fixes
