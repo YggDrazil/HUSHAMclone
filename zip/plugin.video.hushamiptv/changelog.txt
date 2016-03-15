@@ -4,4 +4,26 @@ v1.0.0
 
 v1.0.1
 ------
-+ Channel list fixes
++ Channel List fix
+
+v1.0.3
+------
++ Channel List fix
+
+v1.0.4
+------
++ Channel List fix
+
+
+v1.0.5
+------
++ Channel List fix
+
+
+v1.0.6
+------
++ Channel List fix
++ Recording Fix
+
+
+
