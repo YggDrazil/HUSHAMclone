@@ -34,3 +34,10 @@ Website users are able to logon but KODI users not able to due to other repos th
 
 
 
+v1.0.8
+------
+
+
+v1.0.9
+------
+precausion fix due to super repo medaling 
