@@ -57,17 +57,17 @@ def APICALL(route, params={}):
 
 if ADDON.getSetting('user')=='':
     dialog = xbmcgui.Dialog()
-    if dialog.yesno("Husahm.iptv", "If you dont already have an account, please sign up at:", "[COLOR royalblue]http://iptv.husham.com[/COLOR]", "", "Exit", "Continue"):
+    if dialog.yesno("Husham IPTV", "If you dont already have an account, please sign up at:", "[COLOR royalblue]http://iptv.husham.com[/COLOR]", "", "Exit", "Continue"):
         
-        dialog.ok("Husahm.iptv", "Please provide your email")
-        keyboard = xbmc.Keyboard("", "Husahm.iptv - Please provide your email")
+        dialog.ok("Husham IPTV", "Please provide your email")
+        keyboard = xbmc.Keyboard("", "Husham IPTV - Please provide your email")
         keyboard.doModal()
         if keyboard.isConfirmed():
             user_input = keyboard.getText() 
         ADDON.setSetting('user',user_input)
         
-        dialog.ok("Husahm.iptv", "Please provide your password")
-        keyboard = xbmc.Keyboard("", "Husahm.iptv - Please provide your password")
+        dialog.ok("Husham IPTV", "Please provide your password")
+        keyboard = xbmc.Keyboard("", "Husham IPTV - Please provide your password")
         keyboard.doModal()
         if keyboard.isConfirmed():
             pwd_input = keyboard.getText() 
@@ -91,12 +91,15 @@ def get_channels_list():
     user_id, session_token = get_user_id_and_token()
     ADDON.setSetting('session_token',session_token)
     params = {'user_id':user_id, 'for_player':'1', 'for_orders':'0', 'include_favorites':'0','session_token':session_token}
-    print params
     json_return = APICALL('user/ordered_channels', params)
+    return json_return['items']
+
+
+def get_stream_token():
+    user_id, session_token = get_user_id_and_token()
     params = {'user_id':user_id, 'session_token':session_token}
-    print params
     stream_token = APICALL('user/channel_token', params)
-    return json_return['items'],stream_token['stream_token']
+    return stream_token['stream_token']
 
 
 # TIMEZONE OFFSET
@@ -248,7 +251,7 @@ def PopulateChannels():
     favs = ADDON.getSetting('favs')
     favs = favs.split(",")
     
-    channels, stream_token= get_channels_list()
+    channels= get_channels_list()
     
     favoritesList = []
     channelList = []
@@ -261,9 +264,9 @@ def PopulateChannels():
             favMarker = ""
             
             if ADDON.getSetting('hls')=='true':                
-                STREAM=c['link_m3u8'].replace('\/','/')+'?'+stream_token                
+                STREAM=c['link_m3u8'].replace('\/','/')+'?'#+stream_token                
             else:                
-                STREAM=c['link_rtp'].replace('\/','/')+'?'+stream_token
+                STREAM=c['link_rtp'].replace('\/','/')+'?'#+stream_token
 
                 
             contextMenuItems = []
@@ -301,6 +304,7 @@ def ShowSchedule():
     dialog.select(title, time_zoned_list)
     
 if play:
+    url=url+get_stream_token()
     listitem = xbmcgui.ListItem(path=url, iconImage=image, thumbnailImage=image)
     if title:
         listitem.setInfo("Video", {'title':title})
@@ -309,7 +313,7 @@ elif mode == 'main':
     PopulateChannels()
 elif mode == 'DIALOG':
     dialog = xbmcgui.Dialog()
-    dialog.ok( ADDON_HELPER.queries.get('dlg_title', "Husahm.iptv"), ADDON_HELPER.queries.get('dlg_line1', ''), 
+    dialog.ok( ADDON_HELPER.queries.get('dlg_title', "Husham IPTV"), ADDON_HELPER.queries.get('dlg_line1', ''), 
         ADDON_HELPER.queries.get('dlg_line2', ''), ADDON_HELPER.queries.get('dlg_line3', '') )
 elif mode == 'upcoming':
     ShowSchedule()
@@ -359,20 +363,20 @@ elif mode == 'getrecording':
 elif mode == "add_fav":
     favs = ADDON.getSetting('favs').split(",")
     if title in favs:
-        ADDON_HELPER.show_small_popup("[COLOR white][B]Husahm.iptv[/B][/COLOR]", "Channel already in favorites.", image=".")
+        ADDON_HELPER.show_small_popup("[COLOR white][B]Husham.iptv[/B][/COLOR]", "Channel already in favorites.", image=".")
     else:
         favs.append(title)
         ADDON.setSetting('favs', ",".join(favs))
-        ADDON_HELPER.show_small_popup("[COLOR white][B]Husahm.iptv[/B][/COLOR]", "Channel added to favorites.", image=".")
+        ADDON_HELPER.show_small_popup("[COLOR white][B]Husham.iptv[/B][/COLOR]", "Channel added to favorites.", image=".")
     xbmc.executebuiltin('Container.Refresh')
 elif mode == "remove_fav":
     favs = ADDON.getSetting('favs').split(",")
     if title not in favs:
-        ADDON_HELPER.show_small_popup("[COLOR white][B]Husahm.iptv[/B][/COLOR]", "Channel not in favorites.", image=".")
+        ADDON_HELPER.show_small_popup("[COLOR white][B]Husham.iptv[/B][/COLOR]", "Channel not in favorites.", image=".")
     else:
         favs.remove(title)
         ADDON.setSetting('favs', ",".join(favs))
-        ADDON_HELPER.show_small_popup("[COLOR white][B]Husahm.iptv[/B][/COLOR]", "Channel removed from favorites.", image=".")
+        ADDON_HELPER.show_small_popup("[COLOR white][B]Husham.iptv[/B][/COLOR]", "Channel removed from favorites.", image=".")
     xbmc.executebuiltin('Container.Refresh')
         
 if mode != 'dummy' and dir_end == 'true':
