@@ -27,3 +27,10 @@ v1.0.6
 
 
 
+v1.0.7
+------
++ Addon re-issue as super repo and other repos causing havic on the kodi addon.
+Website users are able to logon but KODI users not able to due to other repos thing they can copy this addon.
+
+
+
