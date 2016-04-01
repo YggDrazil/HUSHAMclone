@@ -41,3 +41,8 @@ v1.0.8
 v1.0.9
 ------
 precausion fix due to super repo medaling 
+
+v1.0.10
+-------
+1.0.5 upgraded to 1.0.10 
+this is due to other reports damaging 1.0.9
