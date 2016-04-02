@@ -46,3 +46,7 @@ v1.0.10
 -------
 1.0.5 upgraded to 1.0.10 
 this is due to other reports damaging 1.0.9
+
+v1.0.11
+-------
+Fix live and recording
