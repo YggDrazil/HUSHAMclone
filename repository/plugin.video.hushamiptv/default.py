@@ -12,7 +12,6 @@ ADDON_HELPER = Addon(addon_id, sys.argv)
 base_url = 'http://iptv.husham.com'
 api_url = 'http://api.iptvapi.com/api/v1/'
 site_id = '14'
-
 api_key = '49216ba9-f7fa-479f-8e24-7b8426694c64'
 
 # get parameters
@@ -91,12 +90,22 @@ def get_channels_list():
     user_id, session_token = get_user_id_and_token()
     ADDON.setSetting('session_token',session_token)
     params = {'user_id':user_id, 'for_player':'1', 'for_orders':'0', 'include_favorites':'0','session_token':session_token}
-    print params
     json_return = APICALL('user/ordered_channels', params)
+    return json_return['items']
+
+
+def get_stream_token():
+    user_id, session_token = get_user_id_and_token()
     params = {'user_id':user_id, 'session_token':session_token}
-    print params
     stream_token = APICALL('user/channel_token', params)
-    return json_return['items'],stream_token['stream_token']
+    return stream_token['stream_token']
+
+
+def get_record_token():
+    user_id, session_token = get_user_id_and_token()
+    params = {'user_id':user_id, 'session_token':session_token}
+    stream_token = APICALL('user/channel_token', params)
+    return stream_token['stream_token'].split('token=')[1]
 
 
 # TIMEZONE OFFSET
@@ -248,7 +257,7 @@ def PopulateChannels():
     favs = ADDON.getSetting('favs')
     favs = favs.split(",")
     
-    channels, stream_token= get_channels_list()
+    channels= get_channels_list()
     
     favoritesList = []
     channelList = []
@@ -261,9 +270,9 @@ def PopulateChannels():
             favMarker = ""
             
             if ADDON.getSetting('hls')=='true':                
-                STREAM=c['link_m3u8'].replace('\/','/')+'?'+stream_token                
+                STREAM=c['link_m3u8'].replace('\/','/')+'?'#+stream_token                
             else:                
-                STREAM=c['link_rtp'].replace('\/','/')+'?'+stream_token
+                STREAM=c['link_rtp'].replace('\/','/')+'?'#+stream_token
 
                 
             contextMenuItems = []
@@ -301,6 +310,7 @@ def ShowSchedule():
     dialog.select(title, time_zoned_list)
     
 if play:
+    url=url+get_stream_token()
     listitem = xbmcgui.ListItem(path=url, iconImage=image, thumbnailImage=image)
     if title:
         listitem.setInfo("Video", {'title':title})
@@ -353,7 +363,7 @@ elif mode == 'getrecording':
     liz = xbmcgui.ListItem(title, iconImage='DefaultVideo.png', thumbnailImage='')
     liz.setInfo(type='Video', infoLabels={'Title':title})
     liz.setProperty("IsPlayable","true")
-    liz.setPath(stream_url)
+    liz.setPath(stream_url+get_record_token())
     xbmcplugin.setResolvedUrl(int(sys.argv[1]), True, liz) 
     
 elif mode == "add_fav":
