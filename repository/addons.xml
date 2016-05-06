@@ -53,31 +53,6 @@
 		</extension>
 	</addon>
 
-<addon id="plugin.program.hushamnotifications" version="1.0.2"
-       name="Husham Notifications" provider-name="Husham.com">
-  <requires>
-  	<import addon="xbmc.python" version="2.1.0"/>
-  	<import addon="script.module.addon.common" optional="true" />
-  </requires>
-  <extension point="xbmc.python.script" library="default.py">
-    <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.service" library="service.py" start="startup">
-  </extension>
-  <extension point="xbmc.addon.metadata">
-  	<summary>Husham.com NEWS</summary>
-  	<description>Receive Important HUSHAM.COM Notifications. Unsubscribe within Add-on Settings.</description>
-	<description>This Notification script is based on TVA Notification script.</description>
-  	<disclaimer>HUSHAM.COM take no responsibility for any problems this plugin might in any way, form, shape or size cause.</disclaimer>
-  	<language>en</language>
-  	<platform>all</platform>
-  	<forum>https://www.youtube.com/user/hmemar22</forum>
-  	<website>http://www.husham.com</website>
-  	<source></source>
-  	<email></email>
-  </extension>
-</addon>
-
 <addon id="plugin.video.adryanlist"
        name="AdryanList"
        version="1.8.5"
@@ -554,41 +529,6 @@ http://www.kodinerds.net/index.php/Thread/14558-urlResolver-Patches-Verbesserung
   </extension>
 </addon>
 
-<addon id="plugin.video.karbala"
-       name="KarbalaTV"
-       version="1.0.03"
-       provider-name="husham.com">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-	<import addon="plugin.program.hushamnotifications" version="1.0.2"/>
-	<import addon="plugin.video.hushamaddonwizard"" version="1.0.7"/>
-	<import addon="plugin.video.plugin.video.hushamyoutube"" version="1.0.1"/>
-
-
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="hushamkarabala.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en"> Enjoy husham.com Karabal TV</summary>
-    <description lang="en">Please check out husham.com for latest updates</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="plugin.video.kids-tube"
 	name="Kids Tube"
 	version="1.0.1"
@@ -775,38 +715,6 @@ http://www.kodinerds.net/index.php/Thread/14558-urlResolver-Patches-Verbesserung
 http://www.hometheater.co.il</summary>
     <description lang="en">Playlist Loader - downloaded for free from:
 http://www.hometheater.co.il</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.RobinHood-PPL-List"
-       name="RobinHood-People List"
-       version="2.0.1"
-       provider-name="Husham.com">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" />
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">RobinHood People Lists - downloaded for free from:
-http://www.husham.com</summary>
-    <description lang="en">RobinHood-People List - The shadow crew finest addon
-	The ShadowCrew Has been working round the clock to make this addon working great for all.
-	http://www.husham.com
-	P.S. Special Thanks to Shani for his Excellent work for LiveStream Pro add-on
-</description>
     <platform>all</platform>
   </extension>
 </addon>
