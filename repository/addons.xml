@@ -529,41 +529,6 @@ http://www.kodinerds.net/index.php/Thread/14558-urlResolver-Patches-Verbesserung
   </extension>
 </addon>
 
-<addon id="plugin.video.karbala"
-       name="KarbalaTV"
-       version="1.0.03"
-       provider-name="husham.com">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-	<import addon="plugin.program.hushamnotifications" version="1.0.2"/>
-	<import addon="plugin.video.hushamaddonwizard"" version="1.0.7"/>
-	<import addon="plugin.video.plugin.video.hushamyoutube"" version="1.0.1"/>
-
-
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="hushamkarabala.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en"> Enjoy husham.com Karabal TV</summary>
-    <description lang="en">Please check out husham.com for latest updates</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="plugin.video.kids-tube"
 	name="Kids Tube"
 	version="1.0.1"
