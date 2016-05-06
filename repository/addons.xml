@@ -53,6 +53,31 @@
 		</extension>
 	</addon>
 
+<addon id="plugin.program.hushamnotifications" version="1.0.2"
+       name="Husham Notifications" provider-name="Husham.com">
+  <requires>
+  	<import addon="xbmc.python" version="2.1.0"/>
+  	<import addon="script.module.addon.common" optional="true" />
+  </requires>
+  <extension point="xbmc.python.script" library="default.py">
+    <provides>executable</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup">
+  </extension>
+  <extension point="xbmc.addon.metadata">
+  	<summary>Husham.com NEWS</summary>
+  	<description>Receive Important HUSHAM.COM Notifications. Unsubscribe within Add-on Settings.</description>
+	<description>This Notification script is based on TVA Notification script.</description>
+  	<disclaimer>HUSHAM.COM take no responsibility for any problems this plugin might in any way, form, shape or size cause.</disclaimer>
+  	<language>en</language>
+  	<platform>all</platform>
+  	<forum>https://www.youtube.com/user/hmemar22</forum>
+  	<website>http://www.husham.com</website>
+  	<source></source>
+  	<email></email>
+  </extension>
+</addon>
+
 <addon id="plugin.video.adryanlist"
        name="AdryanList"
        version="1.8.5"
@@ -531,7 +556,7 @@ http://www.kodinerds.net/index.php/Thread/14558-urlResolver-Patches-Verbesserung
 
 <addon id="plugin.video.karbala"
        name="KarbalaTV"
-       version="1.0.02"
+       version="1.0.03"
        provider-name="husham.com">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -548,6 +573,10 @@ http://www.kodinerds.net/index.php/Thread/14558-urlResolver-Patches-Verbesserung
     <import addon="script.module.simplejson" />
     <import addon="script.common.plugin.cache" version="2.5.2"/>
     <import addon="script.module.metahandler" version="2.5.1"/>
+	<import addon="plugin.program.hushamnotifications" version="1.0.2"/>
+	<import addon="plugin.video.hushamaddonwizard"" version="1.0.7"/>
+	<import addon="plugin.video.plugin.video.hushamyoutube"" version="1.0.1"/>
+
 
   </requires>
   <extension point="xbmc.python.pluginsource" library="hushamkarabala.py">
