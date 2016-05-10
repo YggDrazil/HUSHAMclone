@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.chuckbaker"
-	name="Chuck Backer Youtube Videos"
-	version="1.0.0"
+	name="Chuck Baker Youtube Videos"
+	version="1.0.1"
 	provider-name="Husham.com">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
