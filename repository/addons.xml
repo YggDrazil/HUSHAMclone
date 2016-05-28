@@ -442,6 +442,22 @@ http://www.kodinerds.net/index.php/Thread/14558-urlResolver-Patches-Verbesserung
   </extension>
 </addon>
 
+<addon id="plugin.video.hushamaddonwizard" name="Husham Addon Wizard" version="1.0.8" provider-name="Husham.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Husham Addon Wizard</summary>
+    <description lang="en">Easy Install With KODI / XBMC Wizard </description>
+	<description lang="en">HUSHAM.COM repo One of the oldest standing repo</description>
+    <description lang="en">Helping to stand together</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
 <addon id="plugin.video.hushamiptv" name="Husham IPTV Live TV" version="1.0.12" provider-name="xunitytalk.com">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
