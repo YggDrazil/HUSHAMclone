@@ -13,17 +13,24 @@ _pluginName = (sys.argv[0])
 
 
 def CATEGORIES():
-	addDir("RAMADAN MORROCAN SERIES","/ramadan2016/مغربية",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
-	addDir("RAMADAN SYRIAN SERIES","http://tv1.alarab.com/ramadan2016/سورية",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
-	addDir("RAMADAN EGYPTIAN SERIES","http://tv1.alarab.net/ramadan2016/مصرية",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
-	addDir("RAMADAN KHALIJI SERIES","http://tv1.alarab.net/ramadan2016/خليجية",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
-	addDir("RAMADAN LEBANESE SERIES","http://tv1.alarab.net/ramadan2016/لبانينة",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
-	addDir("RAMADAN KUWAITI SERIES","http://tv1.alarab.net/ramadan2016/كويتية",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
-	addDir("RAMADAN SAUDI SERIES","http://tv1.alarab.net/ramadan2016/سعودية",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
-	addDir("RAMADAN JORDANIAN SERIES","http://tv1.alarab.net/ramadan2016/اردنية",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
-	addDir("RAMADAN BAHRAINI SERIES","http://tv1.alarab.net/ramadan2016/بحرينية",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
-	addDir("RAMADAN EMARATI SERIES","http://tv1.alarab.net/ramadan2016/اماراتية",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
-
+	addDir("RAMADAN MORROCAN SERIES","http://tv1.alarab.com/ramadan2016/%D9%85%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
+	addDir("RAMADAN SYRIAN SERIES","http://tv1.alarab.com/ramadan2016/%D8%B3%D9%88%D8%B1%D9%8A%D8%A9",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
+	addDir("RAMADAN EGYPTIAN SERIES","http://tv1.alarab.com/ramadan2016/%D9%85%D8%B5%D8%B1%D9%8A%D8%A9",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
+	addDir("RAMADAN KHALIJI SERIES","http://tv1.alarab.com/ramadan2016/%D8%AE%D9%84%D9%8A%D8%AC%D9%8A%D8%A9",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
+	addDir("RAMADAN LEBANESE SERIES","http://tv1.alarab.com/ramadan2016/%D9%84%D8%A8%D8%A7%D9%86%D9%8A%D9%86%D8%A9",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
+	addDir("RAMADAN KUWAITI SERIES","http://tv1.alarab.com/ramadan2016/%D9%84%D8%A8%D8%A7%D9%86%D9%8A%D9%86%D8%A9",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
+	addDir("RAMADAN SAUDI SERIES","http://tv1.alarab.com/ramadan2016/%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
+	addDir("RAMADAN JORDANIAN SERIES","http://tv1.alarab.com/ramadan2016/%D8%A7%D8%B1%D8%AF%D9%86%D9%8A%D8%A9",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
+	addDir("RAMADAN BAHRAINI SERIES","http://tv1.alarab.com/ramadan2016/%D8%A8%D8%AD%D8%B1%D9%8A%D9%86%D9%8A%D8%A9",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
+	addDir("RAMADAN EMARATI SERIES","http://tv1.alarab.com/ramadan2016/%D8%A7%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A%D8%A9",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
+	addDir("RAMADAN QATARIA SERIES","http://tv1.alarab.com/ramadan2016/%D9%82%D8%B7%D8%B1%D9%8A%D8%A9",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
+	
+	
+	
+	
+	
+	
+	
 def getMovie(url):
 	openerx = urllib2.build_opener()
 	sockx = openerx.open(url)
