@@ -84,7 +84,7 @@
   id="plugin.video.alarab"
   version="4.3.0"
   name="AlArab"
-  provider-name="bisha">
+  provider-name="bisha & husham.com">
   <requires>
    <import addon="xbmc.python"
             version="2.1.0"/>
