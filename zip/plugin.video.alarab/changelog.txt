@@ -1,5 +1,0 @@
-====================================================================
-Castaway sports addon by [COLOR yellow]bisha[/COLOR]
-====================================================================
-v4.3.01 [12-Jun-2016]
-Slight Change by husham.com to the Addon to allow Morroco and changing the url
