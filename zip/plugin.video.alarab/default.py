@@ -13,7 +13,7 @@ _pluginName = (sys.argv[0])
 
 
 def CATEGORIES():
-	addDir("RAMADAN MORROCAN SERIES","/ramadan2016/مغربية",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
+	addDir("RAMADAN MORROCAN SERIES","http://tv1.alarab.com/ramadan2016/مغربية",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
 	addDir("RAMADAN SYRIAN SERIES","http://tv1.alarab.com/ramadan2016/سورية",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
 	addDir("RAMADAN EGYPTIAN SERIES","http://tv1.alarab.net/ramadan2016/مصرية",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
 	addDir("RAMADAN KHALIJI SERIES","http://tv1.alarab.net/ramadan2016/خليجية",2,"http://wadeni.com/images/icons/0alarab-net.jpg")

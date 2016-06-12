@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon
   id="plugin.video.alarab"
-  version="4.3.0"
+  version="4.3.02"
   name="AlArab"
-  provider-name="bisha">
+  provider-name="bisha & husham.com">
   <requires>
    <import addon="xbmc.python"
             version="2.1.0"/>
