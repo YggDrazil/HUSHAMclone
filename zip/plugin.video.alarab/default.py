@@ -23,6 +23,7 @@ def CATEGORIES():
 	addDir("RAMADAN JORDANIAN SERIES","http://tv1.alarab.net/ramadan2016/اردنية",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
 	addDir("RAMADAN BAHRAINI SERIES","http://tv1.alarab.net/ramadan2016/بحرينية",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
 	addDir("RAMADAN EMARATI SERIES","http://tv1.alarab.net/ramadan2016/اماراتية",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
+	addDir("RAMADAN QATARIA SERIES","http://tv1.alarab.com/ramadan2016/%D9%82%D8%B7%D8%B1%D9%8A%D8%A9",2,"http://wadeni.com/images/icons/0alarab-net.jpg")
 
 def getMovie(url):
 	openerx = urllib2.build_opener()
