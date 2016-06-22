@@ -1,0 +1,15 @@
+Version 1.0 
+- First version
+ released to include the following...
+
+- Conan O'Brien
+- Ellen DeGeneres
+- James Corden
+- Jimmy Fallon
+- Jimmy Kimmel
+- John Oliver
+- Kelly Ripa
+- Seth Meyers
+- Stephen Colbert
+- The View
+- Trevor Noah
