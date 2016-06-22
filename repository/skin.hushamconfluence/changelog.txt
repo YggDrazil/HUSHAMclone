@@ -1,0 +1,3 @@
+[B]1.0.00[/B]
+
+- First try with KODI 17 Skin settings with 25 icons
