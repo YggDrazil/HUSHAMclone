@@ -1,3 +1,6 @@
+V1.0.5 
+Bug Fixes
+
 V1.0.4
 Changed Hosts
 
