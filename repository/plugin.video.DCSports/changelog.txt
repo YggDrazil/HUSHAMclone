@@ -1,3 +1,6 @@
+V1.0.4
+Changed Hosts
+
 V1.0.3
 Added More Channels
 Added Requests Section
