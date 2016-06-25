@@ -29,7 +29,11 @@ YOUTUBE_CHANNEL_ID_7 = "LIVEKellyandMichael"
 YOUTUBE_CHANNEL_ID_8 = "LateNightSeth"
 YOUTUBE_CHANNEL_ID_9 = "UCMtFAi84ehTSYSE9XoHefig"
 YOUTUBE_CHANNEL_ID_10 = "UCwWhs_6x42TyRM4Wstoq8HA"
-YOUTUBE_CHANNEL_ID_11 = "ABCTheView"
+YOUTUBE_CHANNEL_ID_11 = "thedoctorstv"
+YOUTUBE_CHANNEL_ID_12 = "UCSV8iMrDMdzc79kPCS9qucg"
+YOUTUBE_CHANNEL_ID_13 = "ABCTheView"
+YOUTUBE_CHANNEL_ID_14 = "DrPhilShow"
+YOUTUBE_CHANNEL_ID_15 = "DoctorOz"
 
 # Entry point
 def run():
@@ -118,13 +122,42 @@ def main_list(params):
         title="Trevor Noah - The Daily Show with Trevor Noah",
         url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_10+"/",
         thumbnail="https://yt3.ggpht.com/-lYZk4150pXc/AAAAAAAAAAI/AAAAAAAAAAA/CR6MoHGaJiY/s900-c-k-no-rj-c0xffffff/photo.jpg",
-        folder=True )                
+        folder=True )   
 
     plugintools.add_item( 
         #action="", 
-        title="Those chicks from... - The View",
+        title="The Doctors",
         url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_11+"/",
+        thumbnail="https://yt3.ggpht.com/-WfddzAW3Jh0/AAAAAAAAAAI/AAAAAAAAAAA/0jlanuIIL28/s900-c-k-no-rj-c0xffffff/photo.jpg",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="The Talk",
+        url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_12+"/",
+        thumbnail="https://yt3.ggpht.com/-vmhYyZDl_00/AAAAAAAAAAI/AAAAAAAAAAA/2I357wOEcME/s900-c-k-no-rj-c0xffffff/photo.jpg",
+        folder=True ) 		
+
+    plugintools.add_item( 
+        #action="", 
+        title="The View",
+        url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_13+"/",
         thumbnail="https://yt3.ggpht.com/-jn7rThGotIc/AAAAAAAAAAI/AAAAAAAAAAA/LnxMsxRV3Aw/s900-c-k-no-rj-c0xffffff/photo.jpg",
-        folder=True )  
+        folder=True ) 
+
+
+    plugintools.add_item( 
+        #action="", 
+        title="The Dr. Phil Show",
+        url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_14+"/",
+        thumbnail="https://yt3.ggpht.com/-w2L71mwv0ro/AAAAAAAAAAI/AAAAAAAAAAA/t1dyzaEsj_Q/s900-c-k-no-rj-c0xffffff/photo.jpg",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="The Dr. Oz Show",
+        url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_15+"/",
+        thumbnail="https://yt3.ggpht.com/-wUFAO6VDNR0/AAAAAAAAAAI/AAAAAAAAAAA/Eu-a0dQaVxU/s900-c-k-no-rj-c0xffffff/photo.jpg",
+        folder=True )		
               		
 run()

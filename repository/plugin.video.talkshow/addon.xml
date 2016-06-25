@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.talkshow" name="Talk Show" version="1.0" provider-name="The Knife">
+<addon id="plugin.video.talkshow" name="Talk Show" version="1.1" provider-name="The Knife">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
@@ -10,7 +10,7 @@
   </extension>
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Talk Show</summary>
-    <description lang="en">Your favorite viral talk show clips.</description>
+    <description lang="en">Your favorite talk show clips.</description>
     <platform>all</platform>
   </extension>
 </addon>
