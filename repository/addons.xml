@@ -561,6 +561,26 @@ http://www.kodinerds.net/index.php/Thread/14558-urlResolver-Patches-Verbesserung
   </extension>
 </addon>
 
+<addon id="plugin.video.iptvbuddy" name="IPTV Buddy" version="1.0.12" provider-name="xunitytalk.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">IPTV Buddy</summary>
+    <description lang="en">IPTV Buddy TV is an IP television over the internet without satellite dish or cable.[CR]For more information, visit [COLOR blue]http://iptvbuddy.com[/COLOR]</description>
+    <platform>all</platform>
+	<language></language>
+	<license></license>
+	<forum></forum>
+	<website></website>
+	<source></source>
+	<email></email>
+  </extension>
+</addon>
+
 <addon id="plugin.video.jesseventura"
 	name="Jesse Ventura on YouTube"
 	version="1.0.0"
