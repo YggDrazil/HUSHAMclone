@@ -123,37 +123,6 @@
   </extension>
 </addon>
 
-<addon id="plugin.video.bassleaks"
-       name="bassleaks"
-       version="1.0.06"
-       provider-name="Bass Controller">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="bassleaksworks.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en"> Enjoy Bass leaks</summary>
-    <description lang="en">You can reach BaseController on twitter @bassleaks</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon id="plugin.video.boyztoyzclub"
        name="Boyz Toyz Club"
        version="1.0.0"
@@ -834,37 +803,6 @@ http://www.husham.com</summary>
   <extension point="xbmc.addon.metadata">
     <summary>Showbox</summary>
     <description>Watch Movies and TVShows on Showbox</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.SoloManLists"
-       name="SoloManLists"
-       version="1.0.2"
-       provider-name="soloman">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en"> Enjoy Lists</summary>
-    <description lang="en"></description>
     <platform>all</platform>
   </extension>
 </addon>

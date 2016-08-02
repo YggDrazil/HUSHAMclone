@@ -1,2 +1,0 @@
-# soloman
-Solo Man Addon
