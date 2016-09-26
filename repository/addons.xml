@@ -123,6 +123,23 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.arabmovies" name="Arabmovies" version="1.0.0" provider-name="Husham.com & Justaguy">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+		<import addon="script.module.urlresolver"  version="2.10.10"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+			<summary lang="en"></summary>
+			<description lang="en">Watch from a huge selection of Movies Tv Shows and Collections... Credits to Lambda for some resolvers used in this addon</description>
+			<disclaimer lang="en">The author does not host or distribute any of the content displayed by this add-on</disclaimer>
+
+			<platform>all</platform>
+	</extension>
+</addon>
+
 <addon id="plugin.video.boyztoyzclub"
        name="Boyz Toyz Club"
        version="1.0.0"
@@ -249,6 +266,30 @@ http://www.kodinerds.net/index.php/Thread/14558-urlResolver-Patches-Verbesserung
 		<source>https://github.com/zag2me/script.hello.world</source>
 		<email>zag@kodi.org</email>
 	</extension>
+</addon>
+
+<addon id="plugin.video.freedomiptv" name="[B][COLOR white]FREEDOM[COLOR dodgerblue] IPTV[/COLOR][/B]" version="1.0" provider-name="MadDog">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" optional="true" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+	<import addon="script.module.livestreamer" optional="true"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>FREEDOM IPTV BY MADDOG</summary>
+    <description lang="en">Free IPTV 4 all</description>
+    <platform>all</platform>
+  </extension>
 </addon>
 
 <addon id="plugin.video.freshstart" name="Fresh Start"
