@@ -268,47 +268,6 @@ http://www.kodinerds.net/index.php/Thread/14558-urlResolver-Patches-Verbesserung
 	</extension>
 </addon>
 
-<addon id="plugin.video.freedomiptv" name="[B][COLOR white]FREEDOM[COLOR dodgerblue] IPTV[/COLOR][/B]" version="1.0" provider-name="MadDog">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" optional="true" />
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />
-	<import addon="script.module.livestreamer" optional="true"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>FREEDOM IPTV BY MADDOG</summary>
-    <description lang="en">Free IPTV 4 all</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.freshstart" name="Fresh Start"
-	version="1.0.5" provider-name="tvaddons.ag">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Factory Restore Functionality for Kodi</summary>
-    <description lang="en">Easily Factory Restore your Kodi Configuration in One Simple Click! This tool will bring your Kodi back to its original installation state, deleting all customizations and add-ons you may have previously enabled, giving you a fresh start!</description>
-    <platform>all</platform>
-    <forum>http://forums.tvaddons.ag/forums/141-FRESH-START</forum>
-    <website>http://www.tvaddons.ag/</website>
-  </extension>
-</addon>
-
 <addon
   id="plugin.video.haydargames"
   version="1.0.4"
