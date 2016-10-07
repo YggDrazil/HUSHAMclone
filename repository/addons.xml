@@ -951,7 +951,7 @@ For more great addons visit http://thekniferepo.wixsite.com/kodi
   </extension>
 </addon>
 
-<addon id="plugin.video.titan" name="[COLOR blue]T[/COLOR]itan" version="2.1.1" provider-name="Titan">
+<addon id="plugin.video.titan" name="[COLOR blue]T[/COLOR]itan" version="2.1.2" provider-name="Titan">
 	<requires>
 		<import addon="script.module.simplejson" version="3.3.0"/>
 		<import addon="xbmc.python" version="2.1.0"/>
