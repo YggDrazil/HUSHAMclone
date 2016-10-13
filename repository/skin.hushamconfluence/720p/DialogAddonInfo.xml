@@ -112,7 +112,7 @@
 					<top>60</top>
 					<width>440</width>
 					<height>25</height>
-					<label fallback="416">$INFO[ListItem.Property(Addon.Version)]</label>
+					<label fallback="416">$INFO[ListItem.AddonVersion]</label>
 					<align>left</align>
 					<aligny>center</aligny>
 					<font>font13</font>
@@ -326,14 +326,6 @@
 					<width>220</width>
 					<height>43</height>
 					<label>24021</label>
-					<align>center</align>
-					<font>font12_title</font>
-				</control>
-				<control type="button" id="10">
-					<description>Changelog button</description>
-					<width>220</width>
-					<height>43</height>
-					<label>24036</label>
 					<align>center</align>
 					<font>font12_title</font>
 				</control>
