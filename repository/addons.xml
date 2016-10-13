@@ -53,33 +53,6 @@
 		</extension>
 	</addon>
 
-<addon id="plugin.video.adryanlist"
-       name="AdryanList"
-       version="1.8.5"
-       provider-name="Doc Shadrach">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" />
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>based on livestreamspro 1.8.5 by Shani</summary>
-    <description>Lista de canales de Adryan.</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
 <addon
   id="plugin.video.alarab"
   version="4.3.3"
@@ -138,25 +111,6 @@
 
 			<platform>all</platform>
 	</extension>
-</addon>
-
-<addon id="plugin.video.boyztoyzclub"
-       name="Boyz Toyz Club"
-       version="1.0.0"
-       provider-name="Boyz Toyz Club">
-    <requires>
-        <import addon="xbmc.python" version="2.1.0"/>
-    </requires>
-    <extension point="xbmc.python.pluginsource"
-               library="default.py">
-        <provides>video</provides>
-    </extension>
-    <extension point="xbmc.addon.metadata">
-    <summary lang="en">Premium sports streaming service</summary>
-    <description lang="en">This is a premium streaming service. You will need an account from http://www.boyztoyz.club/</description>
-    <disclaimer lang="en">For support please go to http://www.boyztoyz.club/</disclaimer>
-    <platform>all</platform>
-  </extension>
 </addon>
 
 <addon id="plugin.video.chuckbaker"
@@ -392,57 +346,6 @@ http://www.kodinerds.net/index.php/Thread/14558-urlResolver-Patches-Verbesserung
     <description lang="en">Easy Install With KODI / XBMC Wizard </description>
 	<description lang="en">HUSHAM.COM repo One of the oldest standing repo</description>
     <description lang="en">Helping to stand together</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.hushamiptv" name="Husham IPTV Live TV" version="1.0.12" provider-name="xunitytalk.com">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">Husham IPTV TV</summary>
-    <description lang="en">Husham IPTV TV is an IP television over the internet without satellite dish or cable.[CR]For more information, visit [COLOR blue]http://iptv.husham.com[/COLOR]</description>
-    <platform>all</platform>
-	<language></language>
-	<license></license>
-	<forum></forum>
-	<website></website>
-	<source></source>
-	<email></email>
-  </extension>
-</addon>
-
-<addon id="plugin.video.HushamLists"
-       name="hushamlists"
-       version="1.0.03"
-       provider-name="husham.com">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="hushamworks.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en"> Enjoy husham.com Lists</summary>
-    <description lang="en">Please check out husham.com for latest updates</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -688,33 +591,6 @@ http://www.kodinerds.net/index.php/Thread/14558-urlResolver-Patches-Verbesserung
   </extension>
 </addon>
 
-<addon id="plugin.video.p2psport"
-	name="P2P Sport"
-	version="0.0.5"
-	provider-name="natko1412">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="program.plexus" />
-    <import addon="script.module.addon.common" version="2.0.0" />
-    <import addon="script.module.requests" />
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.mechanize" version="0.2.6"/>
-
-
-
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Watch p2p sports in Kodi</summary>
-
-    <platform>all</platform>
-    <forum>forums.tvaddons.ag</forum>
-
-  </extension>
-</addon>
-
 <addon id="plugin.video.playlistLoader" name="Playlist Loader" version="1.0.6" provider-name="Avigdor">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -727,38 +603,6 @@ http://www.kodinerds.net/index.php/Thread/14558-urlResolver-Patches-Verbesserung
 http://www.hometheater.co.il</summary>
     <description lang="en">Playlist Loader - downloaded for free from:
 http://www.hometheater.co.il</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.RobinHood-PPL-List"
-       name="RobinHood-People List"
-       version="2.0.1"
-       provider-name="Husham.com">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" />
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">RobinHood People Lists - downloaded for free from:
-http://www.husham.com</summary>
-    <description lang="en">RobinHood-People List - The shadow crew finest addon
-	The ShadowCrew Has been working round the clock to make this addon working great for all.
-	http://www.husham.com
-	P.S. Special Thanks to Shani for his Excellent work for LiveStream Pro add-on
-</description>
     <platform>all</platform>
   </extension>
 </addon>
@@ -782,80 +626,6 @@ http://www.husham.com</summary>
 
     <platform>all</platform>
   </extension>
-</addon>
-
-<addon
-  id="plugin.video.Showbox"
-  version="1.1"
-  name="Showbox"
-  provider-name="Showbox">
-  <requires>
-        <import addon="xbmc.python" version="2.1.0" optional="true" />
-		<import addon="script.module.simplejson" />
-		<import addon="script.module.beautifulsoup" version="3.0.8"/>
-        <import addon="script.module.urlresolver" version="1.0.0"/>
-		<import addon="script.module.t0mm0.common" version="1.1.0"/>
-  </requires>
-  <extension point="xbmc.python.pluginsource"
-            library="default.py">
-        <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary>Showbox</summary>
-    <description>Watch Movies and TVShows on Showbox</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.SportsLiveTv"
-       name="Sports Live Tv"
-       version="1.0.1"
-       provider-name="KodiTVGuy">
-  <requires>
-    <import addon="xbmc.python" version="2.1.0"/>
-	<import addon="script.module.t0mm0.common" version="2.0.0"/>
-    <import addon="script.module.beautifulsoup" version="3.2.1"/>
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.beautifulsoup4" />
-    <import addon="script.module.simple.downloader" version="0.9.4"/>
-    <import addon="script.module.requests" />
-    <import addon="script.module.httplib2" />
-    <import addon="script.module.youtube.dl" optional="true"/>
-    <import addon="plugin.video.youtube" version="3.0.0"/>
-    <import addon="script.module.urlresolver" optional="true"/>
-    <import addon="script.module.simplejson" />
-    <import addon="script.common.plugin.cache" version="2.5.2"/>
-    <import addon="script.module.metahandler" version="2.5.1"/>
-
-  </requires>
-  <extension point="xbmc.python.pluginsource" library="default.py">
-    <provides>video</provides>
-  </extension>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en"> Enjoy </summary>
-    <description lang="en">Thanks to Husham for helping me with this addon</description>
-    <platform>all</platform>
-  </extension>
-</addon>
-
-<addon id="plugin.video.stalker-rip" name="IPTV Stalker-rip" version="1.0.0" provider-name="xxxx">
-    <requires>
-		<import addon="xbmc.python" version="2.14.0"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="addon.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.service" library="server.py" start="startup" />
-	<extension point="xbmc.addon.metadata">
-		<platform>all</platform>
-		<summary lang="en">IPTV Stalker-rip</summary>
-		<description lang="en">IPTV Stalker-rip</description>
-		<license>GNU General Public License, v2</license>
-		<language></language>
-		<forum>http://iptvtalk.org/showthread.php?2514-Kodi-Stalker-video-add-on-all-platforms</forum>
-		<source>https://github.com/esxbr/plugin.video.stalker</source>
-		<email>patrick.cabral@gmail.com</email>
-	</extension>
 </addon>
 
 <addon id="plugin.video.TalentLottery" name="Talent Lottery" version="1.0.0" provider-name="The Knife (Always sharp content)">
@@ -949,51 +719,6 @@ For more great addons visit http://thekniferepo.wixsite.com/kodi
 </description>
     <platform>all</platform>
   </extension>
-</addon>
-
-<addon id="plugin.video.titan" name="[COLOR blue]T[/COLOR]itan" version="2.1.2" provider-name="Titan">
-	<requires>
-		<import addon="script.module.simplejson" version="3.3.0"/>
-		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="script.module.t0mm0.common" version="2.0.0"/>
-		<import addon="plugin.video.youtube" version="3.0.0"/>
-		<import addon="script.module.urlresolver"  version="2.10.10"/>
-		<import addon="script.common.plugin.cache" version="2.5.2"/>
-		<import addon="script.module.metahandler" version="2.5.1"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-			<summary lang="en"></summary>
-			<description lang="en">Watch from a huge selection of Movies Tv Shows and Collections... Credits to Lambda for some resolvers used in this addon</description>
-			<disclaimer lang="en">The author does not host or distribute any of the content displayed by this add-on</disclaimer>
-
-			<platform>all</platform>
-	</extension>
-</addon>
-
-<addon id="plugin.video.titanXXX" name="[COLOR blue]T[/COLOR]ITAN [COLOR red]XXX[/COLOR] " version="1.0.0" provider-name="marifi">
-	<requires>
-		<import addon="script.module.simplejson" version="3.3.0"/>
-		<import addon="xbmc.python" version="2.1.0"/>
-		<import addon="script.module.t0mm0.common" version="2.0.0"/>
-		<import addon="plugin.video.youtube" version="3.0.0"/>
-		<import addon="script.module.urlresolver"  version="2.10.10"/>
-		<import addon="script.common.plugin.cache" version="2.5.2"/>
-		<import addon="script.module.metahandler" version="2.5.1"/>
-	</requires>
-	<extension point="xbmc.python.pluginsource" library="default.py">
-		<provides>video</provides>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-			<summary lang="en"></summary>
-			<description lang="en">Watch from a huge selection of [COLOR red]XXX[/COLOR] Collections Credits to Lambda for some resolvers used in this addon
-			credits also goes to schisM for the code used in this addon</description>
-			<disclaimer lang="en">The author does not host or distribute any of the content displayed by this add-on</disclaimer>
-
-			<platform>all</platform>
-	</extension>
 </addon>
 
 <addon id="plugin.video.yt-comedy"
