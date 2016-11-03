@@ -628,7 +628,7 @@ http://www.hometheater.co.il</description>
   </extension>
 </addon>
 
-<addon id="plugin.video.TalentLottery" name="Talent Lottery" version="1.0.0" provider-name="The Knife (Always sharp content)">
+<addon id="plugin.video.TalentLottery" name="Talent Lottery" version="1.0.1" provider-name="The Knife (Always sharp content)">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.addon.common" version="2.0.0"/>
@@ -642,7 +642,7 @@ http://www.hometheater.co.il</description>
     <description lang="en">
 Welcome to The Talent Lottery add-on! The only one of its kind where any aspiring [COLOR = yellow](fill in the blank)[/COLOR] can advertise their talent here for free, and possibly win their very own add-on! More importantly, this add-on will give the artist the opportunity to win the greatest prize of all, being discovered by professionals in the field they are pursuing! Talent Agents take notice!
 
-Aspiring artists must have their "talent" displayed on Youtube so that they can be seen via this add-on. The initial launch of Talent Lottery has the following randomly chosen artists... an aspiring singer/songwriter, a filmmaker and a makeup artist. All future artists will be chosen by you the viewer!
+The initial launch of Talent Lottery v1.0.0 and v1.0.1 has the following randomly chosen artists... an aspiring singer/songwriter, a filmmaker, makeup artist, voice actor, animator and dancers. All future artists will be chosen by you the viewer!
 
 Nominate your friend, relative, co-worker or even a stranger that you think deserves to be seen by a NEW audience!
 
@@ -651,14 +651,12 @@ Send your nomination to:
 * subject “NOMINATE” in CAPS,
 * copy/paste the Youtube channel, playlist or Youtube user ID.
 
-[COLOR = orange]You only need to send the nominations once, they will be kept on file for future consideration. Information on each month’s contestants can be found in the changelog. A vote will take place annually to determine the winner of their own add-on. Only candidates who post content at least once per week will be eligible to win their own add-on created by “The Knife”. Good luck![/COLOR]
-
-[COLOR = red]NOTE: If the response is great then updates will occur on the 1st of each month. If not, updates will be released quarterly on the following dates...
+[COLOR = red]YouTubers please advertise this add-on. It can only be a success with your help. If the response is great then updates will occur on the 1st of each month.  If not, updates will be released quarterly on the following dates...[/COLOR]
 
 - January 1st
 - April 1st
 - July 1st
-- Oct 1st[/COLOR]
+- Oct 1st
 
 [COLOR = red]At this time a Knife Repository ZIP file does not exist. You will need to visit[COLOR = blue] http://thekniferepo.wixsite.com/kodi [/COLOR]to manually install the updated Talent Lottery add-on. Please confirm that the version number has been updated on the website before installation.[/COLOR]
 

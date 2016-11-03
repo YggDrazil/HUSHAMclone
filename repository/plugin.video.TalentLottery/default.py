@@ -22,6 +22,9 @@ icon = local.getAddonInfo('icon')
 YOUTUBE_CHANNEL_ID_1 = "PLorGSwlLq2vvdCE8YyL8tpTsL-6FFpXsl"
 YOUTUBE_CHANNEL_ID_2 = "PLg-gx_BzTsSeJHXz28Z4KLiAY1rwFmyWm"
 YOUTUBE_CHANNEL_ID_3 = "Mynameisbambi16"
+YOUTUBE_CHANNEL_ID_4 = "UCdZcASOcp8Z-QpWW1idSMdA"
+YOUTUBE_CHANNEL_ID_5 = "UCdTlq7YnE21mINBZTEjKWiA"
+YOUTUBE_CHANNEL_ID_6 = "PLVr_wPDjxv5rI7vjriqL8rWGXJq51DRj8"
 
 # Entry point
 def run():
@@ -62,5 +65,26 @@ def main_list(params):
         url="plugin://plugin.video.youtube/user/"+YOUTUBE_CHANNEL_ID_3+"/",
         thumbnail="https://yt3.ggpht.com/-oSqKG32O5lk/AAAAAAAAAAI/AAAAAAAAAAA/zZHS9Dpid20/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
         folder=True )  
+
+    plugintools.add_item( 
+        #action="", 
+        title="Aspiring Voice Actor - Chris Mullins",
+        url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_4+"/",
+        thumbnail="https://yt3.ggpht.com/-UxGZ0xWhbSw/AAAAAAAAAAI/AAAAAAAAAAA/kdAQ30GHq98/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="Aspiring Animator - Haley",
+        url="plugin://plugin.video.youtube/channel/"+YOUTUBE_CHANNEL_ID_5+"/",
+        thumbnail="https://yt3.ggpht.com/-RFXFz9QPYWA/AAAAAAAAAAI/AAAAAAAAAAA/31pSVMbgMpQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
+        folder=True )
+
+    plugintools.add_item( 
+        #action="", 
+        title="Aspiring Dancers - Sophia and Alex",
+        url="plugin://plugin.video.youtube/playlist/"+YOUTUBE_CHANNEL_ID_6+"/",
+        thumbnail="https://yt3.ggpht.com/-qzud4EWNsxA/AAAAAAAAAAI/AAAAAAAAAAA/3rbiByWlqP8/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",
+        folder=True )
 
 run()
