@@ -1,0 +1,105 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]Updated 15/11/15 @ 12:40 [/COLOR]  
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR green] --RADIO LINKS --[/COLOR]  
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR green] --Free Collection of IPTV sports links--[/COLOR]  
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
+http://www.youtube.com/user/hmemar22
+#EXTINF:-1, [COLOR red] --Check out the new forum.husham.com website--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+
+#EXTINF:-1,Reggae
+http://streaming.radionomy.com/Bob-Marley
+
+#EXTINF:-1,Roots Reggae
+http://streaming.radionomy.com/One-Hundread-Locks
+
+#EXTINF:-1 group-title="Audio", Chill Out
+http://streaming.radionomy.com/Chill-Out-Radio-Gaia
+
+#EXTINF:-1 group-title="Audio", Chill Out 2
+http://mp3channels.webradio.antenne.de/chillout
+
+#EXTINF:-1 group-title="Audio", Rock Alternativo
+http://streaming.radionomy.com/1291AlternativeRock
+
+#EXTINF:-1 group-title="Audio", Rock y Pop Latino
+http://streaming.radionomy.com/PopYRockEnEspanol
+
+#EXTINF:-1 group-title="Audio", Salsa
+http://streaming.radionomy.com/Salsa-de-la-mata-SER
+
+#EXTINF:-1,Crossover
+http://streaming.radionomy.com/colombiacrossover
+
+#EXTINF:-1,Tropical
+http://streaming.radionomy.com/colombiatropical
+
+#EXTINF:-1,Merengue
+http://streaming.radionomy.com/Lamerengueracomn
+
+#EXTINF:-1,Merengue 2
+http://tp100.dynv6.net:8012/;?type=http&nocache=81
+
+#EXTINF:-1,MPB
+http://streaming.radionomy.com/RadioMPB
+
+#EXTINF:-1,Pop Rock
+http://streaming.radionomy.com/colombiapoprock
+
+#EXTINF:-1,Rock Indie
+http://streaming.radionomy.com/indiefresh
+
+#EXTINF:-1,Rock de los 70
+http://streaming.radionomy.com/Bestofthe70s-LudwigRadiocom
+
+#EXTINF:-1,Rock de los 80
+http://streaming304.radionomy.com/BeGoodRockMix
+
+#EXTINF:-1,Rock de los 90
+http://streaming.radionomy.com/a-better-hairband-rock-station
+
+
+
+#EXTINF:-1,Pop de los 70
+http://streaming.radionomy.com/70sPopUp
+
+#EXTINF:-1,Pop de los 80
+http://streaming.radionomy.com/always-80s
+
+#EXTINF:-1,Pop de los 90
+http://streaming.radionomy.com/A90SDREAM-Just90s24H
+
+#EXTINF:-1,Hits de los 90
+http://streaming.radionomy.com/A90-s
+
+
+
+#EXTINF:-1,Música de los 70
+http://streaming.radionomy.com/A-RADIO-70s-JUICE
+
+#EXTINF:-1,Música de los 80
+http://streaming.radionomy.com/a-better-80s-station
+
+#EXTINF:-1,Música de los 90
+http://streaming.radionomy.com/A-RADIO-90s-JUICE
+
+#EXTINF:-1,Rock acústico
+http://streaming.radionomy.com/ABetterRadiocom-ABetterAcousticUnpluggedRockStation
+
+#EXTINF:-1,Bossa Nova
+http://streaming.radionomy.com/BossaNova
+
+#EXTINF:-1 group-title="Audio", Romance
+http://streaming.radionomy.com/BaladasEstereoRomance
+
+#EXTINF:-1 group-title="Audio", Romance 2
+http://streaming.radionomy.com/Romance-On-line
+
+#EXTINF:-1 group-title="Audio", Romance 3
+http://streaming.radionomy.com/colombiaromantica

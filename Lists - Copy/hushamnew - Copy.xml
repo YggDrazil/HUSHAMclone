@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+
+
+<item>
+<title>[COLOR white]Stargate [/COLOR]</title>
+<link>$doregex[get-url]|User-Agent=extrawatch_agent</link>
+<regex>
+<name>get-url</name>
+<expres>source src="(.*?)"</expres>
+<page>http://www.stream4free.eu/stargate</page>
+</regex>
+
+<item>
+<title>Stargate</title>
+<sportsdevil>http://www.stream4free.eu/stargate</sportsdevil>
+<referer>http://www.ultracast.me/</referer>
+</item>
+
+
+ <item>
+ <title>Test</title>
+ <link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+ <regex>
+ <name>get-m3u8final</name>
+ <expres>72.*\s?(http.*?)\s</expres>
+ <page>$doregex[get-m3u8]</page>
+ <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+ <cookieJar></cookieJar>
+</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+ <regex>
+ <name>get-json</name>
+ <expres>config = ({.*})</expres>
+ <page>http://78.30.254.27:8989/udp/239.0.0.44:4000</page>
+ <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+ <cookieJar></cookieJar>
+ </regex>
+ </item>
+
+ 
+
+
+
+ <item>
+ <title>Karbala</title>
+ <link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+ <regex>
+ <name>get-m3u8final</name>
+ <expres>72.*\s?(http.*?)\s</expres>
+ <page>$doregex[get-m3u8]</page>
+ <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+ <cookieJar></cookieJar>
+</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+ <regex>
+ <name>get-json</name>
+ <expres>config = ({.*})</expres>
+ <page>http://livestream.com/accounts/11436227/events/3998452</page>
+ <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+ <cookieJar></cookieJar>
+ </regex>
+ </item>
+
+ <item>
+ <title>Karbala Video Archive 1</title>
+ <link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+ <regex>
+ <name>get-m3u8final</name>
+ <expres>72.*\s?(http.*?)\s</expres>
+ <page>$doregex[get-m3u8]</page>
+ <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+ <cookieJar></cookieJar>
+</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+ <regex>
+ <name>get-json</name>
+ <expres>config = ({.*})</expres>
+ <page>http://livestream.com/karbala-tv/events/3998452/videos/101809689</page>
+ <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+ <cookieJar></cookieJar>
+ </regex>
+ </item>
+ 
+
+
+ 
+ <item>
+ <title>test2</title>
+ <link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+ <regex>
+ <name>get-m3u8final</name>
+ <expres>72.*\s?(http.*?)\s</expres>
+ <page>$doregex[get-m3u8]</page>
+ <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+ <cookieJar></cookieJar>
+</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+ <regex>
+ <name>get-json</name>
+ <expres>config = ({.*})</expres>
+ <page>http://www.tvspice.com/videogallery/al-alam-2/</page>
+ <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+ <cookieJar></cookieJar>
+ </regex>
+ </item>
+
+<item>
+<title>Alforat TV</title>
+<sportsdevil>http://www.tvspice.com/videogallery/alforat-tv/</sportsdevil>
+<referer>http://www.ultracast.me/</referer>
+</item>
+
+
+<item>
+<title>Al-Manar tv – تلفزيون قناة المنار لبنان</title>
+<sportsdevil>http://www.tvspice.com/videogallery/al-manar-tv-2/</sportsdevil>
+<referer>http://www.ultracast.me/</referer>
+</item>
+
+
+ 
+<item>
+<title>Alkawthar TV – قناة الكوثر الفضائية</title>
+<sportsdevil>http://www.tvspice.com/videogallery/al-baghdadia/</sportsdevil>
+<referer>http://www.ultracast.me/</referer>
+</item>
+
+<item>
+<title>Al Baghdadia – قناة البغدادية الفضائية</title>
+<sportsdevil>http://www.tvspice.com/videogallery/alkawthar-tv-2/</sportsdevil>
+<referer>http://www.ultracast.me/</referer>
+</item> 
+ 
+
+ 
+<item>
+<title>Al alam TV – قناة العالم</title>
+<sportsdevil>http://www.tvspice.com/videogallery/al-alam-2</sportsdevil>
+<referer>http://www.tvspice.com/</referer>
+</item>
+ 
+
+
+
+
+
+ 
+ 
+<item>
+<title>[COLOR red]Ahalmuhajir الشيخ عبدالحميد المهاجر[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL_-DKA_MjvXyl6ybRydxzCiHh8idy6wmt&order=default</link>
+</item>
+
+<item>
+<title>[COLOR red]The Hussain Playlist[/COLOR]</title>
+<link>plugin://plugin.video.youtube/play/?playlist_id=PL_-DKA_MjvXyl6ybRydxzCiHh8idy6wmt&order=[default]</link>
+</item>
+
+<item>
+<title>[COLOR red]The Muharem[/COLOR]</title>
+<link>plugin://plugin.video.youtube/user/Ahalmuhajir/</link>
+</item>
+ 
+
+https://www.youtube.com/playlist?list=PL_-DKA_MjvXyl6ybRydxzCiHh8idy6wmt
+
+
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 
+
+ 
+<item>
+<title>AMC</title>
+<sportsdevil>http://nowwatchtvlive.me/channel-tab-frame/amc-tv1.php </sportsdevil>
+<referer>http://www.ultracast.me/</referer>
+</item>
+
+<item>
+<title>Bein 1</title>
+<sportsdevil>http://www.nowwatchtvlive.me/channel-tab-frame/aljazeerasports-1.php</sportsdevil>
+<referer>http://www.ultracast.me/</referer>
+</item>
+
+
+
+<item>
+<title>Bein 1</title>
+<sportsdevil>http://showsport-tv.com/ch.php?ch=bein1&server=1</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+<item><title>TEST - TSN 1 - SportsDevil</title>
+<sportsdevil>http://showsport-tv.com/watch/bein-sport-1-live-stream</sportsdevil>
+<referer>http://www.ultracast.me/</referer>
+</item>
+ 
+
+
+ <item>
+ <title></title>
+ <link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+ <regex>
+ <name>get-m3u8final</name>
+ <expres>72.*\s?(http.*?)\s</expres>
+ <page>$doregex[get-m3u8]</page>
+ <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+ <cookieJar></cookieJar>
+</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+ <regex>
+ <name>get-json</name>
+ <expres>config = ({.*})</expres>
+ <page></page>
+ <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+ <cookieJar></cookieJar>
+ </regex>
+ </item>
+ 
+  <item>
+ <title>Karbala</title>
+ <link>$doregex[get-m3u8final]|Cookie=$get_cookies$&amp;User-Agent=AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)&amp;X-Playback-Session-Id=$GUID$</link>
+ <regex>
+ <name>get-m3u8final</name>
+ <expres>72.*\s?(http.*?)\s</expres>
+ <page>$doregex[get-m3u8]</page>
+ <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+ <cookieJar></cookieJar>
+</regex>
+    <regex>
+    <name>get-m3u8</name>
+    <expres>$pyFunction:json.loads(page_data)['event']['stream_info']['m3u8_url']</expres>
+    <page>$doregex[get-json]</page>
+    </regex>    
+ <regex>
+ <name>get-json</name>
+ <expres>config = ({.*})</expres>
+ <page></page>
+ <agent>AppleCoreMedia/1.0.0.11B554a (iPhone; U; CPU OS 7_0_4 like Mac OS X; en_gb)</agent>
+ <cookieJar></cookieJar>
+ </regex>
+ </item>
+ 
+ 
+ 
+ 
+<item>
+<title>Bein1</title>
+<sportsdevil>http://showsport-tv.com/watch/bein-sport-1-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+<item>
+<title>Bein2</title>
+<sportsdevil>http://showsport-tv.com/watch/bein-sport-2-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+<item>
+<title>Bein3</title>
+<sportsdevil>http://showsport-tv.com/watch/bein-sport-3-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+<item>
+<title>Bein4</title>
+<sportsdevil>http://showsport-tv.com/watch/bein-sport-4-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+<item>
+<title>Bein5</title>
+<sportsdevil>http://showsport-tv.com/watch/bein-sport-5-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+<item>
+<title>Bein6</title>
+<sportsdevil>http://showsport-tv.com/watch/bein-sport-6-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+<item>
+<title>Bein7</title>
+<sportsdevil>http://showsport-tv.com/watch/bein-sport-7-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+<item>
+<title>Bein8</title>
+<sportsdevil>http://showsport-tv.com/watch/bein-sport-8-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+<item>
+<title>Bein9</title>
+<sportsdevil>http://showsport-tv.com/watch/bein-sport-9-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+<item>
+<title>Bein10</title>
+<sportsdevil>http://showsport-tv.com/watch/bein-sport-10-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+<item>
+<title>Bein11</title>
+<sportsdevil>http://showsport-tv.com/watch/bein-sport-11-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+<item>
+<title>Bein12</title>
+<sportsdevil>http://showsport-tv.com/watch/bein-sport-12-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+<item>
+<title>Bein FR 1</title>
+<sportsdevil>http://showsport-tv.com/watch/bein-sports-1-france-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+<item>
+<title>Bein FR 2</title>
+<sportsdevil>http://showsport-tv.com/watch/bein-sports-2-france-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+
+<item>
+<title>Bein Sports Live</title>
+<sportsdevil>http://crichd.tv/watch/95280/bein-sports-usa-live-streaming/</sportsdevil>
+<referer>http://crichd.tv/</referer>
+</item>
+
+
+
+
+
+<item>
+<title>Sky Sport 1</title>
+<sportsdevil>http://showsport-tv.com/watch/sky-sports-1-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+<item>
+<title>Sky Sport 3</title>
+<sportsdevil>http://showsport-tv.com/watch/sky-sports-3-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+
+<item>
+<title>Sky Sport 4</title>
+<sportsdevil>http://showsport-tv.com/watch/sky-sports-4-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+<item>
+<title>Sky Sport 5</title>
+<sportsdevil>http://showsport-tv.com/watch/sky-sports-5-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+<item>
+<title>Sky Sport 1</title>
+<sportsdevil>http://www.crichd.tv/sky-sports-1-live-stream-skysuk.php</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+<item>
+<title>Sky Sport 2</title>
+<sportsdevil>http://www.crichd.tv/sky-sports-2-live-stream-cric-free-hd.php</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+<item>
+<title>Sky Sport 3</title>
+<sportsdevil>http://www.crichd.tv/sky-sports-3-live-streaming-uk.php</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+<item>
+<title>Sky Sport 4</title>
+<sportsdevil>http://www.crichd.tv/sky-sports-4-live-stream-cric-free.php</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+<item>
+<title>Sky Sport 5</title>
+<sportsdevil>http://www.crichd.tv/sky-sports-5-live-stream-cric.php</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+<item>
+<title>Sky Sport F1</title>
+<sportsdevil>http://crichd.tv/sky-sports-f1-live-stream.php</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>BT Sport 1</title>
+<sportsdevil>http://showsport-tv.com/watch/bt-sport-1-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+<item>
+<title>BT Sport 1</title>
+<sportsdevil>http://showsport-tv.com/watch/bt-sport-2-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+<item>
+<title>BT Sport Eurioe</title>
+<sportsdevil>http://showsport-tv.com/watch/bt-sport-europe-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+<item>
+<title>BT Sport Eurioe</title>
+<sportsdevil>http://showsport-tv.com/watch/bt-sport-espn-live-stream</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+<item>
+<title>BT Sport 1</title>
+<sportsdevil>http://crichd.tv/bt-sport-1-live-stream.php</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+<item>
+<title>BT Sport 2</title>
+<sportsdevil>http://crichd.tv/bt-sport-2-live-stream.php</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+<item>
+<title>BT Sport Europe HD</title>
+<sportsdevil>http://crichd.tv/bt-sport-europe-live-stream.php</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+<item>
+<title>BT Sport ESPN UK</title>
+<sportsdevil>http://crichd.tv/espn-uk-live-stream.php</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+
+
+
+<item>
+<title>ESPN USA</title>
+<sportsdevil>http://crichd.tv/espn-usa-live-stream.php</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+<item>
+<title>Euro Sport</title>
+<sportsdevil>http://crichd.tv/eurosport-1-hd-live-stream.php</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+
+<item>
+<title>Euro Sport 2</title>
+<sportsdevil>http://crichd.tv/eurosport-2-hd-live-stream.php</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+
+<item>
+<title>NBCSN</title>
+<sportsdevil>http://crichd.tv/update/nbc.php</sportsdevil>
+<referer>http://crichd.tv/</referer>
+</item>
+
+
+
+<item>
+<title>Premier Sports</title>
+<sportsdevil>http://crichd.tv/premier-sports-live-stream.php</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+
+<item>
+<title>TEN Sport</title>
+<sportsdevil>http://crichd.tv/ten-sports-live-streaming.php</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+
+<item>
+<title>WWE</title>
+<sportsdevil>http://crichd.tv/wwe-network.php</sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+
+<item>
+<title></title>
+<sportsdevil></sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+
+<item>
+<title></title>
+<sportsdevil></sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+
+<item>
+<title></title>
+<sportsdevil></sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+
+<item>
+<title></title>
+<sportsdevil></sportsdevil>
+<referer>http://showsport-tv.com/</referer>
+</item>
+
+
+plugin://plugin.video.youtube/user/
+
+
+
+
+
+
+
+
+ 
+<item>
+<title></title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</item>
+ 

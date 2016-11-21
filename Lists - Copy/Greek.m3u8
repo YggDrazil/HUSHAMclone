@@ -1,0 +1,47 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]Updated 05/05/15 @ 04:52 [/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR green] --Pinoy Live Tv--[/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+
+
+#EXTINF:-1,Delta Tv
+mms://ams01.egihosting.com/989630
+#EXTINF:-1,EXTRA 3
+rtmp://213.16.167.186:1935/live/mpegts_256.stream
+#EXTINF:-1,Greek Music Hits
+mmsh://wpso.com:200/music
+#EXTINF:-1,KONTRA
+rtmp://flashcloud.mediacdn.com:1935/live/kontratv
+#EXTINF:-1,MAD CYPRUS
+rtmp://144.76.2.213/live/livestream
+#EXTINF:-1,MAD TV
+rtmp://144.76.2.213:1935/live/livestream
+#EXTINF:-1,MEGA
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+#EXTINF:-1,OMEGA RODOS – OMEGA RODOS
+rtmp://stream2.omegatv.net/livepkgr/omegatv
+#EXTINF:-1,TILESPORT
+http://tv1.streampulse.eu:1935/tilesport/movie1/live.m3u8
+#EXTINF:-1,ZOUGLA
+http://zouglahd-f.akamaihd.net/i/zougla_1@56341/index_700_av-b.m3u8
+
+#EXTINF:-1,ACE Streams
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+
+#EXTINF:-1,OTE Sport 1 HD
+plugin://plugin.video.p2p-streams/?url=acestream://812fa470d52ef595109f18aaf6015d200d80f580&mode=1&name=acestream+OTE Sport 1 HD
+#EXTINF:-1,OTE Sport 2 HD
+plugin://plugin.video.p2p-streams/?url=acestream://763aed8d43dfe812945ac4602b01d1233bc41693&mode=1&name=acestream+OTE Sport 2 HD
+#EXTINF:-1,OTE Sport 3 HD
+plugin://plugin.video.p2p-streams/?url=acestream://8bac2387b27f5ae9f59bec06811711915ccb485e&mode=1&name=acestream+OTE Sport 3 HD
+#EXTINF:-1,OTE Sport 4 HD
+plugin://plugin.video.p2p-streams/?url=acestream://b9fd19e34df6e0113b6ca4a04e8a2ea393a61a54&mode=1&name=acestream+OTE Sport 4 HD
+#EXTINF:-1,OTE Sport 5 HD
+plugin://plugin.video.p2p-streams/?url=acestream://1b9cd90c209d9c06eb3dc061874253f84fabb44a&mode=1&name=acestream+OTE Sport 5 HDOTE Sport 5 HD
+

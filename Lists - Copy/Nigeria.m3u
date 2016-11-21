@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1, [COLOR yellow]Updated 17/03/2015 @ 05:08 [/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR green] --Nigera Live Tv--[/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR green] --Free Collection of IPTV sports links--[/COLOR]  
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR red] --Links will go down. Please note that it will take time to update--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+#EXTINF:-1, [COLOR red] --Please contact me at the husham.com website--[/COLOR]
+plugin://plugin.video.youtube/?action=play_video&videoid=eMduu81gNgM
+
+#EXTINF:-1, Channels TV Nigera
+rtmp://channelstv.ids-africa.com:1935/live<playpath>mobile1 <swfUrl>http://m.channelstv.com/player.swf <pageUrl>http://www.nigeriatv.net/2013/05/channels-tv-nigeria.html?m=1 <objectEncoding>
+#EXTINF:-1, TVC News
+rtmp://77.92.76.135:1935/tvcnews//<playpath>livestream <swfUrl>http://www.primcast.com/jwplayer6/jwplayer.flash.swf <pageUrl>http://www.nigeriatv.net/2013/05/tvc-news-nigeria.html?m=1 <objectEncoding>
+#EXTINF:-1, NTA TV Nigeria Live
+rtmp://www.awooze.com/edge3/NTA24<playpath>NTA24 <swfUrl>http://tv.filmover.com/jwp5/player.swf <pageUrl>http://www.nigeriatv.net/2013/05/nta-tv-nigeria-live.html?m=1 <objectEncoding>
+
+#EXTINF:-1, Chosen Revival Television
+rtmp://155.obj.netromedia.net/chosenavn/<playpath>mpegts.stream <swfUrl>http://p.jwpcdn.com/6/12/jwplayer.flash.swf <pageUrl>http://streema.com/tv/Chosen_TV <objectEncoding>
+
