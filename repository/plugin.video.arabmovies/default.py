@@ -59,9 +59,12 @@ def TV1ARALAB_ITEMS(url):
 	try:
 		items = re.compile('<div class="pages"(.+?)/div>',re.DOTALL).findall(link)
 		for pages in items:
-			matchpages = re.compile('<a class=".+?" href="(.+?)" title="(.+?)"').findall(pages)
-			for url,page in matchpages:
-				addDir2(page,url,21,icon,fanart)
+			matchpages = re.compile('<a class="(.+?)" href="(.+?)" title="(.+?)"').findall(pages)
+			for check,url,page in matchpages:
+				if not "blue" in check:
+					if not aralab in url:
+						url = aralab + url
+						addDir2(page,url,21,icon,fanart)
 	except: pass
 def TV1ARALAB_PLAY(name,url,iconimage):
 	moviename = name
