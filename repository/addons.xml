@@ -549,7 +549,7 @@ http://www.kodinerds.net/index.php/Thread/14558-urlResolver-Patches-Verbesserung
   </extension>
 </addon>
 
-<addon id="plugin.video.hushamnews12" name="News 12" version="1.0.4" provider-name="Husham.com">
+<addon id="plugin.video.hushamnews12" name="News 12" version="1.0.5" provider-name="Husham.com">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.xbmcswift2" version="2.4.0"/>
