@@ -1,0 +1,10 @@
+1.0.4 (23.08.2016)
+	Added News 12 Weather Channels
+	Added ABC, Blommberg & Nasa
+1.0.3 Minor fix
+1.0.2 (30.09.2015)
+	Added News 12 Brooklyn as forgot it first
+1.0.2 (30.09.2015)
+	Fixed New Jersey Link
+1.0.1 (28.09.2015)
+  initial release

@@ -350,6 +350,27 @@ http://www.kodinerds.net/index.php/Thread/14558-urlResolver-Patches-Verbesserung
   </extension>
 </addon>
 
+<addon id="plugin.video.hushamnews12kodi16" name="News 12 KODI 16" version="1.0.4" provider-name="Husham.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.xbmcswift2" version="2.4.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="addon.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <language />
+    <platform>all</platform>
+    <website>http://www.husham.com/</website>
+    <source>http://forum.husham.com</source>
+    <forum>https://github.com/hmemar/husham.com</forum>
+    <email>website@husham.com</email>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+
+
+  </extension>
+</addon>
+
 <addon
   id="plugin.video.hushamyoutube"
   version="1.0.1"
