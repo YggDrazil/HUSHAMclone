@@ -96,6 +96,26 @@
   </extension>
 </addon>
 
+<addon id="plugin.video.arabictv" name="ARABIC Tv" version="1.0.0" provider-name="husham.hifi2007">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="0.0.1"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Arabic tv from youtube</summary>
+    <description lang="en">credits to Dandymedia for some code used</description>
+    <description lang="en">Subscribe to HiFI 2007 reviews Youtube Chanel </description>
+    <description lang="en">Subscribe to Husham Memar Youtube Chanel </description>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>n/a</website>
+  </extension>
+</addon>
+
 <addon id="plugin.video.arabmovies" name="Arabmovies" version="1.0.2" provider-name="justaguy">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
