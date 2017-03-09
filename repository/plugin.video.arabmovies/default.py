@@ -1,11 +1,12 @@
 import urllib,urllib2,re,xbmcplugin,xbmcgui,urlresolver,sys,xbmc,xbmcaddon,os,urlparse,random
 import threading
+import requests
 addon_id = 'plugin.video.arabmovies'
 fanart = xbmc.translatePath(os.path.join('special://home/addons/' + addon_id , 'fanart.jpg'))
 icon = xbmc.translatePath(os.path.join('special://home/addons/' + addon_id, 'icon.png'))
 HOME         =  xbmc.translatePath('special://home/')
 aralab = "http://tv1.alarab.com"
-extensioncheck = ['.avi','.mp4','.mpg','.mpeg','.mov','.mkv','.xvid','.divx']
+extensioncheck = ['.avi','.mp4','.mpg','.mpeg','.mov','.mkv','.xvid','.divx','.flv']
 dialog = xbmcgui.Dialog()
 def CATEGORIES():
 	addDir2('ARALAB',aralab,2,icon,fanart)
@@ -54,7 +55,7 @@ def TV1ARALAB_ITEMS(url):
 					if "series" in links:
 						addDir2(name,links,21,img,fanart)
 					else:
-						addDir2(name,links,22,img,fanart)
+						addLink(name,links,22,img,fanart)
 	except:addDir2('Videos not Found...',links,1,icon,fanart)
 	try:
 		items = re.compile('<div class="pages"(.+?)/div>',re.DOTALL).findall(link)
@@ -70,18 +71,21 @@ def TV1ARALAB_PLAY(name,url,iconimage):
 	moviename = name
 	movieposter = iconimage
 	link = open_url(url)
-	items = re.compile('<iframe style="background(.+?)llowFullScreen></iframe>',re.DOTALL).findall(link)
+	items = re.compile('<iframe src="(.+?)"\s*itemprop="video"',re.DOTALL).findall(link)
 	try:
-		for url in items:
-			match = re.compile('src="([^"]+)').findall(url)
-			for movielink in match:
-				movielink = re.sub(' ','%20',movielink)
-				link = open_url(movielink)
-				matchfinal = re.compile('file: "(.+?)",').findall(link)
-				for url in matchfinal: 
+		for s in items:
+			s = open_url(s)
+			s = re.compile('sources:\s*\[([^\]]+)\]').findall(s)
+			for u in s:
+				blocks = re.compile('\{([^\}]+)\}').findall(u)
+				for r in blocks:
+					url = re.findall('file:\s*\"([^\"]*)\"',r)[0]
+					url = url.encode('utf-8')
 					if any(value in url for value in extensioncheck):
-						addLink("PLAY: " + moviename,url,100,movieposter,fanart)
-	except: addDir2('Videos not Found...',links,1,icon,fanart)
+						PLAYMOVIE(moviename,url,movieposter)
+						# addLink("PLAY >>>",url,100,movieposter,fanart)
+	except: 
+		pass
 
 def SEARCH_TV1ARALAB():
 	search_entered =''
@@ -101,6 +105,7 @@ def PLAYMOVIE(name,url,iconimage):
 	item.setArt({'icon': movieimage, 'thumb': movieimage, 'poster': movieimage, 'tvshow.poster': movieimage, 'season.poster': movieimage})
 	item.setInfo(type='Video', infoLabels={ "Title": name})
 	xbmc.Player().play(url, item)
+	addLink('Playback Ended...',links,1,icon,fanart)
 	
 def cleanHex(text):
     def fixup(m):
@@ -325,12 +330,9 @@ def parse_dom(html, name='', attrs=None, ret=False):
 
 ##### OPEN URL ######	
 def open_url(url):
-        # url=url.replace(' ','%20')
-        req = urllib2.Request(url)
-        req.add_header('User-Agent', 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-GB; rv:1.9.0.3) Gecko/2008092417 Firefox/3.0.3')
-        response = urllib2.urlopen(req)
-        link=response.read()
-        response.close()
+        headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36' }
+        link=requests.get(url)
+        link = link.content
         return link
 def setView(content, viewType):
     if content:
